@@ -1,4 +1,42 @@
 {
-  "postedUrls": [],
-  "lastRun": null
+  "postedUrls": [
+    "https://openai.com/index/openai-on-aws",
+    "https://openai.com/index/our-commitment-to-community-safety",
+    "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
+    "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/"
+  ],
+  "lastRun": "2026-05-02T09:54:09.208Z",
+  "lastPosted": [
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "date": "2026-04-28",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "date": "2026-04-28",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Catalyzing scientific impact through global partnerships and open resources",
+      "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
+      "date": "2026-05-01",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
+      "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
+      "date": "2026-04-29",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "date": "2026-04-27",
+      "source": "Google AI Blog"
+    }
+  ]
 }
