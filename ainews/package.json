@@ -8,6 +8,6 @@
     "dry-run": "DRY_RUN=1 node src/run.js"
   },
   "engines": {
-    "node": ">=22"
+    "node": ">=24"
   }
 }
