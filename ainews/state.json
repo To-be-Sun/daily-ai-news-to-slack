@@ -4,39 +4,44 @@
     "https://openai.com/index/our-commitment-to-community-safety",
     "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
     "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/"
+    "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "https://news.mit.edu/2026/making-case-curiosity-driven-science"
   ],
-  "lastRun": "2026-05-02T09:54:09.208Z",
+  "lastRun": "2026-05-02T09:57:14.374Z",
   "lastPosted": [
     {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "date": "2026-04-28",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "date": "2026-04-28",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Catalyzing scientific impact through global partnerships and open resources",
-      "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
-      "date": "2026-05-01",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
-      "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
       "date": "2026-04-29",
-      "source": "Google Research Blog"
+      "source": "OpenAI News"
     },
     {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
       "date": "2026-04-27",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+      "date": "2026-04-28",
       "source": "Google AI Blog"
+    },
+    {
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "date": "2026-04-28",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Making the case for curiosity-driven science",
+      "url": "https://news.mit.edu/2026/making-case-curiosity-driven-science",
+      "date": "2026-04-30",
+      "source": "MIT News AI"
     }
   ]
 }
