@@ -1,0 +1,13 @@
+{
+  "name": "daily-ai-news",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "post": "node src/run.js",
+    "dry-run": "DRY_RUN=1 node src/run.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

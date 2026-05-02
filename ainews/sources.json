@@ -1,0 +1,47 @@
+[
+  {
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "weight": 10
+  },
+  {
+    "name": "Google AI Blog",
+    "url": "https://blog.google/technology/ai/rss/",
+    "weight": 9
+  },
+  {
+    "name": "Google Research Blog",
+    "url": "https://research.google/blog/rss/",
+    "weight": 8
+  },
+  {
+    "name": "Microsoft AI Blog",
+    "url": "https://www.microsoft.com/en-us/ai/blog/rss",
+    "weight": 8
+  },
+  {
+    "name": "NVIDIA Newsroom AI",
+    "url": "https://nvidianews.nvidia.com/news?category=791&output=rss",
+    "weight": 8
+  },
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "weight": 7
+  },
+  {
+    "name": "MIT News AI",
+    "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+    "weight": 7
+  },
+  {
+    "name": "arXiv cs.AI",
+    "url": "https://export.arxiv.org/rss/cs.AI",
+    "weight": 6
+  },
+  {
+    "name": "arXiv cs.LG",
+    "url": "https://export.arxiv.org/rss/cs.LG",
+    "weight": 6
+  }
+]
