@@ -8,6 +8,7 @@ const MAX_ITEMS = Number(process.env.MAX_ITEMS || 5);
 const MIN_ITEMS = Number(process.env.MIN_ITEMS || MAX_ITEMS);
 const LOOKBACK_DAYS = Number(process.env.LOOKBACK_DAYS || 7);
 const FALLBACK_LOOKBACK_DAYS = Number(process.env.FALLBACK_LOOKBACK_DAYS || 30);
+const MAX_SOURCE_SUMMARY_CHARS = Number(process.env.MAX_SOURCE_SUMMARY_CHARS || 600);
 const OPENAI_MODEL = process.env.OPENAI_MODEL || "gpt-4.1-mini";
 const SLACK_CHANNEL_ID = process.env.SLACK_CHANNEL_ID || "C0B231KJ1B2";
 
@@ -156,7 +157,7 @@ function parseFeed(xml) {
 function normalizeItem(item) {
   const url = cleanText(item.url || "");
   const title = cleanText(item.title || "");
-  const summary = cleanText(item.summary || "");
+  const summary = truncate(cleanText(item.summary || ""), MAX_SOURCE_SUMMARY_CHARS);
   const parsedDate = item.date ? new Date(decodeHtml(stripTags(item.date)).trim()) : null;
   return {
     ...item,
@@ -369,6 +370,11 @@ function cleanText(value) {
 
 function cleanOneLine(value) {
   return cleanText(value || "").replace(/\n+/g, " ").trim();
+}
+
+function truncate(value, maxLength) {
+  if (!value || value.length <= maxLength) return value;
+  return `${value.slice(0, maxLength - 1).trim()}…`;
 }
 
 function decodeHtml(value) {

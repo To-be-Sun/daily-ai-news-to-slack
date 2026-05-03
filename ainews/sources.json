@@ -5,8 +5,23 @@
     "weight": 10
   },
   {
+    "name": "Anthropic News",
+    "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
+    "weight": 10
+  },
+  {
     "name": "Google AI Blog",
     "url": "https://blog.google/technology/ai/rss/",
+    "weight": 9
+  },
+  {
+    "name": "Gemini News",
+    "url": "https://blog.google/products-and-platforms/products/gemini/rss/",
+    "weight": 9
+  },
+  {
+    "name": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/rss.xml",
     "weight": 9
   },
   {
@@ -18,6 +33,11 @@
     "name": "Microsoft AI Blog",
     "url": "https://www.microsoft.com/en-us/ai/blog/rss",
     "weight": 8
+  },
+  {
+    "name": "Meta Newsroom",
+    "url": "https://about.fb.com/feed/",
+    "weight": 6
   },
   {
     "name": "NVIDIA Newsroom AI",
@@ -43,5 +63,30 @@
     "name": "arXiv cs.LG",
     "url": "https://export.arxiv.org/rss/cs.LG",
     "weight": 6
+  },
+  {
+    "name": "Simon Willison",
+    "url": "https://simonwillison.net/atom/everything/",
+    "weight": 6
+  },
+  {
+    "name": "Zenn AI",
+    "url": "https://zenn.dev/topics/ai/feed",
+    "weight": 5
+  },
+  {
+    "name": "Zenn 生成AI",
+    "url": "https://zenn.dev/topics/%E7%94%9F%E6%88%90ai/feed",
+    "weight": 5
+  },
+  {
+    "name": "Qiita AI",
+    "url": "https://qiita.com/tags/AI/feed.atom",
+    "weight": 5
+  },
+  {
+    "name": "Qiita LLM",
+    "url": "https://qiita.com/tags/LLM/feed.atom",
+    "weight": 5
   }
 ]
