@@ -9,68 +9,78 @@
     "https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/",
     "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
     "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
-    "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/"
+    "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
+    "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+    "https://openai.com/index/openai-available-at-fedramp-moderate",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+    "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/",
+    "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
+    "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
+    "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
+    "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+    "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/"
   ],
-  "lastRun": "2026-05-03T04:04:58.670Z",
+  "lastRun": "2026-05-03T23:17:44.642Z",
   "lastPosted": [
     {
-      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
-      "url": "https://openai.com/index/openai-on-aws",
-      "date": "2026-04-28",
+      "title": "Cybersecurity in the Intelligence Age",
+      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+      "date": "2026-04-29",
       "source": "OpenAI News"
     },
     {
-      "title": "Our commitment to community safety",
-      "url": "https://openai.com/index/our-commitment-to-community-safety",
-      "date": "2026-04-28",
+      "title": "OpenAI available at FedRAMP Moderate",
+      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "date": "2026-04-27",
       "source": "OpenAI News"
     },
     {
-      "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
-      "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
       "date": "2026-04-27",
-      "source": "Anthropic News"
+      "source": "Google AI Blog"
     },
     {
-      "title": "Claude for Creative Work",
-      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
+      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
       "date": "2026-04-28",
-      "source": "Anthropic News"
+      "source": "Google AI Blog"
     },
     {
-      "title": "Announcing our partnership with the Republic of Korea",
-      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-      "date": "2026-04-27",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Enabling a new model for healthcare with AI co-clinician",
-      "url": "https://deepmind.google/blog/ai-co-clinician/",
-      "date": "2026-04-30",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Enjoy new ways to create, search and stream on Google TV",
-      "url": "https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/",
+      "title": "You can now easily generate files in Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/",
       "date": "2026-04-29",
       "source": "Gemini News"
     },
     {
-      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
-      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
-      "date": "2026-04-30",
-      "source": "Simon Willison"
+      "title": "Catalyzing scientific impact through global partnerships and open resources",
+      "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
+      "date": "2026-05-01",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Codex CLI 0.128.0 adds /goal",
-      "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
-      "date": "2026-04-30",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
-      "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
+      "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
+      "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
       "date": "2026-04-29",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Quoting Anthropic",
+      "url": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
+      "date": "2026-05-03",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "iNaturalist Sightings",
+      "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+      "date": "2026-05-01",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Infrastructure Explained: Data Centers",
+      "url": "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/",
+      "date": "2026-04-28",
       "source": "Meta Newsroom"
     }
   ]
