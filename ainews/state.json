@@ -1,5 +1,77 @@
 {
-  "postedUrls": [],
-  "lastRun": null,
-  "lastPosted": []
+  "postedUrls": [
+    "https://openai.com/index/openai-on-aws",
+    "https://openai.com/index/our-commitment-to-community-safety",
+    "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+    "https://www.anthropic.com/news/claude-for-creative-work",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/",
+    "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+    "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+    "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/"
+  ],
+  "lastRun": "2026-05-03T04:04:58.670Z",
+  "lastPosted": [
+    {
+      "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+      "url": "https://openai.com/index/openai-on-aws",
+      "date": "2026-04-28",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Our commitment to community safety",
+      "url": "https://openai.com/index/our-commitment-to-community-safety",
+      "date": "2026-04-28",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "date": "2026-04-27",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "date": "2026-04-28",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "date": "2026-04-27",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "date": "2026-04-30",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Enjoy new ways to create, search and stream on Google TV",
+      "url": "https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/",
+      "date": "2026-04-29",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+      "date": "2026-04-30",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Codex CLI 0.128.0 adds /goal",
+      "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+      "date": "2026-04-30",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
+      "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
+      "date": "2026-04-29",
+      "source": "Meta Newsroom"
+    }
+  ]
 }
