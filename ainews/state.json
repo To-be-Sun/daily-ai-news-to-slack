@@ -19,39 +19,44 @@
     "https://openai.com/index/next-phase-of-microsoft-partnership",
     "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
     "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
-    "https://huggingface.co/blog/ibm-granite/granite-4-1"
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://zenn.dev/kymx1983/books/20260502-aws-security-agent-handson",
+    "https://zenn.dev/kymx1983/articles/20260502-aws-security-agent-pentest",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+    "https://zenn.dev/syoshida07/articles/8500be545f59c5"
   ],
-  "lastRun": "2026-05-03T02:49:57.333Z",
+  "lastRun": "2026-05-03T03:13:15.046Z",
   "lastPosted": [
     {
-      "title": "Building the compute infrastructure for the Intelligence Age",
-      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
-      "date": "2026-04-29",
-      "source": "OpenAI News"
+      "title": "AWS Security AgentでAIによる統合セキュリティレビューを体験するハンズオン",
+      "url": "https://zenn.dev/kymx1983/books/20260502-aws-security-agent-handson",
+      "date": "2026-05-02",
+      "source": "Zenn AI"
     },
     {
-      "title": "The next phase of the Microsoft OpenAI partnership",
-      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "title": "AWS Security AgentでAIによるレビューとペネトレーションテストをやってみた",
+      "url": "https://zenn.dev/kymx1983/articles/20260502-aws-security-agent-pentest",
+      "date": "2026-05-02",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "Announcing our partnership with the Republic of Korea",
+      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
       "date": "2026-04-27",
-      "source": "OpenAI News"
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
-      "url": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
-      "date": "2026-04-29",
-      "source": "MIT News AI"
+      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
+      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+      "date": "2026-04-30",
+      "source": "Simon Willison"
     },
     {
-      "title": "Enabling privacy-preserving AI training on everyday devices",
-      "url": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
-      "date": "2026-04-29",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Granite 4.1 LLMs: How They’re Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-      "date": "2026-04-29",
-      "source": "Hugging Face Blog"
+      "title": "Mythosを上回ったGPT‑5.5の実力、英国AISIが明かしたAIサイバー能力と、複数モデルが同時に危険領域へ到達したことへの",
+      "url": "https://zenn.dev/syoshida07/articles/8500be545f59c5",
+      "date": "2026-05-01",
+      "source": "Zenn 生成AI"
     }
   ]
 }
