@@ -5,7 +5,9 @@ const ROOT = path.resolve(import.meta.dirname, "..");
 const SOURCES_PATH = path.join(ROOT, "sources.json");
 const STATE_PATH = path.join(ROOT, "state.json");
 const MAX_ITEMS = Number(process.env.MAX_ITEMS || 5);
+const MIN_ITEMS = Number(process.env.MIN_ITEMS || MAX_ITEMS);
 const LOOKBACK_DAYS = Number(process.env.LOOKBACK_DAYS || 7);
+const FALLBACK_LOOKBACK_DAYS = Number(process.env.FALLBACK_LOOKBACK_DAYS || 30);
 const OPENAI_MODEL = process.env.OPENAI_MODEL || "gpt-4.1-mini";
 const SLACK_CHANNEL_ID = process.env.SLACK_CHANNEL_ID || "C0B231KJ1B2";
 
@@ -36,6 +38,10 @@ const KEYWORDS = [
   "acquisition"
 ];
 
+const EXCLUDED_TITLE_TERMS = [
+  "goblin"
+];
+
 async function main() {
   const [sources, state] = await Promise.all([readJson(SOURCES_PATH), readState()]);
   const postedUrls = new Set(state.postedUrls || []);
@@ -45,18 +51,14 @@ async function main() {
       console.warn(result.reason?.message || result.reason);
     }
   }
-  const candidates = fetched
+  const fetchedItems = fetched
     .flatMap((result) => (result.status === "fulfilled" ? result.value : []))
     .map(normalizeItem)
     .filter((item) => item.url && item.title)
-    .filter((item) => !postedUrls.has(item.url))
-    .filter((item) => withinLookback(item.date, LOOKBACK_DAYS));
+    .filter((item) => !isExcludedItem(item))
+    .filter((item) => !postedUrls.has(item.url));
 
-  const unique = dedupeByUrlAndTitle(candidates);
-  const selected = diversifyBySource(unique
-    .map((item) => ({ ...item, score: scoreItem(item) }))
-    .sort((a, b) => b.score - a.score)
-  ).slice(0, MAX_ITEMS);
+  const selected = selectItems(fetchedItems, { minItems: MIN_ITEMS, maxItems: MAX_ITEMS });
 
   if (selected.length === 0) {
     console.log("No new AI news candidates found.");
@@ -108,6 +110,28 @@ async function fetchSource(source) {
     source: source.name,
     sourceWeight: source.weight || 5
   }));
+}
+
+function selectItems(items, { minItems, maxItems }) {
+  const recent = rankedItems(items.filter((item) => withinLookback(item.date, LOOKBACK_DAYS)));
+  if (recent.length >= minItems) {
+    return recent.slice(0, maxItems);
+  }
+
+  const fallback = rankedItems(items.filter((item) => withinLookback(item.date, FALLBACK_LOOKBACK_DAYS)));
+  return fallback.slice(0, maxItems);
+}
+
+function rankedItems(items) {
+  return diversifyBySource(dedupeByUrlAndTitle(items)
+    .map((item) => ({ ...item, score: scoreItem(item) }))
+    .sort((a, b) => b.score - a.score)
+  );
+}
+
+function isExcludedItem(item) {
+  const title = item.title.toLowerCase();
+  return EXCLUDED_TITLE_TERMS.some((term) => title.includes(term));
 }
 
 function parseFeed(xml) {
@@ -190,14 +214,16 @@ function ageInDays(date) {
 
 async function buildSlackMessage(items) {
   if (!process.env.OPENAI_API_KEY) {
-    return fallbackMessage(items);
+    return formatSlackMessage(items.map(fallbackSummaryItem));
   }
 
   const prompt = [
     "あなたはAIニュース編集者です。",
-    "以下の候補から、重要度と新規性を優先して日本語でSlack投稿文を作ってください。",
-    "各項目は「見出し」「1-2文の要約」「なぜ重要か」「公開日」「URL」を必ず含めてください。",
-    "重複や古い話題を避け、簡潔にしてください。",
+    `以下の${items.length}件を、順番を保ったまま日本語で要約してください。`,
+    "返答はJSONのみ。Markdown、説明文、コードフェンスは禁止です。",
+    "JSON shape: {\"items\":[{\"headline\":\"...\",\"summary\":\"...\",\"why_it_matters\":\"...\",\"published_date\":\"YYYY-MM-DD または 不明\",\"url\":\"...\"}]}",
+    "summaryは1-2文、why_it_mattersは1文で簡潔にしてください。",
+    "urlとpublished_dateは入力値を維持してください。",
     "",
     JSON.stringify(items, null, 2)
   ].join("\n");
@@ -224,19 +250,44 @@ async function buildSlackMessage(items) {
   if (!text) {
     throw new Error("OpenAI API returned an empty response.");
   }
-  return `**AIニュース要約（${todayJst()}）**\n\n${text}`;
+  return formatSlackMessage(parseSummaryItems(text, items));
 }
 
-function fallbackMessage(items) {
-  const lines = [`**AIニュース要約（${todayJst()}）**`, ""];
-  for (const item of items) {
-    lines.push(`- **見出し:** ${item.title}`);
-    lines.push(`  **要約:** ${item.summary || "公式フィードで新規記事として検出されました。"}`);
-    lines.push(`  **なぜ重要か:** ${item.source}由来の新着AI関連トピックで、製品・研究・市場動向の確認対象です。`);
-    lines.push(`  **公開日:** ${item.date || "不明"}`);
-    lines.push(`  **URL:** ${item.url}`);
-    lines.push("");
+function parseSummaryItems(text, sourceItems) {
+  try {
+    const parsed = JSON.parse(text);
+    const items = Array.isArray(parsed.items) ? parsed.items : [];
+    return sourceItems.map((source, index) => normalizeSummaryItem(items[index], source));
+  } catch {
+    console.warn("OpenAI response was not valid JSON; using fallback formatter.");
+    return sourceItems.map(fallbackSummaryItem);
   }
+}
+
+function normalizeSummaryItem(item, source) {
+  return {
+    headline: cleanOneLine(item?.headline) || source.title,
+    summary: cleanOneLine(item?.summary) || source.summary || "公式フィードで新規記事として検出されました。",
+    why_it_matters: cleanOneLine(item?.why_it_matters) || `${source.source}由来のAI関連トピックで、製品・研究・市場動向の確認対象です。`,
+    published_date: cleanOneLine(item?.published_date) || source.date || "不明",
+    url: source.url
+  };
+}
+
+function fallbackSummaryItem(item) {
+  return normalizeSummaryItem(null, item);
+}
+
+function formatSlackMessage(items) {
+  const lines = [`**AIニュース要約（${todayJst()}）**`, ""];
+  items.slice(0, MAX_ITEMS).forEach((item, index) => {
+    lines.push(`**${index + 1}. ${item.headline}**`);
+    lines.push(`- **要約:** ${item.summary}`);
+    lines.push(`- **なぜ重要か:** ${item.why_it_matters}`);
+    lines.push(`- **公開日:** ${item.published_date}`);
+    lines.push(`- **URL:** ${item.url}`);
+    lines.push("");
+  });
   return lines.join("\n").trim();
 }
 
@@ -314,6 +365,10 @@ function stripTags(value) {
 
 function cleanText(value) {
   return stripTags(decodeHtml(value)).replace(/\s+/g, " ").trim();
+}
+
+function cleanOneLine(value) {
+  return cleanText(value || "").replace(/\n+/g, " ").trim();
 }
 
 function decodeHtml(value) {
