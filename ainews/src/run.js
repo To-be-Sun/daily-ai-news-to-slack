@@ -222,8 +222,8 @@ async function buildSlackMessage(items) {
     "あなたはAIニュース編集者です。",
     `以下の${items.length}件を、順番を保ったまま日本語で要約してください。`,
     "返答はJSONのみ。Markdown、説明文、コードフェンスは禁止です。",
-    "JSON shape: {\"items\":[{\"headline\":\"...\",\"summary\":\"...\",\"why_it_matters\":\"...\",\"published_date\":\"YYYY-MM-DD または 不明\",\"url\":\"...\"}]}",
-    "summaryは1-2文、why_it_mattersは1文で簡潔にしてください。",
+    "JSON shape: {\"items\":[{\"headline\":\"...\",\"summary\":\"...\",\"published_date\":\"YYYY-MM-DD または 不明\",\"url\":\"...\"}]}",
+    "summaryは2-3文で、背景・内容・影響が分かるようにしてください。",
     "urlとpublished_dateは入力値を維持してください。",
     "",
     JSON.stringify(items, null, 2)
@@ -269,7 +269,6 @@ function normalizeSummaryItem(item, source) {
   return {
     headline: cleanOneLine(item?.headline) || source.title,
     summary: cleanOneLine(item?.summary) || source.summary || "公式フィードで新規記事として検出されました。",
-    why_it_matters: cleanOneLine(item?.why_it_matters) || `${source.source}由来のAI関連トピックで、製品・研究・市場動向の確認対象です。`,
     published_date: cleanOneLine(item?.published_date) || source.date || "不明",
     url: source.url
   };
@@ -284,7 +283,6 @@ function formatSlackMessage(items) {
   items.slice(0, MAX_ITEMS).forEach((item, index) => {
     lines.push(`**${index + 1}. ${item.headline}**`);
     lines.push(`- **要約:** ${item.summary}`);
-    lines.push(`- **なぜ重要か:** ${item.why_it_matters}`);
     lines.push(`- **公開日:** ${item.published_date}`);
     lines.push(`- **URL:** ${item.url}`);
     lines.push("");
