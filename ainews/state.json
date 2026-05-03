@@ -14,37 +14,42 @@
     "https://openai.com/index/advanced-account-security",
     "https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501",
     "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
-    "https://huggingface.co/blog/evaleval/eval-costs-bottleneck"
+    "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+    "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+    "https://openai.com/index/next-phase-of-microsoft-partnership",
+    "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
+    "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1"
   ],
-  "lastRun": "2026-05-02T23:17:38.602Z",
+  "lastRun": "2026-05-03T02:49:57.333Z",
   "lastPosted": [
     {
-      "title": "Choco automates food distribution with AI agents",
-      "url": "https://openai.com/index/choco",
+      "title": "Building the compute infrastructure for the Intelligence Age",
+      "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+      "date": "2026-04-29",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "The next phase of the Microsoft OpenAI partnership",
+      "url": "https://openai.com/index/next-phase-of-microsoft-partnership",
       "date": "2026-04-27",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing Advanced Account Security",
-      "url": "https://openai.com/index/advanced-account-security",
-      "date": "2026-04-30",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Beacon Biosignals is mapping the brain during sleep",
-      "url": "https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501",
-      "date": "2026-05-01",
+      "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
+      "url": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
+      "date": "2026-04-29",
       "source": "MIT News AI"
     },
     {
-      "title": "Improving understanding with language",
-      "url": "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
-      "date": "2026-05-01",
+      "title": "Enabling privacy-preserving AI training on everyday devices",
+      "url": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
+      "date": "2026-04-29",
       "source": "MIT News AI"
     },
     {
-      "title": "AI evals are becoming the new compute bottleneck",
-      "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
       "date": "2026-04-29",
       "source": "Hugging Face Blog"
     }
