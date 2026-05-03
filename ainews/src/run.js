@@ -279,12 +279,12 @@ function fallbackSummaryItem(item) {
 }
 
 function formatSlackMessage(items) {
-  const lines = [`**AIニュース要約（${todayJst()}）**`, ""];
+  const lines = [`*AIニュース要約（${todayJst()}）*`, ""];
   items.slice(0, MAX_ITEMS).forEach((item, index) => {
-    lines.push(`**${index + 1}. ${item.headline}**`);
-    lines.push(`- **要約:** ${item.summary}`);
-    lines.push(`- **公開日:** ${item.published_date}`);
-    lines.push(`- **URL:** ${item.url}`);
+    lines.push(`*${index + 1}. ${item.headline}*`);
+    lines.push(`- *要約:* ${item.summary}`);
+    lines.push(`- *公開日:* ${item.published_date}`);
+    lines.push(`- *URL:* ${item.url}`);
     lines.push("");
   });
   return lines.join("\n").trim();
