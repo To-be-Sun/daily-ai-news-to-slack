@@ -44,69 +44,79 @@
     "https://qiita.com/GitKen-Daily/items/dd301b42dd4c9804da50",
     "https://qiita.com/tikomo/items/b2c5b269f56a6249a4b2",
     "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
-    "https://qiita.com/atsushi11o7/items/58e4a721b9b8c867ca04"
+    "https://qiita.com/atsushi11o7/items/58e4a721b9b8c867ca04",
+    "https://huggingface.co/blog/inference-providers-deepinfra",
+    "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
+    "https://huggingface.co/blog/openai-privacy-filter-web-apps",
+    "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
+    "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
+    "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
+    "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/",
+    "https://about.fb.com/news/2026/04/powering-ai-strengthening-the-grid-space-solar-energy-and-long-duration-storage/",
+    "https://zenn.dev/t_tokunaga/articles/2026-02-01-ai-model-stack-cost-breakdown-2026-01",
+    "https://zenn.dev/t_tokunaga/articles/2026-01-01-ai-model-stack-cost-breakdown-2025-12"
   ],
-  "lastRun": "2026-05-03T03:48:08.185Z",
+  "lastRun": "2026-05-03T04:00:28.326Z",
   "lastPosted": [
     {
-      "title": "俺GAIL やはり俺の生成AIリーダーはまちがっている。",
-      "url": "https://zenn.dev/soulgemanalyst/articles/5416909c78c813",
-      "date": "2026-05-01",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "LLM 0.32a0 is a major backwards-compatible refactor",
-      "url": "https://simonwillison.net/2026/Apr/29/llm/#atom-everything",
+      "title": "DeepInfra on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/inference-providers-deepinfra",
       "date": "2026-04-29",
-      "source": "Simon Willison"
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Tracking the history of the now-deceased OpenAI Microsoft AGI clause",
-      "url": "https://simonwillison.net/2026/Apr/27/now-deceased-agi-clause/#atom-everything",
+      "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
+      "url": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
+      "date": "2026-04-29",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "How to build scalable web apps with OpenAI&apos;s Privacy Filter",
+      "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps",
       "date": "2026-04-27",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "A faster way to estimate AI power consumption",
+      "url": "https://news.mit.edu/2026/faster-way-to-estimate-ai-power-consumption-0427",
+      "date": "2026-04-27",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Sightings",
+      "url": "https://simonwillison.net/2026/May/2/sightings/#atom-everything",
+      "date": "2026-05-02",
       "source": "Simon Willison"
     },
     {
-      "title": "2024年の技術トレンドを振り返る：AI、Web開発、セキュリティの重要な転換点",
-      "url": "https://zenn.dev/nicotable/articles/20260503_news-analysis-kduj8d",
-      "date": "2026-05-02",
-      "source": "Zenn AI"
+      "title": "Quoting Andrew Kelley",
+      "url": "https://simonwillison.net/2026/Apr/30/andrew-kelley/#atom-everything",
+      "date": "2026-04-30",
+      "source": "Simon Willison"
     },
     {
-      "title": "変なスタックでポケモン用ツールを作る(DuckDB Wasm / Wasm Component ModelとAIエージェント)",
-      "url": "https://zenn.dev/rail44/articles/f73f4ec4c789eb",
-      "date": "2026-05-02",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "GEO最適化とは何か：AI時代の新しいSEO",
-      "url": "https://zenn.dev/kei_concierge/articles/geo-optimization-ai-seo-2026",
-      "date": "2026-05-02",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "【GitHub日報】コードを知識グラフ化するUnderstand-Anything、Rust製コーディングエージェントjcode — 2026-05-03",
-      "url": "https://qiita.com/GitKen-Daily/items/dd301b42dd4c9804da50",
-      "date": "2026-05-03",
-      "source": "Qiita AI"
-    },
-    {
-      "title": "Codexデスクトップ版はIDEではなく、AI作業の管理ツールなのかもしれない",
-      "url": "https://qiita.com/tikomo/items/b2c5b269f56a6249a4b2",
-      "date": "2026-05-03",
-      "source": "Qiita AI"
-    },
-    {
-      "title": "Bringing Prepaid Mobile Recharges to WhatsApp Users in India",
-      "url": "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
-      "date": "2026-04-29",
+      "title": "Infrastructure Explained: Data Centers",
+      "url": "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/",
+      "date": "2026-04-28",
       "source": "Meta Newsroom"
     },
     {
-      "title": "OCR、ライブラリで動かしてたけど中身を知らなかったので調べた",
-      "url": "https://qiita.com/atsushi11o7/items/58e4a721b9b8c867ca04",
+      "title": "Powering AI, Strengthening the Grid: Innovation in Space Solar Energy and Long-Duration Storage",
+      "url": "https://about.fb.com/news/2026/04/powering-ai-strengthening-the-grid-space-solar-energy-and-long-duration-storage/",
+      "date": "2026-04-27",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "個人開発のAI API利用構成と2026年1月の課金額を公開する（サブスク＋API連携）",
+      "url": "https://zenn.dev/t_tokunaga/articles/2026-02-01-ai-model-stack-cost-breakdown-2026-01",
       "date": "2026-05-02",
-      "source": "Qiita LLM"
+      "source": "Zenn AI"
+    },
+    {
+      "title": "個人開発のAI API利用構成と2025年12月の課金額を公開する（サブスク＋API連携）",
+      "url": "https://zenn.dev/t_tokunaga/articles/2026-01-01-ai-model-stack-cost-breakdown-2025-12",
+      "date": "2026-05-02",
+      "source": "Zenn AI"
     }
   ]
 }
