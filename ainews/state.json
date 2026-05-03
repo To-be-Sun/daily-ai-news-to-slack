@@ -24,39 +24,79 @@
     "https://zenn.dev/kymx1983/articles/20260502-aws-security-agent-pentest",
     "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
     "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
-    "https://zenn.dev/syoshida07/articles/8500be545f59c5"
+    "https://zenn.dev/syoshida07/articles/8500be545f59c5",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://qiita.com/yuta_yokoi_ai/items/274d40edaba1b8d11623",
+    "https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/",
+    "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
+    "https://openai.com/index/open-source-codex-orchestration-symphony",
+    "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+    "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
+    "https://qiita.com/Tadashi_Kudo/items/fa68b3f540496b0d76fa",
+    "https://www.anthropic.com/news/claude-for-creative-work",
+    "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/"
   ],
-  "lastRun": "2026-05-03T03:13:15.046Z",
+  "lastRun": "2026-05-03T03:27:22.806Z",
   "lastPosted": [
     {
-      "title": "AWS Security AgentでAIによる統合セキュリティレビューを体験するハンズオン",
-      "url": "https://zenn.dev/kymx1983/books/20260502-aws-security-agent-handson",
-      "date": "2026-05-02",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "AWS Security AgentでAIによるレビューとペネトレーションテストをやってみた",
-      "url": "https://zenn.dev/kymx1983/articles/20260502-aws-security-agent-pentest",
-      "date": "2026-05-02",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "Announcing our partnership with the Republic of Korea",
-      "url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-      "date": "2026-04-27",
+      "title": "Enabling a new model for healthcare with AI co-clinician",
+      "url": "https://deepmind.google/blog/ai-co-clinician/",
+      "date": "2026-04-30",
       "source": "Google DeepMind Blog"
     },
     {
-      "title": "Our evaluation of OpenAI's GPT-5.5 cyber capabilities",
-      "url": "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
+      "title": "AIクローラー制御はrobots.txtだけでは足りない：WAF・CIDR・ログ観測まで含めた実務メモ",
+      "url": "https://qiita.com/yuta_yokoi_ai/items/274d40edaba1b8d11623",
+      "date": "2026-05-02",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "Enjoy new ways to create, search and stream on Google TV",
+      "url": "https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/",
+      "date": "2026-04-29",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Codex CLI 0.128.0 adds /goal",
+      "url": "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
       "date": "2026-04-30",
       "source": "Simon Willison"
     },
     {
-      "title": "Mythosを上回ったGPT‑5.5の実力、英国AISIが明かしたAIサイバー能力と、複数モデルが同時に危険領域へ到達したことへの",
-      "url": "https://zenn.dev/syoshida07/articles/8500be545f59c5",
+      "title": "An open-source spec for orchestration: Symphony",
+      "url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "date": "2026-04-27",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Anthropic names Theo Hourmouzis General Manager of Australia & New Zealand and officially opens Sydney office",
+      "url": "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
+      "date": "2026-04-27",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "iNaturalist Sightings",
+      "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
       "date": "2026-05-01",
-      "source": "Zenn 生成AI"
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Claude Code に「API課金ゲート」を設計する：暴走を防ぐヒューマン・イン・ザ・ループ",
+      "url": "https://qiita.com/Tadashi_Kudo/items/fa68b3f540496b0d76fa",
+      "date": "2026-05-02",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "date": "2026-04-28",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "You can now easily generate files in Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/",
+      "date": "2026-04-29",
+      "source": "Gemini News"
     }
   ]
 }
