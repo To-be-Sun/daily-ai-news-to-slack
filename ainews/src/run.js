@@ -6,6 +6,7 @@ const SOURCES_PATH = path.join(ROOT, "sources.json");
 const STATE_PATH = path.join(ROOT, "state.json");
 const MAX_ITEMS = Number(process.env.MAX_ITEMS || 10);
 const MIN_ITEMS = Number(process.env.MIN_ITEMS || MAX_ITEMS);
+const PRIORITY_RESERVED_ITEMS = Number(process.env.PRIORITY_RESERVED_ITEMS || Math.ceil(MAX_ITEMS * 0.7));
 const LOOKBACK_DAYS = Number(process.env.LOOKBACK_DAYS || 7);
 const FALLBACK_LOOKBACK_DAYS = Number(process.env.FALLBACK_LOOKBACK_DAYS || 30);
 const MAX_SOURCE_SUMMARY_CHARS = Number(process.env.MAX_SOURCE_SUMMARY_CHARS || 600);
@@ -96,12 +97,17 @@ async function readState() {
 }
 
 async function fetchSource(source) {
-  const response = await fetch(source.url, {
-    headers: {
-      "user-agent": "daily-ai-news-bot/1.0",
-      accept: "application/rss+xml, application/atom+xml, application/xml, text/xml"
-    }
-  });
+  let response;
+  try {
+    response = await fetch(source.url, {
+      headers: {
+        "user-agent": "daily-ai-news-bot/1.0",
+        accept: "application/rss+xml, application/atom+xml, application/xml, text/xml"
+      }
+    });
+  } catch (error) {
+    throw new Error(`${source.name}: ${error.message}`);
+  }
   if (!response.ok) {
     throw new Error(`${source.name}: HTTP ${response.status}`);
   }
@@ -109,7 +115,8 @@ async function fetchSource(source) {
   return parseFeed(xml).map((item) => ({
     ...item,
     source: source.name,
-    sourceWeight: source.weight || 5
+    sourceWeight: source.weight || 5,
+    sourcePriority: source.priority || priorityFromWeight(source.weight || 5)
   }));
 }
 
@@ -124,10 +131,10 @@ function selectItems(items, { minItems, maxItems }) {
 }
 
 function rankedItems(items) {
-  return diversifyBySource(dedupeByUrlAndTitle(items)
+  const ranked = dedupeByUrlAndTitle(items)
     .map((item) => ({ ...item, score: scoreItem(item) }))
-    .sort((a, b) => b.score - a.score)
-  );
+    .sort(compareItems);
+  return prioritizeHighPrioritySources(diversifyBySource(ranked));
 }
 
 function isExcludedItem(item) {
@@ -202,15 +209,44 @@ function diversifyBySource(items) {
   return [...picked, ...deferred];
 }
 
+function prioritizeHighPrioritySources(items) {
+  const priorityItems = items.filter((item) => item.sourcePriority <= 2);
+  const otherItems = items.filter((item) => item.sourcePriority > 2);
+  return [
+    ...priorityItems.slice(0, PRIORITY_RESERVED_ITEMS),
+    ...otherItems,
+    ...priorityItems.slice(PRIORITY_RESERVED_ITEMS)
+  ];
+}
+
+function compareItems(a, b) {
+  return (
+    a.sourcePriority - b.sourcePriority ||
+    b.score - a.score ||
+    dateValue(b.date) - dateValue(a.date)
+  );
+}
+
 function scoreItem(item) {
   const haystack = `${item.title} ${item.summary}`.toLowerCase();
   const keywordScore = KEYWORDS.reduce((score, keyword) => score + (haystack.includes(keyword) ? 2 : 0), 0);
   const recencyScore = item.date ? Math.max(0, 14 - ageInDays(item.date)) : 3;
-  return item.sourceWeight + keywordScore + recencyScore;
+  return item.sourceWeight * 5 + keywordScore + recencyScore;
 }
 
 function ageInDays(date) {
   return Math.floor((Date.now() - new Date(date).getTime()) / (24 * 60 * 60 * 1000));
+}
+
+function dateValue(date) {
+  return date ? new Date(date).getTime() : 0;
+}
+
+function priorityFromWeight(weight) {
+  if (weight >= 8) return 1;
+  if (weight >= 7) return 2;
+  if (weight >= 6) return 3;
+  return 4;
 }
 
 async function buildSlackMessage(items) {

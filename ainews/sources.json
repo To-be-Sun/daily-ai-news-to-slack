@@ -2,91 +2,127 @@
   {
     "name": "OpenAI News",
     "url": "https://openai.com/news/rss.xml",
-    "weight": 10
+    "weight": 10,
+    "priority": 1,
+    "category": "official_primary"
   },
   {
     "name": "Anthropic News",
     "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml",
-    "weight": 10
+    "weight": 10,
+    "priority": 1,
+    "category": "official_primary"
   },
   {
     "name": "Google AI Blog",
     "url": "https://blog.google/technology/ai/rss/",
-    "weight": 9
+    "weight": 9,
+    "priority": 1,
+    "category": "official_primary"
   },
   {
     "name": "Gemini News",
     "url": "https://blog.google/products-and-platforms/products/gemini/rss/",
-    "weight": 9
+    "weight": 9,
+    "priority": 1,
+    "category": "official_primary"
   },
   {
     "name": "Google DeepMind Blog",
     "url": "https://deepmind.google/blog/rss.xml",
-    "weight": 9
+    "weight": 9,
+    "priority": 1,
+    "category": "official_primary"
   },
   {
     "name": "Google Research Blog",
     "url": "https://research.google/blog/rss/",
-    "weight": 8
+    "weight": 8,
+    "priority": 1,
+    "category": "official_research"
   },
   {
     "name": "Microsoft AI Blog",
     "url": "https://www.microsoft.com/en-us/ai/blog/rss",
-    "weight": 8
+    "weight": 8,
+    "priority": 1,
+    "category": "official_primary"
   },
   {
     "name": "Meta Newsroom",
     "url": "https://about.fb.com/feed/",
-    "weight": 6
+    "weight": 6,
+    "priority": 3,
+    "category": "official_broad"
   },
   {
     "name": "NVIDIA Newsroom AI",
     "url": "https://nvidianews.nvidia.com/news?category=791&output=rss",
-    "weight": 8
+    "weight": 8,
+    "priority": 1,
+    "category": "official_primary"
   },
   {
     "name": "Hugging Face Blog",
     "url": "https://huggingface.co/blog/feed.xml",
-    "weight": 7
+    "weight": 7,
+    "priority": 2,
+    "category": "official_ecosystem"
   },
   {
     "name": "MIT News AI",
     "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-    "weight": 7
+    "weight": 7,
+    "priority": 2,
+    "category": "research_news"
   },
   {
     "name": "arXiv cs.AI",
     "url": "https://export.arxiv.org/rss/cs.AI",
-    "weight": 6
+    "weight": 6,
+    "priority": 3,
+    "category": "research_preprint"
   },
   {
     "name": "arXiv cs.LG",
     "url": "https://export.arxiv.org/rss/cs.LG",
-    "weight": 6
+    "weight": 6,
+    "priority": 3,
+    "category": "research_preprint"
   },
   {
     "name": "Simon Willison",
     "url": "https://simonwillison.net/atom/everything/",
-    "weight": 6
+    "weight": 6,
+    "priority": 3,
+    "category": "curation_expert"
   },
   {
     "name": "Zenn AI",
     "url": "https://zenn.dev/topics/ai/feed",
-    "weight": 5
+    "weight": 5,
+    "priority": 4,
+    "category": "japanese_supplement"
   },
   {
     "name": "Zenn 生成AI",
     "url": "https://zenn.dev/topics/%E7%94%9F%E6%88%90ai/feed",
-    "weight": 5
+    "weight": 5,
+    "priority": 4,
+    "category": "japanese_supplement"
   },
   {
     "name": "Qiita AI",
     "url": "https://qiita.com/tags/AI/feed.atom",
-    "weight": 5
+    "weight": 5,
+    "priority": 4,
+    "category": "japanese_supplement"
   },
   {
     "name": "Qiita LLM",
     "url": "https://qiita.com/tags/LLM/feed.atom",
-    "weight": 5
+    "weight": 5,
+    "priority": 4,
+    "category": "japanese_supplement"
   }
 ]
