@@ -4,7 +4,7 @@ import path from "node:path";
 const ROOT = path.resolve(import.meta.dirname, "..");
 const SOURCES_PATH = path.join(ROOT, "sources.json");
 const STATE_PATH = path.join(ROOT, "state.json");
-const MAX_ITEMS = Number(process.env.MAX_ITEMS || 5);
+const MAX_ITEMS = Number(process.env.MAX_ITEMS || 10);
 const MIN_ITEMS = Number(process.env.MIN_ITEMS || MAX_ITEMS);
 const LOOKBACK_DAYS = Number(process.env.LOOKBACK_DAYS || 7);
 const FALLBACK_LOOKBACK_DAYS = Number(process.env.FALLBACK_LOOKBACK_DAYS || 30);
