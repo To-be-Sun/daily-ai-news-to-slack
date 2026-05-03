@@ -72,12 +72,12 @@
   {
     "name": "Zenn AI",
     "url": "https://zenn.dev/topics/ai/feed",
-    "weight": 1
+    "weight": 5
   },
   {
     "name": "Zenn 生成AI",
     "url": "https://zenn.dev/topics/%E7%94%9F%E6%88%90ai/feed",
-    "weight": 1
+    "weight": 5
   },
   {
     "name": "Qiita AI",
