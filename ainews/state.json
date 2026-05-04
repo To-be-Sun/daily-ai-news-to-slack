@@ -19,69 +19,79 @@
     "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
     "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
     "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
-    "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/"
+    "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/",
+    "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+    "https://www.anthropic.com/news/enterprise-ai-services-company",
+    "https://openai.com/index/advanced-account-security",
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+    "https://news.mit.edu/2026/making-case-curiosity-driven-science",
+    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+    "https://arxiv.org/abs/2605.00068",
+    "https://arxiv.org/abs/2605.00677",
+    "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything"
   ],
-  "lastRun": "2026-05-03T23:17:44.642Z",
+  "lastRun": "2026-05-04T23:20:46.835Z",
   "lastPosted": [
     {
-      "title": "Cybersecurity in the Intelligence Age",
-      "url": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-      "date": "2026-04-29",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "date": "2026-05-04",
       "source": "OpenAI News"
     },
     {
-      "title": "OpenAI available at FedRAMP Moderate",
-      "url": "https://openai.com/index/openai-available-at-fedramp-moderate",
-      "date": "2026-04-27",
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "date": "2026-05-04",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Introducing Advanced Account Security",
+      "url": "https://openai.com/index/advanced-account-security",
+      "date": "2026-04-30",
       "source": "OpenAI News"
     },
     {
-      "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-      "date": "2026-04-27",
+      "title": "The latest AI news we announced in April 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
+      "date": "2026-05-04",
       "source": "Google AI Blog"
     },
     {
-      "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
-      "url": "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-      "date": "2026-04-28",
+      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+      "date": "2026-05-04",
       "source": "Google AI Blog"
     },
     {
-      "title": "You can now easily generate files in Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/",
-      "date": "2026-04-29",
-      "source": "Gemini News"
+      "title": "Making the case for curiosity-driven science",
+      "url": "https://news.mit.edu/2026/making-case-curiosity-driven-science",
+      "date": "2026-04-30",
+      "source": "MIT News AI"
     },
     {
-      "title": "Catalyzing scientific impact through global partnerships and open resources",
-      "url": "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
-      "date": "2026-05-01",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "Four ways Google Research scientists have been using Empirical Research Assistance",
-      "url": "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
-      "date": "2026-04-29",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "Quoting Anthropic",
-      "url": "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
-      "date": "2026-05-03",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "iNaturalist Sightings",
-      "url": "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
-      "date": "2026-05-01",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Infrastructure Explained: Data Centers",
-      "url": "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/",
+      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "date": "2026-04-28",
-      "source": "Meta Newsroom"
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
+      "url": "https://arxiv.org/abs/2605.00068",
+      "date": "2026-05-04",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Evaluating the Architectural Reasoning Capabilities of LLM Provers via the Obfuscated Natural Number Game",
+      "url": "https://arxiv.org/abs/2605.00677",
+      "date": "2026-05-04",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "April 2026 newsletter",
+      "url": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
+      "date": "2026-05-04",
+      "source": "Simon Willison"
     }
   ]
 }
