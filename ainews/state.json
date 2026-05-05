@@ -29,69 +29,79 @@
     "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
     "https://arxiv.org/abs/2605.00068",
     "https://arxiv.org/abs/2605.00677",
-    "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything"
+    "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
+    "https://openai.com/index/openai-pwc-finance-collaboration",
+    "https://openai.com/index/gpt-5-5-instant",
+    "https://www.anthropic.com/news/finance-agents",
+    "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+    "https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505",
+    "https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501",
+    "https://huggingface.co/blog/ibm-granite/granite-4-1",
+    "https://arxiv.org/abs/2605.00907",
+    "https://arxiv.org/abs/2604.17450",
+    "https://arxiv.org/abs/2604.24920"
   ],
-  "lastRun": "2026-05-04T23:20:46.835Z",
+  "lastRun": "2026-05-05T23:20:58.935Z",
   "lastPosted": [
     {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
+      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
+      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
       "date": "2026-05-04",
       "source": "OpenAI News"
     },
     {
-      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
-      "url": "https://www.anthropic.com/news/enterprise-ai-services-company",
-      "date": "2026-05-04",
+      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "url": "https://openai.com/index/gpt-5-5-instant",
+      "date": "2026-05-05",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Agents for financial services",
+      "url": "https://www.anthropic.com/news/finance-agents",
+      "date": "2026-05-05",
       "source": "Anthropic News"
     },
     {
-      "title": "Introducing Advanced Account Security",
-      "url": "https://openai.com/index/advanced-account-security",
-      "date": "2026-04-30",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "The latest AI news we announced in April 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-      "date": "2026-05-04",
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "date": "2026-05-05",
       "source": "Google AI Blog"
     },
     {
-      "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-      "date": "2026-05-04",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Making the case for curiosity-driven science",
-      "url": "https://news.mit.edu/2026/making-case-curiosity-driven-science",
-      "date": "2026-04-30",
+      "title": "Games people — and machines — play: Untangling strategic reasoning to advance AI",
+      "url": "https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505",
+      "date": "2026-05-05",
       "source": "MIT News AI"
     },
     {
-      "title": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-      "date": "2026-04-28",
+      "title": "Beacon Biosignals is mapping the brain during sleep",
+      "url": "https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501",
+      "date": "2026-05-01",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Granite 4.1 LLMs: How They’re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
+      "date": "2026-04-29",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Human-in-the-Loop Meta Bayesian Optimization for Fusion Energy and Scientific Applications",
-      "url": "https://arxiv.org/abs/2605.00068",
-      "date": "2026-05-04",
+      "title": "TRIP-Evaluate: An Open Multimodal Benchmark for Evaluating Large Models in Transportation",
+      "url": "https://arxiv.org/abs/2605.00907",
+      "date": "2026-05-05",
       "source": "arXiv cs.LG"
     },
     {
-      "title": "Evaluating the Architectural Reasoning Capabilities of LLM Provers via the Obfuscated Natural Number Game",
-      "url": "https://arxiv.org/abs/2605.00677",
-      "date": "2026-05-04",
-      "source": "arXiv cs.LG"
+      "title": "Compiling Deterministic Structure into SLM Harnesses",
+      "url": "https://arxiv.org/abs/2604.17450",
+      "date": "2026-05-05",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "April 2026 newsletter",
-      "url": "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
-      "date": "2026-05-04",
-      "source": "Simon Willison"
+      "title": "SUDP: Secret-Use Delegation Protocol for Agentic Systems",
+      "url": "https://arxiv.org/abs/2604.24920",
+      "date": "2026-05-05",
+      "source": "arXiv cs.AI"
     }
   ]
 }
