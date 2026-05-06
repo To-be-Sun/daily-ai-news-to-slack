@@ -39,69 +39,79 @@
     "https://huggingface.co/blog/ibm-granite/granite-4-1",
     "https://arxiv.org/abs/2605.00907",
     "https://arxiv.org/abs/2604.17450",
-    "https://arxiv.org/abs/2604.24920"
+    "https://arxiv.org/abs/2604.24920",
+    "https://openai.com/index/introducing-b2b-signals",
+    "https://openai.com/index/uber",
+    "https://www.anthropic.com/news/higher-limits-spacex",
+    "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+    "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+    "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+    "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
+    "https://arxiv.org/abs/2605.01101",
+    "https://arxiv.org/abs/2605.01489",
+    "https://arxiv.org/abs/2605.02964"
   ],
-  "lastRun": "2026-05-05T23:20:58.935Z",
+  "lastRun": "2026-05-06T23:20:35.839Z",
   "lastPosted": [
     {
-      "title": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "url": "https://openai.com/index/openai-pwc-finance-collaboration",
-      "date": "2026-05-04",
+      "title": "How frontier enterprises are building an AI advantage",
+      "url": "https://openai.com/index/introducing-b2b-signals",
+      "date": "2026-05-06",
       "source": "OpenAI News"
     },
     {
-      "title": "GPT-5.5 Instant: smarter, clearer, and more personalized",
-      "url": "https://openai.com/index/gpt-5-5-instant",
-      "date": "2026-05-05",
+      "title": "Uber uses OpenAI to help people earn smarter and book faster",
+      "url": "https://openai.com/index/uber",
+      "date": "2026-05-06",
       "source": "OpenAI News"
     },
     {
-      "title": "Agents for financial services",
-      "url": "https://www.anthropic.com/news/finance-agents",
-      "date": "2026-05-05",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "date": "2026-05-06",
       "source": "Anthropic News"
     },
     {
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "date": "2026-05-05",
+      "title": "5 gardening tips you can try right in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "date": "2026-05-06",
       "source": "Google AI Blog"
     },
     {
-      "title": "Games people — and machines — play: Untangling strategic reasoning to advance AI",
-      "url": "https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505",
-      "date": "2026-05-05",
-      "source": "MIT News AI"
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "date": "2026-05-06",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Beacon Biosignals is mapping the brain during sleep",
-      "url": "https://news.mit.edu/2026/beacon-biosignals-maps-brain-during-sleep-0501",
+      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+      "date": "2026-05-06",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Improving understanding with language",
+      "url": "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
       "date": "2026-05-01",
       "source": "MIT News AI"
     },
     {
-      "title": "Granite 4.1 LLMs: How They’re Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-1",
-      "date": "2026-04-29",
-      "source": "Hugging Face Blog"
+      "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
+      "url": "https://arxiv.org/abs/2605.01101",
+      "date": "2026-05-06",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "TRIP-Evaluate: An Open Multimodal Benchmark for Evaluating Large Models in Transportation",
-      "url": "https://arxiv.org/abs/2605.00907",
-      "date": "2026-05-05",
+      "title": "SciResearcher: Scaling Deep Research Agents for Frontier Scientific Reasoning",
+      "url": "https://arxiv.org/abs/2605.01489",
+      "date": "2026-05-06",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use",
+      "url": "https://arxiv.org/abs/2605.02964",
+      "date": "2026-05-06",
       "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Compiling Deterministic Structure into SLM Harnesses",
-      "url": "https://arxiv.org/abs/2604.17450",
-      "date": "2026-05-05",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "SUDP: Secret-Use Delegation Protocol for Agentic Systems",
-      "url": "https://arxiv.org/abs/2604.24920",
-      "date": "2026-05-05",
-      "source": "arXiv cs.AI"
     }
   ]
 }
