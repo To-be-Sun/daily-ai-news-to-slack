@@ -49,68 +49,78 @@
     "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
     "https://arxiv.org/abs/2605.01101",
     "https://arxiv.org/abs/2605.01489",
-    "https://arxiv.org/abs/2605.02964"
+    "https://arxiv.org/abs/2605.02964",
+    "https://openai.com/index/parloa",
+    "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+    "https://deepmind.google/blog/alphaevolve-impact/",
+    "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
+    "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
+    "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+    "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+    "https://arxiv.org/abs/2605.03242",
+    "https://arxiv.org/abs/2605.03301",
+    "https://arxiv.org/abs/2602.19837"
   ],
-  "lastRun": "2026-05-06T23:20:35.839Z",
+  "lastRun": "2026-05-07T23:21:14.074Z",
   "lastPosted": [
     {
-      "title": "How frontier enterprises are building an AI advantage",
-      "url": "https://openai.com/index/introducing-b2b-signals",
-      "date": "2026-05-06",
+      "title": "Parloa builds service agents customers want to talk to",
+      "url": "https://openai.com/index/parloa",
+      "date": "2026-05-07",
       "source": "OpenAI News"
     },
     {
-      "title": "Uber uses OpenAI to help people earn smarter and book faster",
-      "url": "https://openai.com/index/uber",
-      "date": "2026-05-06",
+      "title": "Advancing voice intelligence with new models in the API",
+      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "date": "2026-05-07",
       "source": "OpenAI News"
     },
     {
-      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
       "date": "2026-05-06",
-      "source": "Anthropic News"
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "5 gardening tips you can try right in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "date": "2026-05-06",
-      "source": "Google AI Blog"
+      "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
+      "url": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
+      "date": "2026-05-05",
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-      "date": "2026-05-06",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-      "date": "2026-05-06",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Improving understanding with language",
-      "url": "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
-      "date": "2026-05-01",
+      "title": "Study: Firms often use automation to control certain workers’ wages",
+      "url": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
+      "date": "2026-05-07",
       "source": "MIT News AI"
     },
     {
-      "title": "Virtual Speech Therapist: A Clinician-in-the-Loop AI Speech Therapy Agent for Personalized and Supervised Therapy",
-      "url": "https://arxiv.org/abs/2605.01101",
-      "date": "2026-05-06",
+      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+      "date": "2026-05-07",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Introducing Trusted Contact in ChatGPT",
+      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
+      "date": "2026-05-07",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Enhancing Agent Safety Judgment: Controlled Benchmark Rewriting and Analogical Reasoning for Deceptive Out-of-Distribution Scenarios",
+      "url": "https://arxiv.org/abs/2605.03242",
+      "date": "2026-05-07",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "SciResearcher: Scaling Deep Research Agents for Frontier Scientific Reasoning",
-      "url": "https://arxiv.org/abs/2605.01489",
-      "date": "2026-05-06",
+      "title": "SHIELD: A Diverse Clinical Note Dataset and Distilled Small Language Models for Enterprise-Scale De-identification",
+      "url": "https://arxiv.org/abs/2605.03301",
+      "date": "2026-05-07",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Reward Hacking Benchmark: Measuring Exploits in LLM Agents with Tool Use",
-      "url": "https://arxiv.org/abs/2605.02964",
-      "date": "2026-05-06",
+      "title": "Meta-Learning and Meta-Reinforcement Learning -- Tracing the Path towards DeepMind's Adaptive Agent",
+      "url": "https://arxiv.org/abs/2602.19837",
+      "date": "2026-05-07",
       "source": "arXiv cs.LG"
     }
   ]
