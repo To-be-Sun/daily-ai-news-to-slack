@@ -59,68 +59,78 @@
     "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
     "https://arxiv.org/abs/2605.03242",
     "https://arxiv.org/abs/2605.03301",
-    "https://arxiv.org/abs/2602.19837"
+    "https://arxiv.org/abs/2602.19837",
+    "https://openai.com/index/running-codex-safely",
+    "https://openai.com/index/testing-ads-in-chatgpt",
+    "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+    "https://huggingface.co/blog/allenai/emo",
+    "https://openai.com/index/simplex",
+    "https://openai.com/index/advancing-youth-safety-in-emea",
+    "https://arxiv.org/abs/2605.05704",
+    "https://arxiv.org/abs/2605.05379",
+    "https://arxiv.org/abs/2605.05795"
   ],
-  "lastRun": "2026-05-07T23:21:14.074Z",
+  "lastRun": "2026-05-08T23:22:07.858Z",
   "lastPosted": [
     {
-      "title": "Parloa builds service agents customers want to talk to",
-      "url": "https://openai.com/index/parloa",
+      "title": "Running Codex safely at OpenAI",
+      "url": "https://openai.com/index/running-codex-safely",
+      "date": "2026-05-08",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "date": "2026-05-07",
       "source": "OpenAI News"
     },
     {
-      "title": "Advancing voice intelligence with new models in the API",
-      "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
+      "title": "See what happens when creative legends use AI to make ads for small businesses.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+      "date": "2026-05-08",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
+      "date": "2026-05-08",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "EMO: Pretraining mixture of experts for emergent modularity",
+      "url": "https://huggingface.co/blog/allenai/emo",
+      "date": "2026-05-08",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Simplex rethinks software development with Codex",
+      "url": "https://openai.com/index/simplex",
       "date": "2026-05-07",
       "source": "OpenAI News"
     },
     {
-      "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
-      "url": "https://deepmind.google/blog/alphaevolve-impact/",
-      "date": "2026-05-06",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "How Frontier Firms are rebuilding the operating model for the age of AI",
-      "url": "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
+      "title": "Advancing youth safety and wellbeing in EMEA",
+      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
       "date": "2026-05-05",
-      "source": "Microsoft AI Blog"
-    },
-    {
-      "title": "Study: Firms often use automation to control certain workers’ wages",
-      "url": "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
-      "date": "2026-05-07",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-      "date": "2026-05-07",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing Trusted Contact in ChatGPT",
-      "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-      "date": "2026-05-07",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Enhancing Agent Safety Judgment: Controlled Benchmark Rewriting and Analogical Reasoning for Deceptive Out-of-Distribution Scenarios",
-      "url": "https://arxiv.org/abs/2605.03242",
-      "date": "2026-05-07",
+      "title": "SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety",
+      "url": "https://arxiv.org/abs/2605.05704",
+      "date": "2026-05-08",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "SHIELD: A Diverse Clinical Note Dataset and Distilled Small Language Models for Enterprise-Scale De-identification",
-      "url": "https://arxiv.org/abs/2605.03301",
-      "date": "2026-05-07",
+      "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
+      "url": "https://arxiv.org/abs/2605.05379",
+      "date": "2026-05-08",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Meta-Learning and Meta-Reinforcement Learning -- Tracing the Path towards DeepMind's Adaptive Agent",
-      "url": "https://arxiv.org/abs/2602.19837",
-      "date": "2026-05-07",
+      "title": "Reward Shaping and Action Masking for Compositional Tasks using Behavior Trees and LLMs",
+      "url": "https://arxiv.org/abs/2605.05795",
+      "date": "2026-05-08",
       "source": "arXiv cs.LG"
     }
   ]
