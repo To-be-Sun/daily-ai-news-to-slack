@@ -69,69 +69,79 @@
     "https://openai.com/index/advancing-youth-safety-in-emea",
     "https://arxiv.org/abs/2605.05704",
     "https://arxiv.org/abs/2605.05379",
-    "https://arxiv.org/abs/2605.05795"
+    "https://arxiv.org/abs/2605.05795",
+    "https://openai.com/index/how-chatgpt-protects-privacy",
+    "https://openai.com/index/mrc-supercomputer-networking",
+    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+    "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+    "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+    "https://openai.com/index/singular-bank",
+    "https://openai.com/index/gpt-5-5-instant-system-card",
+    "https://about.fb.com/news/2026/05/metas-position-on-canadas-bill-c-22/",
+    "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything",
+    "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything"
   ],
-  "lastRun": "2026-05-08T23:22:07.858Z",
+  "lastRun": "2026-05-09T23:19:12.949Z",
   "lastPosted": [
     {
-      "title": "Running Codex safely at OpenAI",
-      "url": "https://openai.com/index/running-codex-safely",
-      "date": "2026-05-08",
+      "title": "How ChatGPT learns about the world while protecting privacy",
+      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
+      "date": "2026-05-06",
       "source": "OpenAI News"
     },
     {
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-05-07",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "See what happens when creative legends use AI to make ads for small businesses.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-      "date": "2026-05-08",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-      "date": "2026-05-08",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "EMO: Pretraining mixture of experts for emergent modularity",
-      "url": "https://huggingface.co/blog/allenai/emo",
-      "date": "2026-05-08",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Simplex rethinks software development with Codex",
-      "url": "https://openai.com/index/simplex",
-      "date": "2026-05-07",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Advancing youth safety and wellbeing in EMEA",
-      "url": "https://openai.com/index/advancing-youth-safety-in-emea",
+      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+      "url": "https://openai.com/index/mrc-supercomputer-networking",
       "date": "2026-05-05",
       "source": "OpenAI News"
     },
     {
-      "title": "SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety",
-      "url": "https://arxiv.org/abs/2605.05704",
-      "date": "2026-05-08",
-      "source": "arXiv cs.AI"
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "date": "2026-05-09",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Partial Evidence Bench: Benchmarking Authorization-Limited Evidence in Agentic Systems",
-      "url": "https://arxiv.org/abs/2605.05379",
-      "date": "2026-05-08",
-      "source": "arXiv cs.AI"
+      "title": "New ways to buy ChatGPT ads",
+      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
+      "date": "2026-05-05",
+      "source": "OpenAI News"
     },
     {
-      "title": "Reward Shaping and Action Masking for Compositional Tasks using Behavior Trees and LLMs",
-      "url": "https://arxiv.org/abs/2605.05795",
-      "date": "2026-05-08",
-      "source": "arXiv cs.LG"
+      "title": "Introducing ChatGPT Futures: Class of 2026",
+      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "date": "2026-05-06",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "url": "https://openai.com/index/singular-bank",
+      "date": "2026-05-06",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "GPT-5.5 Instant System Card",
+      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
+      "date": "2026-05-05",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Meta&#8217;s Position on Canada&#8217;s Bill C-22",
+      "url": "https://about.fb.com/news/2026/05/metas-position-on-canadas-bill-c-22/",
+      "date": "2026-05-07",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "Quoting Luke Curley",
+      "url": "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything",
+      "date": "2026-05-09",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "llm-gemini 0.31",
+      "url": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
+      "date": "2026-05-07",
+      "source": "Simon Willison"
     }
   ]
 }
