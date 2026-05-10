@@ -79,69 +79,79 @@
     "https://openai.com/index/gpt-5-5-instant-system-card",
     "https://about.fb.com/news/2026/05/metas-position-on-canadas-bill-c-22/",
     "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything",
-    "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything"
+    "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/07/your-ai-steering-committees-2026-checklist-sovereignty/",
+    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
+    "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
+    "https://about.fb.com/news/2026/05/which-meta-ai-glasses-are-right-for-you/",
+    "https://about.fb.com/news/2026/05/ai-age-assurance-teens/",
+    "https://zenn.dev/pico2525/articles/135153bfdc766d",
+    "https://zenn.dev/pppp303/articles/weekly_ai_20260510",
+    "https://qiita.com/shinonome_taku/items/8f23dc317ae357571958",
+    "https://zenn.dev/outloukick777/articles/ai-news-2026-05-08"
   ],
-  "lastRun": "2026-05-09T23:19:12.949Z",
+  "lastRun": "2026-05-10T23:20:21.859Z",
   "lastPosted": [
     {
-      "title": "How ChatGPT learns about the world while protecting privacy",
-      "url": "https://openai.com/index/how-chatgpt-protects-privacy",
-      "date": "2026-05-06",
-      "source": "OpenAI News"
+      "title": "Your AI steering committee’s 2026 checklist: Sovereignty",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/07/your-ai-steering-committees-2026-checklist-sovereignty/",
+      "date": "2026-05-07",
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
-      "url": "https://openai.com/index/mrc-supercomputer-networking",
-      "date": "2026-05-05",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
-      "date": "2026-05-09",
+      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+      "date": "2026-05-10",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "New ways to buy ChatGPT ads",
-      "url": "https://openai.com/index/new-ways-to-buy-chatgpt-ads",
-      "date": "2026-05-05",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Introducing ChatGPT Futures: Class of 2026",
-      "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
       "date": "2026-05-06",
-      "source": "OpenAI News"
+      "source": "Simon Willison"
     },
     {
-      "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
-      "url": "https://openai.com/index/singular-bank",
-      "date": "2026-05-06",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "GPT-5.5 Instant System Card",
-      "url": "https://openai.com/index/gpt-5-5-instant-system-card",
-      "date": "2026-05-05",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Meta&#8217;s Position on Canada&#8217;s Bill C-22",
-      "url": "https://about.fb.com/news/2026/05/metas-position-on-canadas-bill-c-22/",
+      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
+      "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
       "date": "2026-05-07",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Which AI Glasses Are Right For You?",
+      "url": "https://about.fb.com/news/2026/05/which-meta-ai-glasses-are-right-for-you/",
+      "date": "2026-05-08",
       "source": "Meta Newsroom"
     },
     {
-      "title": "Quoting Luke Curley",
-      "url": "https://simonwillison.net/2026/May/9/luke-curley/#atom-everything",
-      "date": "2026-05-09",
-      "source": "Simon Willison"
+      "title": "New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences",
+      "url": "https://about.fb.com/news/2026/05/ai-age-assurance-teens/",
+      "date": "2026-05-05",
+      "source": "Meta Newsroom"
     },
     {
-      "title": "llm-gemini 0.31",
-      "url": "https://simonwillison.net/2026/May/7/llm-gemini/#atom-everything",
-      "date": "2026-05-07",
-      "source": "Simon Willison"
+      "title": "AIコンパニオン作成",
+      "url": "https://zenn.dev/pico2525/articles/135153bfdc766d",
+      "date": "2026-05-10",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "週刊AI駆動開発 - 2026年05月10日",
+      "url": "https://zenn.dev/pppp303/articles/weekly_ai_20260510",
+      "date": "2026-05-10",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "翻訳用途：OpenAI gpt-realtime-translate vs gpt-realtime-2 完全比較ガイド",
+      "url": "https://qiita.com/shinonome_taku/items/8f23dc317ae357571958",
+      "date": "2026-05-10",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "今週のAIニュース（2026-05-08週）",
+      "url": "https://zenn.dev/outloukick777/articles/ai-news-2026-05-08",
+      "date": "2026-05-08",
+      "source": "Zenn 生成AI"
     }
   ]
 }
