@@ -9,7 +9,6 @@ const MIN_ITEMS = Number(process.env.MIN_ITEMS || MAX_ITEMS);
 const PRIORITY_RESERVED_ITEMS = Number(process.env.PRIORITY_RESERVED_ITEMS || Math.ceil(MAX_ITEMS * 0.7));
 const LOOKBACK_DAYS = Number(process.env.LOOKBACK_DAYS || 7);
 const FALLBACK_LOOKBACK_DAYS = Number(process.env.FALLBACK_LOOKBACK_DAYS || 30);
-const MAX_SOURCE_SUMMARY_CHARS = Number(process.env.MAX_SOURCE_SUMMARY_CHARS || 600);
 const OPENAI_MODEL = process.env.OPENAI_MODEL || "gpt-4.1-mini";
 const SLACK_CHANNEL_ID = process.env.SLACK_CHANNEL_ID || "C0B231KJ1B2";
 
@@ -164,7 +163,7 @@ function parseFeed(xml) {
 function normalizeItem(item) {
   const url = cleanText(item.url || "");
   const title = cleanText(item.title || "");
-  const summary = truncate(cleanText(item.summary || ""), MAX_SOURCE_SUMMARY_CHARS);
+  const summary = cleanText(item.summary || "");
   const parsedDate = item.date ? new Date(decodeHtml(stripTags(item.date)).trim()) : null;
   return {
     ...item,
@@ -259,7 +258,7 @@ async function buildSlackMessage(items) {
     `以下の${items.length}件を、順番を保ったまま日本語で要約してください。`,
     "返答はJSONのみ。Markdown、説明文、コードフェンスは禁止です。",
     "JSON shape: {\"items\":[{\"headline\":\"...\",\"summary\":\"...\",\"published_date\":\"YYYY-MM-DD または 不明\",\"url\":\"...\"}]}",
-    "summaryは2-3文で、背景・内容・影響が分かるようにしてください。",
+    "summaryは4-5文で、背景、発表内容、具体的な機能・数字・対象者、影響や注意点が分かるように網羅的かつ具体的にしてください。",
     "urlとpublished_dateは入力値を維持してください。",
     "",
     JSON.stringify(items, null, 2)
@@ -404,11 +403,6 @@ function cleanText(value) {
 
 function cleanOneLine(value) {
   return cleanText(value || "").replace(/\n+/g, " ").trim();
-}
-
-function truncate(value, maxLength) {
-  if (!value || value.length <= maxLength) return value;
-  return `${value.slice(0, maxLength - 1).trim()}…`;
 }
 
 function decodeHtml(value) {
