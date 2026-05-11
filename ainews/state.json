@@ -89,69 +89,79 @@
     "https://zenn.dev/pico2525/articles/135153bfdc766d",
     "https://zenn.dev/pppp303/articles/weekly_ai_20260510",
     "https://qiita.com/shinonome_taku/items/8f23dc317ae357571958",
-    "https://zenn.dev/outloukick777/articles/ai-news-2026-05-08"
+    "https://zenn.dev/outloukick777/articles/ai-news-2026-05-08",
+    "https://openai.com/index/openai-launches-the-deployment-company",
+    "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide/",
+    "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+    "https://openai.com/index/openai-campus-network-student-club-interest-form",
+    "https://openai.com/signals/research/2026q1-update",
+    "https://arxiv.org/abs/2605.06673",
+    "https://arxiv.org/abs/2605.06890",
+    "https://arxiv.org/abs/2510.01290"
   ],
-  "lastRun": "2026-05-10T23:20:21.859Z",
+  "lastRun": "2026-05-11T23:22:15.741Z",
   "lastPosted": [
     {
-      "title": "Your AI steering committee’s 2026 checklist: Sovereignty",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/07/your-ai-steering-committees-2026-checklist-sovereignty/",
-      "date": "2026-05-07",
-      "source": "Microsoft AI Blog"
+      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+      "url": "https://openai.com/index/openai-launches-the-deployment-company",
+      "date": "2026-05-11",
+      "source": "OpenAI News"
     },
     {
-      "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
-      "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-      "date": "2026-05-10",
+      "title": "How enterprises are scaling AI",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "date": "2026-05-11",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "The new AI-powered Google Finance is expanding to Europe.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+      "date": "2026-05-11",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "Digitize your paper notes with Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide/",
+      "date": "2026-05-11",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+      "date": "2026-05-11",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
-      "date": "2026-05-06",
-      "source": "Simon Willison"
+      "title": "OpenAI Campus Network: Student club interest form",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "date": "2026-05-11",
+      "source": "OpenAI News"
     },
     {
-      "title": "Behind the Scenes Hardening Firefox with Claude Mythos Preview",
-      "url": "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
-      "date": "2026-05-07",
-      "source": "Simon Willison"
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "date": "2026-05-11",
+      "source": "OpenAI News"
     },
     {
-      "title": "Which AI Glasses Are Right For You?",
-      "url": "https://about.fb.com/news/2026/05/which-meta-ai-glasses-are-right-for-you/",
-      "date": "2026-05-08",
-      "source": "Meta Newsroom"
+      "title": "Domain-level metacognitive monitoring in frontier LLMs: A 33-model atlas",
+      "url": "https://arxiv.org/abs/2605.06673",
+      "date": "2026-05-11",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "New AI-Powered Age Assurance Measures to Place Teens in Age-Appropriate Experiences",
-      "url": "https://about.fb.com/news/2026/05/ai-age-assurance-teens/",
-      "date": "2026-05-05",
-      "source": "Meta Newsroom"
+      "title": "Beyond the Black Box: Interpretability of Agentic AI Tool Use",
+      "url": "https://arxiv.org/abs/2605.06890",
+      "date": "2026-05-11",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "AIコンパニオン作成",
-      "url": "https://zenn.dev/pico2525/articles/135153bfdc766d",
-      "date": "2026-05-10",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "週刊AI駆動開発 - 2026年05月10日",
-      "url": "https://zenn.dev/pppp303/articles/weekly_ai_20260510",
-      "date": "2026-05-10",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "翻訳用途：OpenAI gpt-realtime-translate vs gpt-realtime-2 完全比較ガイド",
-      "url": "https://qiita.com/shinonome_taku/items/8f23dc317ae357571958",
-      "date": "2026-05-10",
-      "source": "Qiita LLM"
-    },
-    {
-      "title": "今週のAIニュース（2026-05-08週）",
-      "url": "https://zenn.dev/outloukick777/articles/ai-news-2026-05-08",
-      "date": "2026-05-08",
-      "source": "Zenn 生成AI"
+      "title": "ThinKV: Thought-Adaptive KV Cache Compression for Efficient Reasoning Models",
+      "url": "https://arxiv.org/abs/2510.01290",
+      "date": "2026-05-11",
+      "source": "arXiv cs.LG"
     }
   ]
 }
