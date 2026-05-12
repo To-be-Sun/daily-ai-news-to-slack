@@ -99,68 +99,78 @@
     "https://openai.com/signals/research/2026q1-update",
     "https://arxiv.org/abs/2605.06673",
     "https://arxiv.org/abs/2605.06890",
-    "https://arxiv.org/abs/2510.01290"
+    "https://arxiv.org/abs/2510.01290",
+    "https://openai.com/index/what-parameter-golf-taught-us",
+    "https://openai.com/academy/how-finance-teams-use-codex",
+    "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
+    "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
+    "https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512",
+    "https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512",
+    "https://openai.com/index/nvidia",
+    "https://arxiv.org/abs/2605.08828",
+    "https://arxiv.org/abs/2605.09504",
+    "https://arxiv.org/abs/2605.08815"
   ],
-  "lastRun": "2026-05-11T23:22:15.741Z",
+  "lastRun": "2026-05-12T23:25:57.522Z",
   "lastPosted": [
     {
-      "title": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "url": "https://openai.com/index/openai-launches-the-deployment-company",
-      "date": "2026-05-11",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "date": "2026-05-12",
       "source": "OpenAI News"
     },
     {
-      "title": "How enterprises are scaling AI",
-      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-      "date": "2026-05-11",
+      "title": "How finance teams use Codex",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "date": "2026-05-12",
       "source": "OpenAI News"
     },
     {
-      "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-      "date": "2026-05-11",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Digitize your paper notes with Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide/",
-      "date": "2026-05-11",
+      "title": "The Android Show: I/O Edition 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
+      "date": "2026-05-12",
       "source": "Gemini News"
     },
     {
-      "title": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-      "date": "2026-05-11",
-      "source": "Hugging Face Blog"
+      "title": "A smarter, more proactive Android with Gemini Intelligence",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
+      "date": "2026-05-12",
+      "source": "Gemini News"
     },
     {
-      "title": "OpenAI Campus Network: Student club interest form",
-      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-      "date": "2026-05-11",
+      "title": "Q&A: Expanding MIT’s global reach through Universal Learning",
+      "url": "https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512",
+      "date": "2026-05-12",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere”",
+      "url": "https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512",
+      "date": "2026-05-12",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "url": "https://openai.com/index/nvidia",
+      "date": "2026-05-12",
       "source": "OpenAI News"
     },
     {
-      "title": "How ChatGPT adoption broadened in early 2026",
-      "url": "https://openai.com/signals/research/2026q1-update",
-      "date": "2026-05-11",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Domain-level metacognitive monitoring in frontier LLMs: A 33-model atlas",
-      "url": "https://arxiv.org/abs/2605.06673",
-      "date": "2026-05-11",
+      "title": "When Agents Overtrust Environmental Evidence: An Extensible Agentic Framework for Benchmarking Evidence-Grounding Defects in LLM Agents",
+      "url": "https://arxiv.org/abs/2605.08828",
+      "date": "2026-05-12",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Beyond the Black Box: Interpretability of Agentic AI Tool Use",
-      "url": "https://arxiv.org/abs/2605.06890",
-      "date": "2026-05-11",
+      "title": "Position: AI Security Policy Should Target Systems, Not Models",
+      "url": "https://arxiv.org/abs/2605.09504",
+      "date": "2026-05-12",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "ThinKV: Thought-Adaptive KV Cache Compression for Efficient Reasoning Models",
-      "url": "https://arxiv.org/abs/2510.01290",
-      "date": "2026-05-11",
+      "title": "MicroFuse: Protein-to-Genome Expert Fusion for Microbial Operon Reasoning",
+      "url": "https://arxiv.org/abs/2605.08815",
+      "date": "2026-05-12",
       "source": "arXiv cs.LG"
     }
   ]
