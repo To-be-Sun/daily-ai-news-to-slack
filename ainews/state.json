@@ -109,69 +109,79 @@
     "https://openai.com/index/nvidia",
     "https://arxiv.org/abs/2605.08828",
     "https://arxiv.org/abs/2605.09504",
-    "https://arxiv.org/abs/2605.08815"
+    "https://arxiv.org/abs/2605.08815",
+    "https://openai.com/index/building-codex-windows-sandbox",
+    "https://www.anthropic.com/news/claude-for-small-business",
+    "https://openai.com/index/autoscout24",
+    "https://arxiv.org/abs/2605.11086",
+    "https://arxiv.org/abs/2510.03761",
+    "https://arxiv.org/abs/2605.01345",
+    "https://arxiv.org/abs/2605.11235",
+    "https://simonwillison.net/2026/May/12/llm/#atom-everything",
+    "https://about.fb.com/news/2026/05/celebrating-african-cinema-with-the-made-by-africa-loved-by-the-world-2026-campaign/",
+    "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything"
   ],
-  "lastRun": "2026-05-12T23:25:57.522Z",
+  "lastRun": "2026-05-13T23:26:33.488Z",
   "lastPosted": [
     {
-      "title": "What Parameter Golf taught us about AI-assisted research",
-      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "title": "Building a safe, effective sandbox to enable Codex on Windows",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "date": "2026-05-13",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Introducing Claude for Small Business",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "date": "2026-05-13",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "url": "https://openai.com/index/autoscout24",
       "date": "2026-05-12",
       "source": "OpenAI News"
     },
     {
-      "title": "How finance teams use Codex",
-      "url": "https://openai.com/academy/how-finance-teams-use-codex",
-      "date": "2026-05-12",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "The Android Show: I/O Edition 2026",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
-      "date": "2026-05-12",
-      "source": "Gemini News"
-    },
-    {
-      "title": "A smarter, more proactive Android with Gemini Intelligence",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
-      "date": "2026-05-12",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Q&A: Expanding MIT’s global reach through Universal Learning",
-      "url": "https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512",
-      "date": "2026-05-12",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Universal AI is “a pathway to AI fluency that’s accessible and approachable to anyone, anywhere”",
-      "url": "https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512",
-      "date": "2026-05-12",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "How NVIDIA engineers and researchers build with Codex",
-      "url": "https://openai.com/index/nvidia",
-      "date": "2026-05-12",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "When Agents Overtrust Environmental Evidence: An Extensible Agentic Framework for Benchmarking Evidence-Grounding Defects in LLM Agents",
-      "url": "https://arxiv.org/abs/2605.08828",
-      "date": "2026-05-12",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Position: AI Security Policy Should Target Systems, Not Models",
-      "url": "https://arxiv.org/abs/2605.09504",
-      "date": "2026-05-12",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "MicroFuse: Protein-to-Genome Expert Fusion for Microbial Operon Reasoning",
-      "url": "https://arxiv.org/abs/2605.08815",
-      "date": "2026-05-12",
+      "title": "ExploitGym: Can AI Agents Turn Security Vulnerabilities into Real Attacks?",
+      "url": "https://arxiv.org/abs/2605.11086",
+      "date": "2026-05-13",
       "source": "arXiv cs.LG"
+    },
+    {
+      "title": "You Have Been LaTeXpOsEd: A Systematic Analysis of Information Leakage in Preprint Archives Using Large Language Models",
+      "url": "https://arxiv.org/abs/2510.03761",
+      "date": "2026-05-13",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "The Perceptual Bandwidth Bottleneck in Vision-Language Models: Active Visual Reasoning via Sequential Experimental Design",
+      "url": "https://arxiv.org/abs/2605.01345",
+      "date": "2026-05-13",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Internalizing Curriculum Judgment for LLM Reinforcement Fine-Tuning",
+      "url": "https://arxiv.org/abs/2605.11235",
+      "date": "2026-05-13",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "llm 0.32a2",
+      "url": "https://simonwillison.net/2026/May/12/llm/#atom-everything",
+      "date": "2026-05-12",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Celebrating African Cinema With the ‘Made by Africa, Loved by the World’ 2026 Campaign",
+      "url": "https://about.fb.com/news/2026/05/celebrating-african-cinema-with-the-made-by-africa-loved-by-the-world-2026-campaign/",
+      "date": "2026-05-13",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "CSP Allow-list Experiment",
+      "url": "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
+      "date": "2026-05-13",
+      "source": "Simon Willison"
     }
   ]
 }
