@@ -139,68 +139,78 @@
     "https://arxiv.org/abs/2605.13360",
     "https://about.fb.com/news/2026/05/from-scroll-to-chat-to-cart-trends-reshaping-how-india-shops/",
     "https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india/",
-    "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything"
+    "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
+    "https://openai.com/index/databricks",
+    "https://openai.com/index/malta-chatgpt-plus-partnership",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
+    "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+    "https://arxiv.org/abs/2605.13850",
+    "https://arxiv.org/abs/2605.14237",
+    "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+    "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything"
   ],
-  "lastRun": "2026-05-15T23:22:06.467Z",
+  "lastRun": "2026-05-16T23:20:00.044Z",
   "lastPosted": [
     {
-      "title": "Sea's View on the Future of Agentic Software Development with Codex",
-      "url": "https://openai.com/index/sea-david-chen",
-      "date": "2026-05-14",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "PwC is deploying Claude to build technology, execute deals, and reinvent enterprise functions for clients",
-      "url": "https://www.anthropic.com/news/pwc-expanded-partnership",
-      "date": "2026-05-14",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "A new personal finance experience in ChatGPT",
-      "url": "https://openai.com/index/personal-finance-chatgpt",
+      "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
+      "url": "https://openai.com/index/databricks",
       "date": "2026-05-15",
       "source": "OpenAI News"
     },
     {
-      "title": "AgenticEval: Toward Agentic and Self-Evolving Safety Evaluation of Large Language Models",
-      "url": "https://arxiv.org/abs/2509.26100",
+      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
+      "date": "2026-05-16",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "From AI ambition to Frontier Transformation: Readiness defines the leaders",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
+      "date": "2026-05-14",
+      "source": "Microsoft AI Blog"
+    },
+    {
+      "title": "How business operations teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
       "date": "2026-05-15",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "How data science teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "date": "2026-05-15",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "How sales teams use Codex",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "date": "2026-05-15",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "A Two-Dimensional Framework for AI Agent Design Patterns: Cognitive Function and Execution Topology",
+      "url": "https://arxiv.org/abs/2605.13850",
+      "date": "2026-05-16",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "The Compliance Trap: How Structural Constraints Degrade Frontier AI Metacognition Under Adversarial Pressure",
-      "url": "https://arxiv.org/abs/2605.02398",
-      "date": "2026-05-15",
+      "title": "Good to Go: The LOOP Skill Engine That Hits 99% Success and Slashes Token Usage by 99% via One-Shot Recording and Deterministic Replay",
+      "url": "https://arxiv.org/abs/2605.14237",
+      "date": "2026-05-16",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Polaris: A G\\\"odel Agent Framework for Small Language Models through Experience-Abstracted Policy Repair",
-      "url": "https://arxiv.org/abs/2603.23129",
-      "date": "2026-05-15",
-      "source": "arXiv cs.LG"
+      "title": "Warelay -> OpenClaw",
+      "url": "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
+      "date": "2026-05-16",
+      "source": "Simon Willison"
     },
     {
-      "title": "Speculative Interaction Agents: Building Real-Time Agents with Asynchronous I/O and Speculative Tool Calling",
-      "url": "https://arxiv.org/abs/2605.13360",
-      "date": "2026-05-15",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "From Scroll to Chat to Cart: Trends Reshaping How India Shops",
-      "url": "https://about.fb.com/news/2026/05/from-scroll-to-chat-to-cart-trends-reshaping-how-india-shops/",
-      "date": "2026-05-14",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Introducing Business AI on WhatsApp for Small Businesses in India",
-      "url": "https://about.fb.com/news/2026/05/introducing-business-ai-on-whatsapp-for-small-businesses-in-india/",
-      "date": "2026-05-15",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Not so locked in any more",
-      "url": "https://simonwillison.net/2026/May/14/not-so-locked-in/#atom-everything",
-      "date": "2026-05-14",
+      "title": "Quoting Julia Evans",
+      "url": "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
+      "date": "2026-05-16",
       "source": "Simon Willison"
     }
   ]
