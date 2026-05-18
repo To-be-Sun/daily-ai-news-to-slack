@@ -159,69 +159,79 @@
     "https://zenn.dev/12ban/articles/19a038d8c83c38",
     "https://zenn.dev/masarufuruya/books/f5000d1e4d5273",
     "https://qiita.com/ultramarin/items/bc2893ebdb5590b2d9fb",
-    "https://qiita.com/mguozhen/items/b4ea20e4aed350db9393"
+    "https://qiita.com/mguozhen/items/b4ea20e4aed350db9393",
+    "https://openai.com/index/dell-codex-enterprise-partnership",
+    "https://www.anthropic.com/news/anthropic-acquires-stainless",
+    "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "https://arxiv.org/abs/2605.15206",
+    "https://arxiv.org/abs/2605.01970",
+    "https://arxiv.org/abs/2605.15342",
+    "https://arxiv.org/abs/2604.26498",
+    "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/"
   ],
-  "lastRun": "2026-05-17T23:21:22.130Z",
+  "lastRun": "2026-05-18T23:26:06.126Z",
   "lastPosted": [
     {
-      "title": "GDS weighs in on the NHS's decision to retreat from Open Source",
-      "url": "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
-      "date": "2026-05-17",
-      "source": "Simon Willison"
+      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
+      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
+      "date": "2026-05-18",
+      "source": "OpenAI News"
     },
     {
-      "title": "Quoting Mitchell Hashimoto",
-      "url": "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
-      "date": "2026-05-14",
-      "source": "Simon Willison"
+      "title": "Anthropic acquires Stainless",
+      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "date": "2026-05-18",
+      "source": "Anthropic News"
     },
     {
-      "title": "Introducing Instants: A New Way to Share in the Moment",
-      "url": "https://about.fb.com/news/2026/05/instants-share-in-the-moment/",
-      "date": "2026-05-13",
+      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+      "date": "2026-05-18",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "The Open Agent Leaderboard",
+      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+      "date": "2026-05-18",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+      "date": "2026-05-18",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices",
+      "url": "https://arxiv.org/abs/2605.15206",
+      "date": "2026-05-18",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Trojan Hippo: Weaponizing Agent Memory for Data Exfiltration",
+      "url": "https://arxiv.org/abs/2605.01970",
+      "date": "2026-05-18",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding",
+      "url": "https://arxiv.org/abs/2605.15342",
+      "date": "2026-05-18",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction",
+      "url": "https://arxiv.org/abs/2604.26498",
+      "date": "2026-05-18",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Our AI Wearables Are “Changing the Game” for Disabled People",
+      "url": "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
+      "date": "2026-05-18",
       "source": "Meta Newsroom"
-    },
-    {
-      "title": "Introducing a Completely Private Way to Chat With AI",
-      "url": "https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/",
-      "date": "2026-05-13",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "毎月10ドルと初回300ドルのGoogle Cloudクレジットで Nano Banana 2 を動かす",
-      "url": "https://zenn.dev/take_lab/articles/nano-banana-2-google-cloud-credits",
-      "date": "2026-05-16",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "CodexとClaude Codeの共同作業をcross-agent-harnessに切り出した",
-      "url": "https://zenn.dev/harness/articles/cross-agent-harness-introduction",
-      "date": "2026-05-17",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "【第2回】脅威インテリジェンス自動化の準備編：Google Sheets・GCP・Secret Managerで基盤を作る",
-      "url": "https://zenn.dev/12ban/articles/19a038d8c83c38",
-      "date": "2026-05-15",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "gogcliを使ってClaude Codeのスキル管理を自動化する",
-      "url": "https://zenn.dev/masarufuruya/books/f5000d1e4d5273",
-      "date": "2026-05-17",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "Lemonade 導入のまとめ（EVO X2・Ubuntu24.04）",
-      "url": "https://qiita.com/ultramarin/items/bc2893ebdb5590b2d9fb",
-      "date": "2026-05-17",
-      "source": "Qiita LLM"
-    },
-    {
-      "title": "商用AIエージェントを設計する6つの原則 — SaaStrの「ライブ自己解剖」から",
-      "url": "https://qiita.com/mguozhen/items/b4ea20e4aed350db9393",
-      "date": "2026-05-17",
-      "source": "Qiita AI"
     }
   ]
 }
