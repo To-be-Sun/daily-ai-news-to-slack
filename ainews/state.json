@@ -169,69 +169,79 @@
     "https://arxiv.org/abs/2605.01970",
     "https://arxiv.org/abs/2605.15342",
     "https://arxiv.org/abs/2604.26498",
-    "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/"
+    "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
+    "https://openai.com/index/advancing-content-provenance",
+    "https://www.anthropic.com/news/anthropic-kpmg",
+    "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+    "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
+    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+    "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+    "https://arxiv.org/abs/2605.17625"
   ],
-  "lastRun": "2026-05-18T23:26:06.126Z",
+  "lastRun": "2026-05-19T23:27:39.954Z",
   "lastPosted": [
     {
-      "title": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "url": "https://openai.com/index/dell-codex-enterprise-partnership",
-      "date": "2026-05-18",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+      "url": "https://openai.com/index/advancing-content-provenance",
+      "date": "2026-05-19",
       "source": "OpenAI News"
     },
     {
-      "title": "Anthropic acquires Stainless",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless",
-      "date": "2026-05-18",
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "url": "https://www.anthropic.com/news/anthropic-kpmg",
+      "date": "2026-05-19",
       "source": "Anthropic News"
     },
     {
-      "title": "Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-      "date": "2026-05-18",
-      "source": "Hugging Face Blog"
+      "title": "I/O 2026: Welcome to the agentic Gemini era",
+      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
+      "date": "2026-05-19",
+      "source": "Google AI Blog"
     },
     {
-      "title": "The Open Agent Leaderboard",
-      "url": "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-      "date": "2026-05-18",
-      "source": "Hugging Face Blog"
+      "title": "Gemini 3.5: frontier intelligence with action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "date": "2026-05-19",
+      "source": "Google AI Blog"
     },
     {
-      "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-      "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-      "date": "2026-05-18",
-      "source": "Hugging Face Blog"
+      "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
+      "date": "2026-05-19",
+      "source": "Gemini News"
     },
     {
-      "title": "AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices",
-      "url": "https://arxiv.org/abs/2605.15206",
-      "date": "2026-05-18",
+      "title": "Making it easier to understand how content was created and edited",
+      "url": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
+      "date": "2026-05-19",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Simulate real-world places with Project Genie and Street View",
+      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+      "date": "2026-05-17",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
+      "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+      "date": "2026-05-19",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "The last six months in LLMs in five minutes",
+      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
+      "date": "2026-05-19",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Episodic-Semantic Memory Architecture for Long-Horizon Scientific Agents",
+      "url": "https://arxiv.org/abs/2605.17625",
+      "date": "2026-05-19",
       "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Trojan Hippo: Weaponizing Agent Memory for Data Exfiltration",
-      "url": "https://arxiv.org/abs/2605.01970",
-      "date": "2026-05-18",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Minerva-Ego: Spatiotemporal Hints for Egocentric Video Understanding",
-      "url": "https://arxiv.org/abs/2605.15342",
-      "date": "2026-05-18",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction",
-      "url": "https://arxiv.org/abs/2604.26498",
-      "date": "2026-05-18",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Our AI Wearables Are “Changing the Game” for Disabled People",
-      "url": "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
-      "date": "2026-05-18",
-      "source": "Meta Newsroom"
     }
   ]
 }
