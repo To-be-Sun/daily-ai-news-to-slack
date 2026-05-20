@@ -179,68 +179,78 @@
     "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
     "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
     "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
-    "https://arxiv.org/abs/2605.17625"
+    "https://arxiv.org/abs/2605.17625",
+    "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+    "https://openai.com/index/the-next-phase-of-education-for-countries",
+    "https://www.anthropic.com/news/widening-conversation-ai",
+    "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+    "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+    "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
+    "https://arxiv.org/abs/2605.07066",
+    "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+    "https://arxiv.org/abs/2605.19010"
   ],
-  "lastRun": "2026-05-19T23:27:39.954Z",
+  "lastRun": "2026-05-20T23:30:25.846Z",
   "lastPosted": [
     {
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "url": "https://openai.com/index/advancing-content-provenance",
-      "date": "2026-05-19",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
+      "date": "2026-05-20",
       "source": "OpenAI News"
     },
     {
-      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-      "url": "https://www.anthropic.com/news/anthropic-kpmg",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+      "date": "2026-05-20",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Widening the conversation on frontier AI",
+      "url": "https://www.anthropic.com/news/widening-conversation-ai",
       "date": "2026-05-19",
       "source": "Anthropic News"
     },
     {
-      "title": "I/O 2026: Welcome to the agentic Gemini era",
-      "url": "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-      "date": "2026-05-19",
+      "title": "100 things we announced at I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "date": "2026-05-20",
       "source": "Google AI Blog"
     },
     {
-      "title": "Gemini 3.5: frontier intelligence with action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-      "date": "2026-05-19",
+      "title": "A new experiment brings better group meetings to Google Beam",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
+      "date": "2026-05-20",
       "source": "Google AI Blog"
     },
     {
-      "title": "The Gemini app becomes more agentic, delivering proactive, 24/7 help",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
-      "date": "2026-05-19",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Making it easier to understand how content was created and edited",
-      "url": "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
-      "date": "2026-05-19",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Simulate real-world places with Project Genie and Street View",
-      "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-      "date": "2026-05-17",
+      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+      "date": "2026-05-16",
       "source": "Google DeepMind Blog"
     },
     {
-      "title": "Gemini 3.5 Flash: more expensive, but Google plan to use it for everything",
-      "url": "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
+      "title": "Introducing Gemini Omni",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
       "date": "2026-05-19",
+      "source": "Gemini News"
+    },
+    {
+      "title": "2.5-D Decomposition for LLM-Based Spatial Construction",
+      "url": "https://arxiv.org/abs/2605.07066",
+      "date": "2026-05-20",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Google I/O, Gemini Spark, Antigravity",
+      "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
+      "date": "2026-05-20",
       "source": "Simon Willison"
     },
     {
-      "title": "The last six months in LLMs in five minutes",
-      "url": "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
-      "date": "2026-05-19",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Episodic-Semantic Memory Architecture for Long-Horizon Scientific Agents",
-      "url": "https://arxiv.org/abs/2605.17625",
-      "date": "2026-05-19",
+      "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
+      "url": "https://arxiv.org/abs/2605.19010",
+      "date": "2026-05-20",
       "source": "arXiv cs.AI"
     }
   ]
