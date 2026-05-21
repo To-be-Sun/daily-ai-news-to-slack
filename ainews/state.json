@@ -189,68 +189,78 @@
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
     "https://arxiv.org/abs/2605.07066",
     "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
-    "https://arxiv.org/abs/2605.19010"
+    "https://arxiv.org/abs/2605.19010",
+    "https://openai.com/index/adventhealth",
+    "https://openai.com/index/introducing-openai-for-singapore",
+    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+    "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+    "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
+    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "https://arxiv.org/abs/2605.20815",
+    "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+    "https://arxiv.org/abs/2605.19824"
   ],
-  "lastRun": "2026-05-20T23:30:25.846Z",
+  "lastRun": "2026-05-21T23:25:16.122Z",
   "lastPosted": [
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-      "date": "2026-05-20",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "url": "https://openai.com/index/adventhealth",
+      "date": "2026-05-21",
       "source": "OpenAI News"
     },
     {
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-      "date": "2026-05-20",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Widening the conversation on frontier AI",
-      "url": "https://www.anthropic.com/news/widening-conversation-ai",
+      "title": "Introducing OpenAI for Singapore",
+      "url": "https://openai.com/index/introducing-openai-for-singapore",
       "date": "2026-05-19",
-      "source": "Anthropic News"
+      "source": "OpenAI News"
     },
     {
-      "title": "100 things we announced at I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-      "date": "2026-05-20",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "A new experiment brings better group meetings to Google Beam",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-      "date": "2026-05-20",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Strengthening Singapore’s AI Future: A New National Partnership",
-      "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-      "date": "2026-05-16",
+      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+      "date": "2026-05-21",
       "source": "Google DeepMind Blog"
     },
     {
-      "title": "Introducing Gemini Omni",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
+      "title": "I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "date": "2026-05-19",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "New ways to create and get things done in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
+      "date": "2026-05-19",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+      "url": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
       "date": "2026-05-19",
       "source": "Gemini News"
     },
     {
-      "title": "2.5-D Decomposition for LLM-Based Spatial Construction",
-      "url": "https://arxiv.org/abs/2605.07066",
-      "date": "2026-05-20",
-      "source": "arXiv cs.AI"
+      "title": "Introducing Google Antigravity 2.0",
+      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+      "date": "2026-05-17",
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "Google I/O, Gemini Spark, Antigravity",
-      "url": "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
-      "date": "2026-05-20",
+      "title": "GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval",
+      "url": "https://arxiv.org/abs/2605.20815",
+      "date": "2026-05-21",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Datasette Agent",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
+      "date": "2026-05-21",
       "source": "Simon Willison"
     },
     {
-      "title": "AgentNLQ: A General-Purpose Agent for Natural Language to SQL",
-      "url": "https://arxiv.org/abs/2605.19010",
-      "date": "2026-05-20",
+      "title": "From Prompts to Pavement Through Time: Temporal Grounding in Agentic Scene-to-Plan Reasoning",
+      "url": "https://arxiv.org/abs/2605.19824",
+      "date": "2026-05-21",
       "source": "arXiv cs.AI"
     }
   ]
