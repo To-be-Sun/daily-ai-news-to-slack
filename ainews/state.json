@@ -199,68 +199,78 @@
     "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
     "https://arxiv.org/abs/2605.20815",
     "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-    "https://arxiv.org/abs/2605.19824"
+    "https://arxiv.org/abs/2605.19824",
+    "https://openai.com/index/gartner-2026-agentic-coding-leader",
+    "https://openai.com/index/virgin-atlantic",
+    "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+    "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+    "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+    "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
+    "https://arxiv.org/abs/2605.21027",
+    "https://arxiv.org/abs/2602.01935",
+    "https://arxiv.org/abs/2605.20742"
   ],
-  "lastRun": "2026-05-21T23:25:16.122Z",
+  "lastRun": "2026-05-22T23:26:54.463Z",
   "lastPosted": [
     {
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "url": "https://openai.com/index/adventhealth",
-      "date": "2026-05-21",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
+      "date": "2026-05-22",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing OpenAI for Singapore",
-      "url": "https://openai.com/index/introducing-openai-for-singapore",
-      "date": "2026-05-19",
+      "title": "How Virgin Atlantic ships faster with Codex",
+      "url": "https://openai.com/index/virgin-atlantic",
+      "date": "2026-05-22",
       "source": "OpenAI News"
     },
     {
-      "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
-      "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-      "date": "2026-05-21",
-      "source": "Google DeepMind Blog"
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+      "date": "2026-05-22",
+      "source": "Google AI Blog"
     },
     {
-      "title": "I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
+      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
+      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
       "date": "2026-05-19",
       "source": "Google AI Blog"
     },
     {
-      "title": "New ways to create and get things done in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-      "date": "2026-05-19",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-      "url": "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
-      "date": "2026-05-19",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Introducing Google Antigravity 2.0",
-      "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
-      "date": "2026-05-17",
+      "title": "Fast-tracking genetic leads to reverse cellular aging",
+      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "date": "2026-05-18",
       "source": "Google DeepMind Blog"
     },
     {
-      "title": "GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval",
-      "url": "https://arxiv.org/abs/2605.20815",
-      "date": "2026-05-21",
+      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+      "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+      "date": "2026-05-16",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
+      "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
+      "date": "2026-05-19",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs",
+      "url": "https://arxiv.org/abs/2605.21027",
+      "date": "2026-05-22",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "LiteCoOp: Lightweight Multi-LLM Shared-Tree Reasoning for Model-Serving Compiler Optimizations",
+      "url": "https://arxiv.org/abs/2602.01935",
+      "date": "2026-05-22",
       "source": "arXiv cs.LG"
     },
     {
-      "title": "Datasette Agent",
-      "url": "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-      "date": "2026-05-21",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "From Prompts to Pavement Through Time: Temporal Grounding in Agentic Scene-to-Plan Reasoning",
-      "url": "https://arxiv.org/abs/2605.19824",
-      "date": "2026-05-21",
+      "title": "VBFDD-Agent for Electric Vehicle Battery Fault Detection and Diagnosis: Descriptive Text Modeling of Battery Digital Signals",
+      "url": "https://arxiv.org/abs/2605.20742",
+      "date": "2026-05-22",
       "source": "arXiv cs.AI"
     }
   ]
