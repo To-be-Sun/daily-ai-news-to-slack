@@ -209,69 +209,79 @@
     "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
     "https://arxiv.org/abs/2605.21027",
     "https://arxiv.org/abs/2602.01935",
-    "https://arxiv.org/abs/2605.20742"
+    "https://arxiv.org/abs/2605.20742",
+    "https://openai.com/index/ramp",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+    "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/18/youre-not-late-to-ai-youre-early-to-frontier-transformation/",
+    "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+    "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+    "https://zenn.dev/jnxjez/articles/f02a58187088a6"
   ],
-  "lastRun": "2026-05-22T23:26:54.463Z",
+  "lastRun": "2026-05-24T23:24:07.676Z",
   "lastPosted": [
     {
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "url": "https://openai.com/index/gartner-2026-agentic-coding-leader",
-      "date": "2026-05-22",
+      "title": "How Ramp engineers accelerate code review with Codex",
+      "url": "https://openai.com/index/ramp",
+      "date": "2026-05-20",
       "source": "OpenAI News"
     },
     {
-      "title": "How Virgin Atlantic ships faster with Codex",
-      "url": "https://openai.com/index/virgin-atlantic",
-      "date": "2026-05-22",
-      "source": "OpenAI News"
+      "title": "AI needs more than intelligence—it needs humanity",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/",
+      "date": "2026-05-21",
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
-      "date": "2026-05-22",
+      "title": "We’re announcing new community investments in Missouri.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+      "date": "2026-05-20",
       "source": "Google AI Blog"
     },
     {
-      "title": "Everything new in our Google AI subscriptions, fresh from I/O 2026",
-      "url": "https://blog.google/products-and-platforms/products/google-one/google-ai-subscriptions/",
+      "title": "How AI Mode is changing the way people search in the U.S.",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
       "date": "2026-05-19",
       "source": "Google AI Blog"
     },
     {
-      "title": "Fast-tracking genetic leads to reverse cellular aging",
-      "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+      "title": "You&#8217;re not late to AI—you&#8217;re early to Frontier Transformation",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/18/youre-not-late-to-ai-youre-early-to-frontier-transformation/",
       "date": "2026-05-18",
-      "source": "Google DeepMind Blog"
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
-      "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
-      "date": "2026-05-16",
-      "source": "Google DeepMind Blog"
+      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
+      "date": "2026-05-23",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery",
-      "url": "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery/",
-      "date": "2026-05-19",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "Beyond Text-to-SQL: An Agentic LLM System for Governed Enterprise Analytics APIs",
-      "url": "https://arxiv.org/abs/2605.21027",
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
       "date": "2026-05-22",
-      "source": "arXiv cs.AI"
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "LiteCoOp: Lightweight Multi-LLM Shared-Tree Reasoning for Model-Serving Compiler Optimizations",
-      "url": "https://arxiv.org/abs/2602.01935",
-      "date": "2026-05-22",
-      "source": "arXiv cs.LG"
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
+      "date": "2026-05-24",
+      "source": "Simon Willison"
     },
     {
-      "title": "VBFDD-Agent for Electric Vehicle Battery Fault Detection and Diagnosis: Descriptive Text Modeling of Battery Digital Signals",
-      "url": "https://arxiv.org/abs/2605.20742",
-      "date": "2026-05-22",
-      "source": "arXiv cs.AI"
+      "title": "datasette-agent 0.1a3",
+      "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+      "date": "2026-05-21",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "源内 Webに接続する生成AIアプリ(メトリクスチェッカー)を作ってみた",
+      "url": "https://zenn.dev/jnxjez/articles/f02a58187088a6",
+      "date": "2026-05-24",
+      "source": "Zenn AI"
     }
   ]
 }
