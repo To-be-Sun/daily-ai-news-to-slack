@@ -219,69 +219,79 @@
     "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
     "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
     "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
-    "https://zenn.dev/jnxjez/articles/f02a58187088a6"
+    "https://zenn.dev/jnxjez/articles/f02a58187088a6",
+    "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+    "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+    "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "https://huggingface.co/blog/agent-glossary",
+    "https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520",
+    "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521",
+    "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "https://arxiv.org/abs/2605.22826",
+    "https://arxiv.org/abs/2605.23243",
+    "https://arxiv.org/abs/2605.23057"
   ],
-  "lastRun": "2026-05-24T23:24:07.676Z",
+  "lastRun": "2026-05-25T23:27:40.435Z",
   "lastPosted": [
     {
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "url": "https://openai.com/index/ramp",
-      "date": "2026-05-20",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "date": "2026-05-25",
       "source": "OpenAI News"
     },
     {
-      "title": "AI needs more than intelligence—it needs humanity",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/",
-      "date": "2026-05-21",
-      "source": "Microsoft AI Blog"
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "date": "2026-05-25",
+      "source": "Anthropic News"
     },
     {
-      "title": "We’re announcing new community investments in Missouri.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-      "date": "2026-05-20",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "How AI Mode is changing the way people search in the U.S.",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
+      "title": "A new era for AI Search",
+      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
       "date": "2026-05-19",
       "source": "Google AI Blog"
     },
     {
-      "title": "You&#8217;re not late to AI—you&#8217;re early to Frontier Transformation",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/18/youre-not-late-to-ai-youre-early-to-frontier-transformation/",
-      "date": "2026-05-18",
-      "source": "Microsoft AI Blog"
-    },
-    {
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "date": "2026-05-23",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "url": "https://huggingface.co/blog/agent-glossary",
+      "date": "2026-05-25",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-      "date": "2026-05-22",
-      "source": "Hugging Face Blog"
+      "title": "Building AI models that understand chemical principles",
+      "url": "https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520",
+      "date": "2026-05-20",
+      "source": "MIT News AI"
     },
     {
-      "title": "Quoting Armin Ronacher",
-      "url": "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
-      "date": "2026-05-24",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "datasette-agent 0.1a3",
-      "url": "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
+      "title": "Technology usually creates jobs for young, skilled workers. Will AI do the same?",
+      "url": "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521",
       "date": "2026-05-21",
-      "source": "Simon Willison"
+      "source": "MIT News AI"
     },
     {
-      "title": "源内 Webに接続する生成AIアプリ(メトリクスチェッカー)を作ってみた",
-      "url": "https://zenn.dev/jnxjez/articles/f02a58187088a6",
-      "date": "2026-05-24",
-      "source": "Zenn AI"
+      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+      "date": "2026-05-19",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Evaluating Large Language Models in a Complex Hidden Role Game",
+      "url": "https://arxiv.org/abs/2605.22826",
+      "date": "2026-05-25",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks",
+      "url": "https://arxiv.org/abs/2605.23243",
+      "date": "2026-05-25",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "ModeSwitch-LLM: A Lightweight Phase-Aware Controller for Cross-Mode LLM Inference on a Single GPU",
+      "url": "https://arxiv.org/abs/2605.23057",
+      "date": "2026-05-25",
+      "source": "arXiv cs.LG"
     }
   ]
 }
