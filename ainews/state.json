@@ -229,69 +229,79 @@
     "https://huggingface.co/blog/allenai/olmoearth-v1-1",
     "https://arxiv.org/abs/2605.22826",
     "https://arxiv.org/abs/2605.23243",
-    "https://arxiv.org/abs/2605.23057"
+    "https://arxiv.org/abs/2605.23057",
+    "https://arxiv.org/abs/2605.25141",
+    "https://arxiv.org/abs/2605.25297",
+    "https://arxiv.org/abs/2605.25030",
+    "https://arxiv.org/abs/2605.24765",
+    "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+    "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+    "https://zenn.dev/0h_n0/articles/581a4e0ece7056",
+    "https://zenn.dev/highreso/articles/4b7e51a726f90a",
+    "https://zenn.dev/sprix_it/articles/ff38d70b2d094b",
+    "https://zenn.dev/asayi_megumi/articles/6fbcf1b248f708"
   ],
-  "lastRun": "2026-05-25T23:27:40.435Z",
+  "lastRun": "2026-05-26T23:27:36.682Z",
   "lastPosted": [
     {
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-      "date": "2026-05-25",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-      "date": "2026-05-25",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "A new era for AI Search",
-      "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-      "date": "2026-05-19",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "url": "https://huggingface.co/blog/agent-glossary",
-      "date": "2026-05-25",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Building AI models that understand chemical principles",
-      "url": "https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520",
-      "date": "2026-05-20",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Technology usually creates jobs for young, skilled workers. Will AI do the same?",
-      "url": "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521",
-      "date": "2026-05-21",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-      "date": "2026-05-19",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Evaluating Large Language Models in a Complex Hidden Role Game",
-      "url": "https://arxiv.org/abs/2605.22826",
-      "date": "2026-05-25",
+      "title": "LLM Agent Based Renewable Energy Forecasting Using Edge and IoT Data A Review of Solar Wind Weather and Grid Aware Decision Support",
+      "url": "https://arxiv.org/abs/2605.25141",
+      "date": "2026-05-26",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Are Frontier LLMs Ready for Cybersecurity? Evidence for Vertical Foundation Models from Dual-Mode Vulnerability Benchmarks",
-      "url": "https://arxiv.org/abs/2605.23243",
-      "date": "2026-05-25",
+      "title": "Eureka: Intelligent Feature Engineering for Enterprise AI Cloud Resource Demand Prediction",
+      "url": "https://arxiv.org/abs/2605.25297",
+      "date": "2026-05-26",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "ModeSwitch-LLM: A Lightweight Phase-Aware Controller for Cross-Mode LLM Inference on a Single GPU",
-      "url": "https://arxiv.org/abs/2605.23057",
-      "date": "2026-05-25",
+      "title": "MimirRAG: A Multi-Agent RAG Framework for Financial Data Retrieval with Metadata Integration",
+      "url": "https://arxiv.org/abs/2605.25030",
+      "date": "2026-05-26",
       "source": "arXiv cs.LG"
+    },
+    {
+      "title": "CyberMaskQA: A Privacy-Aware Benchmark for Evaluating Large Language Models in Cybersecurity Question Answering",
+      "url": "https://arxiv.org/abs/2605.24765",
+      "date": "2026-05-26",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
+      "date": "2026-05-26",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Notes on Pope Leo XIV's encyclical on AI",
+      "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
+      "date": "2026-05-25",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "AIエージェントのツール定義設計原則：スキーマ・命名・レスポンスの実践ガイド",
+      "url": "https://zenn.dev/0h_n0/articles/581a4e0ece7056",
+      "date": "2026-05-26",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "Gemma 4 の MMLU-Pro スコアを NVIDIA B200 で再現する：ステップ・バイ・ステップガイド",
+      "url": "https://zenn.dev/highreso/articles/4b7e51a726f90a",
+      "date": "2026-05-26",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "LibreChat + MCP で Gemini 3 × 社内システム連携を Docker で検証してみた",
+      "url": "https://zenn.dev/sprix_it/articles/ff38d70b2d094b",
+      "date": "2026-05-26",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "【MindLab】Agent を「暗記」から「思考」へ：ReAct・Reflection・Self-Consistency 実装ガイド",
+      "url": "https://zenn.dev/asayi_megumi/articles/6fbcf1b248f708",
+      "date": "2026-05-26",
+      "source": "Zenn 生成AI"
     }
   ]
 }
