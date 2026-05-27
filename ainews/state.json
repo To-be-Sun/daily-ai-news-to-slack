@@ -239,69 +239,79 @@
     "https://zenn.dev/0h_n0/articles/581a4e0ece7056",
     "https://zenn.dev/highreso/articles/4b7e51a726f90a",
     "https://zenn.dev/sprix_it/articles/ff38d70b2d094b",
-    "https://zenn.dev/asayi_megumi/articles/6fbcf1b248f708"
+    "https://zenn.dev/asayi_megumi/articles/6fbcf1b248f708",
+    "https://openai.com/index/warp",
+    "https://openai.com/index/cisco",
+    "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+    "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
+    "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+    "https://arxiv.org/abs/2605.27276",
+    "https://arxiv.org/abs/2605.26548"
   ],
-  "lastRun": "2026-05-26T23:27:36.682Z",
+  "lastRun": "2026-05-27T23:30:15.631Z",
   "lastPosted": [
     {
-      "title": "LLM Agent Based Renewable Energy Forecasting Using Edge and IoT Data A Review of Solar Wind Weather and Grid Aware Decision Support",
-      "url": "https://arxiv.org/abs/2605.25141",
-      "date": "2026-05-26",
-      "source": "arXiv cs.AI"
+      "title": "Warp’s big bet on building open source with GPT-5.5",
+      "url": "https://openai.com/index/warp",
+      "date": "2026-05-27",
+      "source": "OpenAI News"
     },
     {
-      "title": "Eureka: Intelligent Feature Engineering for Enterprise AI Cloud Resource Demand Prediction",
-      "url": "https://arxiv.org/abs/2605.25297",
-      "date": "2026-05-26",
-      "source": "arXiv cs.AI"
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "url": "https://openai.com/index/cisco",
+      "date": "2026-05-27",
+      "source": "OpenAI News"
     },
     {
-      "title": "MimirRAG: A Multi-Agent RAG Framework for Financial Data Retrieval with Metadata Integration",
-      "url": "https://arxiv.org/abs/2605.25030",
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
       "date": "2026-05-26",
-      "source": "arXiv cs.LG"
+      "source": "Anthropic News"
     },
     {
-      "title": "CyberMaskQA: A Privacy-Aware Benchmark for Evaluating Large Language Models in Cybersecurity Question Answering",
-      "url": "https://arxiv.org/abs/2605.24765",
-      "date": "2026-05-26",
-      "source": "arXiv cs.LG"
+      "title": "Private analytics via zero-trust aggregation",
+      "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
+      "date": "2026-05-27",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Microsoft Copilot Cowork Exfiltrates Files",
-      "url": "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
-      "date": "2026-05-26",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
+      "date": "2026-05-27",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Reachy Mini goes fully local",
+      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+      "date": "2026-05-27",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Building self-improving tax agents with Codex",
+      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "date": "2026-05-27",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "I think Anthropic and OpenAI have found product-market fit",
+      "url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
+      "date": "2026-05-27",
       "source": "Simon Willison"
     },
     {
-      "title": "Notes on Pope Leo XIV's encyclical on AI",
-      "url": "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
-      "date": "2026-05-25",
-      "source": "Simon Willison"
+      "title": "SIA: Self Improving AI with Harness & Weight Updates",
+      "url": "https://arxiv.org/abs/2605.27276",
+      "date": "2026-05-27",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "AIエージェントのツール定義設計原則：スキーマ・命名・レスポンスの実践ガイド",
-      "url": "https://zenn.dev/0h_n0/articles/581a4e0ece7056",
-      "date": "2026-05-26",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "Gemma 4 の MMLU-Pro スコアを NVIDIA B200 で再現する：ステップ・バイ・ステップガイド",
-      "url": "https://zenn.dev/highreso/articles/4b7e51a726f90a",
-      "date": "2026-05-26",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "LibreChat + MCP で Gemini 3 × 社内システム連携を Docker で検証してみた",
-      "url": "https://zenn.dev/sprix_it/articles/ff38d70b2d094b",
-      "date": "2026-05-26",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "【MindLab】Agent を「暗記」から「思考」へ：ReAct・Reflection・Self-Consistency 実装ガイド",
-      "url": "https://zenn.dev/asayi_megumi/articles/6fbcf1b248f708",
-      "date": "2026-05-26",
-      "source": "Zenn 生成AI"
+      "title": "SEC-bench Pro: Can Language Models Solve Long-Horizon Software Security Tasks?",
+      "url": "https://arxiv.org/abs/2605.26548",
+      "date": "2026-05-27",
+      "source": "arXiv cs.LG"
     }
   ]
 }
