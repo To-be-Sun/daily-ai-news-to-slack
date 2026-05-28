@@ -249,68 +249,78 @@
     "https://openai.com/index/building-self-improving-tax-agents-with-codex",
     "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
     "https://arxiv.org/abs/2605.27276",
-    "https://arxiv.org/abs/2605.26548"
+    "https://arxiv.org/abs/2605.26548",
+    "https://openai.com/index/openai-frontier-governance-framework",
+    "https://www.anthropic.com/news/series-h",
+    "https://www.anthropic.com/news/milan-office-opening",
+    "https://openai.com/index/election-safeguards-2026",
+    "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+    "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
+    "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
+    "https://arxiv.org/abs/2605.27628",
+    "https://arxiv.org/abs/2605.28000",
+    "https://arxiv.org/abs/2605.27428"
   ],
-  "lastRun": "2026-05-27T23:30:15.631Z",
+  "lastRun": "2026-05-28T23:31:32.728Z",
   "lastPosted": [
     {
-      "title": "Warp’s big bet on building open source with GPT-5.5",
-      "url": "https://openai.com/index/warp",
-      "date": "2026-05-27",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "date": "2026-05-28",
       "source": "OpenAI News"
     },
     {
-      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-      "url": "https://openai.com/index/cisco",
-      "date": "2026-05-27",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
-      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-      "date": "2026-05-26",
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "date": "2026-05-28",
       "source": "Anthropic News"
     },
     {
-      "title": "Private analytics via zero-trust aggregation",
-      "url": "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "url": "https://www.anthropic.com/news/milan-office-opening",
       "date": "2026-05-27",
-      "source": "Google Research Blog"
+      "source": "Anthropic News"
     },
     {
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "url": "https://huggingface.co/blog/ibm-research/itbench-aa",
-      "date": "2026-05-27",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Reachy Mini goes fully local",
-      "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-      "date": "2026-05-27",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Building self-improving tax agents with Codex",
-      "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+      "title": "Election information and safeguards in 2026",
+      "url": "https://openai.com/index/election-safeguards-2026",
       "date": "2026-05-27",
       "source": "OpenAI News"
     },
     {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "url": "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
-      "date": "2026-05-27",
-      "source": "Simon Willison"
+      "title": "Catch up on 12 major I/O 2026 moments",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
+      "date": "2026-05-28",
+      "source": "Google AI Blog"
     },
     {
-      "title": "SIA: Self Improving AI with Harness & Weight Updates",
-      "url": "https://arxiv.org/abs/2605.27276",
-      "date": "2026-05-27",
+      "title": "A New Era of Innovation: Google Research at I/O 2026",
+      "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
+      "date": "2026-05-28",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Media Advisory: MIT to establish regional quantum hub",
+      "url": "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
+      "date": "2026-05-28",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2605.27628",
+      "date": "2026-05-28",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "SEC-bench Pro: Can Language Models Solve Long-Horizon Software Security Tasks?",
-      "url": "https://arxiv.org/abs/2605.26548",
-      "date": "2026-05-27",
+      "title": "Tool Forge: A Validation-Carrying Toolchain for Governed Agentic Execution",
+      "url": "https://arxiv.org/abs/2605.28000",
+      "date": "2026-05-28",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "$E^3$-Agent: An Executable and Evolving Agent for Resource Management of Edge Generative Inference",
+      "url": "https://arxiv.org/abs/2605.27428",
+      "date": "2026-05-28",
       "source": "arXiv cs.LG"
     }
   ]
