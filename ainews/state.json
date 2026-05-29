@@ -259,69 +259,79 @@
     "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
     "https://arxiv.org/abs/2605.27628",
     "https://arxiv.org/abs/2605.28000",
-    "https://arxiv.org/abs/2605.27428"
+    "https://arxiv.org/abs/2605.27428",
+    "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "https://openai.com/index/mufg",
+    "https://www.anthropic.com/news/claude-opus-4-8",
+    "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+    "https://huggingface.co/blog/torch-profiler",
+    "https://huggingface.co/blog/delta-weight-sync",
+    "https://arxiv.org/abs/2410.15236",
+    "https://arxiv.org/abs/2605.28843",
+    "https://arxiv.org/abs/2605.30096"
   ],
-  "lastRun": "2026-05-28T23:31:32.728Z",
+  "lastRun": "2026-05-29T23:31:26.976Z",
   "lastPosted": [
     {
-      "title": "OpenAI’s Frontier Governance Framework",
-      "url": "https://openai.com/index/openai-frontier-governance-framework",
+      "title": "A shared playbook for trustworthy third party evaluations",
+      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "date": "2026-05-29",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "url": "https://openai.com/index/mufg",
       "date": "2026-05-28",
       "source": "OpenAI News"
     },
     {
-      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
-      "url": "https://www.anthropic.com/news/series-h",
+      "title": "Introducing Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
       "date": "2026-05-28",
       "source": "Anthropic News"
     },
     {
-      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-      "url": "https://www.anthropic.com/news/milan-office-opening",
-      "date": "2026-05-27",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "Election information and safeguards in 2026",
-      "url": "https://openai.com/index/election-safeguards-2026",
-      "date": "2026-05-27",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Catch up on 12 major I/O 2026 moments",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-      "date": "2026-05-28",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "date": "2026-05-29",
       "source": "Google AI Blog"
     },
     {
-      "title": "A New Era of Innovation: Google Research at I/O 2026",
-      "url": "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
-      "date": "2026-05-28",
-      "source": "Google Research Blog"
+      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
+      "date": "2026-05-29",
+      "source": "Google AI Blog"
     },
     {
-      "title": "Media Advisory: MIT to establish regional quantum hub",
-      "url": "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
-      "date": "2026-05-28",
-      "source": "MIT News AI"
+      "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
+      "url": "https://huggingface.co/blog/torch-profiler",
+      "date": "2026-05-29",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Intelligence as Managed Autonomy: Failure, Escalation, and Governance for Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2605.27628",
-      "date": "2026-05-28",
+      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+      "url": "https://huggingface.co/blog/delta-weight-sync",
+      "date": "2026-05-27",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Jailbreaking and Mitigation of Vulnerabilities in Large Language Models",
+      "url": "https://arxiv.org/abs/2410.15236",
+      "date": "2026-05-29",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Tool Forge: A Validation-Carrying Toolchain for Governed Agentic Execution",
-      "url": "https://arxiv.org/abs/2605.28000",
-      "date": "2026-05-28",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "$E^3$-Agent: An Executable and Evolving Agent for Resource Management of Edge Generative Inference",
-      "url": "https://arxiv.org/abs/2605.27428",
-      "date": "2026-05-28",
+      "title": "The Biosecurity Blind Spot: Systematic Dual-use Detection in Open Science Infrastructure",
+      "url": "https://arxiv.org/abs/2605.28843",
+      "date": "2026-05-29",
       "source": "arXiv cs.LG"
+    },
+    {
+      "title": "How Reliable Are AI Attackers Against a Fixed Vulnerable Target? A 400-Run Empirical Study of LLM Penetration Testing Consistency",
+      "url": "https://arxiv.org/abs/2605.30096",
+      "date": "2026-05-29",
+      "source": "arXiv cs.AI"
     }
   ]
 }
