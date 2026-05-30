@@ -269,69 +269,79 @@
     "https://huggingface.co/blog/delta-weight-sync",
     "https://arxiv.org/abs/2410.15236",
     "https://arxiv.org/abs/2605.28843",
-    "https://arxiv.org/abs/2605.30096"
+    "https://arxiv.org/abs/2605.30096",
+    "https://openai.com/index/boston-childrens-hospital",
+    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+    "https://openai.com/index/endava",
+    "https://openai.com/index/braintrust",
+    "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+    "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
+    "https://about.fb.com/news/2026/05/protecting-players-and-fans-during-fifa-world-cup-2026/",
+    "https://zenn.dev/yasunami_daichi/articles/llm-reasoning-architectures",
+    "https://zenn.dev/yoshiki_otagaki/articles/9186c5a2504b8e"
   ],
-  "lastRun": "2026-05-29T23:31:26.976Z",
+  "lastRun": "2026-05-30T23:24:09.033Z",
   "lastPosted": [
     {
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+      "title": "Boston Children’s uses AI to unlock new diagnoses",
+      "url": "https://openai.com/index/boston-childrens-hospital",
       "date": "2026-05-29",
       "source": "OpenAI News"
     },
     {
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "url": "https://openai.com/index/mufg",
+      "title": "Strengthening societal resilience with Rosalind Biodefense",
+      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+      "date": "2026-05-29",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Check out real-life AI prototypes from the Futures Lab.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
+      "date": "2026-05-29",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "How Endava builds an agentic organization with Codex",
+      "url": "https://openai.com/index/endava",
       "date": "2026-05-28",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "title": "How Braintrust turns customer requests into code with Codex",
+      "url": "https://openai.com/index/braintrust",
+      "date": "2026-05-29",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "How we contain Claude across products",
+      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
+      "date": "2026-05-30",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
+      "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
       "date": "2026-05-28",
-      "source": "Anthropic News"
+      "source": "Simon Willison"
     },
     {
-      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-      "date": "2026-05-29",
-      "source": "Google AI Blog"
+      "title": "Protecting Players and Fans during FIFA World Cup 2026™",
+      "url": "https://about.fb.com/news/2026/05/protecting-players-and-fans-during-fifa-world-cup-2026/",
+      "date": "2026-05-28",
+      "source": "Meta Newsroom"
     },
     {
-      "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-      "date": "2026-05-29",
-      "source": "Google AI Blog"
+      "title": "LLM プロンプトと変数の扱い方が変わった — 4 年間の歴史振り返り",
+      "url": "https://zenn.dev/yasunami_daichi/articles/llm-reasoning-architectures",
+      "date": "2026-05-30",
+      "source": "Zenn AI"
     },
     {
-      "title": "Profiling in PyTorch (Part 1): A Beginner&apos;s Guide to torch.profiler",
-      "url": "https://huggingface.co/blog/torch-profiler",
-      "date": "2026-05-29",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-      "url": "https://huggingface.co/blog/delta-weight-sync",
-      "date": "2026-05-27",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Jailbreaking and Mitigation of Vulnerabilities in Large Language Models",
-      "url": "https://arxiv.org/abs/2410.15236",
-      "date": "2026-05-29",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "The Biosecurity Blind Spot: Systematic Dual-use Detection in Open Science Infrastructure",
-      "url": "https://arxiv.org/abs/2605.28843",
-      "date": "2026-05-29",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "How Reliable Are AI Attackers Against a Fixed Vulnerable Target? A 400-Run Empirical Study of LLM Penetration Testing Consistency",
-      "url": "https://arxiv.org/abs/2605.30096",
-      "date": "2026-05-29",
-      "source": "arXiv cs.AI"
+      "title": "AIが奪えない仕事は「物理世界と情報世界の翻訳」だ——ヒューマン・イン・ザ・ループの帯域設計",
+      "url": "https://zenn.dev/yoshiki_otagaki/articles/9186c5a2504b8e",
+      "date": "2026-05-30",
+      "source": "Zenn AI"
     }
   ]
 }
