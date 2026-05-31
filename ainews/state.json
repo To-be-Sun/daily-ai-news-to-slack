@@ -279,69 +279,79 @@
     "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
     "https://about.fb.com/news/2026/05/protecting-players-and-fans-during-fifa-world-cup-2026/",
     "https://zenn.dev/yasunami_daichi/articles/llm-reasoning-architectures",
-    "https://zenn.dev/yoshiki_otagaki/articles/9186c5a2504b8e"
+    "https://zenn.dev/yoshiki_otagaki/articles/9186c5a2504b8e",
+    "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
+    "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
+    "https://zenn.dev/ikmx/articles/renga-circulation-tech",
+    "https://zenn.dev/phpmyadmin/articles/125682833b8cff",
+    "https://zenn.dev/josh/articles/3b6d6b3d987771",
+    "https://zenn.dev/wwwave/articles/29d9a2563f74c4",
+    "https://qiita.com/kuwaharayuki12/items/0b3489e27cc6be6386f2",
+    "https://qiita.com/jjking/items/4c0825aad6fdd1a84a80",
+    "https://qiita.com/goki602/items/8af4792b8e8794173e7c",
+    "https://qiita.com/harupython/items/1ab55378ba0b32d1d496"
   ],
-  "lastRun": "2026-05-30T23:24:09.033Z",
+  "lastRun": "2026-05-31T23:26:09.613Z",
   "lastPosted": [
     {
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "url": "https://openai.com/index/boston-childrens-hospital",
+      "title": "Anthropic's run-rate revenue hits $47 billion",
+      "url": "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
       "date": "2026-05-29",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-      "date": "2026-05-29",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "date": "2026-05-29",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "How Endava builds an agentic organization with Codex",
-      "url": "https://openai.com/index/endava",
-      "date": "2026-05-28",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "url": "https://openai.com/index/braintrust",
-      "date": "2026-05-29",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "How we contain Claude across products",
-      "url": "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
-      "date": "2026-05-30",
       "source": "Simon Willison"
     },
     {
-      "title": "Claude Opus 4.8: \"a modest but tangible improvement\"",
-      "url": "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
-      "date": "2026-05-28",
+      "title": "The solution might be cancelling my AI subscription",
+      "url": "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
+      "date": "2026-05-31",
       "source": "Simon Willison"
     },
     {
-      "title": "Protecting Players and Fans during FIFA World Cup 2026™",
-      "url": "https://about.fb.com/news/2026/05/protecting-players-and-fans-during-fifa-world-cup-2026/",
-      "date": "2026-05-28",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "LLM プロンプトと変数の扱い方が変わった — 4 年間の歴史振り返り",
-      "url": "https://zenn.dev/yasunami_daichi/articles/llm-reasoning-architectures",
-      "date": "2026-05-30",
+      "title": "RENGA 技術編 — \"還流して皆で豊かになる\"を、ひとつのログ基盤で動かす",
+      "url": "https://zenn.dev/ikmx/articles/renga-circulation-tech",
+      "date": "2026-05-31",
       "source": "Zenn AI"
     },
     {
-      "title": "AIが奪えない仕事は「物理世界と情報世界の翻訳」だ——ヒューマン・イン・ザ・ループの帯域設計",
-      "url": "https://zenn.dev/yoshiki_otagaki/articles/9186c5a2504b8e",
-      "date": "2026-05-30",
+      "title": "乗り換え検討用：主要LLM API料金を9社・3階層（フラッグシップ/mini/nano）で比較 2026年5月更新",
+      "url": "https://zenn.dev/phpmyadmin/articles/125682833b8cff",
+      "date": "2026-05-31",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "Anthropic Verified バッジはなぜ取れないのか」— 審査を通過する8つの設計原則",
+      "url": "https://zenn.dev/josh/articles/3b6d6b3d987771",
+      "date": "2026-05-31",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "OpenClawを無料枠で試す：セットアップからSlack連携、ブラウザ操作まで",
+      "url": "https://zenn.dev/wwwave/articles/29d9a2563f74c4",
+      "date": "2026-05-31",
       "source": "Zenn AI"
+    },
+    {
+      "title": "FX Public APIデータ基盤で検証前提を固める",
+      "url": "https://qiita.com/kuwaharayuki12/items/0b3489e27cc6be6386f2",
+      "date": "2026-05-31",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "MCP Appsの基本構造：Resources・Prompts・Toolsの役割分担からマルチエージェント、Smitheryへの展望",
+      "url": "https://qiita.com/jjking/items/4c0825aad6fdd1a84a80",
+      "date": "2026-05-31",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "Claude Code の CLAUDE.md と Skills を使い分ける ― 常時ルールとタスク別手順の設計",
+      "url": "https://qiita.com/goki602/items/8af4792b8e8794173e7c",
+      "date": "2026-05-31",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "定期テストで高得点を取った高校生がGeminiで賢く勉強した方法を解説",
+      "url": "https://qiita.com/harupython/items/1ab55378ba0b32d1d496",
+      "date": "2026-05-31",
+      "source": "Qiita AI"
     }
   ]
 }
