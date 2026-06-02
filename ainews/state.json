@@ -299,68 +299,78 @@
     "https://huggingface.co/blog/JetBrains/mellum2-launch",
     "https://arxiv.org/abs/2603.08721",
     "https://arxiv.org/abs/2605.30571",
-    "https://arxiv.org/abs/2602.07905"
+    "https://arxiv.org/abs/2602.07905",
+    "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+    "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "https://www.anthropic.com/news/expanding-project-glasswing",
+    "https://huggingface.co/blog/Hcompany/holo31",
+    "https://openai.com/index/travelers",
+    "https://openai.com/index/codex-for-every-role-tool-workflow",
+    "https://openai.com/index/codex-for-knowledge-work",
+    "https://arxiv.org/abs/2606.02240",
+    "https://arxiv.org/abs/2606.00133",
+    "https://arxiv.org/abs/2606.01991"
   ],
-  "lastRun": "2026-06-01T23:33:19.719Z",
+  "lastRun": "2026-06-02T23:36:05.796Z",
   "lastPosted": [
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+      "title": "Advancing youth safety and opportunity through global leadership",
+      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
+      "date": "2026-06-02",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Our views on AI policy and political advocacy",
+      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
       "date": "2026-06-01",
       "source": "OpenAI News"
     },
     {
-      "title": "Building the infrastructure for the Intelligence Age in Michigan",
-      "url": "https://openai.com/index/stargate-michigan-data-center",
-      "date": "2026-06-01",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-      "date": "2026-06-01",
+      "title": "Expanding Project Glasswing",
+      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
+      "date": "2026-06-02",
       "source": "Anthropic News"
     },
     {
-      "title": "How we used Gemini to build Google I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "date": "2026-06-01",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-      "date": "2026-06-01",
+      "title": "Holo3.1: Fast & Local Computer Use Agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo31",
+      "date": "2026-06-02",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
-      "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-      "date": "2026-06-01",
-      "source": "Hugging Face Blog"
+      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
+      "url": "https://openai.com/index/travelers",
+      "date": "2026-06-02",
+      "source": "OpenAI News"
     },
     {
-      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
-      "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
-      "date": "2026-06-01",
-      "source": "Hugging Face Blog"
+      "title": "Codex for every role, tool, and workflow",
+      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
+      "date": "2026-06-02",
+      "source": "OpenAI News"
     },
     {
-      "title": "KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware",
-      "url": "https://arxiv.org/abs/2603.08721",
-      "date": "2026-06-01",
-      "source": "arXiv cs.LG"
+      "title": "Codex is becoming a productivity tool for everyone",
+      "url": "https://openai.com/index/codex-for-knowledge-work",
+      "date": "2026-06-02",
+      "source": "OpenAI News"
     },
     {
-      "title": "Memory-Bound but Not Bandwidth-Limited: The Physical AI Inference Gap in Batch-1 LLM Decode",
-      "url": "https://arxiv.org/abs/2605.30571",
-      "date": "2026-06-01",
+      "title": "AgentRedBench: Dynamic Redteaming and Integration-Aware Defense for LLM Agents over SaaS Integrations",
+      "url": "https://arxiv.org/abs/2606.02240",
+      "date": "2026-06-02",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "MedCoG: Maximizing LLM Inference Density in Medical Reasoning via Meta-Cognitive Regulation",
-      "url": "https://arxiv.org/abs/2602.07905",
-      "date": "2026-06-01",
+      "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
+      "url": "https://arxiv.org/abs/2606.00133",
+      "date": "2026-06-02",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "SafeMCP: Proactive Power Regulation for LLM Agent Defense via Environment-Grounded Look-Ahead Reasoning",
+      "url": "https://arxiv.org/abs/2606.01991",
+      "date": "2026-06-02",
       "source": "arXiv cs.AI"
     }
   ]
