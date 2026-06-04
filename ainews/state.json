@@ -309,69 +309,79 @@
     "https://openai.com/index/codex-for-knowledge-work",
     "https://arxiv.org/abs/2606.02240",
     "https://arxiv.org/abs/2606.00133",
-    "https://arxiv.org/abs/2606.01991"
+    "https://arxiv.org/abs/2606.01991",
+    "https://openai.com/index/frontier-safety-blueprint",
+    "https://openai.com/index/endava-frontiers",
+    "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+    "https://www.anthropic.com/news/services-track-partner-hub",
+    "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+    "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
+    "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
+    "https://arxiv.org/abs/2606.05037",
+    "https://arxiv.org/abs/2510.15416",
+    "https://arxiv.org/abs/2606.04072"
   ],
-  "lastRun": "2026-06-02T23:36:05.796Z",
+  "lastRun": "2026-06-04T23:28:14.318Z",
   "lastPosted": [
     {
-      "title": "Advancing youth safety and opportunity through global leadership",
-      "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-      "date": "2026-06-02",
+      "title": "A blueprint for democratic governance of frontier AI",
+      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "date": "2026-06-03",
       "source": "OpenAI News"
     },
     {
-      "title": "Our views on AI policy and political advocacy",
-      "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-      "date": "2026-06-01",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "url": "https://openai.com/index/endava-frontiers",
+      "date": "2026-06-04",
       "source": "OpenAI News"
     },
     {
-      "title": "Expanding Project Glasswing",
-      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
-      "date": "2026-06-02",
+      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
+      "date": "2026-06-03",
       "source": "Anthropic News"
     },
     {
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo31",
-      "date": "2026-06-02",
-      "source": "Hugging Face Blog"
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/services-track-partner-hub",
+      "date": "2026-06-03",
+      "source": "Anthropic News"
     },
     {
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "url": "https://openai.com/index/travelers",
-      "date": "2026-06-02",
-      "source": "OpenAI News"
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
+      "date": "2026-06-03",
+      "source": "Google AI Blog"
     },
     {
-      "title": "Codex for every role, tool, and workflow",
-      "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-      "date": "2026-06-02",
-      "source": "OpenAI News"
+      "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
+      "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
+      "date": "2026-06-03",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Codex is becoming a productivity tool for everyone",
-      "url": "https://openai.com/index/codex-for-knowledge-work",
-      "date": "2026-06-02",
-      "source": "OpenAI News"
+      "title": "Towards passive heart health monitoring via smartphone camera",
+      "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
+      "date": "2026-06-04",
+      "source": "Google Research Blog"
     },
     {
-      "title": "AgentRedBench: Dynamic Redteaming and Integration-Aware Defense for LLM Agents over SaaS Integrations",
-      "url": "https://arxiv.org/abs/2606.02240",
-      "date": "2026-06-02",
+      "title": "Self-Reflective APIs: Structure Beats Verbosity for AI Agent Recovery",
+      "url": "https://arxiv.org/abs/2606.05037",
+      "date": "2026-06-04",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "World Models: A Comprehensive Survey of Architectures, Methodologies, Reasoning Paradigms, and Applications",
-      "url": "https://arxiv.org/abs/2606.00133",
-      "date": "2026-06-02",
+      "title": "Adaptive Minds: Empowering Agents with LoRA-as-Tools",
+      "url": "https://arxiv.org/abs/2510.15416",
+      "date": "2026-06-04",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "CADET: A Modular Platform for Evaluating Distributed Cooperative Autonomy in Connected Autonomous Vehicles",
+      "url": "https://arxiv.org/abs/2606.04072",
+      "date": "2026-06-04",
       "source": "arXiv cs.LG"
-    },
-    {
-      "title": "SafeMCP: Proactive Power Regulation for LLM Agent Defense via Environment-Grounded Look-Ahead Reasoning",
-      "url": "https://arxiv.org/abs/2606.01991",
-      "date": "2026-06-02",
-      "source": "arXiv cs.AI"
     }
   ]
 }
