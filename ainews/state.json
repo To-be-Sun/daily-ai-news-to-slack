@@ -319,68 +319,78 @@
     "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
     "https://arxiv.org/abs/2606.05037",
     "https://arxiv.org/abs/2510.15416",
-    "https://arxiv.org/abs/2606.04072"
+    "https://arxiv.org/abs/2606.04072",
+    "https://openai.com/index/public-policy-agenda",
+    "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+    "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
+    "https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604",
+    "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
+    "https://openai.com/index/chatgpt-memory-dreaming",
+    "https://arxiv.org/abs/2606.04037",
+    "https://arxiv.org/abs/2603.10044",
+    "https://arxiv.org/abs/2606.02031"
   ],
-  "lastRun": "2026-06-04T23:28:14.318Z",
+  "lastRun": "2026-06-05T23:29:32.141Z",
   "lastPosted": [
     {
-      "title": "A blueprint for democratic governance of frontier AI",
-      "url": "https://openai.com/index/frontier-safety-blueprint",
+      "title": "OpenAI public policy agenda",
+      "url": "https://openai.com/index/public-policy-agenda",
       "date": "2026-06-03",
       "source": "OpenAI News"
     },
     {
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "url": "https://openai.com/index/endava-frontiers",
-      "date": "2026-06-04",
+      "title": "Introducing new capabilities to GPT-Rosalind",
+      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+      "date": "2026-06-03",
       "source": "OpenAI News"
     },
     {
-      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "date": "2026-06-03",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-      "url": "https://www.anthropic.com/news/services-track-partner-hub",
-      "date": "2026-06-03",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-      "date": "2026-06-03",
+      "title": "The latest AI news we announced in May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "date": "2026-06-05",
       "source": "Google AI Blog"
     },
     {
-      "title": "The next chapter in flood resilience: Open sourcing Google’s hydrology framework",
-      "url": "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
+      "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
+      "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
+      "date": "2026-06-05",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery",
+      "url": "https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604",
+      "date": "2026-06-04",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Teaching AI agents to ask better questions by playing “Battleship”",
+      "url": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
       "date": "2026-06-03",
-      "source": "Google Research Blog"
+      "source": "MIT News AI"
     },
     {
-      "title": "Towards passive heart health monitoring via smartphone camera",
-      "url": "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "url": "https://openai.com/index/chatgpt-memory-dreaming",
       "date": "2026-06-04",
-      "source": "Google Research Blog"
+      "source": "OpenAI News"
     },
     {
-      "title": "Self-Reflective APIs: Structure Beats Verbosity for AI Agent Recovery",
-      "url": "https://arxiv.org/abs/2606.05037",
-      "date": "2026-06-04",
+      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
+      "url": "https://arxiv.org/abs/2606.04037",
+      "date": "2026-06-05",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Adaptive Minds: Empowering Agents with LoRA-as-Tools",
-      "url": "https://arxiv.org/abs/2510.15416",
-      "date": "2026-06-04",
+      "title": "Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety",
+      "url": "https://arxiv.org/abs/2603.10044",
+      "date": "2026-06-05",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "CADET: A Modular Platform for Evaluating Distributed Cooperative Autonomy in Connected Autonomous Vehicles",
-      "url": "https://arxiv.org/abs/2606.04072",
-      "date": "2026-06-04",
+      "title": "OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents",
+      "url": "https://arxiv.org/abs/2606.02031",
+      "date": "2026-06-05",
       "source": "arXiv cs.LG"
     }
   ]
