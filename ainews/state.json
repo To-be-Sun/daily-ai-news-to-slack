@@ -329,69 +329,79 @@
     "https://openai.com/index/chatgpt-memory-dreaming",
     "https://arxiv.org/abs/2606.04037",
     "https://arxiv.org/abs/2603.10044",
-    "https://arxiv.org/abs/2606.02031"
+    "https://arxiv.org/abs/2606.02031",
+    "https://openai.com/index/biodefense-in-the-intelligence-age",
+    "https://openai.com/index/wasmer",
+    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605",
+    "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603",
+    "https://huggingface.co/blog/hf-cli-for-agents",
+    "https://arxiv.org/abs/2606.06453",
+    "https://arxiv.org/abs/2606.06462",
+    "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything"
   ],
-  "lastRun": "2026-06-05T23:29:32.141Z",
+  "lastRun": "2026-06-06T23:25:07.038Z",
   "lastPosted": [
     {
-      "title": "OpenAI public policy agenda",
-      "url": "https://openai.com/index/public-policy-agenda",
-      "date": "2026-06-03",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-      "date": "2026-06-03",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "The latest AI news we announced in May 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-      "date": "2026-06-05",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG",
-      "url": "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
-      "date": "2026-06-05",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "NSF renews support for MIT-led AI and physics institute, expanding a new model for discovery",
-      "url": "https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604",
-      "date": "2026-06-04",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Teaching AI agents to ask better questions by playing “Battleship”",
-      "url": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
-      "date": "2026-06-03",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "url": "https://openai.com/index/chatgpt-memory-dreaming",
+      "title": "Biodefense in the Intelligence Age",
+      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
       "date": "2026-06-04",
       "source": "OpenAI News"
     },
     {
-      "title": "Toward Pre-Deployment Assurance for Enterprise AI Agents: Ontology-Grounded Simulation and Trust Certification",
-      "url": "https://arxiv.org/abs/2606.04037",
+      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "url": "https://openai.com/index/wasmer",
+      "date": "2026-06-03",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Five labs, five minds: building a multi-model finance drama on small models",
+      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+      "date": "2026-06-06",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "date": "2026-06-04",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "The crucial human component in computing and AI",
+      "url": "https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605",
       "date": "2026-06-05",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "MIT researchers teach AI models to interpret charts",
+      "url": "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603",
+      "date": "2026-06-03",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "url": "https://huggingface.co/blog/hf-cli-for-agents",
+      "date": "2026-06-04",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents",
+      "url": "https://arxiv.org/abs/2606.06453",
+      "date": "2026-06-06",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Safety Under Scaffolding: How Evaluation Conditions Shape Measured Safety",
-      "url": "https://arxiv.org/abs/2603.10044",
-      "date": "2026-06-05",
+      "title": "Benchmark Everything Everywhere All at Once",
+      "url": "https://arxiv.org/abs/2606.06462",
+      "date": "2026-06-06",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents",
-      "url": "https://arxiv.org/abs/2606.02031",
-      "date": "2026-06-05",
-      "source": "arXiv cs.LG"
+      "title": "Running Python code in a sandbox with MicroPython and WASM",
+      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+      "date": "2026-06-06",
+      "source": "Simon Willison"
     }
   ]
 }
