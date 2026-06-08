@@ -339,69 +339,79 @@
     "https://huggingface.co/blog/hf-cli-for-agents",
     "https://arxiv.org/abs/2606.06453",
     "https://arxiv.org/abs/2606.06462",
-    "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything"
+    "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
+    "https://openai.com/index/built-to-benefit-everyone-our-plan",
+    "https://openai.com/index/openai-submits-confidential-s-1",
+    "https://blog.google/products-and-platforms/products/search/fifa-world-cup-google-tools-2026/",
+    "https://huggingface.co/blog/openenv-agentic-rl",
+    "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
+    "https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604",
+    "https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603",
+    "https://arxiv.org/abs/2606.05050",
+    "https://arxiv.org/abs/2606.07074",
+    "https://arxiv.org/abs/2606.06546"
   ],
-  "lastRun": "2026-06-06T23:25:07.038Z",
+  "lastRun": "2026-06-08T23:28:55.803Z",
   "lastPosted": [
     {
-      "title": "Biodefense in the Intelligence Age",
-      "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
-      "date": "2026-06-04",
+      "title": "Built to benefit everyone: our plan",
+      "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
+      "date": "2026-06-08",
       "source": "OpenAI News"
     },
     {
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "url": "https://openai.com/index/wasmer",
-      "date": "2026-06-03",
+      "title": "Confidential submission of draft S-1 to the SEC",
+      "url": "https://openai.com/index/openai-submits-confidential-s-1",
+      "date": "2026-06-08",
       "source": "OpenAI News"
     },
     {
-      "title": "Five labs, five minds: building a multi-model finance drama on small models",
-      "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-      "date": "2026-06-06",
+      "title": "4 ways to keep up with the FIFA World Cup 2026™",
+      "url": "https://blog.google/products-and-platforms/products/search/fifa-world-cup-google-tools-2026/",
+      "date": "2026-06-08",
+      "source": "Gemini News"
+    },
+    {
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "url": "https://huggingface.co/blog/openenv-agentic-rl",
+      "date": "2026-06-08",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
       "date": "2026-06-04",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "The crucial human component in computing and AI",
-      "url": "https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605",
-      "date": "2026-06-05",
+      "title": "PATH to boost AI training and career opportunities for industry-aligned jobs",
+      "url": "https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604",
+      "date": "2026-06-04",
       "source": "MIT News AI"
     },
     {
-      "title": "MIT researchers teach AI models to interpret charts",
-      "url": "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603",
+      "title": "Tod Machover receives George Peabody Medal for contributions to music and technology",
+      "url": "https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603",
       "date": "2026-06-03",
       "source": "MIT News AI"
     },
     {
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "url": "https://huggingface.co/blog/hf-cli-for-agents",
-      "date": "2026-06-04",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Vortex: Efficient and Programmable Sparse Attention Serving for AI Agents",
-      "url": "https://arxiv.org/abs/2606.06453",
-      "date": "2026-06-06",
+      "title": "Autonomous heterogeneous catalyst discovery with a self-evolving multi-agent digital twin",
+      "url": "https://arxiv.org/abs/2606.05050",
+      "date": "2026-06-08",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Benchmark Everything Everywhere All at Once",
-      "url": "https://arxiv.org/abs/2606.06462",
-      "date": "2026-06-06",
+      "title": "SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating",
+      "url": "https://arxiv.org/abs/2606.07074",
+      "date": "2026-06-08",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Running Python code in a sandbox with MicroPython and WASM",
-      "url": "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
-      "date": "2026-06-06",
-      "source": "Simon Willison"
+      "title": "Elmes*: Automated Construction of Fine-Grained Evaluation Rubrics for Large Language Models in Long-Tail Educational Scenarios",
+      "url": "https://arxiv.org/abs/2606.06546",
+      "date": "2026-06-08",
+      "source": "arXiv cs.LG"
     }
   ]
 }
