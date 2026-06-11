@@ -369,69 +369,79 @@
     "https://huggingface.co/blog/ServiceNow-AI/code-switching",
     "https://arxiv.org/abs/2606.11150",
     "https://arxiv.org/abs/2606.09864",
-    "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything"
+    "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
+    "https://openai.com/index/openai-to-acquire-ona",
+    "https://openai.com/index/bbva",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
+    "https://www.anthropic.com/news/dxc-anthropic-alliance",
+    "https://www.anthropic.com/news/claude-corps",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+    "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+    "https://arxiv.org/abs/2606.12320",
+    "https://arxiv.org/abs/2604.20348",
+    "https://arxiv.org/abs/2606.12334"
   ],
-  "lastRun": "2026-06-10T23:33:49.772Z",
+  "lastRun": "2026-06-11T23:33:28.476Z",
   "lastPosted": [
     {
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "url": "https://openai.com/index/openai-on-oracle-cloud",
-      "date": "2026-06-10",
+      "title": "OpenAI to acquire Ona",
+      "url": "https://openai.com/index/openai-to-acquire-ona",
+      "date": "2026-06-11",
       "source": "OpenAI News"
     },
     {
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-      "date": "2026-06-10",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "url": "https://openai.com/index/bbva",
+      "date": "2026-06-11",
       "source": "OpenAI News"
     },
     {
-      "title": "Powering the future of robotics in Europe",
-      "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-      "date": "2026-06-09",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Save time and grow your business with new Gemini tools",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/",
-      "date": "2026-06-10",
-      "source": "Gemini News"
-    },
-    {
-      "title": "DiffusionGemma: 4x faster text generation",
-      "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+      "title": "Investing in multi-agent AI safety research",
+      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
       "date": "2026-06-10",
       "source": "Google DeepMind Blog"
     },
     {
-      "title": "New framework for auditing machine unlearning",
-      "url": "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
-      "date": "2026-06-10",
-      "source": "Google Research Blog"
+      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
+      "date": "2026-06-11",
+      "source": "Anthropic News"
     },
     {
-      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-      "date": "2026-06-09",
-      "source": "Hugging Face Blog"
+      "title": "Introducing Claude Corps",
+      "url": "https://www.anthropic.com/news/claude-corps",
+      "date": "2026-06-11",
+      "source": "Anthropic News"
     },
     {
-      "title": "ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity",
-      "url": "https://arxiv.org/abs/2606.11150",
-      "date": "2026-06-10",
+      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
+      "date": "2026-06-11",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+      "date": "2026-06-08",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "A Five-Plane Reference Architecture for Runtime Governance of Production AI Agents",
+      "url": "https://arxiv.org/abs/2606.12320",
+      "date": "2026-06-11",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Alignment Collapse Under KV Cache Quantization: Diagnosis and Mitigation",
-      "url": "https://arxiv.org/abs/2606.09864",
-      "date": "2026-06-10",
+      "title": "Bimanual Robot Manipulation via Multi-Agent In-Context Learning",
+      "url": "https://arxiv.org/abs/2604.20348",
+      "date": "2026-06-11",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Initial impressions of Claude Fable 5",
-      "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
-      "date": "2026-06-09",
-      "source": "Simon Willison"
+      "title": "Fourier Features Let Agents Learn High Precision Policies with Imitation Learning",
+      "url": "https://arxiv.org/abs/2606.12334",
+      "date": "2026-06-11",
+      "source": "arXiv cs.LG"
     }
   ]
 }
