@@ -379,68 +379,78 @@
     "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
     "https://arxiv.org/abs/2606.12320",
     "https://arxiv.org/abs/2604.20348",
-    "https://arxiv.org/abs/2606.12334"
+    "https://arxiv.org/abs/2606.12334",
+    "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "https://openai.com/index/preply",
+    "https://www.anthropic.com/news/tcs-anthropic-partnership",
+    "https://www.anthropic.com/news/anthropic-public-record",
+    "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
+    "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+    "https://huggingface.co/blog/allenai/olmo-eval",
+    "https://arxiv.org/abs/2606.12835",
+    "https://arxiv.org/abs/2606.12918",
+    "https://arxiv.org/abs/2511.19314"
   ],
-  "lastRun": "2026-06-11T23:33:28.476Z",
+  "lastRun": "2026-06-12T23:33:11.954Z",
   "lastPosted": [
     {
-      "title": "OpenAI to acquire Ona",
-      "url": "https://openai.com/index/openai-to-acquire-ona",
-      "date": "2026-06-11",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+      "date": "2026-06-12",
       "source": "OpenAI News"
     },
     {
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "url": "https://openai.com/index/bbva",
-      "date": "2026-06-11",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "url": "https://openai.com/index/preply",
+      "date": "2026-06-12",
       "source": "OpenAI News"
     },
     {
-      "title": "Investing in multi-agent AI safety research",
-      "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-      "date": "2026-06-10",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
-      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "date": "2026-06-11",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "date": "2026-06-12",
       "source": "Anthropic News"
     },
     {
-      "title": "Introducing Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "date": "2026-06-11",
+      "title": "Results from the first Anthropic Public Record",
+      "url": "https://www.anthropic.com/news/anthropic-public-record",
+      "date": "2026-06-12",
       "source": "Anthropic News"
     },
     {
-      "title": "Our new community investments in Virginia support local jobs and expand energy affordability.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-      "date": "2026-06-11",
-      "source": "Google AI Blog"
+      "title": "Research into how AI can help users understand skin conditions",
+      "url": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
+      "date": "2026-06-12",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-      "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-      "date": "2026-06-08",
-      "source": "Google DeepMind Blog"
+      "title": "A low-carbon computing platform from your retired phones",
+      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
+      "date": "2026-06-12",
+      "source": "Google Research Blog"
     },
     {
-      "title": "A Five-Plane Reference Architecture for Runtime Governance of Production AI Agents",
-      "url": "https://arxiv.org/abs/2606.12320",
-      "date": "2026-06-11",
+      "title": "olmo-eval: An evaluation workbench for the model development loop",
+      "url": "https://huggingface.co/blog/allenai/olmo-eval",
+      "date": "2026-06-12",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "The Internet of Agentic AI: Communication, Coordination, and Collective Intelligence at Scale",
+      "url": "https://arxiv.org/abs/2606.12835",
+      "date": "2026-06-12",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Bimanual Robot Manipulation via Multi-Agent In-Context Learning",
-      "url": "https://arxiv.org/abs/2604.20348",
-      "date": "2026-06-11",
+      "title": "MAStrike: Shapley-Guided Collusive Red-Teaming on Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2606.12918",
+      "date": "2026-06-12",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Fourier Features Let Agents Learn High Precision Policies with Imitation Learning",
-      "url": "https://arxiv.org/abs/2606.12334",
-      "date": "2026-06-11",
+      "title": "PRInTS: Reward Modeling for Long-Horizon Information Seeking",
+      "url": "https://arxiv.org/abs/2511.19314",
+      "date": "2026-06-12",
       "source": "arXiv cs.LG"
     }
   ]
