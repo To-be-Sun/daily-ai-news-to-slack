@@ -389,69 +389,79 @@
     "https://huggingface.co/blog/allenai/olmo-eval",
     "https://arxiv.org/abs/2606.12835",
     "https://arxiv.org/abs/2606.12918",
-    "https://arxiv.org/abs/2511.19314"
+    "https://arxiv.org/abs/2511.19314",
+    "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "https://www.anthropic.com/news/fable-mythos-access",
+    "https://openai.com/index/lseg",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/11/the-cmo-on-the-frontier-from-ai-experimentation-to-ai-at-work/",
+    "https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611",
+    "https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610",
+    "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+    "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+    "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran/"
   ],
-  "lastRun": "2026-06-12T23:33:11.954Z",
+  "lastRun": "2026-06-13T23:27:07.303Z",
   "lastPosted": [
     {
-      "title": "New OpenAI Academy courses for the next era of work",
-      "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
-      "date": "2026-06-12",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+      "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+      "date": "2026-06-11",
       "source": "OpenAI News"
     },
     {
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "url": "https://openai.com/index/preply",
-      "date": "2026-06-12",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://www.anthropic.com/news/fable-mythos-access",
       "date": "2026-06-12",
       "source": "Anthropic News"
     },
     {
-      "title": "Results from the first Anthropic Public Record",
-      "url": "https://www.anthropic.com/news/anthropic-public-record",
-      "date": "2026-06-12",
-      "source": "Anthropic News"
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "url": "https://openai.com/index/lseg",
+      "date": "2026-06-10",
+      "source": "OpenAI News"
     },
     {
-      "title": "Research into how AI can help users understand skin conditions",
-      "url": "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
-      "date": "2026-06-12",
-      "source": "Google Research Blog"
+      "title": "AI amplifies creativity by removing friction",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
+      "date": "2026-06-10",
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "A low-carbon computing platform from your retired phones",
-      "url": "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-      "date": "2026-06-12",
-      "source": "Google Research Blog"
+      "title": "The CMO on the frontier: From AI experimentation to AI at work",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/11/the-cmo-on-the-frontier-from-ai-experimentation-to-ai-at-work/",
+      "date": "2026-06-11",
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "olmo-eval: An evaluation workbench for the model development loop",
-      "url": "https://huggingface.co/blog/allenai/olmo-eval",
-      "date": "2026-06-12",
-      "source": "Hugging Face Blog"
+      "title": "When it comes to predicting people’s preferences, it pays to consider “the power of three”",
+      "url": "https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611",
+      "date": "2026-06-11",
+      "source": "MIT News AI"
     },
     {
-      "title": "The Internet of Agentic AI: Communication, Coordination, and Collective Intelligence at Scale",
-      "url": "https://arxiv.org/abs/2606.12835",
-      "date": "2026-06-12",
-      "source": "arXiv cs.AI"
+      "title": "Startup’s nuclear-inspired cooling system could make data centers more sustainable",
+      "url": "https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610",
+      "date": "2026-06-10",
+      "source": "MIT News AI"
     },
     {
-      "title": "MAStrike: Shapley-Guided Collusive Red-Teaming on Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2606.12918",
-      "date": "2026-06-12",
-      "source": "arXiv cs.AI"
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+      "url": "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
+      "date": "2026-06-13",
+      "source": "Simon Willison"
     },
     {
-      "title": "PRInTS: Reward Modeling for Long-Horizon Information Seeking",
-      "url": "https://arxiv.org/abs/2511.19314",
+      "title": "Claude Fable is relentlessly proactive",
+      "url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
+      "date": "2026-06-11",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind Veteran in America",
+      "url": "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran/",
       "date": "2026-06-12",
-      "source": "arXiv cs.LG"
+      "source": "Meta Newsroom"
     }
   ]
 }
