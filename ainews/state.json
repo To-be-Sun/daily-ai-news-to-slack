@@ -409,69 +409,79 @@
     "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
     "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
     "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure/",
-    "https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/"
+    "https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/",
+    "https://openai.com/index/deployment-simulation",
+    "https://openai.com/index/introducing-openai-partner-network",
+    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+    "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
+    "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
+    "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
+    "https://arxiv.org/abs/2606.16605",
+    "https://arxiv.org/abs/2606.15862",
+    "https://arxiv.org/abs/2511.18960"
   ],
-  "lastRun": "2026-06-14T23:30:16.424Z",
+  "lastRun": "2026-06-16T23:33:28.822Z",
   "lastPosted": [
     {
-      "title": "How an astrophysicist uses Codex to help simulate black holes",
-      "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-      "date": "2026-06-11",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "url": "https://openai.com/index/deployment-simulation",
+      "date": "2026-06-16",
       "source": "OpenAI News"
     },
     {
-      "title": "What Codex unlocks for Notion",
-      "url": "https://openai.com/index/notion",
-      "date": "2026-06-09",
+      "title": "Introducing the OpenAI Partner Network",
+      "url": "https://openai.com/index/introducing-openai-partner-network",
+      "date": "2026-06-14",
       "source": "OpenAI News"
     },
     {
-      "title": "Jinhua Zhao named head of the Department of Urban Studies and Planning",
-      "url": "https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611",
-      "date": "2026-06-11",
+      "title": "Unlocking UK house-building with AI-accelerated planning",
+      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
+      "date": "2026-06-16",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
+      "date": "2026-06-15",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
+      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
+      "date": "2026-06-16",
+      "source": "Gemini News"
+    },
+    {
+      "title": "From pixels to planning: Earth AI for nature restoration",
+      "url": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
+      "date": "2026-06-16",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "MIT’s Initiative for New Manufacturing builds momentum",
+      "url": "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
+      "date": "2026-06-16",
       "source": "MIT News AI"
     },
     {
-      "title": "MIT affiliates win 2026 Hertz Foundation Fellowships",
-      "url": "https://news.mit.edu/2026/hertz-foundation-fellowships-0611",
-      "date": "2026-06-11",
-      "source": "MIT News AI"
+      "title": "ARB4WM: An Adversarial Robustness Benchmark for World Models in Continuous Control",
+      "url": "https://arxiv.org/abs/2606.16605",
+      "date": "2026-06-16",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "Industrial policy for the Intelligence Age",
-      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-      "date": "2026-06-09",
-      "source": "OpenAI News"
+      "title": "RetailBench: Benchmarking long horizon reasoning and coherent decision making of LLM agents in realistic retail environments",
+      "url": "https://arxiv.org/abs/2606.15862",
+      "date": "2026-06-16",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "The consequences of relying on AI for accurate news",
-      "url": "https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609",
-      "date": "2026-06-09",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "OpenAI WebRTC Audio Session, now with document context",
-      "url": "https://simonwillison.net/2026/Jun/12/openai-webrtc/#atom-everything",
-      "date": "2026-06-12",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "DiffusionGemma",
-      "url": "https://simonwillison.net/2026/Jun/10/diffusiongemma/#atom-everything",
-      "date": "2026-06-10",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Infrastructure Explained: Compute Power",
-      "url": "https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure/",
-      "date": "2026-06-10",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Going All in for Global Football Fans Across Meta Apps",
-      "url": "https://about.fb.com/news/2026/06/going-all-in-for-global-football-fans-across-meta-apps/",
-      "date": "2026-06-11",
-      "source": "Meta Newsroom"
+      "title": "AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention",
+      "url": "https://arxiv.org/abs/2511.18960",
+      "date": "2026-06-16",
+      "source": "arXiv cs.LG"
     }
   ]
 }
