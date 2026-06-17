@@ -419,68 +419,78 @@
     "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
     "https://arxiv.org/abs/2606.16605",
     "https://arxiv.org/abs/2606.15862",
-    "https://arxiv.org/abs/2511.18960"
+    "https://arxiv.org/abs/2511.18960",
+    "https://openai.com/index/ai-chemist-improves-reaction",
+    "https://openai.com/index/introducing-life-sci-bench",
+    "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/15/scaling-ai-with-8-to-20x-energy-efficiency/",
+    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "https://arxiv.org/abs/2606.17459",
+    "https://arxiv.org/abs/2501.00826",
+    "https://arxiv.org/abs/2606.18043"
   ],
-  "lastRun": "2026-06-16T23:33:28.822Z",
+  "lastRun": "2026-06-17T23:34:43.563Z",
   "lastPosted": [
     {
-      "title": "Predicting model behavior before release by simulating deployment",
-      "url": "https://openai.com/index/deployment-simulation",
-      "date": "2026-06-16",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "date": "2026-06-17",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing the OpenAI Partner Network",
-      "url": "https://openai.com/index/introducing-openai-partner-network",
-      "date": "2026-06-14",
+      "title": "Introducing LifeSciBench",
+      "url": "https://openai.com/index/introducing-life-sci-bench",
+      "date": "2026-06-17",
       "source": "OpenAI News"
     },
     {
-      "title": "Unlocking UK house-building with AI-accelerated planning",
-      "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-      "date": "2026-06-16",
-      "source": "Google DeepMind Blog"
+      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
+      "date": "2026-06-17",
+      "source": "Anthropic News"
     },
     {
-      "title": "We’re strengthening our presence in Alabama through new investments and community support.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-      "date": "2026-06-15",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
+      "date": "2026-06-17",
       "source": "Google AI Blog"
     },
     {
-      "title": "June Pixel Drop: New features for creators, Gemini upgrades and more",
-      "url": "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
-      "date": "2026-06-16",
-      "source": "Gemini News"
+      "title": "Scaling AI with 8 to 20x energy efficiency",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/15/scaling-ai-with-8-to-20x-energy-efficiency/",
+      "date": "2026-06-15",
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "From pixels to planning: Earth AI for nature restoration",
-      "url": "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
-      "date": "2026-06-16",
-      "source": "Google Research Blog"
+      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+      "date": "2026-06-17",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "MIT’s Initiative for New Manufacturing builds momentum",
-      "url": "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
-      "date": "2026-06-16",
-      "source": "MIT News AI"
+      "title": "Agentic Resource Discovery: Let agents search",
+      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+      "date": "2026-06-17",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "ARB4WM: An Adversarial Robustness Benchmark for World Models in Continuous Control",
-      "url": "https://arxiv.org/abs/2606.16605",
-      "date": "2026-06-16",
+      "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
+      "url": "https://arxiv.org/abs/2606.17459",
+      "date": "2026-06-17",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "RetailBench: Benchmarking long horizon reasoning and coherent decision making of LLM agents in realistic retail environments",
-      "url": "https://arxiv.org/abs/2606.15862",
-      "date": "2026-06-16",
+      "title": "LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management",
+      "url": "https://arxiv.org/abs/2501.00826",
+      "date": "2026-06-17",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "AVA-VLA: Improving Vision-Language-Action models with Active Visual Attention",
-      "url": "https://arxiv.org/abs/2511.18960",
-      "date": "2026-06-16",
+      "title": "Uncertainty Quantification for Flow-Based Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2606.18043",
+      "date": "2026-06-17",
       "source": "arXiv cs.LG"
     }
   ]
