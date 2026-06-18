@@ -429,68 +429,78 @@
     "https://huggingface.co/blog/agentic-resource-discovery-launch",
     "https://arxiv.org/abs/2606.17459",
     "https://arxiv.org/abs/2501.00826",
-    "https://arxiv.org/abs/2606.18043"
+    "https://arxiv.org/abs/2606.18043",
+    "https://openai.com/index/diagnose-rare-childhood-diseases",
+    "https://openai.com/index/chatgpt-enterprise-spend-controls",
+    "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/18/4-paths-to-frontier-transformation-from-ai-experimentation-to-real-business-value/",
+    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+    "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/",
+    "https://huggingface.co/blog/is-it-agentic-enough",
+    "https://arxiv.org/abs/2604.06367",
+    "https://arxiv.org/abs/2606.19245",
+    "https://arxiv.org/abs/2606.18967"
   ],
-  "lastRun": "2026-06-17T23:34:43.563Z",
+  "lastRun": "2026-06-18T23:35:16.169Z",
   "lastPosted": [
     {
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "date": "2026-06-17",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "date": "2026-06-18",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing LifeSciBench",
-      "url": "https://openai.com/index/introducing-life-sci-bench",
-      "date": "2026-06-17",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+      "date": "2026-06-18",
       "source": "OpenAI News"
     },
     {
-      "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
-      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "date": "2026-06-17",
-      "source": "Anthropic News"
+      "title": "Powering the world’s first AI arts museum",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
+      "date": "2026-06-18",
+      "source": "Gemini News"
     },
     {
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-      "date": "2026-06-17",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Scaling AI with 8 to 20x energy efficiency",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/15/scaling-ai-with-8-to-20x-energy-efficiency/",
-      "date": "2026-06-15",
+      "title": "4 paths to Frontier Transformation: From AI experimentation to real business value",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/18/4-paths-to-frontier-transformation-from-ai-experimentation-to-real-business-value/",
+      "date": "2026-06-18",
       "source": "Microsoft AI Blog"
     },
     {
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-      "date": "2026-06-17",
+      "title": "Securing the future of AI agents",
+      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
+      "date": "2026-06-16",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Achieving success with AI",
+      "url": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/",
+      "date": "2026-06-16",
+      "source": "Microsoft AI Blog"
+    },
+    {
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "date": "2026-06-18",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Agentic Resource Discovery: Let agents search",
-      "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-      "date": "2026-06-17",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
-      "url": "https://arxiv.org/abs/2606.17459",
-      "date": "2026-06-17",
+      "title": "WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks",
+      "url": "https://arxiv.org/abs/2604.06367",
+      "date": "2026-06-18",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "LLM-Powered Multi-Agent System for Automated Crypto Portfolio Management",
-      "url": "https://arxiv.org/abs/2501.00826",
-      "date": "2026-06-17",
+      "title": "TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology",
+      "url": "https://arxiv.org/abs/2606.19245",
+      "date": "2026-06-18",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Uncertainty Quantification for Flow-Based Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2606.18043",
-      "date": "2026-06-17",
+      "title": "EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts",
+      "url": "https://arxiv.org/abs/2606.18967",
+      "date": "2026-06-18",
       "source": "arXiv cs.LG"
     }
   ]
