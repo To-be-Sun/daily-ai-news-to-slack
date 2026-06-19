@@ -439,68 +439,78 @@
     "https://huggingface.co/blog/is-it-agentic-enough",
     "https://arxiv.org/abs/2604.06367",
     "https://arxiv.org/abs/2606.19245",
-    "https://arxiv.org/abs/2606.18967"
+    "https://arxiv.org/abs/2606.18967",
+    "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+    "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
+    "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
+    "https://huggingface.co/blog/peft-beyond-lora",
+    "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
+    "https://huggingface.co/blog/allenai/molmomotion",
+    "https://arxiv.org/abs/2606.19464",
+    "https://arxiv.org/abs/2606.19595",
+    "https://arxiv.org/abs/2606.20537"
   ],
-  "lastRun": "2026-06-18T23:35:16.169Z",
+  "lastRun": "2026-06-19T23:25:05.589Z",
   "lastPosted": [
     {
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+      "title": "Improving health intelligence in ChatGPT",
+      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
       "date": "2026-06-18",
       "source": "OpenAI News"
     },
     {
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
-      "date": "2026-06-18",
-      "source": "OpenAI News"
+      "title": "A better way to model the behavior of metal alloys",
+      "url": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
+      "date": "2026-06-19",
+      "source": "MIT News AI"
     },
     {
-      "title": "Powering the world’s first AI arts museum",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
-      "date": "2026-06-18",
-      "source": "Gemini News"
-    },
-    {
-      "title": "4 paths to Frontier Transformation: From AI experimentation to real business value",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/18/4-paths-to-frontier-transformation-from-ai-experimentation-to-real-business-value/",
-      "date": "2026-06-18",
-      "source": "Microsoft AI Blog"
-    },
-    {
-      "title": "Securing the future of AI agents",
-      "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-      "date": "2026-06-16",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Achieving success with AI",
-      "url": "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/",
-      "date": "2026-06-16",
-      "source": "Microsoft AI Blog"
-    },
-    {
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "url": "https://huggingface.co/blog/is-it-agentic-enough",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
       "date": "2026-06-18",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks",
-      "url": "https://arxiv.org/abs/2604.06367",
+      "title": "Could AI tell you where you left your keys?",
+      "url": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
+      "date": "2026-06-17",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+      "url": "https://huggingface.co/blog/peft-beyond-lora",
       "date": "2026-06-18",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
+      "url": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
+      "date": "2026-06-18",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "MolmoMotion: Language-guided 3D motion forecasting",
+      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "date": "2026-06-17",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2606.19464",
+      "date": "2026-06-19",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "TxBench-PP: Analyzing AI Agent Performance on Small-Molecule Preclinical Pharmacology",
-      "url": "https://arxiv.org/abs/2606.19245",
-      "date": "2026-06-18",
+      "title": "IHBench: Evaluating Post-Interruption Recovery in Voice Agents with Structured Workflows",
+      "url": "https://arxiv.org/abs/2606.19595",
+      "date": "2026-06-19",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts",
-      "url": "https://arxiv.org/abs/2606.18967",
-      "date": "2026-06-18",
+      "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
+      "url": "https://arxiv.org/abs/2606.20537",
+      "date": "2026-06-19",
       "source": "arXiv cs.LG"
     }
   ]
