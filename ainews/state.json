@@ -449,69 +449,79 @@
     "https://huggingface.co/blog/allenai/molmomotion",
     "https://arxiv.org/abs/2606.19464",
     "https://arxiv.org/abs/2606.19595",
-    "https://arxiv.org/abs/2606.20537"
+    "https://arxiv.org/abs/2606.20537",
+    "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617",
+    "https://arxiv.org/abs/2606.20520",
+    "https://arxiv.org/abs/2603.19423",
+    "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+    "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
+    "https://about.fb.com/news/2026/06/strengthening-teen-accounts-with-new-safety-updates-on-instagram-and-facebook/",
+    "https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features/",
+    "https://zenn.dev/satoru_o/articles/efaa935d1e4cdd",
+    "https://qiita.com/lhjjjk4/items/aa3e788d681ec6f8d67f"
   ],
-  "lastRun": "2026-06-19T23:25:05.589Z",
+  "lastRun": "2026-06-20T23:29:01.809Z",
   "lastPosted": [
     {
-      "title": "Improving health intelligence in ChatGPT",
-      "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-      "date": "2026-06-18",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "A better way to model the behavior of metal alloys",
-      "url": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
-      "date": "2026-06-19",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-      "date": "2026-06-18",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Could AI tell you where you left your keys?",
-      "url": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
-      "date": "2026-06-17",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "date": "2026-06-18",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "MIT in the media: For the future of tech, \"Massachusetts can absolutely lead\"",
-      "url": "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
-      "date": "2026-06-18",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "MolmoMotion: Language-guided 3D motion forecasting",
-      "url": "https://huggingface.co/blog/allenai/molmomotion",
+      "title": "GLM-5.2: Built for Long-Horizon Tasks",
+      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
       "date": "2026-06-17",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2606.19464",
-      "date": "2026-06-19",
+      "title": "In game theory, generalists sometimes win out over specialists",
+      "url": "https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617",
+      "date": "2026-06-17",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes",
+      "url": "https://arxiv.org/abs/2606.20520",
+      "date": "2026-06-20",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "IHBench: Evaluating Post-Interruption Recovery in Voice Agents with Structured Workflows",
-      "url": "https://arxiv.org/abs/2606.19595",
-      "date": "2026-06-19",
+      "title": "The Autonomy Tax: Defense Training Breaks LLM Agents",
+      "url": "https://arxiv.org/abs/2603.19423",
+      "date": "2026-06-20",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving",
-      "url": "https://arxiv.org/abs/2606.20537",
+      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
+      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
+      "date": "2026-06-18",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Quoting Sean Lynch",
+      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
       "date": "2026-06-19",
-      "source": "arXiv cs.LG"
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Strengthening Teen Accounts with New Safety Updates on Instagram and Facebook",
+      "url": "https://about.fb.com/news/2026/06/strengthening-teen-accounts-with-new-safety-updates-on-instagram-and-facebook/",
+      "date": "2026-06-18",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "Threads Returns to Türkiye With New Features",
+      "url": "https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features/",
+      "date": "2026-06-17",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "Strands Agentsでツールを実行するAIエージェントを2つ実装した記録",
+      "url": "https://zenn.dev/satoru_o/articles/efaa935d1e4cdd",
+      "date": "2026-06-20",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "AI Daily Digest: 2026年6月21日 — Fable 5禁止9日目、ShazeerがOpenAIへ、SpaceXが600億ドルでCursor買収",
+      "url": "https://qiita.com/lhjjjk4/items/aa3e788d681ec6f8d67f",
+      "date": "2026-06-20",
+      "source": "Qiita AI"
     }
   ]
 }
