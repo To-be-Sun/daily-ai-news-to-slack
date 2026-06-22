@@ -459,69 +459,79 @@
     "https://about.fb.com/news/2026/06/strengthening-teen-accounts-with-new-safety-updates-on-instagram-and-facebook/",
     "https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features/",
     "https://zenn.dev/satoru_o/articles/efaa935d1e4cdd",
-    "https://qiita.com/lhjjjk4/items/aa3e788d681ec6f8d67f"
+    "https://qiita.com/lhjjjk4/items/aa3e788d681ec6f8d67f",
+    "https://openai.com/index/daybreak-securing-the-world",
+    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+    "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+    "https://openai.com/index/patch-the-planet",
+    "https://openai.com/index/codex-maxxing-long-running-work",
+    "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+    "https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/",
+    "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+    "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
+    "https://zenn.dev/okssusucha/articles/20260622-grok-4-3-bedrock-mantle-openai-compatible"
   ],
-  "lastRun": "2026-06-20T23:29:01.809Z",
+  "lastRun": "2026-06-22T23:32:40.467Z",
   "lastPosted": [
     {
-      "title": "GLM-5.2: Built for Long-Horizon Tasks",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "date": "2026-06-17",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "url": "https://openai.com/index/daybreak-securing-the-world",
+      "date": "2026-06-22",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
+      "date": "2026-06-21",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+      "date": "2026-06-22",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "In game theory, generalists sometimes win out over specialists",
-      "url": "https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617",
-      "date": "2026-06-17",
-      "source": "MIT News AI"
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "url": "https://openai.com/index/patch-the-planet",
+      "date": "2026-06-22",
+      "source": "OpenAI News"
     },
     {
-      "title": "Sovereign Execution Brokers: Enforcing Certificate-Bound Authority in Agentic Control Planes",
-      "url": "https://arxiv.org/abs/2606.20520",
-      "date": "2026-06-20",
-      "source": "arXiv cs.AI"
+      "title": "Codex-maxxing for long-running work",
+      "url": "https://openai.com/index/codex-maxxing-long-running-work",
+      "date": "2026-06-22",
+      "source": "OpenAI News"
     },
     {
-      "title": "The Autonomy Tax: Defense Training Breaks LLM Agents",
-      "url": "https://arxiv.org/abs/2603.19423",
-      "date": "2026-06-20",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Datasette Apps: Host custom HTML applications inside Datasette",
-      "url": "https://simonwillison.net/2026/Jun/18/datasette-apps/#atom-everything",
-      "date": "2026-06-18",
+      "title": "Temporary Cloudflare Accounts for AI agents",
+      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
+      "date": "2026-06-21",
       "source": "Simon Willison"
     },
     {
-      "title": "Quoting Sean Lynch",
-      "url": "https://simonwillison.net/2026/Jun/19/sean-lynch/#atom-everything",
-      "date": "2026-06-19",
+      "title": "Instagram for TV Gets Bigger, With New Ways to Watch Together",
+      "url": "https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/",
+      "date": "2026-06-22",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
+      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
+      "date": "2026-06-21",
       "source": "Simon Willison"
     },
     {
-      "title": "Strengthening Teen Accounts with New Safety Updates on Instagram and Facebook",
-      "url": "https://about.fb.com/news/2026/06/strengthening-teen-accounts-with-new-safety-updates-on-instagram-and-facebook/",
-      "date": "2026-06-18",
+      "title": "New Features to Celebrate 500 Million Monthly Users on Threads",
+      "url": "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
+      "date": "2026-06-16",
       "source": "Meta Newsroom"
     },
     {
-      "title": "Threads Returns to Türkiye With New Features",
-      "url": "https://about.fb.com/news/2026/06/threads-returns-to-turkiye-with-new-features/",
-      "date": "2026-06-17",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Strands Agentsでツールを実行するAIエージェントを2つ実装した記録",
-      "url": "https://zenn.dev/satoru_o/articles/efaa935d1e4cdd",
-      "date": "2026-06-20",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "AI Daily Digest: 2026年6月21日 — Fable 5禁止9日目、ShazeerがOpenAIへ、SpaceXが600億ドルでCursor買収",
-      "url": "https://qiita.com/lhjjjk4/items/aa3e788d681ec6f8d67f",
-      "date": "2026-06-20",
-      "source": "Qiita AI"
+      "title": "Grok 4.3はBedrockのConverseで呼べない。OpenAI互換Mantle経由だけ",
+      "url": "https://zenn.dev/okssusucha/articles/20260622-grok-4-3-bedrock-mantle-openai-compatible",
+      "date": "2026-06-22",
+      "source": "Zenn AI"
     }
   ]
 }
