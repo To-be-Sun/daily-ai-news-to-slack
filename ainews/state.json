@@ -469,69 +469,79 @@
     "https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/",
     "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
     "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
-    "https://zenn.dev/okssusucha/articles/20260622-grok-4-3-bedrock-mantle-openai-compatible"
+    "https://zenn.dev/okssusucha/articles/20260622-grok-4-3-bedrock-mantle-openai-compatible",
+    "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+    "https://openai.com/index/omio",
+    "https://www.anthropic.com/news/introducing-claude-tag",
+    "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+    "https://huggingface.co/blog/ibm-research/cuga-apps",
+    "https://huggingface.co/blog/cross-origin-storage",
+    "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
+    "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+    "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
+    "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything"
   ],
-  "lastRun": "2026-06-22T23:32:40.467Z",
+  "lastRun": "2026-06-23T23:26:36.622Z",
   "lastPosted": [
     {
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "url": "https://openai.com/index/daybreak-securing-the-world",
-      "date": "2026-06-22",
+      "title": "Helping build shared standards for advanced AI",
+      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "date": "2026-06-23",
       "source": "OpenAI News"
     },
     {
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "date": "2026-06-21",
+      "title": "How Omio is building the future of conversational travel",
+      "url": "https://openai.com/index/omio",
+      "date": "2026-06-23",
       "source": "OpenAI News"
     },
     {
-      "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-      "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-      "date": "2026-06-22",
+      "title": "Introducing Claude Tag",
+      "url": "https://www.anthropic.com/news/introducing-claude-tag",
+      "date": "2026-06-23",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "New chip could help tiny robots traverse complex environments",
+      "url": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
+      "date": "2026-06-23",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
+      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
+      "date": "2026-06-23",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "url": "https://openai.com/index/patch-the-planet",
-      "date": "2026-06-22",
-      "source": "OpenAI News"
+      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
+      "url": "https://huggingface.co/blog/cross-origin-storage",
+      "date": "2026-06-23",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Codex-maxxing for long-running work",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "date": "2026-06-22",
-      "source": "OpenAI News"
+      "title": "Exploring the societal impacts of AI",
+      "url": "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
+      "date": "2026-06-23",
+      "source": "MIT News AI"
     },
     {
-      "title": "Temporary Cloudflare Accounts for AI agents",
-      "url": "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
-      "date": "2026-06-21",
+      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
+      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
+      "date": "2026-06-22",
       "source": "Simon Willison"
     },
     {
-      "title": "Instagram for TV Gets Bigger, With New Ways to Watch Together",
-      "url": "https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/",
-      "date": "2026-06-22",
+      "title": "We’re Partnering With EssilorLuxottica to Launch Meta Glasses",
+      "url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
+      "date": "2026-06-23",
       "source": "Meta Newsroom"
     },
     {
-      "title": "sqlite-utils 4.0rc1 adds migrations and nested transactions",
-      "url": "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
-      "date": "2026-06-21",
+      "title": "Prompt Injection as Role Confusion",
+      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+      "date": "2026-06-22",
       "source": "Simon Willison"
-    },
-    {
-      "title": "New Features to Celebrate 500 Million Monthly Users on Threads",
-      "url": "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
-      "date": "2026-06-16",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Grok 4.3はBedrockのConverseで呼べない。OpenAI互換Mantle経由だけ",
-      "url": "https://zenn.dev/okssusucha/articles/20260622-grok-4-3-bedrock-mantle-openai-compatible",
-      "date": "2026-06-22",
-      "source": "Zenn AI"
     }
   ]
 }
