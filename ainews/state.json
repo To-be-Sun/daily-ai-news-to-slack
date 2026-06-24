@@ -479,69 +479,79 @@
     "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
     "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
     "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
-    "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything"
+    "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
+    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+    "https://openai.com/index/gpt-5-immunology-mystery",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+    "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
+    "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "https://huggingface.co/blog/ffasr-leaderboard",
+    "https://arxiv.org/abs/2606.23032",
+    "https://arxiv.org/abs/2606.23991",
+    "https://arxiv.org/abs/2606.23754"
   ],
-  "lastRun": "2026-06-23T23:26:36.622Z",
+  "lastRun": "2026-06-24T23:27:40.057Z",
   "lastPosted": [
     {
-      "title": "Helping build shared standards for advanced AI",
-      "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+      "date": "2026-06-24",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
+      "url": "https://openai.com/index/gpt-5-immunology-mystery",
       "date": "2026-06-23",
       "source": "OpenAI News"
     },
     {
-      "title": "How Omio is building the future of conversational travel",
-      "url": "https://openai.com/index/omio",
-      "date": "2026-06-23",
-      "source": "OpenAI News"
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "date": "2026-06-24",
+      "source": "Gemini News"
     },
     {
-      "title": "Introducing Claude Tag",
-      "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "date": "2026-06-23",
-      "source": "Anthropic News"
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
+      "date": "2026-06-24",
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "New chip could help tiny robots traverse complex environments",
-      "url": "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
-      "date": "2026-06-23",
-      "source": "MIT News AI"
+      "title": "Thinking to recall: How reasoning unlocks parametric knowledge in LLMs",
+      "url": "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
+      "date": "2026-06-24",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
-      "date": "2026-06-23",
+      "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+      "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+      "date": "2026-06-24",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Experimenting with the proposed Cross-Origin Storage API in Transformers.js",
-      "url": "https://huggingface.co/blog/cross-origin-storage",
-      "date": "2026-06-23",
+      "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+      "url": "https://huggingface.co/blog/ffasr-leaderboard",
+      "date": "2026-06-24",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Exploring the societal impacts of AI",
-      "url": "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
-      "date": "2026-06-23",
-      "source": "MIT News AI"
+      "title": "IPO Finance Agent: Evaluation of LLM Financial Analysts beyond Finance Agent v2, with Automated Rubric Generation -- the Case of the SpaceX (SPCX) IPO",
+      "url": "https://arxiv.org/abs/2606.23032",
+      "date": "2026-06-24",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "Porting the Moebius 0.2B image inpainting model to run in the browser with Claude Code",
-      "url": "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
-      "date": "2026-06-22",
-      "source": "Simon Willison"
+      "title": "Critique of Agent Model",
+      "url": "https://arxiv.org/abs/2606.23991",
+      "date": "2026-06-24",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "We’re Partnering With EssilorLuxottica to Launch Meta Glasses",
-      "url": "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
-      "date": "2026-06-23",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Prompt Injection as Role Confusion",
-      "url": "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
-      "date": "2026-06-22",
-      "source": "Simon Willison"
+      "title": "Verifiable Foundation Models for Robot Safety",
+      "url": "https://arxiv.org/abs/2606.23754",
+      "date": "2026-06-24",
+      "source": "arXiv cs.LG"
     }
   ]
 }
