@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/openai-on-aws",
-    "https://openai.com/index/our-commitment-to-community-safety",
-    "https://www.anthropic.com/news/theo-hourmouzis-general-manager-australia-new-zealand",
-    "https://www.anthropic.com/news/claude-for-creative-work",
-    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
-    "https://deepmind.google/blog/ai-co-clinician/",
-    "https://blog.google/products-and-platforms/platforms/google-tv/enjoy-new-ways-to-create-search-and-stream-on-google-tv/",
-    "https://simonwillison.net/2026/Apr/30/gpt-55-cyber-capabilities/#atom-everything",
-    "https://simonwillison.net/2026/Apr/30/codex-goals/#atom-everything",
-    "https://about.fb.com/news/2026/04/bringing-prepaid-mobile-recharges-to-whatsapp-users-in-india/",
     "https://openai.com/index/cybersecurity-in-the-intelligence-age",
     "https://openai.com/index/openai-available-at-fedramp-moderate",
     "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
@@ -499,68 +489,78 @@
     "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
     "https://arxiv.org/abs/2606.24834",
     "https://arxiv.org/abs/2504.06138",
-    "https://arxiv.org/abs/2606.24958"
+    "https://arxiv.org/abs/2606.24958",
+    "https://openai.com/index/previewing-gpt-5-6-sol",
+    "https://blog.google/products-and-platforms/products/gemini/gemini-help-avoid-jetlag/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
+    "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
+    "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
+    "https://huggingface.co/blog/vllm-jobs",
+    "https://news.mit.edu/2026/david-autor-named-head-department-economics-0626",
+    "https://arxiv.org/abs/2606.26346",
+    "https://arxiv.org/abs/2606.26686",
+    "https://arxiv.org/abs/2606.26204"
   ],
-  "lastRun": "2026-06-25T23:30:50.108Z",
+  "lastRun": "2026-06-26T23:28:11.235Z",
   "lastPosted": [
     {
-      "title": "How agents are transforming work",
-      "url": "https://openai.com/index/how-agents-are-transforming-work",
-      "date": "2026-06-25",
+      "title": "Previewing GPT-5.6 Sol: a next-generation model",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+      "date": "2026-06-26",
       "source": "OpenAI News"
     },
     {
-      "title": "Our latest Google Finance upgrades, including a new app",
-      "url": "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-      "date": "2026-06-25",
-      "source": "Google AI Blog"
+      "title": "Here's how Gemini can help you avoid jetlag.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-help-avoid-jetlag/",
+      "date": "2026-06-26",
+      "source": "Gemini News"
     },
     {
-      "title": "Try these 3 Google AI tools to help find your next job.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/",
+      "title": "5 ways to learn with study notebooks in the Gemini app",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
       "date": "2026-06-25",
       "source": "Gemini News"
     },
     {
-      "title": "5 ways Google parents are using Gemini",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/",
-      "date": "2026-06-25",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Optimizing cloud economics with linear elastic caching",
-      "url": "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/",
-      "date": "2026-06-25",
+      "title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
+      "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
+      "date": "2026-06-26",
       "source": "Google Research Blog"
     },
     {
-      "title": "Which tokens does a hybrid model predict better?",
-      "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-      "date": "2026-06-25",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Improving the speed and energy-efficiency of AI agents",
-      "url": "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
-      "date": "2026-06-25",
+      "title": "LLMs help robots understand vague instructions and focus on key details",
+      "url": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
+      "date": "2026-06-26",
       "source": "MIT News AI"
     },
     {
-      "title": "Accuracy and Satisfaction in Multi-Turn LLM Dialogues for NFR Assessment",
-      "url": "https://arxiv.org/abs/2606.24834",
-      "date": "2026-06-25",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "url": "https://huggingface.co/blog/vllm-jobs",
+      "date": "2026-06-26",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "David Autor named head of the Department of Economics",
+      "url": "https://news.mit.edu/2026/david-autor-named-head-department-economics-0626",
+      "date": "2026-06-26",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+      "url": "https://arxiv.org/abs/2606.26346",
+      "date": "2026-06-26",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Multimedia and Visual Analytics in the Agentic Era",
-      "url": "https://arxiv.org/abs/2504.06138",
-      "date": "2026-06-25",
+      "title": "Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation",
+      "url": "https://arxiv.org/abs/2606.26686",
+      "date": "2026-06-26",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Swarm-Inspired Generation of Collective Behaviors in Graph Dynamical Systems",
-      "url": "https://arxiv.org/abs/2606.24958",
-      "date": "2026-06-25",
+      "title": "Topology-Informed Neural Networks for Flood Detection in Optical and Synthetic Aperture Radar Imagery",
+      "url": "https://arxiv.org/abs/2606.26204",
+      "date": "2026-06-26",
       "source": "arXiv cs.LG"
     }
   ]
