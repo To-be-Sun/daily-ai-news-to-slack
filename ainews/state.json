@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/cybersecurity-in-the-intelligence-age",
-    "https://openai.com/index/openai-available-at-fedramp-moderate",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
-    "https://blog.google/products-and-platforms/products/translate/fun-facts-google-translate-20-years/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/generate-files-in-gemini/",
-    "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/",
-    "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/",
-    "https://simonwillison.net/2026/May/3/anthropic/#atom-everything",
-    "https://simonwillison.net/2026/May/1/inat-sightings/#atom-everything",
-    "https://about.fb.com/news/2026/04/infrastructure-explained-meta-data-centers/",
     "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
     "https://www.anthropic.com/news/enterprise-ai-services-company",
     "https://openai.com/index/advanced-account-security",
@@ -499,69 +489,79 @@
     "https://news.mit.edu/2026/david-autor-named-head-department-economics-0626",
     "https://arxiv.org/abs/2606.26346",
     "https://arxiv.org/abs/2606.26686",
-    "https://arxiv.org/abs/2606.26204"
+    "https://arxiv.org/abs/2606.26204",
+    "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
+    "https://huggingface.co/blog/local-models-pr-triage",
+    "https://huggingface.co/blog/huggingface-hub-release-ci",
+    "https://arxiv.org/abs/2606.26443",
+    "https://arxiv.org/abs/2606.26552",
+    "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+    "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+    "https://about.fb.com/news/2026/06/inside-meta-data-center/",
+    "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/",
+    "https://zenn.dev/revo1290/articles/anthropic-fable5-export-control-suspension"
   ],
-  "lastRun": "2026-06-26T23:28:11.235Z",
+  "lastRun": "2026-06-27T23:24:17.805Z",
   "lastPosted": [
     {
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-      "date": "2026-06-26",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Here's how Gemini can help you avoid jetlag.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-help-avoid-jetlag/",
-      "date": "2026-06-26",
-      "source": "Gemini News"
-    },
-    {
-      "title": "5 ways to learn with study notebooks in the Gemini app",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
+      "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
+      "url": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
       "date": "2026-06-25",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction",
-      "url": "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
-      "date": "2026-06-26",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "LLMs help robots understand vague instructions and focus on key details",
-      "url": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
-      "date": "2026-06-26",
       "source": "MIT News AI"
     },
     {
-      "title": "Run a vLLM Server on HF Jobs in One Command",
-      "url": "https://huggingface.co/blog/vllm-jobs",
-      "date": "2026-06-26",
+      "title": "We got local models to triage the OpenClaw repo for FREE!*",
+      "url": "https://huggingface.co/blog/local-models-pr-triage",
+      "date": "2026-06-22",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "David Autor named head of the Department of Economics",
-      "url": "https://news.mit.edu/2026/david-autor-named-head-department-economics-0626",
-      "date": "2026-06-26",
-      "source": "MIT News AI"
+      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "date": "2026-06-23",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
-      "url": "https://arxiv.org/abs/2606.26346",
-      "date": "2026-06-26",
+      "title": "WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation",
+      "url": "https://arxiv.org/abs/2606.26443",
+      "date": "2026-06-27",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Do Safety Guardrails Need to Reason? LeanGuard: A Fast and Light Approach for Robust Moderation",
-      "url": "https://arxiv.org/abs/2606.26686",
-      "date": "2026-06-26",
+      "title": "Perception, Verdict, and Evolution: Hindsight-Driven Self-Refining Forensics Agent for AI-Generated Image Detection",
+      "url": "https://arxiv.org/abs/2606.26552",
+      "date": "2026-06-27",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Topology-Informed Neural Networks for Flood Detection in Optical and Synthetic Aperture Radar Imagery",
-      "url": "https://arxiv.org/abs/2606.26204",
+      "title": "What happened after 2,000 people tried to hack my AI assistant",
+      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
       "date": "2026-06-26",
-      "source": "arXiv cs.LG"
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Incident Report: CVE-2026-LGTM",
+      "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+      "date": "2026-06-26",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Inside One of Meta’s Data Centers",
+      "url": "https://about.fb.com/news/2026/06/inside-meta-data-center/",
+      "date": "2026-06-26",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills",
+      "url": "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/",
+      "date": "2026-06-23",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "米政府の輸出規制でClaude Fable 5が全世界停止――AI業界に衝撃が走った13日間",
+      "url": "https://zenn.dev/revo1290/articles/anthropic-fable5-export-control-suspension",
+      "date": "2026-06-26",
+      "source": "Zenn 生成AI"
     }
   ]
 }
