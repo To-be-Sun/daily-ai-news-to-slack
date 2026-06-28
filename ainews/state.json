@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
-    "https://www.anthropic.com/news/enterprise-ai-services-company",
-    "https://openai.com/index/advanced-account-security",
-    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-april-2026/",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
-    "https://news.mit.edu/2026/making-case-curiosity-driven-science",
-    "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
-    "https://arxiv.org/abs/2605.00068",
-    "https://arxiv.org/abs/2605.00677",
-    "https://simonwillison.net/2026/May/4/april-newsletter/#atom-everything",
     "https://openai.com/index/openai-pwc-finance-collaboration",
     "https://openai.com/index/gpt-5-5-instant",
     "https://www.anthropic.com/news/finance-agents",
@@ -499,69 +489,79 @@
     "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
     "https://about.fb.com/news/2026/06/inside-meta-data-center/",
     "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/",
-    "https://zenn.dev/revo1290/articles/anthropic-fable5-export-control-suspension"
+    "https://zenn.dev/revo1290/articles/anthropic-fable5-export-control-suspension",
+    "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
+    "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
+    "https://zenn.dev/okssusucha/articles/20260628-anthropic-agent-sdk-credit-pause-june-202",
+    "https://zenn.dev/yottayoshida/articles/rag-knowledge-ops-agent-search",
+    "https://zenn.dev/koro_st/articles/69cd43fdac918f",
+    "https://qiita.com/sakutto-panda/items/620152bb67fd47b3c1c3",
+    "https://qiita.com/kai_kou/items/f396eb7c8f0a90723ff5",
+    "https://qiita.com/masaki130/items/f50ffeb6d32b339d2592",
+    "https://zenn.dev/yuen/articles/7fbb50504ec5d2",
+    "https://qiita.com/c_u/items/f802308cccc7d7b2643f"
   ],
-  "lastRun": "2026-06-27T23:24:17.805Z",
+  "lastRun": "2026-06-28T23:25:57.170Z",
   "lastPosted": [
     {
-      "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
-      "url": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
-      "date": "2026-06-25",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "We got local models to triage the OpenClaw repo for FREE!*",
-      "url": "https://huggingface.co/blog/local-models-pr-triage",
-      "date": "2026-06-22",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-      "date": "2026-06-23",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "WatchAct: A Benchmark for Behavior-Grounded Robot Manipulation",
-      "url": "https://arxiv.org/abs/2606.26443",
-      "date": "2026-06-27",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Perception, Verdict, and Evolution: Hindsight-Driven Self-Refining Forensics Agent for AI-Generated Image Detection",
-      "url": "https://arxiv.org/abs/2606.26552",
-      "date": "2026-06-27",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "What happened after 2,000 people tried to hack my AI assistant",
-      "url": "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
+      "title": "Quoting Dean W. Ball",
+      "url": "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
       "date": "2026-06-26",
       "source": "Simon Willison"
     },
     {
-      "title": "Incident Report: CVE-2026-LGTM",
-      "url": "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
+      "title": "Quoting OpenAI",
+      "url": "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
       "date": "2026-06-26",
       "source": "Simon Willison"
     },
     {
-      "title": "Inside One of Meta’s Data Centers",
-      "url": "https://about.fb.com/news/2026/06/inside-meta-data-center/",
-      "date": "2026-06-26",
-      "source": "Meta Newsroom"
+      "title": "Claude Agent SDKをサブスク枠から外す課金変更、Anthropicが施行日に凍結",
+      "url": "https://zenn.dev/okssusucha/articles/20260628-anthropic-agent-sdk-credit-pause-june-202",
+      "date": "2026-06-28",
+      "source": "Zenn AI"
     },
     {
-      "title": "Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills",
-      "url": "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/",
-      "date": "2026-06-23",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "米政府の輸出規制でClaude Fable 5が全世界停止――AI業界に衝撃が走った13日間",
-      "url": "https://zenn.dev/revo1290/articles/anthropic-fable5-export-control-suspension",
-      "date": "2026-06-26",
+      "title": "RAGを作るのではなく、検索される知識を運用する",
+      "url": "https://zenn.dev/yottayoshida/articles/rag-knowledge-ops-agent-search",
+      "date": "2026-06-28",
       "source": "Zenn 生成AI"
+    },
+    {
+      "title": "MCP入門 ② 自作 MCP Client から MCP Server を呼び出す",
+      "url": "https://zenn.dev/koro_st/articles/69cd43fdac918f",
+      "date": "2026-06-28",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "【6/15当日撤回】Claude Agent SDK・claude -p のサブスク別枠化は何だったのか",
+      "url": "https://qiita.com/sakutto-panda/items/620152bb67fd47b3c1c3",
+      "date": "2026-06-28",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "おはようございます、昨夜の失敗、直しておきました。— AI 放課後エージェントが自律的に働く夜の話",
+      "url": "https://qiita.com/kai_kou/items/f396eb7c8f0a90723ff5",
+      "date": "2026-06-28",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "【LLM】KotlinでOpenAIのAPIを使ってみた",
+      "url": "https://qiita.com/masaki130/items/f50ffeb6d32b339d2592",
+      "date": "2026-06-28",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "FlutterとClaude APIで麻雀の「どれを切る？」クイズアプリを作った話",
+      "url": "https://zenn.dev/yuen/articles/7fbb50504ec5d2",
+      "date": "2026-06-28",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "IBM Bob v1 と v2 : カスタムスキル \"browser-presentation\" 使用の比較結果",
+      "url": "https://qiita.com/c_u/items/f802308cccc7d7b2643f",
+      "date": "2026-06-28",
+      "source": "Qiita AI"
     }
   ]
 }
