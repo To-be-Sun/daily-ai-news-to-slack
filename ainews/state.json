@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/introducing-b2b-signals",
-    "https://openai.com/index/uber",
-    "https://www.anthropic.com/news/higher-limits-spacex",
-    "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-    "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
-    "https://huggingface.co/blog/open-asr-leaderboard-private-data",
-    "https://news.mit.edu/2026/improving-understanding-language-olivia-honeycutt-0501",
-    "https://arxiv.org/abs/2605.01101",
-    "https://arxiv.org/abs/2605.01489",
-    "https://arxiv.org/abs/2605.02964",
     "https://openai.com/index/parloa",
     "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
     "https://deepmind.google/blog/alphaevolve-impact/",
@@ -499,68 +489,78 @@
     "https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629",
     "https://arxiv.org/abs/2601.21233",
     "https://arxiv.org/abs/2606.27806",
-    "https://arxiv.org/abs/2606.28011"
+    "https://arxiv.org/abs/2606.28011",
+    "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+    "https://openai.com/index/introducing-genebench-pro",
+    "https://www.anthropic.com/news/claude-science-ai-workbench",
+    "https://www.anthropic.com/news/claude-sonnet-5",
+    "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
+    "https://arxiv.org/abs/2606.28363",
+    "https://arxiv.org/abs/2601.20334",
+    "https://arxiv.org/abs/2606.29200"
   ],
-  "lastRun": "2026-06-29T23:24:01.535Z",
+  "lastRun": "2026-06-30T23:30:00.291Z",
   "lastPosted": [
     {
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "url": "https://openai.com/index/hp-frontier-partnership",
-      "date": "2026-06-28",
+      "title": "How ChatGPT adoption has expanded",
+      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "date": "2026-06-30",
       "source": "OpenAI News"
     },
     {
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-      "date": "2026-06-29",
+      "title": "Introducing GeneBench-Pro",
+      "url": "https://openai.com/index/introducing-genebench-pro",
+      "date": "2026-06-30",
       "source": "OpenAI News"
     },
     {
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-      "date": "2026-06-29",
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "date": "2026-06-30",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "date": "2026-06-30",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+      "date": "2026-06-30",
       "source": "Google AI Blog"
     },
     {
-      "title": "The Gemini app is bringing personalized image creation to more users.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/",
-      "date": "2026-06-29",
+      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+      "date": "2026-06-30",
       "source": "Gemini News"
     },
     {
-      "title": "Gemini can now take notes in Google Meet for Google AI Pro and Ultra subscribers.",
-      "url": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/",
-      "date": "2026-06-29",
+      "title": "Gemini Spark updates: macOS launch, connected apps and more",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
+      "date": "2026-06-30",
       "source": "Gemini News"
     },
     {
-      "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "url": "https://huggingface.co/blog/allenai/discoformer",
-      "date": "2026-06-29",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Inaugural Music Technology Research Showcase celebrates work of new graduate program’s initial students",
-      "url": "https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629",
-      "date": "2026-06-29",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs",
-      "url": "https://arxiv.org/abs/2601.21233",
-      "date": "2026-06-29",
+      "title": "meta-pipe: An LLM-agent pipeline for end-to-end automated systematic review and meta-analysis",
+      "url": "https://arxiv.org/abs/2606.28363",
+      "date": "2026-06-30",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Grounded Iterative Language Planning: How Parameterized World Models Reduce Hallucination Propagation in LLM Agents",
-      "url": "https://arxiv.org/abs/2606.27806",
-      "date": "2026-06-29",
+      "title": "Demonstration-Free Robotic Control via LLM Agents",
+      "url": "https://arxiv.org/abs/2601.20334",
+      "date": "2026-06-30",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "From Detection to Action: Using LLM Agents for Fault-Tolerant Control",
-      "url": "https://arxiv.org/abs/2606.28011",
-      "date": "2026-06-29",
+      "title": "BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis",
+      "url": "https://arxiv.org/abs/2606.29200",
+      "date": "2026-06-30",
       "source": "arXiv cs.LG"
     }
   ]
