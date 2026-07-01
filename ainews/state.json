@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/parloa",
-    "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
-    "https://deepmind.google/blog/alphaevolve-impact/",
-    "https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/",
-    "https://news.mit.edu/2026/study-firms-often-use-automation-control-certain-workers-wages-0507",
-    "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
-    "https://openai.com/index/introducing-trusted-contact-in-chatgpt",
-    "https://arxiv.org/abs/2605.03242",
-    "https://arxiv.org/abs/2605.03301",
-    "https://arxiv.org/abs/2602.19837",
     "https://openai.com/index/running-codex-safely",
     "https://openai.com/index/testing-ads-in-chatgpt",
     "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
@@ -499,68 +489,78 @@
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
     "https://arxiv.org/abs/2606.28363",
     "https://arxiv.org/abs/2601.20334",
-    "https://arxiv.org/abs/2606.29200"
+    "https://arxiv.org/abs/2606.29200",
+    "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+    "https://openai.com/index/genebench-pro/case-studies",
+    "https://www.anthropic.com/news/redeploying-fable-5",
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+    "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+    "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
+    "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+    "https://arxiv.org/abs/2606.31377",
+    "https://arxiv.org/abs/2606.31639",
+    "https://arxiv.org/abs/2606.30877"
   ],
-  "lastRun": "2026-06-30T23:30:00.291Z",
+  "lastRun": "2026-07-01T23:31:33.920Z",
   "lastPosted": [
     {
-      "title": "How ChatGPT adoption has expanded",
-      "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
       "date": "2026-06-30",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing GeneBench-Pro",
-      "url": "https://openai.com/index/introducing-genebench-pro",
+      "title": "Inside Genebench-Pro",
+      "url": "https://openai.com/index/genebench-pro/case-studies",
       "date": "2026-06-30",
       "source": "OpenAI News"
     },
     {
-      "title": "Claude Science, an AI workbench for scientists, is now available",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "title": "Redeploying Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
       "date": "2026-06-30",
       "source": "Anthropic News"
     },
     {
-      "title": "Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "date": "2026-06-30",
-      "source": "Anthropic News"
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "date": "2026-07-01",
+      "source": "Google AI Blog"
     },
     {
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "date": "2026-06-30",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "date": "2026-07-01",
       "source": "Google AI Blog"
     },
     {
       "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
       "date": "2026-06-30",
-      "source": "Gemini News"
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "Gemini Spark updates: macOS launch, connected apps and more",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
+      "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
+      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
       "date": "2026-06-30",
-      "source": "Gemini News"
+      "source": "Google Research Blog"
     },
     {
-      "title": "meta-pipe: An LLM-agent pipeline for end-to-end automated systematic review and meta-analysis",
-      "url": "https://arxiv.org/abs/2606.28363",
-      "date": "2026-06-30",
+      "title": "Stage-Transition Dense Reward Modeling for Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.31377",
+      "date": "2026-07-01",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Demonstration-Free Robotic Control via LLM Agents",
-      "url": "https://arxiv.org/abs/2601.20334",
-      "date": "2026-06-30",
+      "title": "A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems",
+      "url": "https://arxiv.org/abs/2606.31639",
+      "date": "2026-07-01",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis",
-      "url": "https://arxiv.org/abs/2606.29200",
-      "date": "2026-06-30",
+      "title": "A Systematic Approach to Multi-Agent AI from Advanced Regulatory Control Theory: Safe and Auditable LLM Operator Agents for Process Control",
+      "url": "https://arxiv.org/abs/2606.30877",
+      "date": "2026-07-01",
       "source": "arXiv cs.LG"
     }
   ]
