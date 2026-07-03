@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/running-codex-safely",
-    "https://openai.com/index/testing-ads-in-chatgpt",
-    "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
-    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b",
-    "https://huggingface.co/blog/allenai/emo",
-    "https://openai.com/index/simplex",
-    "https://openai.com/index/advancing-youth-safety-in-emea",
-    "https://arxiv.org/abs/2605.05704",
-    "https://arxiv.org/abs/2605.05379",
-    "https://arxiv.org/abs/2605.05795",
     "https://openai.com/index/how-chatgpt-protects-privacy",
     "https://openai.com/index/mrc-supercomputer-networking",
     "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
@@ -499,69 +489,79 @@
     "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
     "https://arxiv.org/abs/2606.31377",
     "https://arxiv.org/abs/2606.31639",
-    "https://arxiv.org/abs/2606.30877"
+    "https://arxiv.org/abs/2606.30877",
+    "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
+    "https://huggingface.co/blog/ibm-research/scarfbench",
+    "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
+    "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
+    "https://huggingface.co/blog/eee-community-evals",
+    "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+    "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+    "https://arxiv.org/abs/2607.00218",
+    "https://arxiv.org/abs/2607.00457",
+    "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything"
   ],
-  "lastRun": "2026-07-01T23:31:33.920Z",
+  "lastRun": "2026-07-03T00:03:46.734Z",
   "lastPosted": [
     {
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-      "date": "2026-06-30",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Inside Genebench-Pro",
-      "url": "https://openai.com/index/genebench-pro/case-studies",
-      "date": "2026-06-30",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Redeploying Fable 5",
-      "url": "https://www.anthropic.com/news/redeploying-fable-5",
-      "date": "2026-06-30",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "The latest AI news we announced in June 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "date": "2026-07-01",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "date": "2026-07-01",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
-      "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
-      "date": "2026-06-30",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Introducing TabFM: A zero-shot foundation model for tabular data",
-      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/",
+      "title": "Expanding our Heat Resilience data to 50+ global cities",
+      "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
       "date": "2026-06-30",
       "source": "Google Research Blog"
     },
     {
-      "title": "Stage-Transition Dense Reward Modeling for Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.31377",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "date": "2026-06-30",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
+      "date": "2026-06-30",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "MIT in the media: Innovating and educating for the next 250 years of America",
+      "url": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
       "date": "2026-07-01",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
+      "url": "https://huggingface.co/blog/eee-community-evals",
+      "date": "2026-06-30",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "date": "2026-07-01",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Why Specialization Is Inevitable",
+      "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
+      "date": "2026-06-30",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards",
+      "url": "https://arxiv.org/abs/2607.00218",
+      "date": "2026-07-02",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems",
-      "url": "https://arxiv.org/abs/2606.31639",
-      "date": "2026-07-01",
+      "title": "Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments",
+      "url": "https://arxiv.org/abs/2607.00457",
+      "date": "2026-07-02",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "A Systematic Approach to Multi-Agent AI from Advanced Regulatory Control Theory: Safe and Auditable LLM Operator Agents for Process Control",
-      "url": "https://arxiv.org/abs/2606.30877",
-      "date": "2026-07-01",
-      "source": "arXiv cs.LG"
+      "title": "llm-coding-agent 0.1a0",
+      "url": "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
+      "date": "2026-07-02",
+      "source": "Simon Willison"
     }
   ]
 }
