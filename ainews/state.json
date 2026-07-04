@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/07/your-ai-steering-committees-2026-checklist-sovereignty/",
-    "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
-    "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/#atom-everything",
-    "https://simonwillison.net/2026/May/7/firefox-claude-mythos/#atom-everything",
-    "https://about.fb.com/news/2026/05/which-meta-ai-glasses-are-right-for-you/",
-    "https://about.fb.com/news/2026/05/ai-age-assurance-teens/",
-    "https://zenn.dev/pico2525/articles/135153bfdc766d",
-    "https://zenn.dev/pppp303/articles/weekly_ai_20260510",
-    "https://qiita.com/shinonome_taku/items/8f23dc317ae357571958",
-    "https://zenn.dev/outloukick777/articles/ai-news-2026-05-08",
     "https://openai.com/index/openai-launches-the-deployment-company",
     "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
     "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
@@ -499,69 +489,79 @@
     "https://arxiv.org/abs/2607.01539",
     "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
     "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
-    "https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/"
+    "https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/small-and-medium-businesses-arent-waiting-for-an-ai-invitation-theyre-already-leading/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
+    "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+    "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
+    "https://zenn.dev/tottoko_hamu/books/building-agent-team-with-claude-code",
+    "https://zenn.dev/kimshoshi/articles/claude-fable-return-ai-governance",
+    "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
+    "https://zenn.dev/ykishimotoy/books/de8bc95c9b3d57",
+    "https://qiita.com/sescore/items/ab45a950e1837918df5c",
+    "https://qiita.com/yureki_lab/items/6cbf6acd7e8b70eaef55"
   ],
-  "lastRun": "2026-07-04T00:03:04.054Z",
+  "lastRun": "2026-07-04T23:59:38.045Z",
   "lastPosted": [
     {
-      "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-      "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-      "date": "2026-07-03",
-      "source": "Google DeepMind Blog"
+      "title": "Small and medium businesses aren&#8217;t waiting for an AI invitation—they&#8217;re already leading",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/small-and-medium-businesses-arent-waiting-for-an-ai-invitation-theyre-already-leading/",
+      "date": "2026-06-29",
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
-      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
+      "date": "2026-06-29",
+      "source": "Microsoft AI Blog"
+    },
+    {
+      "title": "Better Models: Worse Tools",
+      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
+      "date": "2026-07-04",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Understand to participate",
+      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
       "date": "2026-07-02",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "3 Questions: Beyond data-driven aesthetics",
-      "url": "https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629",
-      "date": "2026-06-29",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Safe and Adaptive Cloud Healing: Verifying LLM-Generated Recovery Plans with a Neural-Symbolic World Model",
-      "url": "https://arxiv.org/abs/2607.01595",
-      "date": "2026-07-03",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "MMBench-Live: A Continuously Evolving Benchmark for Multimodal Models",
-      "url": "https://arxiv.org/abs/2607.01813",
-      "date": "2026-07-03",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "WattGPU: Predicting Inference Power and Latency on Unseen GPUs and LLMs",
-      "url": "https://arxiv.org/abs/2607.02391",
-      "date": "2026-07-03",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "MMAO-Cls: Metabolic Multi-Agent Optimization for Joint Feature Selection and Classifier Tuning",
-      "url": "https://arxiv.org/abs/2607.01539",
-      "date": "2026-07-03",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Fable's judgement",
-      "url": "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-      "date": "2026-07-03",
       "source": "Simon Willison"
     },
     {
-      "title": "Open Source AI Gap Map",
-      "url": "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
-      "date": "2026-07-03",
-      "source": "Simon Willison"
+      "title": "Claude Codeで作る1人エージェントチーム",
+      "url": "https://zenn.dev/tottoko_hamu/books/building-agent-team-with-claude-code",
+      "date": "2026-07-04",
+      "source": "Zenn AI"
     },
     {
-      "title": "It’s Time to Reserve Your WhatsApp Username",
-      "url": "https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/",
-      "date": "2026-06-29",
-      "source": "Meta Newsroom"
+      "title": "Claude Fable 5復活で見えた、AIモデルを「ただのAPI」として扱えない時代",
+      "url": "https://zenn.dev/kimshoshi/articles/claude-fable-return-ai-governance",
+      "date": "2026-07-04",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "Claude Code (Opus 4.8) が数分固まる問題、188セッション実測したら原因はAPIでもネットワークでもなかった",
+      "url": "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
+      "date": "2026-07-04",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "AIサムライの生成AIツール大全 ─ 全15分野の地図と歩き方",
+      "url": "https://zenn.dev/ykishimotoy/books/de8bc95c9b3d57",
+      "date": "2026-07-04",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "【2026年最新・実装付き】AIエージェントフレームワーク徹底比較：LangChain・CrewAI・AutoGen・Claude Agent SDK・Dify をコードで選ぶ",
+      "url": "https://qiita.com/sescore/items/ab45a950e1837918df5c",
+      "date": "2026-07-04",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "Claude Code のサブエージェント (.claude/agents) 自作入門 — 並列調査で重いリサーチを分担させる手順と3つのハマりどころ【2026】",
+      "url": "https://qiita.com/yureki_lab/items/6cbf6acd7e8b70eaef55",
+      "date": "2026-07-04",
+      "source": "Qiita AI"
     }
   ]
 }
