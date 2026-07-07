@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/openai-launches-the-deployment-company",
-    "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
-    "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/digitize-notes-gemini-study-guide/",
-    "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
-    "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "https://openai.com/signals/research/2026q1-update",
-    "https://arxiv.org/abs/2605.06673",
-    "https://arxiv.org/abs/2605.06890",
-    "https://arxiv.org/abs/2510.01290",
     "https://openai.com/index/what-parameter-golf-taught-us",
     "https://openai.com/academy/how-finance-teams-use-codex",
     "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
@@ -499,69 +489,79 @@
     "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
     "https://zenn.dev/ykishimotoy/books/de8bc95c9b3d57",
     "https://qiita.com/sescore/items/ab45a950e1837918df5c",
-    "https://qiita.com/yureki_lab/items/6cbf6acd7e8b70eaef55"
+    "https://qiita.com/yureki_lab/items/6cbf6acd7e8b70eaef55",
+    "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+    "https://huggingface.co/blog/lerobot-release-v060",
+    "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
+    "https://huggingface.co/blog/revamped-kernels",
+    "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+    "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+    "https://zenn.dev/takyone/articles/identificationops-2026-07",
+    "https://zenn.dev/okssusucha/articles/20260703-apple-foundation-models-languagemodel-pro",
+    "https://zenn.dev/lifona/articles/81f003b2e327c0"
   ],
-  "lastRun": "2026-07-04T23:59:38.045Z",
+  "lastRun": "2026-07-07T00:06:15.697Z",
   "lastPosted": [
     {
-      "title": "Small and medium businesses aren&#8217;t waiting for an AI invitation—they&#8217;re already leading",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/small-and-medium-businesses-arent-waiting-for-an-ai-invitation-theyre-already-leading/",
-      "date": "2026-06-29",
-      "source": "Microsoft AI Blog"
+      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "date": "2026-07-06",
+      "source": "Anthropic News"
     },
     {
-      "title": "The 2026 Agent Confidence Index: Where 300 builders see real momentum",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
-      "date": "2026-06-29",
-      "source": "Microsoft AI Blog"
+      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "date": "2026-07-07",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Better Models: Worse Tools",
-      "url": "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
-      "date": "2026-07-04",
+      "title": "PRX Part 4: Our Data Strategy",
+      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "date": "2026-07-06",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Toward a future that preserves benefits of neurotechnology for all",
+      "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
+      "date": "2026-07-06",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "🤗 Kernels: Major Updates",
+      "url": "https://huggingface.co/blog/revamped-kernels",
+      "date": "2026-07-06",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
+      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
+      "date": "2026-07-05",
       "source": "Simon Willison"
     },
     {
-      "title": "Understand to participate",
-      "url": "https://simonwillison.net/2026/Jul/2/understand-to-participate/#atom-everything",
-      "date": "2026-07-02",
+      "title": "sqlite-utils 4.0rc3",
+      "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
+      "date": "2026-07-06",
       "source": "Simon Willison"
     },
     {
-      "title": "Claude Codeで作る1人エージェントチーム",
-      "url": "https://zenn.dev/tottoko_hamu/books/building-agent-team-with-claude-code",
-      "date": "2026-07-04",
+      "title": "IdentificationOps: p-hacking を避けた因果推論 harness は実現可能か",
+      "url": "https://zenn.dev/takyone/articles/identificationops-2026-07",
+      "date": "2026-07-06",
       "source": "Zenn AI"
     },
     {
-      "title": "Claude Fable 5復活で見えた、AIモデルを「ただのAPI」として扱えない時代",
-      "url": "https://zenn.dev/kimshoshi/articles/claude-fable-return-ai-governance",
-      "date": "2026-07-04",
+      "title": "iOS 27のLanguageModelプロトコルでClaudeもGeminiも差し替える",
+      "url": "https://zenn.dev/okssusucha/articles/20260703-apple-foundation-models-languagemodel-pro",
+      "date": "2026-07-06",
       "source": "Zenn AI"
     },
     {
-      "title": "Claude Code (Opus 4.8) が数分固まる問題、188セッション実測したら原因はAPIでもネットワークでもなかった",
-      "url": "https://zenn.dev/yuki_fujisawa/articles/a155d388e61acc",
-      "date": "2026-07-04",
+      "title": "RAG評価で「正答率」だけ見てはいけない：距離が近くても答えは平気で間違う",
+      "url": "https://zenn.dev/lifona/articles/81f003b2e327c0",
+      "date": "2026-07-06",
       "source": "Zenn 生成AI"
-    },
-    {
-      "title": "AIサムライの生成AIツール大全 ─ 全15分野の地図と歩き方",
-      "url": "https://zenn.dev/ykishimotoy/books/de8bc95c9b3d57",
-      "date": "2026-07-04",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "【2026年最新・実装付き】AIエージェントフレームワーク徹底比較：LangChain・CrewAI・AutoGen・Claude Agent SDK・Dify をコードで選ぶ",
-      "url": "https://qiita.com/sescore/items/ab45a950e1837918df5c",
-      "date": "2026-07-04",
-      "source": "Qiita AI"
-    },
-    {
-      "title": "Claude Code のサブエージェント (.claude/agents) 自作入門 — 並列調査で重いリサーチを分担させる手順と3つのハマりどころ【2026】",
-      "url": "https://qiita.com/yureki_lab/items/6cbf6acd7e8b70eaef55",
-      "date": "2026-07-04",
-      "source": "Qiita AI"
     }
   ]
 }
