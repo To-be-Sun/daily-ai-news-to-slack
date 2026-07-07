@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/what-parameter-golf-taught-us",
-    "https://openai.com/academy/how-finance-teams-use-codex",
-    "https://blog.google/products-and-platforms/platforms/android/android-show-io-edition-2026/",
-    "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence/",
-    "https://news.mit.edu/2026/qa-expanding-mit-global-reach-through-universal-learning-0512",
-    "https://news.mit.edu/2026/universal-ai-pathway-to-ai-fluency-accessible-to-anyone-0512",
-    "https://openai.com/index/nvidia",
-    "https://arxiv.org/abs/2605.08828",
-    "https://arxiv.org/abs/2605.09504",
-    "https://arxiv.org/abs/2605.08815",
     "https://openai.com/index/building-codex-windows-sandbox",
     "https://www.anthropic.com/news/claude-for-small-business",
     "https://openai.com/index/autoscout24",
@@ -499,69 +489,79 @@
     "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
     "https://zenn.dev/takyone/articles/identificationops-2026-07",
     "https://zenn.dev/okssusucha/articles/20260703-apple-foundation-models-languagemodel-pro",
-    "https://zenn.dev/lifona/articles/81f003b2e327c0"
+    "https://zenn.dev/lifona/articles/81f003b2e327c0",
+    "https://openai.com/index/australian-payments-plus",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+    "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+    "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+    "https://huggingface.co/blog/skypilot-hf-storage",
+    "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
+    "https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707",
+    "https://arxiv.org/abs/2607.03233",
+    "https://arxiv.org/abs/2607.03333",
+    "https://arxiv.org/abs/2604.11943"
   ],
-  "lastRun": "2026-07-07T00:06:15.697Z",
+  "lastRun": "2026-07-07T23:56:16.080Z",
   "lastPosted": [
     {
-      "title": "Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
-      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-      "date": "2026-07-06",
-      "source": "Anthropic News"
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "url": "https://openai.com/index/australian-payments-plus",
+      "date": "2026-07-07",
+      "source": "OpenAI News"
     },
     {
-      "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-      "url": "https://huggingface.co/blog/lerobot-release-v060",
+      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+      "date": "2026-07-07",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "The power of collaboration: How we can reduce traffic congestion",
+      "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
+      "date": "2026-07-07",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Hugging Face Models on Foundry Managed Compute",
+      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
       "date": "2026-07-07",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "PRX Part 4: Our Data Strategy",
-      "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
-      "date": "2026-07-06",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "url": "https://huggingface.co/blog/skypilot-hf-storage",
+      "date": "2026-07-07",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Toward a future that preserves benefits of neurotechnology for all",
-      "url": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
-      "date": "2026-07-06",
+      "title": "How novice coders can develop AI programs for military applications",
+      "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
+      "date": "2026-07-07",
       "source": "MIT News AI"
     },
     {
-      "title": "🤗 Kernels: Major Updates",
-      "url": "https://huggingface.co/blog/revamped-kernels",
-      "date": "2026-07-06",
-      "source": "Hugging Face Blog"
+      "title": "Jesse Thaler named director of the Laboratory for Nuclear Science",
+      "url": "https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707",
+      "date": "2026-07-07",
+      "source": "MIT News AI"
     },
     {
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
-      "date": "2026-07-05",
-      "source": "Simon Willison"
+      "title": "Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions",
+      "url": "https://arxiv.org/abs/2607.03233",
+      "date": "2026-07-07",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "sqlite-utils 4.0rc3",
-      "url": "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
-      "date": "2026-07-06",
-      "source": "Simon Willison"
+      "title": "SPORK: Self-Speculative Forking to Accelerate Agentic LLM Inference",
+      "url": "https://arxiv.org/abs/2607.03333",
+      "date": "2026-07-07",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "IdentificationOps: p-hacking を避けた因果推論 harness は実現可能か",
-      "url": "https://zenn.dev/takyone/articles/identificationops-2026-07",
-      "date": "2026-07-06",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "iOS 27のLanguageModelプロトコルでClaudeもGeminiも差し替える",
-      "url": "https://zenn.dev/okssusucha/articles/20260703-apple-foundation-models-languagemodel-pro",
-      "date": "2026-07-06",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "RAG評価で「正答率」だけ見てはいけない：距離が近くても答えは平気で間違う",
-      "url": "https://zenn.dev/lifona/articles/81f003b2e327c0",
-      "date": "2026-07-06",
-      "source": "Zenn 生成AI"
+      "title": "ProbeLogits: Kernel-Level LLM Inference Primitives for AI-Native Operating Systems",
+      "url": "https://arxiv.org/abs/2604.11943",
+      "date": "2026-07-07",
+      "source": "arXiv cs.LG"
     }
   ]
 }
