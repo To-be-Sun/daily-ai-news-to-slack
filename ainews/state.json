@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/building-codex-windows-sandbox",
-    "https://www.anthropic.com/news/claude-for-small-business",
-    "https://openai.com/index/autoscout24",
-    "https://arxiv.org/abs/2605.11086",
-    "https://arxiv.org/abs/2510.03761",
-    "https://arxiv.org/abs/2605.01345",
-    "https://arxiv.org/abs/2605.11235",
-    "https://simonwillison.net/2026/May/12/llm/#atom-everything",
-    "https://about.fb.com/news/2026/05/celebrating-african-cinema-with-the-made-by-africa-loved-by-the-world-2026-campaign/",
-    "https://simonwillison.net/2026/May/13/csp-allow/#atom-everything",
     "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
     "https://www.anthropic.com/news/gates-foundation-partnership",
     "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
@@ -499,69 +489,79 @@
     "https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707",
     "https://arxiv.org/abs/2607.03233",
     "https://arxiv.org/abs/2607.03333",
-    "https://arxiv.org/abs/2604.11943"
+    "https://arxiv.org/abs/2604.11943",
+    "https://openai.com/index/government-national-security-partnerships",
+    "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+    "https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/",
+    "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "https://openai.com/index/k-12-educators-practical-skills",
+    "https://openai.com/index/introducing-gpt-live",
+    "https://arxiv.org/abs/2607.05775",
+    "https://arxiv.org/abs/2607.05462",
+    "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything"
   ],
-  "lastRun": "2026-07-07T23:56:16.080Z",
+  "lastRun": "2026-07-09T00:07:24.985Z",
   "lastPosted": [
     {
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "url": "https://openai.com/index/australian-payments-plus",
-      "date": "2026-07-07",
+      "title": "Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "date": "2026-07-08",
       "source": "OpenAI News"
     },
     {
-      "title": "Expanding Managed Agents in Gemini API: background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
-      "date": "2026-07-07",
-      "source": "Google AI Blog"
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "date": "2026-07-08",
+      "source": "OpenAI News"
     },
     {
-      "title": "The power of collaboration: How we can reduce traffic congestion",
-      "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
-      "date": "2026-07-07",
-      "source": "Google Research Blog"
+      "title": "3 ways this coffee shop is growing with Gemini",
+      "url": "https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/",
+      "date": "2026-07-08",
+      "source": "Gemini News"
     },
     {
-      "title": "Hugging Face Models on Foundry Managed Compute",
-      "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-      "date": "2026-07-07",
+      "title": "Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "date": "2026-07-08",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "url": "https://huggingface.co/blog/skypilot-hf-storage",
-      "date": "2026-07-07",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "date": "2026-07-08",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "How novice coders can develop AI programs for military applications",
-      "url": "https://news.mit.edu/2026/how-novice-coders-can-develop-ai-programs-for-military-applications-0707",
-      "date": "2026-07-07",
-      "source": "MIT News AI"
+      "title": "Helping K–12 educators build practical AI skills",
+      "url": "https://openai.com/index/k-12-educators-practical-skills",
+      "date": "2026-07-08",
+      "source": "OpenAI News"
     },
     {
-      "title": "Jesse Thaler named director of the Laboratory for Nuclear Science",
-      "url": "https://news.mit.edu/2026/jesse-thaler-named-director-laboratory-nuclear-science-0707",
-      "date": "2026-07-07",
-      "source": "MIT News AI"
+      "title": "Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "date": "2026-07-08",
+      "source": "OpenAI News"
     },
     {
-      "title": "Agentic and Generative AI for Open-Source Intelligence and Cyber Investigations: Taxonomy, Evaluation, Challenges, and Future Directions",
-      "url": "https://arxiv.org/abs/2607.03233",
-      "date": "2026-07-07",
+      "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
+      "url": "https://arxiv.org/abs/2607.05775",
+      "date": "2026-07-08",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "SPORK: Self-Speculative Forking to Accelerate Agentic LLM Inference",
-      "url": "https://arxiv.org/abs/2607.03333",
-      "date": "2026-07-07",
+      "title": "Evaluating calibrated refusal and safe usefulness in dual-use biology settings",
+      "url": "https://arxiv.org/abs/2607.05462",
+      "date": "2026-07-08",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "ProbeLogits: Kernel-Level LLM Inference Primitives for AI-Native Operating Systems",
-      "url": "https://arxiv.org/abs/2604.11943",
+      "title": "sqlite-utils 4.0, now with database schema migrations",
+      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
       "date": "2026-07-07",
-      "source": "arXiv cs.LG"
+      "source": "Simon Willison"
     }
   ]
 }
