@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
-    "https://www.anthropic.com/news/gates-foundation-partnership",
-    "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-    "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-    "https://huggingface.co/blog/continuous_async",
-    "https://news.mit.edu/2026/knight-hennessy-scholars-0514",
-    "https://openai.com/index/work-with-codex-from-anywhere",
-    "https://arxiv.org/abs/2605.12694",
-    "https://arxiv.org/abs/2603.26839",
-    "https://arxiv.org/abs/2605.10807",
     "https://openai.com/index/sea-david-chen",
     "https://www.anthropic.com/news/pwc-expanded-partnership",
     "https://openai.com/index/personal-finance-chatgpt",
@@ -499,69 +489,79 @@
     "https://openai.com/index/introducing-gpt-live",
     "https://arxiv.org/abs/2607.05775",
     "https://arxiv.org/abs/2607.05462",
-    "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything"
+    "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "https://www.anthropic.com/news/ben-bernanke",
+    "https://www.anthropic.com/news/reflect-with-claude",
+    "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
+    "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
+    "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+    "https://arxiv.org/abs/2607.06963",
+    "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+    "https://arxiv.org/abs/2607.07103"
   ],
-  "lastRun": "2026-07-09T00:07:24.985Z",
+  "lastRun": "2026-07-10T00:02:21.218Z",
   "lastPosted": [
     {
-      "title": "Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "date": "2026-07-08",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "date": "2026-07-09",
       "source": "OpenAI News"
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "date": "2026-07-08",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "date": "2026-07-09",
       "source": "OpenAI News"
     },
     {
-      "title": "3 ways this coffee shop is growing with Gemini",
-      "url": "https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/",
-      "date": "2026-07-08",
-      "source": "Gemini News"
+      "title": "Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke",
+      "date": "2026-07-09",
+      "source": "Anthropic News"
     },
     {
-      "title": "Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "date": "2026-07-08",
-      "source": "Hugging Face Blog"
+      "title": "Introducing a way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude",
+      "date": "2026-07-09",
+      "source": "Anthropic News"
     },
     {
-      "title": "Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "date": "2026-07-08",
-      "source": "Hugging Face Blog"
+      "title": "SensorFM: Towards a general intelligence and interface for wearable health data",
+      "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
+      "date": "2026-07-09",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "date": "2026-07-08",
-      "source": "OpenAI News"
+      "title": "Tiny robot boats build floating structures",
+      "url": "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
+      "date": "2026-07-09",
+      "source": "MIT News AI"
     },
     {
-      "title": "Introducing GPT-Live",
-      "url": "https://openai.com/index/introducing-gpt-live",
-      "date": "2026-07-08",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Beyond the Leaderboard: A Synthesis of Tool-Use, Planning, and Reasoning Failures in Large Language Model Agents",
-      "url": "https://arxiv.org/abs/2607.05775",
-      "date": "2026-07-08",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Evaluating calibrated refusal and safe usefulness in dual-use biology settings",
-      "url": "https://arxiv.org/abs/2607.05462",
-      "date": "2026-07-08",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "sqlite-utils 4.0, now with database schema migrations",
-      "url": "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
+      "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+      "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "date": "2026-07-07",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
+      "url": "https://arxiv.org/abs/2607.06963",
+      "date": "2026-07-09",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "The new GPT-5.6 family: Luna, Terra, Sol",
+      "url": "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
+      "date": "2026-07-09",
       "source": "Simon Willison"
+    },
+    {
+      "title": "A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving",
+      "url": "https://arxiv.org/abs/2607.07103",
+      "date": "2026-07-09",
+      "source": "arXiv cs.LG"
     }
   ]
 }
