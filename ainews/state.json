@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/databricks",
-    "https://openai.com/index/malta-chatgpt-plus-partnership",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/14/from-ai-ambition-to-frontier-transformation-readiness-defines-the-leaders/",
-    "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
-    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "https://arxiv.org/abs/2605.13850",
-    "https://arxiv.org/abs/2605.14237",
-    "https://simonwillison.net/2026/May/16/openclaw-names/#atom-everything",
-    "https://simonwillison.net/2026/May/16/julia-evans/#atom-everything",
     "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
     "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
     "https://about.fb.com/news/2026/05/instants-share-in-the-moment/",
@@ -499,69 +489,79 @@
     "https://openai.com/index/gpt-5-6",
     "https://arxiv.org/abs/2607.08423",
     "https://arxiv.org/abs/2607.07721",
-    "https://arxiv.org/abs/2607.08137"
+    "https://arxiv.org/abs/2607.08137",
+    "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
+    "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+    "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+    "https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/",
+    "https://zenn.dev/suwash/articles/agentic-enterprise-20-questions_20260709",
+    "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
+    "https://zenn.dev/ryok/articles/model-selection-pareto-frontier",
+    "https://zenn.dev/50s_zerotohero/articles/019bc93f9d0a36",
+    "https://qiita.com/aakan/items/ef0476f0af51be4f1c90",
+    "https://qiita.com/nakatada-lab/items/3bed1647ad458b5b5fe8"
   ],
-  "lastRun": "2026-07-10T23:55:46.924Z",
+  "lastRun": "2026-07-11T23:52:38.858Z",
   "lastPosted": [
     {
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "url": "https://openai.com/index/deutsche-telekom",
-      "date": "2026-07-10",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "GPT-5.5 Bio Bug Bounty",
-      "url": "https://openai.com/index/bio-bug-bounty",
+      "title": "Introducing Muse Spark 1.1",
+      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
       "date": "2026-07-09",
-      "source": "OpenAI News"
+      "source": "Simon Willison"
     },
     {
-      "title": "UST is bringing Claude to physical AI",
-      "url": "https://www.anthropic.com/news/ust-claude",
-      "date": "2026-07-09",
-      "source": "Anthropic News"
+      "title": "Rewriting Bun in Rust",
+      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "date": "2026-07-08",
+      "source": "Simon Willison"
     },
     {
-      "title": "Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions",
-      "date": "2026-07-09",
-      "source": "Anthropic News"
+      "title": "Introducing Muse Image: Image Generation Built for Your World",
+      "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+      "date": "2026-07-07",
+      "source": "Meta Newsroom"
     },
     {
-      "title": "Here’s how to make study notebooks in the Gemini app.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/",
+      "title": "Our Work to Fight Child Exploitation on Our Apps",
+      "url": "https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/",
+      "date": "2026-07-07",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "エージェント導入を「作る前」に潰す20の問い — Google Cloudの設計レビュー枠組み",
+      "url": "https://zenn.dev/suwash/articles/agentic-enterprise-20-questions_20260709",
       "date": "2026-07-10",
-      "source": "Gemini News"
+      "source": "Zenn 生成AI"
     },
     {
-      "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-      "url": "https://huggingface.co/blog/torch-attention-profile",
-      "date": "2026-07-10",
-      "source": "Hugging Face Blog"
+      "title": "OpenFugu×ローカルLLM群でマルチAI駆動を検証① Multi-Agent System as a Model の再現",
+      "url": "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
+      "date": "2026-07-11",
+      "source": "Zenn AI"
     },
     {
-      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-      "url": "https://openai.com/index/gpt-5-6",
-      "date": "2026-07-09",
-      "source": "OpenAI News"
+      "title": "「ほぼ同等を1/3の価格で」— モデル爆発時代に「どれを使うか」を決める技術",
+      "url": "https://zenn.dev/ryok/articles/model-selection-pareto-frontier",
+      "date": "2026-07-11",
+      "source": "Zenn AI"
     },
     {
-      "title": "OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice",
-      "url": "https://arxiv.org/abs/2607.08423",
-      "date": "2026-07-10",
-      "source": "arXiv cs.AI"
+      "title": "LLMの『隠れた思考』を自然言語で読む技術が、個人のRTX 5090で動いた",
+      "url": "https://zenn.dev/50s_zerotohero/articles/019bc93f9d0a36",
+      "date": "2026-07-11",
+      "source": "Zenn 生成AI"
     },
     {
-      "title": "Context Graphs for Proactive Enterprise Agents",
-      "url": "https://arxiv.org/abs/2607.07721",
-      "date": "2026-07-10",
-      "source": "arXiv cs.AI"
+      "title": "〖AI News まとめ〗生成AI ニュースレポート — 2026-07-12",
+      "url": "https://qiita.com/aakan/items/ef0476f0af51be4f1c90",
+      "date": "2026-07-11",
+      "source": "Qiita AI"
     },
     {
-      "title": "Securing Autonomous Vehicle Systems via Twin-Aware Federated Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2607.08137",
-      "date": "2026-07-10",
-      "source": "arXiv cs.LG"
+      "title": "[009]LLM内部表現はどこで安定するのか — Ghost状態とAnthropic J-space研究から見る再帰Transformerの深度収束",
+      "url": "https://qiita.com/nakatada-lab/items/3bed1647ad458b5b5fe8",
+      "date": "2026-07-11",
+      "source": "Qiita LLM"
     }
   ]
 }
