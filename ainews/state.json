@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://simonwillison.net/2026/May/17/gds-weighs-in/#atom-everything",
-    "https://simonwillison.net/2026/May/14/mitchell-hashimoto/#atom-everything",
-    "https://about.fb.com/news/2026/05/instants-share-in-the-moment/",
-    "https://about.fb.com/news/2026/05/incognito-chat-whatsapp-meta-ai/",
-    "https://zenn.dev/take_lab/articles/nano-banana-2-google-cloud-credits",
-    "https://zenn.dev/harness/articles/cross-agent-harness-introduction",
-    "https://zenn.dev/12ban/articles/19a038d8c83c38",
-    "https://zenn.dev/masarufuruya/books/f5000d1e4d5273",
-    "https://qiita.com/ultramarin/items/bc2893ebdb5590b2d9fb",
-    "https://qiita.com/mguozhen/items/b4ea20e4aed350db9393",
     "https://openai.com/index/dell-codex-enterprise-partnership",
     "https://www.anthropic.com/news/anthropic-acquires-stainless",
     "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
@@ -499,68 +489,78 @@
     "https://zenn.dev/ryok/articles/model-selection-pareto-frontier",
     "https://zenn.dev/50s_zerotohero/articles/019bc93f9d0a36",
     "https://qiita.com/aakan/items/ef0476f0af51be4f1c90",
-    "https://qiita.com/nakatada-lab/items/3bed1647ad458b5b5fe8"
+    "https://qiita.com/nakatada-lab/items/3bed1647ad458b5b5fe8",
+    "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+    "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
+    "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/",
+    "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
+    "https://zenn.dev/yy7613/articles/66e541a3e11095",
+    "https://zenn.dev/hironakamura_ai/articles/160877f457ef43",
+    "https://zenn.dev/yushiyamamoto/articles/llm-agent-beginner-2026-07",
+    "https://qiita.com/kai_kou/items/7eaa18a60aa2738f463a",
+    "https://zenn.dev/nayus/articles/9687e79cf298d7",
+    "https://qiita.com/sakutto-panda/items/47a2b51bf6c4f513ec49"
   ],
-  "lastRun": "2026-07-11T23:52:38.858Z",
+  "lastRun": "2026-07-12T23:51:29.435Z",
   "lastPosted": [
     {
-      "title": "Introducing Muse Spark 1.1",
-      "url": "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
-      "date": "2026-07-09",
+      "title": "Fable gets another bump",
+      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
+      "date": "2026-07-12",
       "source": "Simon Willison"
     },
     {
-      "title": "Rewriting Bun in Rust",
-      "url": "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
+      "title": "sqlite-utils 4.1.1",
+      "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
+      "date": "2026-07-12",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Breaking Ground on Meta’s First Data Center in Canada",
+      "url": "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/",
       "date": "2026-07-08",
-      "source": "Simon Willison"
+      "source": "Meta Newsroom"
     },
     {
-      "title": "Introducing Muse Image: Image Generation Built for Your World",
-      "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+      "title": "Meta’s AI Glasses: Your Questions Answered",
+      "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
       "date": "2026-07-07",
       "source": "Meta Newsroom"
     },
     {
-      "title": "Our Work to Fight Child Exploitation on Our Apps",
-      "url": "https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/",
-      "date": "2026-07-07",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "エージェント導入を「作る前」に潰す20の問い — Google Cloudの設計レビュー枠組み",
-      "url": "https://zenn.dev/suwash/articles/agentic-enterprise-20-questions_20260709",
-      "date": "2026-07-10",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "OpenFugu×ローカルLLM群でマルチAI駆動を検証① Multi-Agent System as a Model の再現",
-      "url": "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
-      "date": "2026-07-11",
+      "title": "Microsoft Agent Framework オーケストレーション検証: Sequential(直列実行)",
+      "url": "https://zenn.dev/yy7613/articles/66e541a3e11095",
+      "date": "2026-07-12",
       "source": "Zenn AI"
     },
     {
-      "title": "「ほぼ同等を1/3の価格で」— モデル爆発時代に「どれを使うか」を決める技術",
-      "url": "https://zenn.dev/ryok/articles/model-selection-pareto-frontier",
-      "date": "2026-07-11",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "LLMの『隠れた思考』を自然言語で読む技術が、個人のRTX 5090で動いた",
-      "url": "https://zenn.dev/50s_zerotohero/articles/019bc93f9d0a36",
-      "date": "2026-07-11",
+      "title": "LiteRT.jsで始める、Web AIの往復コピーを減らす2つの設計",
+      "url": "https://zenn.dev/hironakamura_ai/articles/160877f457ef43",
+      "date": "2026-07-12",
       "source": "Zenn 生成AI"
     },
     {
-      "title": "〖AI News まとめ〗生成AI ニュースレポート — 2026-07-12",
-      "url": "https://qiita.com/aakan/items/ef0476f0af51be4f1c90",
-      "date": "2026-07-11",
-      "source": "Qiita AI"
+      "title": "LLMエージェントって結局なに？「ただ答えるAI」との違いを初心者向けに整理する",
+      "url": "https://zenn.dev/yushiyamamoto/articles/llm-agent-beginner-2026-07",
+      "date": "2026-07-12",
+      "source": "Zenn 生成AI"
     },
     {
-      "title": "[009]LLM内部表現はどこで安定するのか — Ghost状態とAnthropic J-space研究から見る再帰Transformerの深度収束",
-      "url": "https://qiita.com/nakatada-lab/items/3bed1647ad458b5b5fe8",
-      "date": "2026-07-11",
+      "title": "Gemini Managed Agentsのバックグラウンド実行で見つけた2つの罠",
+      "url": "https://qiita.com/kai_kou/items/7eaa18a60aa2738f463a",
+      "date": "2026-07-12",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "言語モデルの中の「グローバルワークスペース」(Anthropic論文)",
+      "url": "https://zenn.dev/nayus/articles/9687e79cf298d7",
+      "date": "2026-07-12",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "【2026/6/30】Claude Sonnet 5リリース — 1Mコンテキスト標準化・temperature廃止・実質3割の値上げも",
+      "url": "https://qiita.com/sakutto-panda/items/47a2b51bf6c4f513ec49",
+      "date": "2026-07-12",
       "source": "Qiita LLM"
     }
   ]
