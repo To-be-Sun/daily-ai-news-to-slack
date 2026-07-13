@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/dell-codex-enterprise-partnership",
-    "https://www.anthropic.com/news/anthropic-acquires-stainless",
-    "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-    "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
-    "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "https://arxiv.org/abs/2605.15206",
-    "https://arxiv.org/abs/2605.01970",
-    "https://arxiv.org/abs/2605.15342",
-    "https://arxiv.org/abs/2604.26498",
-    "https://about.fb.com/news/2026/05/meta-ai-wearables-changing-the-game-for-disabled-people/",
     "https://openai.com/index/advancing-content-provenance",
     "https://www.anthropic.com/news/anthropic-kpmg",
     "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
@@ -499,69 +489,79 @@
     "https://zenn.dev/yushiyamamoto/articles/llm-agent-beginner-2026-07",
     "https://qiita.com/kai_kou/items/7eaa18a60aa2738f463a",
     "https://zenn.dev/nayus/articles/9687e79cf298d7",
-    "https://qiita.com/sakutto-panda/items/47a2b51bf6c4f513ec49"
+    "https://qiita.com/sakutto-panda/items/47a2b51bf6c4f513ec49",
+    "https://openai.com/academy/getting-started",
+    "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+    "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
+    "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+    "https://arxiv.org/abs/2607.09076",
+    "https://arxiv.org/abs/2607.09330",
+    "https://arxiv.org/abs/2607.08877",
+    "https://arxiv.org/abs/2607.09375",
+    "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+    "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/"
   ],
-  "lastRun": "2026-07-12T23:51:29.435Z",
+  "lastRun": "2026-07-13T23:52:41.187Z",
   "lastPosted": [
     {
-      "title": "Fable gets another bump",
-      "url": "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-      "date": "2026-07-12",
+      "title": "Getting started with ChatGPT",
+      "url": "https://openai.com/academy/getting-started",
+      "date": "2026-07-10",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "AI agents create virtual playgrounds to help robots get crucial training data",
+      "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+      "date": "2026-07-13",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "How MIT students are helping to prevent cyberattacks",
+      "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
+      "date": "2026-07-13",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "New method aims to keep kids safe from illegal AI-generated content",
+      "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
+      "date": "2026-07-13",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
+      "url": "https://arxiv.org/abs/2607.09076",
+      "date": "2026-07-13",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks",
+      "url": "https://arxiv.org/abs/2607.09330",
+      "date": "2026-07-13",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space",
+      "url": "https://arxiv.org/abs/2607.08877",
+      "date": "2026-07-13",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Mach-Mind-4-Flash Technical Report",
+      "url": "https://arxiv.org/abs/2607.09375",
+      "date": "2026-07-13",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "datasette code-frequency chart on GitHub",
+      "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
+      "date": "2026-07-13",
       "source": "Simon Willison"
     },
     {
-      "title": "sqlite-utils 4.1.1",
-      "url": "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
-      "date": "2026-07-12",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Breaking Ground on Meta’s First Data Center in Canada",
-      "url": "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/",
-      "date": "2026-07-08",
+      "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
+      "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/",
+      "date": "2026-07-13",
       "source": "Meta Newsroom"
-    },
-    {
-      "title": "Meta’s AI Glasses: Your Questions Answered",
-      "url": "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
-      "date": "2026-07-07",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Microsoft Agent Framework オーケストレーション検証: Sequential(直列実行)",
-      "url": "https://zenn.dev/yy7613/articles/66e541a3e11095",
-      "date": "2026-07-12",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "LiteRT.jsで始める、Web AIの往復コピーを減らす2つの設計",
-      "url": "https://zenn.dev/hironakamura_ai/articles/160877f457ef43",
-      "date": "2026-07-12",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "LLMエージェントって結局なに？「ただ答えるAI」との違いを初心者向けに整理する",
-      "url": "https://zenn.dev/yushiyamamoto/articles/llm-agent-beginner-2026-07",
-      "date": "2026-07-12",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "Gemini Managed Agentsのバックグラウンド実行で見つけた2つの罠",
-      "url": "https://qiita.com/kai_kou/items/7eaa18a60aa2738f463a",
-      "date": "2026-07-12",
-      "source": "Qiita LLM"
-    },
-    {
-      "title": "言語モデルの中の「グローバルワークスペース」(Anthropic論文)",
-      "url": "https://zenn.dev/nayus/articles/9687e79cf298d7",
-      "date": "2026-07-12",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "【2026/6/30】Claude Sonnet 5リリース — 1Mコンテキスト標準化・temperature廃止・実質3割の値上げも",
-      "url": "https://qiita.com/sakutto-panda/items/47a2b51bf6c4f513ec49",
-      "date": "2026-07-12",
-      "source": "Qiita LLM"
     }
   ]
 }
