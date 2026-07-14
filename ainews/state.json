@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/advancing-content-provenance",
-    "https://www.anthropic.com/news/anthropic-kpmg",
-    "https://blog.google/innovation-and-ai/sundar-pichai-io-2026/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/",
-    "https://blog.google/innovation-and-ai/products/identifying-ai-generated-media-online/",
-    "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
-    "https://simonwillison.net/2026/May/19/gemini-35-flash/#atom-everything",
-    "https://simonwillison.net/2026/May/19/5-minute-llms/#atom-everything",
-    "https://arxiv.org/abs/2605.17625",
     "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
     "https://openai.com/index/the-next-phase-of-education-for-countries",
     "https://www.anthropic.com/news/widening-conversation-ai",
@@ -499,69 +489,79 @@
     "https://arxiv.org/abs/2607.08877",
     "https://arxiv.org/abs/2607.09375",
     "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
-    "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/"
+    "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/",
+    "https://openai.com/index/managing-ai-investments-in-agentic-era",
+    "https://www.anthropic.com/news/canadian-ai-research",
+    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+    "https://www.anthropic.com/news/claude-for-teachers",
+    "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
+    "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/",
+    "https://arxiv.org/abs/2507.04673",
+    "https://arxiv.org/abs/2603.04277",
+    "https://arxiv.org/abs/2607.10490"
   ],
-  "lastRun": "2026-07-13T23:52:41.187Z",
+  "lastRun": "2026-07-14T23:51:53.573Z",
   "lastPosted": [
     {
-      "title": "Getting started with ChatGPT",
-      "url": "https://openai.com/academy/getting-started",
-      "date": "2026-07-10",
+      "title": "How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "date": "2026-07-14",
       "source": "OpenAI News"
     },
     {
-      "title": "AI agents create virtual playgrounds to help robots get crucial training data",
-      "url": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
-      "date": "2026-07-13",
-      "source": "MIT News AI"
+      "title": "Anthropic commits $10 million to Canadian AI research",
+      "url": "https://www.anthropic.com/news/canadian-ai-research",
+      "date": "2026-07-14",
+      "source": "Anthropic News"
     },
     {
-      "title": "How MIT students are helping to prevent cyberattacks",
-      "url": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
-      "date": "2026-07-13",
-      "source": "MIT News AI"
+      "title": "How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "date": "2026-07-14",
+      "source": "OpenAI News"
     },
     {
-      "title": "New method aims to keep kids safe from illegal AI-generated content",
-      "url": "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
-      "date": "2026-07-13",
-      "source": "MIT News AI"
+      "title": "Introducing Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "date": "2026-07-14",
+      "source": "Anthropic News"
     },
     {
-      "title": "Neuro-Agentic Control: A Deep Learning-based LLM-Powered Agentic AI Framework for Controlling Security Controls",
-      "url": "https://arxiv.org/abs/2607.09076",
+      "title": "Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
       "date": "2026-07-13",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Celebrating 25 years of visual search innovation",
+      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+      "date": "2026-07-14",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "How Gemini is speaking the language of Southeast Asia",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/",
+      "date": "2026-07-14",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message",
+      "url": "https://arxiv.org/abs/2507.04673",
+      "date": "2026-07-14",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Communication-Efficient Digital-Twin Coordination for Heterogeneous LLM Embodied Agents over Computing Power Networks",
-      "url": "https://arxiv.org/abs/2607.09330",
-      "date": "2026-07-13",
+      "title": "VehAnchor: Metadata-Free Metric Scale Recovery from Vehicle Cues in Aerial Imagery",
+      "url": "https://arxiv.org/abs/2603.04277",
+      "date": "2026-07-14",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "FlowDAgger: Human-in-the-Loop Adaptation of Generative Robot Policies in Latent Space",
-      "url": "https://arxiv.org/abs/2607.08877",
-      "date": "2026-07-13",
+      "title": "NetInjectBench: Benchmarking Indirect Prompt Injection in Tool-Using Large Language Model Agents for Network Operations",
+      "url": "https://arxiv.org/abs/2607.10490",
+      "date": "2026-07-14",
       "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Mach-Mind-4-Flash Technical Report",
-      "url": "https://arxiv.org/abs/2607.09375",
-      "date": "2026-07-13",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "datasette code-frequency chart on GitHub",
-      "url": "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
-      "date": "2026-07-13",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Teachers and Local Businesses Win as Meta Expands Louisiana Data Center",
-      "url": "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/",
-      "date": "2026-07-13",
-      "source": "Meta Newsroom"
     }
   ]
 }
