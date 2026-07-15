@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
-    "https://openai.com/index/the-next-phase-of-education-for-countries",
-    "https://www.anthropic.com/news/widening-conversation-ai",
-    "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
-    "https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-group-meetings/",
-    "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni/",
-    "https://arxiv.org/abs/2605.07066",
-    "https://simonwillison.net/2026/May/20/google-io/#atom-everything",
-    "https://arxiv.org/abs/2605.19010",
     "https://openai.com/index/adventhealth",
     "https://openai.com/index/introducing-openai-for-singapore",
     "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
@@ -499,68 +489,78 @@
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/",
     "https://arxiv.org/abs/2507.04673",
     "https://arxiv.org/abs/2603.04277",
-    "https://arxiv.org/abs/2607.10490"
+    "https://arxiv.org/abs/2607.10490",
+    "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+    "https://openai.com/index/unlocking-self-improvement-gpt-red",
+    "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+    "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
+    "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+    "https://arxiv.org/abs/2607.12113",
+    "https://arxiv.org/abs/2509.21842",
+    "https://arxiv.org/abs/2607.12042"
   ],
-  "lastRun": "2026-07-14T23:51:53.573Z",
+  "lastRun": "2026-07-15T23:56:56.812Z",
   "lastPosted": [
     {
-      "title": "How to manage AI investments in the agentic era",
-      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-      "date": "2026-07-14",
+      "title": "The US is advancing AI safety through state and federal action",
+      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "date": "2026-07-15",
       "source": "OpenAI News"
     },
     {
-      "title": "Anthropic commits $10 million to Canadian AI research",
-      "url": "https://www.anthropic.com/news/canadian-ai-research",
-      "date": "2026-07-14",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "date": "2026-07-14",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "date": "2026-07-15",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing Claude for Teachers",
-      "url": "https://www.anthropic.com/news/claude-for-teachers",
-      "date": "2026-07-14",
-      "source": "Anthropic News"
+      "title": "Towards demystifying the creativity of diffusion models",
+      "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
+      "date": "2026-07-15",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Empowering India’s next generation of innovators with ATL Saathi",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-      "date": "2026-07-13",
-      "source": "Google DeepMind Blog"
+      "title": "What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "date": "2026-07-15",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Celebrating 25 years of visual search innovation",
-      "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-      "date": "2026-07-14",
-      "source": "Google AI Blog"
+      "title": "Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "date": "2026-07-15",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "How Gemini is speaking the language of Southeast Asia",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/",
+      "title": "Helping AI models to meet the real world",
+      "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
       "date": "2026-07-14",
-      "source": "Gemini News"
+      "source": "MIT News AI"
     },
     {
-      "title": "Trojan Horse Prompting: Jailbreaking Conversational Multimodal Models by Forging Assistant Message",
-      "url": "https://arxiv.org/abs/2507.04673",
-      "date": "2026-07-14",
+      "title": "3 Questions: Neural transparency and the future of AI design",
+      "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+      "date": "2026-07-15",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Toward Trustworthy Autonomous Science: A Two-Year Community Roadmap",
+      "url": "https://arxiv.org/abs/2607.12113",
+      "date": "2026-07-15",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "VehAnchor: Metadata-Free Metric Scale Recovery from Vehicle Cues in Aerial Imagery",
-      "url": "https://arxiv.org/abs/2603.04277",
-      "date": "2026-07-14",
+      "title": "DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents",
+      "url": "https://arxiv.org/abs/2509.21842",
+      "date": "2026-07-15",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "NetInjectBench: Benchmarking Indirect Prompt Injection in Tool-Using Large Language Model Agents for Network Operations",
-      "url": "https://arxiv.org/abs/2607.10490",
-      "date": "2026-07-14",
+      "title": "SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning",
+      "url": "https://arxiv.org/abs/2607.12042",
+      "date": "2026-07-15",
       "source": "arXiv cs.LG"
     }
   ]
