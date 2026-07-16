@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/adventhealth",
-    "https://openai.com/index/introducing-openai-for-singapore",
-    "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/",
-    "https://blog.google/products-and-platforms/products/workspace/workspace-updates/",
-    "https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/",
-    "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
-    "https://arxiv.org/abs/2605.20815",
-    "https://simonwillison.net/2026/May/21/datasette-agent/#atom-everything",
-    "https://arxiv.org/abs/2605.19824",
     "https://openai.com/index/gartner-2026-agentic-coding-leader",
     "https://openai.com/index/virgin-atlantic",
     "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
@@ -499,68 +489,78 @@
     "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
     "https://arxiv.org/abs/2607.12113",
     "https://arxiv.org/abs/2509.21842",
-    "https://arxiv.org/abs/2607.12042"
+    "https://arxiv.org/abs/2607.12042",
+    "https://openai.com/index/cars24",
+    "https://openai.com/index/why-teens-deserve-access-safe-ai",
+    "https://deepmind.google/blog/our-approach-to-bioresilience/",
+    "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+    "https://blog.google/products-and-platforms/products/search/connected-apps/",
+    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+    "https://arxiv.org/abs/2607.13080",
+    "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+    "https://arxiv.org/abs/2607.13088"
   ],
-  "lastRun": "2026-07-15T23:56:56.812Z",
+  "lastRun": "2026-07-16T23:57:08.300Z",
   "lastPosted": [
     {
-      "title": "The US is advancing AI safety through state and federal action",
-      "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-      "date": "2026-07-15",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "url": "https://openai.com/index/cars24",
+      "date": "2026-07-16",
       "source": "OpenAI News"
     },
     {
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-      "date": "2026-07-15",
+      "title": "Why teens deserve access to safe AI",
+      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "date": "2026-07-16",
       "source": "OpenAI News"
     },
     {
-      "title": "Towards demystifying the creativity of diffusion models",
-      "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
-      "date": "2026-07-15",
-      "source": "Google Research Blog"
+      "title": "Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "date": "2026-07-16",
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "date": "2026-07-15",
+      "title": "Create, edit and star in videos with two Google Vids updates",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+      "date": "2026-07-16",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
+      "date": "2026-07-16",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "date": "2026-07-16",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Model Routing Is Simple. Until It Isn’t.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "date": "2026-07-15",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Helping AI models to meet the real world",
-      "url": "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
-      "date": "2026-07-14",
+      "title": "A better way to turn 2D designs into 3D models for rapid prototyping",
+      "url": "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
+      "date": "2026-07-16",
       "source": "MIT News AI"
     },
     {
-      "title": "3 Questions: Neural transparency and the future of AI design",
-      "url": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
-      "date": "2026-07-15",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Toward Trustworthy Autonomous Science: A Two-Year Community Roadmap",
-      "url": "https://arxiv.org/abs/2607.12113",
-      "date": "2026-07-15",
+      "title": "Inference Economics of Enterprise Coding Agents: A Case Study of Cloud vs. On-Premise LLMs",
+      "url": "https://arxiv.org/abs/2607.13080",
+      "date": "2026-07-16",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for Autonomous Travel Planning Agents",
-      "url": "https://arxiv.org/abs/2509.21842",
-      "date": "2026-07-15",
-      "source": "arXiv cs.AI"
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "url": "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
+      "date": "2026-07-16",
+      "source": "Simon Willison"
     },
     {
-      "title": "SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning",
-      "url": "https://arxiv.org/abs/2607.12042",
-      "date": "2026-07-15",
+      "title": "Securing LLMs in the Wild: Privacy and Security Challenges at the Edge",
+      "url": "https://arxiv.org/abs/2607.13088",
+      "date": "2026-07-16",
       "source": "arXiv cs.LG"
     }
   ]
