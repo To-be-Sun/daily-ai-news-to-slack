@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/ramp",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/21/ai-needs-more-than-intelligence-it-needs-humanity/",
-    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
-    "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/05/18/youre-not-late-to-ai-youre-early-to-frontier-transformation/",
-    "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-    "https://simonwillison.net/2026/May/24/armin-ronacher/#atom-everything",
-    "https://simonwillison.net/2026/May/21/datasette-agent-2/#atom-everything",
-    "https://zenn.dev/jnxjez/articles/f02a58187088a6",
     "https://openai.com/index/grupo-folha-grupo-uol-partnership",
     "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
     "https://blog.google/products-and-platforms/products/search/search-io-2026/",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/security-incident-july-2026",
     "https://arxiv.org/abs/2607.14543",
     "https://arxiv.org/abs/2605.05000",
-    "https://arxiv.org/abs/2607.14093"
+    "https://arxiv.org/abs/2607.14093",
+    "https://huggingface.co/blog/thinkingmachines-inkling",
+    "https://huggingface.co/blog/real-world-voiceeq",
+    "https://arxiv.org/abs/2607.14256",
+    "https://arxiv.org/abs/2607.14309",
+    "https://arxiv.org/abs/2508.00923",
+    "https://arxiv.org/abs/2408.12548",
+    "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+    "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+    "https://about.fb.com/news/2026/07/the-2026-summer-of-football-a-record-breaking-moment-across-meta/",
+    "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/"
   ],
-  "lastRun": "2026-07-17T23:50:16.172Z",
+  "lastRun": "2026-07-18T23:51:35.988Z",
   "lastPosted": [
     {
-      "title": "A scorecard for the AI age",
-      "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-      "date": "2026-07-17",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "date": "2026-07-14",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "date": "2026-07-17",
+      "title": "Welcome Inkling by Thinking Machines",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "date": "2026-07-15",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "date": "2026-07-16",
+      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
+      "url": "https://huggingface.co/blog/real-world-voiceeq",
+      "date": "2026-07-15",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Following the questions where they lead",
-      "url": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
-      "date": "2026-07-17",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
-      "url": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
-      "date": "2026-07-14",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Security incident disclosure — July 2026",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "date": "2026-07-16",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "SafeRelBench: A Spatial-Relation-Aware Benchmark for Process-Level Safety in VLM-Driven Embodied Agents",
-      "url": "https://arxiv.org/abs/2607.14543",
-      "date": "2026-07-17",
+      "title": "Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation",
+      "url": "https://arxiv.org/abs/2607.14256",
+      "date": "2026-07-18",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Agentic Vulnerability Reasoning on COTS Binaries",
-      "url": "https://arxiv.org/abs/2605.05000",
-      "date": "2026-07-17",
+      "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems",
+      "url": "https://arxiv.org/abs/2607.14309",
+      "date": "2026-07-18",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Addressing Benchmarking Gaps in Large Language Models for Health and Medicine with Dynamic Red-Teaming",
+      "url": "https://arxiv.org/abs/2508.00923",
+      "date": "2026-07-18",
       "source": "arXiv cs.LG"
     },
     {
-      "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
-      "url": "https://arxiv.org/abs/2607.14093",
+      "title": "Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities",
+      "url": "https://arxiv.org/abs/2408.12548",
+      "date": "2026-07-18",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Claude make Fable 5 permanent",
+      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
+      "date": "2026-07-18",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Inkling: Our open-weights model",
+      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
+      "date": "2026-07-16",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "The 2026 Summer of Football: A Record-Breaking Moment Across Meta",
+      "url": "https://about.fb.com/news/2026/07/the-2026-summer-of-football-a-record-breaking-moment-across-meta/",
       "date": "2026-07-17",
-      "source": "arXiv cs.AI"
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
+      "url": "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/",
+      "date": "2026-07-16",
+      "source": "Meta Newsroom"
     }
   ]
 }
