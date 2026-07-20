@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/grupo-folha-grupo-uol-partnership",
-    "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
-    "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-    "https://huggingface.co/blog/agent-glossary",
-    "https://news.mit.edu/2026/building-ai-models-with-chemical-principles-connor-coley-0520",
-    "https://news.mit.edu/2026/technology-creates-jobs-young-skilled-workers-ai-0521",
-    "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "https://arxiv.org/abs/2605.22826",
-    "https://arxiv.org/abs/2605.23243",
-    "https://arxiv.org/abs/2605.23057",
     "https://arxiv.org/abs/2605.25141",
     "https://arxiv.org/abs/2605.25297",
     "https://arxiv.org/abs/2605.25030",
@@ -499,69 +489,79 @@
     "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
     "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
     "https://about.fb.com/news/2026/07/the-2026-summer-of-football-a-record-breaking-moment-across-meta/",
-    "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/"
+    "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/",
+    "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
+    "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+    "https://zenn.dev/aoi777/articles/b2b5dbef87daa5",
+    "https://zenn.dev/error401/articles/linux-codex-agent-development-environment",
+    "https://zenn.dev/numarn/articles/mcp-fetch-server-robots-egress-handson",
+    "https://zenn.dev/ikm_king/articles/wan-video-vram4gb-diary",
+    "https://qiita.com/realbios/items/a27d4b43e683d6a7d723",
+    "https://qiita.com/hironakamura_ai/items/4d96e7141fbbbceb6ff3",
+    "https://qiita.com/hach_work/items/b732a4106af6c46a42dc",
+    "https://qiita.com/okssusucha/items/518453e6c843dc4ec99f"
   ],
-  "lastRun": "2026-07-18T23:51:35.988Z",
+  "lastRun": "2026-07-20T02:40:23.758Z",
   "lastPosted": [
     {
-      "title": "Welcome Inkling by Thinking Machines",
-      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "title": "xai-org/grok-build, now open source",
+      "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
       "date": "2026-07-15",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "url": "https://huggingface.co/blog/real-world-voiceeq",
-      "date": "2026-07-15",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Automatic Hard Example Synthesis with Multi-Level Agentic Data Curation",
-      "url": "https://arxiv.org/abs/2607.14256",
-      "date": "2026-07-18",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems",
-      "url": "https://arxiv.org/abs/2607.14309",
-      "date": "2026-07-18",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Addressing Benchmarking Gaps in Large Language Models for Health and Medicine with Dynamic Red-Teaming",
-      "url": "https://arxiv.org/abs/2508.00923",
-      "date": "2026-07-18",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Human-In-The-Loop Machine Learning for Safe and Ethical Autonomous Vehicles: Principles, Challenges, and Opportunities",
-      "url": "https://arxiv.org/abs/2408.12548",
-      "date": "2026-07-18",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Claude make Fable 5 permanent",
-      "url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
-      "date": "2026-07-18",
       "source": "Simon Willison"
     },
     {
-      "title": "Inkling: Our open-weights model",
-      "url": "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-      "date": "2026-07-16",
+      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
+      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
+      "date": "2026-07-15",
       "source": "Simon Willison"
     },
     {
-      "title": "The 2026 Summer of Football: A Record-Breaking Moment Across Meta",
-      "url": "https://about.fb.com/news/2026/07/the-2026-summer-of-football-a-record-breaking-moment-across-meta/",
-      "date": "2026-07-17",
-      "source": "Meta Newsroom"
+      "title": "「中国AIの台頭」をSEとして読む——保険業界のシステム開発は本当に脅かされるか",
+      "url": "https://zenn.dev/aoi777/articles/b2b5dbef87daa5",
+      "date": "2026-07-19",
+      "source": "Zenn AI"
     },
     {
-      "title": "Alerting Parents if Teens Show Signs of Distress in Conversations With Meta AI",
-      "url": "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/",
-      "date": "2026-07-16",
-      "source": "Meta Newsroom"
+      "title": "Linuxでゼロから作る、Codex中心のAI駆動開発環境",
+      "url": "https://zenn.dev/error401/articles/linux-codex-agent-development-environment",
+      "date": "2026-07-19",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "公式MCPのfetchサーバーでGitHubを読もうとしたら、「robots.txtが禁止している」と出たが本当の理由は別だった",
+      "url": "https://zenn.dev/numarn/articles/mcp-fetch-server-robots-egress-handson",
+      "date": "2026-07-19",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "VRAM 4GBのGPUでやる、ローカル動画生成の限界を見つける旅",
+      "url": "https://zenn.dev/ikm_king/articles/wan-video-vram4gb-diary",
+      "date": "2026-07-19",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "LLMゲートウェイをAPIプロキシで終わらせない――MCP時代の3層統制設計",
+      "url": "https://qiita.com/realbios/items/a27d4b43e683d6a7d723",
+      "date": "2026-07-20",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "Claude Codeの埋め込みBunを端末で検査する",
+      "url": "https://qiita.com/hironakamura_ai/items/4d96e7141fbbbceb6ff3",
+      "date": "2026-07-20",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "常駐型AIエージェントのLLM呼び出しコストを制御する設計パターン",
+      "url": "https://qiita.com/hach_work/items/b732a4106af6c46a42dc",
+      "date": "2026-07-20",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "xAIのGrok Buildが全ソース公開、任意モデルに差し替え可能に",
+      "url": "https://qiita.com/okssusucha/items/518453e6c843dc4ec99f",
+      "date": "2026-07-20",
+      "source": "Qiita LLM"
     }
   ]
 }
