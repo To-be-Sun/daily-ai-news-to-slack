@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://arxiv.org/abs/2605.25141",
-    "https://arxiv.org/abs/2605.25297",
-    "https://arxiv.org/abs/2605.25030",
-    "https://arxiv.org/abs/2605.24765",
-    "https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything",
-    "https://simonwillison.net/2026/May/25/encyclical-on-ai/#atom-everything",
-    "https://zenn.dev/0h_n0/articles/581a4e0ece7056",
-    "https://zenn.dev/highreso/articles/4b7e51a726f90a",
-    "https://zenn.dev/sprix_it/articles/ff38d70b2d094b",
-    "https://zenn.dev/asayi_megumi/articles/6fbcf1b248f708",
     "https://openai.com/index/warp",
     "https://openai.com/index/cisco",
     "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
@@ -499,69 +489,79 @@
     "https://qiita.com/realbios/items/a27d4b43e683d6a7d723",
     "https://qiita.com/hironakamura_ai/items/4d96e7141fbbbceb6ff3",
     "https://qiita.com/hach_work/items/b732a4106af6c46a42dc",
-    "https://qiita.com/okssusucha/items/518453e6c843dc4ec99f"
+    "https://qiita.com/okssusucha/items/518453e6c843dc4ec99f",
+    "https://openai.com/index/advancing-responsible-ai-across-europe",
+    "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+    "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana/",
+    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+    "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+    "https://arxiv.org/abs/2607.28629",
+    "https://arxiv.org/abs/2607.28801"
   ],
-  "lastRun": "2026-07-20T02:40:23.758Z",
+  "lastRun": "2026-08-04T00:06:45.124Z",
   "lastPosted": [
     {
-      "title": "xai-org/grok-build, now open source",
-      "url": "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
-      "date": "2026-07-15",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "date": "2026-07-31",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "date": "2026-08-03",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "date": "2026-07-30",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Simplify your morning with this vibe-coded schedule app.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana/",
+      "date": "2026-07-31",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Introducing Gemini Robotics ER 2",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+      "date": "2026-07-30",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
+      "date": "2026-07-30",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
+      "date": "2026-07-29",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Open letters about AI development",
+      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
+      "date": "2026-08-02",
       "source": "Simon Willison"
     },
     {
-      "title": "How I tricked Claude into leaking your deepest, darkest secrets",
-      "url": "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
-      "date": "2026-07-15",
-      "source": "Simon Willison"
+      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
+      "url": "https://arxiv.org/abs/2607.28629",
+      "date": "2026-08-03",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "「中国AIの台頭」をSEとして読む——保険業界のシステム開発は本当に脅かされるか",
-      "url": "https://zenn.dev/aoi777/articles/b2b5dbef87daa5",
-      "date": "2026-07-19",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "Linuxでゼロから作る、Codex中心のAI駆動開発環境",
-      "url": "https://zenn.dev/error401/articles/linux-codex-agent-development-environment",
-      "date": "2026-07-19",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "公式MCPのfetchサーバーでGitHubを読もうとしたら、「robots.txtが禁止している」と出たが本当の理由は別だった",
-      "url": "https://zenn.dev/numarn/articles/mcp-fetch-server-robots-egress-handson",
-      "date": "2026-07-19",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "VRAM 4GBのGPUでやる、ローカル動画生成の限界を見つける旅",
-      "url": "https://zenn.dev/ikm_king/articles/wan-video-vram4gb-diary",
-      "date": "2026-07-19",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "LLMゲートウェイをAPIプロキシで終わらせない――MCP時代の3層統制設計",
-      "url": "https://qiita.com/realbios/items/a27d4b43e683d6a7d723",
-      "date": "2026-07-20",
-      "source": "Qiita LLM"
-    },
-    {
-      "title": "Claude Codeの埋め込みBunを端末で検査する",
-      "url": "https://qiita.com/hironakamura_ai/items/4d96e7141fbbbceb6ff3",
-      "date": "2026-07-20",
-      "source": "Qiita AI"
-    },
-    {
-      "title": "常駐型AIエージェントのLLM呼び出しコストを制御する設計パターン",
-      "url": "https://qiita.com/hach_work/items/b732a4106af6c46a42dc",
-      "date": "2026-07-20",
-      "source": "Qiita AI"
-    },
-    {
-      "title": "xAIのGrok Buildが全ソース公開、任意モデルに差し替え可能に",
-      "url": "https://qiita.com/okssusucha/items/518453e6c843dc4ec99f",
-      "date": "2026-07-20",
-      "source": "Qiita LLM"
+      "title": "Benchmarks Are Not Monolithic: Sample-Level Auditing and Orchestration for LLM Evaluation",
+      "url": "https://arxiv.org/abs/2607.28801",
+      "date": "2026-08-03",
+      "source": "arXiv cs.AI"
     }
   ]
 }
