@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/warp",
-    "https://openai.com/index/cisco",
-    "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
-    "https://research.google/blog/private-analytics-via-zero-trust-aggregation/",
-    "https://huggingface.co/blog/ibm-research/itbench-aa",
-    "https://huggingface.co/blog/local-reachy-mini-conversation",
-    "https://openai.com/index/building-self-improving-tax-agents-with-codex",
-    "https://simonwillison.net/2026/May/27/product-market-fit/#atom-everything",
-    "https://arxiv.org/abs/2605.27276",
-    "https://arxiv.org/abs/2605.26548",
     "https://openai.com/index/openai-frontier-governance-framework",
     "https://www.anthropic.com/news/series-h",
     "https://www.anthropic.com/news/milan-office-opening",
@@ -499,68 +489,78 @@
     "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
     "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
     "https://arxiv.org/abs/2607.28629",
-    "https://arxiv.org/abs/2607.28801"
+    "https://arxiv.org/abs/2607.28801",
+    "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "https://openai.com/index/apple-is-getting-this-wrong",
+    "https://www.anthropic.com/news/tino-cuellar",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+    "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
+    "https://arxiv.org/abs/2608.02352",
+    "https://arxiv.org/abs/2512.03438",
+    "https://arxiv.org/abs/2605.07161"
   ],
-  "lastRun": "2026-08-04T00:06:45.124Z",
+  "lastRun": "2026-08-04T23:59:48.698Z",
   "lastPosted": [
     {
-      "title": "Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "date": "2026-07-31",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+      "date": "2026-08-04",
       "source": "OpenAI News"
     },
     {
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "title": "Apple is getting this wrong",
+      "url": "https://openai.com/index/apple-is-getting-this-wrong",
       "date": "2026-08-03",
       "source": "OpenAI News"
     },
     {
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "date": "2026-07-30",
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "date": "2026-08-04",
       "source": "Anthropic News"
     },
     {
-      "title": "Simplify your morning with this vibe-coded schedule app.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana/",
+      "title": "Inside our 353,000-person vibe coding course",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "date": "2026-08-03",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "The latest AI news we announced in July 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+      "date": "2026-08-04",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "Find out what’s new in the Gemini app in July's Gemini Drop.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/",
       "date": "2026-07-31",
       "source": "Gemini News"
     },
     {
-      "title": "Introducing Gemini Robotics ER 2",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
+      "title": "Gemini Spark now integrates with Chrome",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
       "date": "2026-07-30",
       "source": "Gemini News"
     },
     {
-      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
-      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-      "date": "2026-07-30",
-      "source": "Google DeepMind Blog"
+      "title": "Qwen-CUA: Native Computer Use for (almost) Everything",
+      "url": "https://arxiv.org/abs/2608.02352",
+      "date": "2026-08-04",
+      "source": "arXiv cs.LG"
     },
     {
-      "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-      "date": "2026-07-29",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Open letters about AI development",
-      "url": "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-      "date": "2026-08-02",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "OpenClaw and Ollama in Agentic AI: Toward Fully Autonomous and Scalable AI Agent Systems",
-      "url": "https://arxiv.org/abs/2607.28629",
-      "date": "2026-08-03",
+      "title": "Multimodal Reinforcement Learning with Adaptive Verifier for AI Agents",
+      "url": "https://arxiv.org/abs/2512.03438",
+      "date": "2026-08-04",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Benchmarks Are Not Monolithic: Sample-Level Auditing and Orchestration for LLM Evaluation",
-      "url": "https://arxiv.org/abs/2607.28801",
-      "date": "2026-08-03",
+      "title": "SREGym: A Live Benchmark for AI SRE Agents with High-Fidelity Failure Scenarios",
+      "url": "https://arxiv.org/abs/2605.07161",
+      "date": "2026-08-04",
       "source": "arXiv cs.AI"
     }
   ]
