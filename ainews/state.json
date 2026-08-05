@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/openai-frontier-governance-framework",
-    "https://www.anthropic.com/news/series-h",
-    "https://www.anthropic.com/news/milan-office-opening",
-    "https://openai.com/index/election-safeguards-2026",
-    "https://blog.google/innovation-and-ai/technology/ai/io-2026-keynote-moment-videos/",
-    "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/",
-    "https://news.mit.edu/2026/media-advisory-mit-establish-regional-quantum-hub",
-    "https://arxiv.org/abs/2605.27628",
-    "https://arxiv.org/abs/2605.28000",
-    "https://arxiv.org/abs/2605.27428",
     "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
     "https://openai.com/index/mufg",
     "https://www.anthropic.com/news/claude-opus-4-8",
@@ -499,68 +489,78 @@
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
     "https://arxiv.org/abs/2608.02352",
     "https://arxiv.org/abs/2512.03438",
-    "https://arxiv.org/abs/2605.07161"
+    "https://arxiv.org/abs/2605.07161",
+    "https://openai.com/index/circles",
+    "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/",
+    "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+    "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+    "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+    "https://arxiv.org/abs/2608.03071",
+    "https://arxiv.org/abs/2608.03311"
   ],
-  "lastRun": "2026-08-04T23:59:48.698Z",
+  "lastRun": "2026-08-05T23:22:35.054Z",
   "lastPosted": [
     {
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "date": "2026-08-04",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Apple is getting this wrong",
-      "url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "title": "Circles powers telco personalization with OpenAI technology",
+      "url": "https://openai.com/index/circles",
       "date": "2026-08-03",
       "source": "OpenAI News"
     },
     {
-      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
-      "url": "https://www.anthropic.com/news/tino-cuellar",
-      "date": "2026-08-04",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "Inside our 353,000-person vibe coding course",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "date": "2026-08-03",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-      "date": "2026-08-04",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Find out what’s new in the Gemini app in July's Gemini Drop.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/",
-      "date": "2026-07-31",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Gemini Spark now integrates with Chrome",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "date": "2026-07-30",
-      "source": "Gemini News"
+      "source": "OpenAI News"
     },
     {
-      "title": "Qwen-CUA: Native Computer Use for (almost) Everything",
-      "url": "https://arxiv.org/abs/2608.02352",
-      "date": "2026-08-04",
-      "source": "arXiv cs.LG"
+      "title": "What&#8217;s the Tea? Lessons from leaders navigating AI transformation",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/",
+      "date": "2026-07-30",
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "Multimodal Reinforcement Learning with Adaptive Verifier for AI Agents",
-      "url": "https://arxiv.org/abs/2512.03438",
+      "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
+      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
+      "date": "2026-07-30",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
       "date": "2026-08-04",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Solving the solvent problem",
+      "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
+      "date": "2026-08-04",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "The benefits of medical AI assistance vary based on user expertise",
+      "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
+      "date": "2026-08-04",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
+      "date": "2026-08-04",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls",
+      "url": "https://arxiv.org/abs/2608.03071",
+      "date": "2026-08-05",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "SREGym: A Live Benchmark for AI SRE Agents with High-Fidelity Failure Scenarios",
-      "url": "https://arxiv.org/abs/2605.07161",
-      "date": "2026-08-04",
+      "title": "Evaluating LLM Trade-offs for Enterprise Automation: Lessons from Workflow Generation in a Production Enterprise Platform",
+      "url": "https://arxiv.org/abs/2608.03311",
+      "date": "2026-08-05",
       "source": "arXiv cs.AI"
     }
   ]
