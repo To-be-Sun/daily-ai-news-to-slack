@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
-    "https://openai.com/index/mufg",
-    "https://www.anthropic.com/news/claude-opus-4-8",
-    "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
-    "https://huggingface.co/blog/torch-profiler",
-    "https://huggingface.co/blog/delta-weight-sync",
-    "https://arxiv.org/abs/2410.15236",
-    "https://arxiv.org/abs/2605.28843",
-    "https://arxiv.org/abs/2605.30096",
     "https://openai.com/index/boston-childrens-hospital",
     "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
     "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
@@ -499,68 +489,78 @@
     "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
     "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
     "https://arxiv.org/abs/2608.03071",
-    "https://arxiv.org/abs/2608.03311"
+    "https://arxiv.org/abs/2608.03311",
+    "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+    "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+    "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+    "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips/",
+    "https://huggingface.co/blog/baseten",
+    "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+    "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+    "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+    "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
+    "https://arxiv.org/abs/2608.04285"
   ],
-  "lastRun": "2026-08-05T23:22:35.054Z",
+  "lastRun": "2026-08-07T00:46:59.431Z",
   "lastPosted": [
     {
-      "title": "Circles powers telco personalization with OpenAI technology",
-      "url": "https://openai.com/index/circles",
-      "date": "2026-08-03",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "date": "2026-08-06",
       "source": "OpenAI News"
     },
     {
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-      "date": "2026-07-30",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "date": "2026-08-06",
       "source": "OpenAI News"
     },
     {
-      "title": "What&#8217;s the Tea? Lessons from leaders navigating AI transformation",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/",
-      "date": "2026-07-30",
-      "source": "Microsoft AI Blog"
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "date": "2026-08-06",
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence",
-      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
-      "date": "2026-07-30",
-      "source": "Google Research Blog"
+      "title": "How Gemini plans such detailed vacation itineraries for you",
+      "url": "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips/",
+      "date": "2026-08-06",
+      "source": "Gemini News"
     },
     {
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "date": "2026-08-04",
+      "title": "Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
+      "date": "2026-08-06",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Solving the solvent problem",
-      "url": "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
-      "date": "2026-08-04",
+      "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
+      "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
+      "date": "2026-08-03",
       "source": "MIT News AI"
     },
     {
-      "title": "The benefits of medical AI assistance vary based on user expertise",
-      "url": "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
-      "date": "2026-08-04",
-      "source": "MIT News AI"
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "date": "2026-08-06",
+      "source": "OpenAI News"
     },
     {
-      "title": "New release of LLM adds support for reasoning traces, OpenAI Responses, server-side tools, and smarter logging",
-      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
-      "date": "2026-08-04",
+      "title": "An AI model from Meta also hacked another company during testing",
+      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
+      "date": "2026-08-06",
       "source": "Simon Willison"
     },
     {
-      "title": "Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls",
-      "url": "https://arxiv.org/abs/2608.03071",
+      "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
       "date": "2026-08-05",
-      "source": "arXiv cs.AI"
+      "source": "Simon Willison"
     },
     {
-      "title": "Evaluating LLM Trade-offs for Enterprise Automation: Lessons from Workflow Generation in a Production Enterprise Platform",
-      "url": "https://arxiv.org/abs/2608.03311",
-      "date": "2026-08-05",
+      "title": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
+      "url": "https://arxiv.org/abs/2608.04285",
+      "date": "2026-08-06",
       "source": "arXiv cs.AI"
     }
   ]
