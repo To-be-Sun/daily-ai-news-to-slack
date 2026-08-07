@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/boston-childrens-hospital",
-    "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
-    "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-    "https://openai.com/index/endava",
-    "https://openai.com/index/braintrust",
-    "https://simonwillison.net/2026/May/30/how-we-contain-claude/#atom-everything",
-    "https://simonwillison.net/2026/May/28/claude-opus-4-8/#atom-everything",
-    "https://about.fb.com/news/2026/05/protecting-players-and-fans-during-fifa-world-cup-2026/",
-    "https://zenn.dev/yasunami_daichi/articles/llm-reasoning-architectures",
-    "https://zenn.dev/yoshiki_otagaki/articles/9186c5a2504b8e",
     "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
     "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
     "https://zenn.dev/ikmx/articles/renga-circulation-tech",
@@ -499,69 +489,79 @@
     "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
     "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
-    "https://arxiv.org/abs/2608.04285"
+    "https://arxiv.org/abs/2608.04285",
+    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+    "https://openai.com/index/hsp-gruppe",
+    "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/04/accelerating-frontier-transformation-enrich-employee-experience/",
+    "https://huggingface.co/blog/allenai/tutormoments",
+    "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "https://arxiv.org/abs/2608.06112",
+    "https://arxiv.org/abs/2608.05263",
+    "https://arxiv.org/abs/2608.05420"
   ],
-  "lastRun": "2026-08-07T00:46:59.431Z",
+  "lastRun": "2026-08-07T23:12:45.665Z",
   "lastPosted": [
     {
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-      "date": "2026-08-06",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "date": "2026-08-07",
       "source": "OpenAI News"
     },
     {
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-      "date": "2026-08-06",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "date": "2026-08-07",
       "source": "OpenAI News"
     },
     {
-      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
-      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
-      "date": "2026-08-06",
-      "source": "Google DeepMind Blog"
+      "title": "Improving Fable 5's biology safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "date": "2026-08-07",
+      "source": "Anthropic News"
     },
     {
-      "title": "How Gemini plans such detailed vacation itineraries for you",
-      "url": "https://blog.google/products-and-platforms/products/gemini/how-gemini-plans-trips/",
-      "date": "2026-08-06",
+      "title": "See what 5 builders are making with Gemini Omni",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
+      "date": "2026-08-07",
       "source": "Gemini News"
     },
     {
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/baseten",
-      "date": "2026-08-06",
+      "title": "Accelerating Frontier Transformation: Enrich employee experience",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/04/accelerating-frontier-transformation-enrich-employee-experience/",
+      "date": "2026-08-04",
+      "source": "Microsoft AI Blog"
+    },
+    {
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "date": "2026-08-07",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Alexander Rakhlin named director of the MIT Statistics and Data Science Center",
-      "url": "https://news.mit.edu/2026/alexander-rakhlin-named-director-mit-statistics-data-science-center-0803",
-      "date": "2026-08-03",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "date": "2026-08-06",
+      "title": "New ways to learn and teach with ChatGPT Work and Codex",
+      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+      "date": "2026-08-04",
       "source": "OpenAI News"
     },
     {
-      "title": "An AI model from Meta also hacked another company during testing",
-      "url": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything",
-      "date": "2026-08-06",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
-      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist/#atom-everything",
-      "date": "2026-08-05",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning",
-      "url": "https://arxiv.org/abs/2608.04285",
-      "date": "2026-08-06",
+      "title": "From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems",
+      "url": "https://arxiv.org/abs/2608.06112",
+      "date": "2026-08-07",
       "source": "arXiv cs.AI"
+    },
+    {
+      "title": "OrchestraBench: Evaluating Multi-Agent Orchestration Failure Modes, Recovery, and Decomposition Quality",
+      "url": "https://arxiv.org/abs/2608.05263",
+      "date": "2026-08-07",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Can Open-Weight LLMs Produce Kernel-Verified Coq Proofs? A Pilot Study",
+      "url": "https://arxiv.org/abs/2608.05420",
+      "date": "2026-08-07",
+      "source": "arXiv cs.LG"
     }
   ]
 }
