@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://simonwillison.net/2026/May/29/anthropic/#atom-everything",
-    "https://simonwillison.net/2026/May/31/the-solution-might-be-cancelling-my-ai-subscription/#atom-everything",
-    "https://zenn.dev/ikmx/articles/renga-circulation-tech",
-    "https://zenn.dev/phpmyadmin/articles/125682833b8cff",
-    "https://zenn.dev/josh/articles/3b6d6b3d987771",
-    "https://zenn.dev/wwwave/articles/29d9a2563f74c4",
-    "https://qiita.com/kuwaharayuki12/items/0b3489e27cc6be6386f2",
-    "https://qiita.com/jjking/items/4c0825aad6fdd1a84a80",
-    "https://qiita.com/goki602/items/8af4792b8e8794173e7c",
-    "https://qiita.com/harupython/items/1ab55378ba0b32d1d496",
     "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
     "https://openai.com/index/stargate-michigan-data-center",
     "https://www.anthropic.com/news/confidential-draft-s1-sec",
@@ -499,69 +489,79 @@
     "https://openai.com/index/learn-teach-chatgpt-work-codex",
     "https://arxiv.org/abs/2608.06112",
     "https://arxiv.org/abs/2608.05263",
-    "https://arxiv.org/abs/2608.05420"
+    "https://arxiv.org/abs/2608.05420",
+    "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
+    "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+    "https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers/",
+    "https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/",
+    "https://zenn.dev/tottoko_hamu/articles/2026-08-03-120745",
+    "https://zenn.dev/m2yagyu/articles/attention-hopfield-associative-memory",
+    "https://qiita.com/lhjjjk4/items/9d10e8bcbe87b6303527",
+    "https://zenn.dev/nullcontroller/books/b9a9feaefb4001",
+    "https://zenn.dev/kazuki_tam/articles/72c261b787c101",
+    "https://qiita.com/aakan/items/13f6910afad9158f9cc8"
   ],
-  "lastRun": "2026-08-07T23:12:45.665Z",
+  "lastRun": "2026-08-08T23:08:25.185Z",
   "lastPosted": [
     {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
       "date": "2026-08-07",
-      "source": "OpenAI News"
+      "source": "Simon Willison"
     },
     {
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "date": "2026-08-07",
-      "source": "OpenAI News"
+      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+      "date": "2026-08-08",
+      "source": "Simon Willison"
     },
     {
-      "title": "Improving Fable 5's biology safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "date": "2026-08-07",
-      "source": "Anthropic News"
+      "title": "Why Meta Builds Its Own AI Data Centers",
+      "url": "https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers/",
+      "date": "2026-08-06",
+      "source": "Meta Newsroom"
     },
     {
-      "title": "See what 5 builders are making with Gemini Omni",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
-      "date": "2026-08-07",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Accelerating Frontier Transformation: Enrich employee experience",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/04/accelerating-frontier-transformation-enrich-employee-experience/",
+      "title": "We’re Upgrading Your WhatsApp Group Chats",
+      "url": "https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/",
       "date": "2026-08-04",
-      "source": "Microsoft AI Blog"
+      "source": "Meta Newsroom"
     },
     {
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments",
+      "title": "Claude Codeのサブエージェント定義ファイルの作り方——.claude/agents/最小構成リファレンス",
+      "url": "https://zenn.dev/tottoko_hamu/articles/2026-08-03-120745",
+      "date": "2026-08-08",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "Attentionは結局、何を思い出しているのか",
+      "url": "https://zenn.dev/m2yagyu/articles/attention-hopfield-associative-memory",
+      "date": "2026-08-08",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "AI Daily Digest 2026-08-09：Astra は初の Critical 級サイバー能力、Claude Code は自動モードへ、Meta は五冠",
+      "url": "https://qiita.com/lhjjjk4/items/9d10e8bcbe87b6303527",
+      "date": "2026-08-08",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "3つのAIをオーケストレーションしたレガシー保守",
+      "url": "https://zenn.dev/nullcontroller/books/b9a9feaefb4001",
       "date": "2026-08-07",
-      "source": "Hugging Face Blog"
+      "source": "Zenn 生成AI"
     },
     {
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
-      "date": "2026-08-04",
-      "source": "OpenAI News"
+      "title": "AIに渡す前の秘密情報チェックからセキュリティ対策の可視化までできるデスクトップアプリを作ってみた（shk Desktop）",
+      "url": "https://zenn.dev/kazuki_tam/articles/72c261b787c101",
+      "date": "2026-08-08",
+      "source": "Zenn AI"
     },
     {
-      "title": "From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems",
-      "url": "https://arxiv.org/abs/2608.06112",
-      "date": "2026-08-07",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "OrchestraBench: Evaluating Multi-Agent Orchestration Failure Modes, Recovery, and Decomposition Quality",
-      "url": "https://arxiv.org/abs/2608.05263",
-      "date": "2026-08-07",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Can Open-Weight LLMs Produce Kernel-Verified Coq Proofs? A Pilot Study",
-      "url": "https://arxiv.org/abs/2608.05420",
-      "date": "2026-08-07",
-      "source": "arXiv cs.LG"
+      "title": "〖AI News まとめ〗生成AI ニュースレポート — 2026-08-09",
+      "url": "https://qiita.com/aakan/items/13f6910afad9158f9cc8",
+      "date": "2026-08-08",
+      "source": "Qiita AI"
     }
   ]
 }
