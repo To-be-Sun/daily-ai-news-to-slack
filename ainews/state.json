@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
-    "https://openai.com/index/stargate-michigan-data-center",
-    "https://www.anthropic.com/news/confidential-draft-s1-sec",
-    "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-    "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
-    "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
-    "https://huggingface.co/blog/JetBrains/mellum2-launch",
-    "https://arxiv.org/abs/2603.08721",
-    "https://arxiv.org/abs/2605.30571",
-    "https://arxiv.org/abs/2602.07905",
     "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
     "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
     "https://www.anthropic.com/news/expanding-project-glasswing",
@@ -499,69 +489,79 @@
     "https://qiita.com/lhjjjk4/items/9d10e8bcbe87b6303527",
     "https://zenn.dev/nullcontroller/books/b9a9feaefb4001",
     "https://zenn.dev/kazuki_tam/articles/72c261b787c101",
-    "https://qiita.com/aakan/items/13f6910afad9158f9cc8"
+    "https://qiita.com/aakan/items/13f6910afad9158f9cc8",
+    "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+    "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+    "https://zenn.dev/akari1106/articles/21ead1df717cb9",
+    "https://qiita.com/lhjjjk4/items/58639b652345f0fcade0",
+    "https://zenn.dev/yoshitetsu/articles/1c67da68af9668",
+    "https://zenn.dev/lingmu/articles/2026-08-06-openai-cyber-eval-robot-safety",
+    "https://zenn.dev/hach/articles/chat-agent-token-cost-budget-design",
+    "https://qiita.com/quotidia/items/9fafb06ccd9cae2742e2",
+    "https://qiita.com/toypoo/items/2061c9c8fa0468c7420b",
+    "https://qiita.com/shibacorgi/items/c32fa94841f6d132741b"
   ],
-  "lastRun": "2026-08-08T23:08:25.185Z",
+  "lastRun": "2026-08-09T23:08:52.923Z",
   "lastPosted": [
     {
       "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
-      "date": "2026-08-07",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
       "date": "2026-08-08",
       "source": "Simon Willison"
     },
     {
-      "title": "Why Meta Builds Its Own AI Data Centers",
-      "url": "https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers/",
-      "date": "2026-08-06",
-      "source": "Meta Newsroom"
+      "title": "GitHub Models is now retired",
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
+      "date": "2026-08-09",
+      "source": "Simon Willison"
     },
     {
-      "title": "We’re Upgrading Your WhatsApp Group Chats",
-      "url": "https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/",
-      "date": "2026-08-04",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Claude Codeのサブエージェント定義ファイルの作り方——.claude/agents/最小構成リファレンス",
-      "url": "https://zenn.dev/tottoko_hamu/articles/2026-08-03-120745",
-      "date": "2026-08-08",
+      "title": "AIエージェントを「安全に暴れさせる」設計。Cloudflare OSのセキュリティとガバナンスを読む",
+      "url": "https://zenn.dev/akari1106/articles/21ead1df717cb9",
+      "date": "2026-08-09",
       "source": "Zenn AI"
     },
     {
-      "title": "Attentionは結局、何を思い出しているのか",
-      "url": "https://zenn.dev/m2yagyu/articles/attention-hopfield-associative-memory",
+      "title": "AI Daily Digest 2026-08-10：Claude Code はセッション間メッセージ、ByteDance は 10T モデル、DeepSeek は 5000 億元ラウンド再開",
+      "url": "https://qiita.com/lhjjjk4/items/58639b652345f0fcade0",
+      "date": "2026-08-09",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "Irodori-TTS v4をNVIDIA L4で性能評価：通常版と2種類の量子化版をv3と比較",
+      "url": "https://zenn.dev/yoshitetsu/articles/1c67da68af9668",
       "date": "2026-08-08",
       "source": "Zenn 生成AI"
     },
     {
-      "title": "AI Daily Digest 2026-08-09：Astra は初の Critical 級サイバー能力、Claude Code は自動モードへ、Meta は五冠",
-      "url": "https://qiita.com/lhjjjk4/items/9d10e8bcbe87b6303527",
+      "title": "AI安全の新時代が始まった",
+      "url": "https://zenn.dev/lingmu/articles/2026-08-06-openai-cyber-eval-robot-safety",
       "date": "2026-08-08",
-      "source": "Qiita AI"
-    },
-    {
-      "title": "3つのAIをオーケストレーションしたレガシー保守",
-      "url": "https://zenn.dev/nullcontroller/books/b9a9feaefb4001",
-      "date": "2026-08-07",
       "source": "Zenn 生成AI"
     },
     {
-      "title": "AIに渡す前の秘密情報チェックからセキュリティ対策の可視化までできるデスクトップアプリを作ってみた（shk Desktop）",
-      "url": "https://zenn.dev/kazuki_tam/articles/72c261b787c101",
-      "date": "2026-08-08",
+      "title": "常駐型AIチャットエージェントの「トークンコスト予算」設計",
+      "url": "https://zenn.dev/hach/articles/chat-agent-token-cost-budget-design",
+      "date": "2026-08-09",
       "source": "Zenn AI"
     },
     {
-      "title": "〖AI News まとめ〗生成AI ニュースレポート — 2026-08-09",
-      "url": "https://qiita.com/aakan/items/13f6910afad9158f9cc8",
-      "date": "2026-08-08",
+      "title": "Jeff DeanがGoogleを27年で退社、新会社Discovery Loopへ。AI体制の変更点を一次資料から整理",
+      "url": "https://qiita.com/quotidia/items/9fafb06ccd9cae2742e2",
+      "date": "2026-08-09",
       "source": "Qiita AI"
+    },
+    {
+      "title": "エージェントRAGは普通のRAGにどれくらい勝てるのか【自分のQiita記事20本で3パターン比較】",
+      "url": "https://qiita.com/toypoo/items/2061c9c8fa0468c7420b",
+      "date": "2026-08-09",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "さくらのAI Engine「3,000リクエスト無料」を使い倒す ― 1回に11万トークン詰め込んでAIにWeb情報を丸飲みさせてみた",
+      "url": "https://qiita.com/shibacorgi/items/c32fa94841f6d132741b",
+      "date": "2026-08-09",
+      "source": "Qiita LLM"
     }
   ]
 }
