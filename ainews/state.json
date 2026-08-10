@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-    "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "https://www.anthropic.com/news/expanding-project-glasswing",
-    "https://huggingface.co/blog/Hcompany/holo31",
-    "https://openai.com/index/travelers",
-    "https://openai.com/index/codex-for-every-role-tool-workflow",
-    "https://openai.com/index/codex-for-knowledge-work",
-    "https://arxiv.org/abs/2606.02240",
-    "https://arxiv.org/abs/2606.00133",
-    "https://arxiv.org/abs/2606.01991",
     "https://openai.com/index/frontier-safety-blueprint",
     "https://openai.com/index/endava-frontiers",
     "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
@@ -499,69 +489,79 @@
     "https://zenn.dev/hach/articles/chat-agent-token-cost-budget-design",
     "https://qiita.com/quotidia/items/9fafb06ccd9cae2742e2",
     "https://qiita.com/toypoo/items/2061c9c8fa0468c7420b",
-    "https://qiita.com/shibacorgi/items/c32fa94841f6d132741b"
+    "https://qiita.com/shibacorgi/items/c32fa94841f6d132741b",
+    "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+    "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+    "https://blog.google/products-and-platforms/products/gemini/state-fair-tips/",
+    "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "https://huggingface.co/blog/muse-glimmer",
+    "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+    "https://arxiv.org/abs/2608.07167",
+    "https://arxiv.org/abs/2608.06756",
+    "https://arxiv.org/abs/2608.06564"
   ],
-  "lastRun": "2026-08-09T23:08:52.923Z",
+  "lastRun": "2026-08-10T23:12:35.459Z",
   "lastPosted": [
     {
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
-      "date": "2026-08-08",
-      "source": "Simon Willison"
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "date": "2026-08-10",
+      "source": "OpenAI News"
     },
     {
-      "title": "GitHub Models is now retired",
-      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
-      "date": "2026-08-09",
-      "source": "Simon Willison"
+      "title": "Putting frontier cyber models in more trusted hands",
+      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+      "date": "2026-08-10",
+      "source": "OpenAI News"
     },
     {
-      "title": "AIエージェントを「安全に暴れさせる」設計。Cloudflare OSのセキュリティとガバナンスを読む",
-      "url": "https://zenn.dev/akari1106/articles/21ead1df717cb9",
-      "date": "2026-08-09",
-      "source": "Zenn AI"
+      "title": "Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
+      "date": "2026-08-10",
+      "source": "Google AI Blog"
     },
     {
-      "title": "AI Daily Digest 2026-08-10：Claude Code はセッション間メッセージ、ByteDance は 10T モデル、DeepSeek は 5000 億元ラウンド再開",
-      "url": "https://qiita.com/lhjjjk4/items/58639b652345f0fcade0",
-      "date": "2026-08-09",
-      "source": "Qiita AI"
+      "title": "Have more fun at the state fair with these Google tools",
+      "url": "https://blog.google/products-and-platforms/products/gemini/state-fair-tips/",
+      "date": "2026-08-10",
+      "source": "Gemini News"
     },
     {
-      "title": "Irodori-TTS v4をNVIDIA L4で性能評価：通常版と2種類の量子化版をv3と比較",
-      "url": "https://zenn.dev/yoshitetsu/articles/1c67da68af9668",
-      "date": "2026-08-08",
-      "source": "Zenn 生成AI"
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "date": "2026-08-10",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "AI安全の新時代が始まった",
-      "url": "https://zenn.dev/lingmu/articles/2026-08-06-openai-cyber-eval-robot-safety",
-      "date": "2026-08-08",
-      "source": "Zenn 生成AI"
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "date": "2026-08-10",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "常駐型AIチャットエージェントの「トークンコスト予算」設計",
-      "url": "https://zenn.dev/hach/articles/chat-agent-token-cost-budget-design",
-      "date": "2026-08-09",
-      "source": "Zenn AI"
+      "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+      "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+      "date": "2026-08-10",
+      "source": "MIT News AI"
     },
     {
-      "title": "Jeff DeanがGoogleを27年で退社、新会社Discovery Loopへ。AI体制の変更点を一次資料から整理",
-      "url": "https://qiita.com/quotidia/items/9fafb06ccd9cae2742e2",
-      "date": "2026-08-09",
-      "source": "Qiita AI"
+      "title": "NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs",
+      "url": "https://arxiv.org/abs/2608.07167",
+      "date": "2026-08-10",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "エージェントRAGは普通のRAGにどれくらい勝てるのか【自分のQiita記事20本で3パターン比較】",
-      "url": "https://qiita.com/toypoo/items/2061c9c8fa0468c7420b",
-      "date": "2026-08-09",
-      "source": "Qiita LLM"
+      "title": "Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence",
+      "url": "https://arxiv.org/abs/2608.06756",
+      "date": "2026-08-10",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "さくらのAI Engine「3,000リクエスト無料」を使い倒す ― 1回に11万トークン詰め込んでAIにWeb情報を丸飲みさせてみた",
-      "url": "https://qiita.com/shibacorgi/items/c32fa94841f6d132741b",
-      "date": "2026-08-09",
-      "source": "Qiita LLM"
+      "title": "Quantization Damage Is Multiplicative, Not Additive",
+      "url": "https://arxiv.org/abs/2608.06564",
+      "date": "2026-08-10",
+      "source": "arXiv cs.LG"
     }
   ]
 }
