@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/frontier-safety-blueprint",
-    "https://openai.com/index/endava-frontiers",
-    "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-    "https://www.anthropic.com/news/services-track-partner-hub",
-    "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
-    "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/",
-    "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/",
-    "https://arxiv.org/abs/2606.05037",
-    "https://arxiv.org/abs/2510.15416",
-    "https://arxiv.org/abs/2606.04072",
     "https://openai.com/index/public-policy-agenda",
     "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
     "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
@@ -499,69 +489,79 @@
     "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
     "https://arxiv.org/abs/2608.07167",
     "https://arxiv.org/abs/2608.06756",
-    "https://arxiv.org/abs/2608.06564"
+    "https://arxiv.org/abs/2608.06564",
+    "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+    "https://openai.com/index/zapier",
+    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
+    "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+    "https://arxiv.org/abs/2608.07762",
+    "https://arxiv.org/abs/2608.09867",
+    "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything"
   ],
-  "lastRun": "2026-08-10T23:12:35.459Z",
+  "lastRun": "2026-08-11T23:16:05.994Z",
   "lastPosted": [
     {
-      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "title": "Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "date": "2026-08-11",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "url": "https://openai.com/index/zapier",
       "date": "2026-08-10",
       "source": "OpenAI News"
     },
     {
-      "title": "Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "date": "2026-08-10",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-      "date": "2026-08-10",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "date": "2026-08-11",
       "source": "Google AI Blog"
     },
     {
-      "title": "Have more fun at the state fair with these Google tools",
-      "url": "https://blog.google/products-and-platforms/products/gemini/state-fair-tips/",
-      "date": "2026-08-10",
+      "title": "More than 1 billion people are using the Gemini app every month.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
+      "date": "2026-08-11",
       "source": "Gemini News"
     },
     {
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
+      "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
+      "date": "2026-08-11",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "date": "2026-08-11",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
       "date": "2026-08-10",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
-      "url": "https://huggingface.co/blog/muse-glimmer",
-      "date": "2026-08-10",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
-      "url": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-      "date": "2026-08-10",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "NiyamAI - An Intent-Bound AI Agent with Cryptographically Verifiable Guardrails using Zero-Knowledge Proofs",
-      "url": "https://arxiv.org/abs/2608.07167",
-      "date": "2026-08-10",
+      "title": "Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation",
+      "url": "https://arxiv.org/abs/2608.07762",
+      "date": "2026-08-11",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence",
-      "url": "https://arxiv.org/abs/2608.06756",
-      "date": "2026-08-10",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://arxiv.org/abs/2608.09867",
+      "date": "2026-08-11",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Quantization Damage Is Multiplicative, Not Additive",
-      "url": "https://arxiv.org/abs/2608.06564",
-      "date": "2026-08-10",
-      "source": "arXiv cs.LG"
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+      "date": "2026-08-11",
+      "source": "Simon Willison"
     }
   ]
 }
