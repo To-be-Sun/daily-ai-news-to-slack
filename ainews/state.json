@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/public-policy-agenda",
-    "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
-    "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/",
-    "https://news.mit.edu/2026/nsf-renews-support-mit-led-ai-and-physics-institute-0604",
-    "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
-    "https://openai.com/index/chatgpt-memory-dreaming",
-    "https://arxiv.org/abs/2606.04037",
-    "https://arxiv.org/abs/2603.10044",
-    "https://arxiv.org/abs/2606.02031",
     "https://openai.com/index/biodefense-in-the-intelligence-age",
     "https://openai.com/index/wasmer",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
     "https://arxiv.org/abs/2608.07762",
     "https://arxiv.org/abs/2608.09867",
-    "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything"
+    "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+    "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "https://openai.com/index/testing-ads-in-chatgpt",
+    "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+    "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+    "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
+    "https://arxiv.org/abs/2608.10538",
+    "https://arxiv.org/abs/2608.10669"
   ],
-  "lastRun": "2026-08-11T23:16:05.994Z",
+  "lastRun": "2026-08-12T23:15:25.617Z",
   "lastPosted": [
     {
-      "title": "Daybreak models are now available on AWS",
-      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "date": "2026-08-12",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Testing ads in ChatGPT",
+      "url": "https://openai.com/index/testing-ads-in-chatgpt",
       "date": "2026-08-11",
       "source": "OpenAI News"
     },
     {
-      "title": "How Zapier transformed core marketing processes with ChatGPT Work",
-      "url": "https://openai.com/index/zapier",
-      "date": "2026-08-10",
-      "source": "OpenAI News"
+      "title": "Putting sign language AI into users’ hands",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "date": "2026-08-12",
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "date": "2026-08-11",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "More than 1 billion people are using the Gemini app every month.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
-      "date": "2026-08-11",
+      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
+      "date": "2026-08-12",
       "source": "Gemini News"
     },
     {
-      "title": "Advancing AMIE towards expert-level audio-visual clinical consultations",
-      "url": "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
-      "date": "2026-08-11",
+      "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
+      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
+      "date": "2026-08-12",
       "source": "Google Research Blog"
     },
     {
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-      "date": "2026-08-11",
+      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+      "date": "2026-08-12",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-      "date": "2026-08-10",
+      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "date": "2026-08-12",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Who Verifies the Benchmark? Decentralizing Trust in Large Language Model Evaluation",
-      "url": "https://arxiv.org/abs/2608.07762",
-      "date": "2026-08-11",
-      "source": "arXiv cs.AI"
-    },
-    {
       "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://arxiv.org/abs/2608.09867",
-      "date": "2026-08-11",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
+      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
       "date": "2026-08-11",
       "source": "Simon Willison"
+    },
+    {
+      "title": "SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in Small Language Models",
+      "url": "https://arxiv.org/abs/2608.10538",
+      "date": "2026-08-12",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems",
+      "url": "https://arxiv.org/abs/2608.10669",
+      "date": "2026-08-12",
+      "source": "arXiv cs.AI"
     }
   ]
 }
