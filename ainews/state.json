@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/biodefense-in-the-intelligence-age",
-    "https://openai.com/index/wasmer",
-    "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-    "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
-    "https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605",
-    "https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603",
-    "https://huggingface.co/blog/hf-cli-for-agents",
-    "https://arxiv.org/abs/2606.06453",
-    "https://arxiv.org/abs/2606.06462",
-    "https://simonwillison.net/2026/Jun/6/micropython-in-a-sandbox/#atom-everything",
     "https://openai.com/index/built-to-benefit-everyone-our-plan",
     "https://openai.com/index/openai-submits-confidential-s-1",
     "https://blog.google/products-and-platforms/products/search/fifa-world-cup-google-tools-2026/",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
     "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
     "https://arxiv.org/abs/2608.10538",
-    "https://arxiv.org/abs/2608.10669"
+    "https://arxiv.org/abs/2608.10669",
+    "https://openai.com/index/builders-guide-to-gpt-5-6",
+    "https://openai.com/index/previewing-ultrafast",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
+    "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+    "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+    "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+    "https://arxiv.org/abs/2608.11891",
+    "https://arxiv.org/abs/2608.12282",
+    "https://arxiv.org/abs/2608.11770"
   ],
-  "lastRun": "2026-08-12T23:15:25.617Z",
+  "lastRun": "2026-08-13T23:16:11.440Z",
   "lastPosted": [
     {
-      "title": "From assistance to execution: How enterprises put AI to work",
-      "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-      "date": "2026-08-12",
+      "title": "The builder’s guide to GPT‑5.6",
+      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "date": "2026-08-13",
       "source": "OpenAI News"
     },
     {
-      "title": "Testing ads in ChatGPT",
-      "url": "https://openai.com/index/testing-ads-in-chatgpt",
-      "date": "2026-08-11",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "url": "https://openai.com/index/previewing-ultrafast",
+      "date": "2026-08-13",
       "source": "OpenAI News"
     },
     {
-      "title": "Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-      "date": "2026-08-12",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Now you can connect even more of your favorite apps and services to Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
-      "date": "2026-08-12",
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "date": "2026-08-13",
       "source": "Gemini News"
     },
     {
-      "title": "Empty shelves or lost keys? Recall is the bottleneck for parametric factuality",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
-      "date": "2026-08-12",
-      "source": "Google Research Blog"
+      "title": "Omni experts share what excites them most about the model.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
+      "date": "2026-08-13",
+      "source": "Gemini News"
     },
     {
-      "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-      "date": "2026-08-12",
+      "title": "Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
+      "date": "2026-08-13",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
+      "date": "2026-08-13",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "date": "2026-08-13",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "date": "2026-08-12",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
-      "date": "2026-08-11",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in Small Language Models",
-      "url": "https://arxiv.org/abs/2608.10538",
-      "date": "2026-08-12",
+      "title": "Benchmark-Based Comparative Assessment of Publicly Benchmarked Indian Foundation Models: A Capability and Evaluation-Maturity Framework",
+      "url": "https://arxiv.org/abs/2608.11891",
+      "date": "2026-08-13",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "REDAgentBench: Executable Red Teaming and Faithful Measurement of LLM Agent Systems",
-      "url": "https://arxiv.org/abs/2608.10669",
-      "date": "2026-08-12",
+      "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
+      "url": "https://arxiv.org/abs/2608.12282",
+      "date": "2026-08-13",
       "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines",
+      "url": "https://arxiv.org/abs/2608.11770",
+      "date": "2026-08-13",
+      "source": "arXiv cs.LG"
     }
   ]
 }
