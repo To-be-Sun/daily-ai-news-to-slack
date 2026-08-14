@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/built-to-benefit-everyone-our-plan",
-    "https://openai.com/index/openai-submits-confidential-s-1",
-    "https://blog.google/products-and-platforms/products/search/fifa-world-cup-google-tools-2026/",
-    "https://huggingface.co/blog/openenv-agentic-rl",
-    "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-    "https://news.mit.edu/2026/mit-raise-georgia-state-university-announce-path-0604",
-    "https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603",
-    "https://arxiv.org/abs/2606.05050",
-    "https://arxiv.org/abs/2606.07074",
-    "https://arxiv.org/abs/2606.06546",
     "https://openai.com/index/economic-research-exchange",
     "https://openai.com/index/nextdoor",
     "https://www.anthropic.com/news/claude-fable-5-mythos-5",
@@ -499,68 +489,78 @@
     "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "https://arxiv.org/abs/2608.11891",
     "https://arxiv.org/abs/2608.12282",
-    "https://arxiv.org/abs/2608.11770"
+    "https://arxiv.org/abs/2608.11770",
+    "https://openai.com/index/dali-rajic-chief-revenue-officer",
+    "https://www.anthropic.com/news/claude-text-watermark",
+    "https://openai.com/index/ringcentral",
+    "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "https://openai.com/index/responsible-ai-infrastructure-texas",
+    "https://openai.com/index/model-ml",
+    "https://arxiv.org/abs/2608.12323",
+    "https://arxiv.org/abs/2608.12426",
+    "https://arxiv.org/abs/2608.12629"
   ],
-  "lastRun": "2026-08-13T23:16:11.440Z",
+  "lastRun": "2026-08-14T23:06:04.237Z",
   "lastPosted": [
     {
-      "title": "The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
       "date": "2026-08-13",
       "source": "OpenAI News"
     },
     {
-      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-      "url": "https://openai.com/index/previewing-ultrafast",
-      "date": "2026-08-13",
+      "title": "How Claude’s text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "date": "2026-08-14",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "url": "https://openai.com/index/ringcentral",
+      "date": "2026-08-12",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-      "date": "2026-08-13",
-      "source": "Gemini News"
+      "title": "State of Open Models: Summer 2026 Observations",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "date": "2026-08-14",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Omni experts share what excites them most about the model.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
-      "date": "2026-08-13",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-      "date": "2026-08-13",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-      "date": "2026-08-13",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
       "date": "2026-08-13",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Benchmark-Based Comparative Assessment of Publicly Benchmarked Indian Foundation Models: A Capability and Evaluation-Maturity Framework",
-      "url": "https://arxiv.org/abs/2608.11891",
-      "date": "2026-08-13",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+      "date": "2026-08-10",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "url": "https://openai.com/index/model-ml",
+      "date": "2026-08-10",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance",
+      "url": "https://arxiv.org/abs/2608.12323",
+      "date": "2026-08-14",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
-      "url": "https://arxiv.org/abs/2608.12282",
-      "date": "2026-08-13",
+      "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+      "url": "https://arxiv.org/abs/2608.12426",
+      "date": "2026-08-14",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Achieving Near-Zero-Overhead Multi-Model Hierarchical Classification in Real-Time Detection Pipelines",
-      "url": "https://arxiv.org/abs/2608.11770",
-      "date": "2026-08-13",
+      "title": "CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution",
+      "url": "https://arxiv.org/abs/2608.12629",
+      "date": "2026-08-14",
       "source": "arXiv cs.LG"
     }
   ]
