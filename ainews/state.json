@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/economic-research-exchange",
-    "https://openai.com/index/nextdoor",
-    "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
-    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
-    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
-    "https://blog.google/products-and-platforms/products/search/soccer-tournament-google-tools-2026/",
-    "https://simonwillison.net/2026/Jun/8/wwdc/#atom-everything",
-    "https://arxiv.org/abs/2606.08168",
-    "https://arxiv.org/abs/2604.01039",
     "https://openai.com/index/openai-on-oracle-cloud",
     "https://openai.com/index/prc-linked-influence-operations-ai-debates",
     "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
@@ -499,69 +489,79 @@
     "https://openai.com/index/model-ml",
     "https://arxiv.org/abs/2608.12323",
     "https://arxiv.org/abs/2608.12426",
-    "https://arxiv.org/abs/2608.12629"
+    "https://arxiv.org/abs/2608.12629",
+    "https://openai.com/index/building-an-ai-native-finance-function",
+    "https://openai.com/index/premium-seats-chatgpt-business",
+    "https://openai.com/index/virgin-atlantic/chatgpt-work",
+    "https://arxiv.org/abs/2608.12654",
+    "https://arxiv.org/abs/2608.12743",
+    "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+    "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
+    "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
+    "https://about.fb.com/news/2026/08/metas-compliance-with-australias-social-media-ban/",
+    "https://zenn.dev/yukihayama/articles/mcp-ai-agent-tools"
   ],
-  "lastRun": "2026-08-14T23:06:04.237Z",
+  "lastRun": "2026-08-15T23:04:40.755Z",
   "lastPosted": [
     {
-      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-      "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-      "date": "2026-08-13",
+      "title": "What building an AI-native finance function taught me",
+      "url": "https://openai.com/index/building-an-ai-native-finance-function",
+      "date": "2026-08-10",
       "source": "OpenAI News"
     },
     {
-      "title": "How Claude’s text watermark works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "date": "2026-08-14",
-      "source": "Anthropic News"
+      "title": "Premium seats are coming to ChatGPT Business",
+      "url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "date": "2026-08-10",
+      "source": "OpenAI News"
     },
     {
-      "title": "How RingCentral builds AI-native work from engineering to ops",
-      "url": "https://openai.com/index/ringcentral",
+      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "date": "2026-08-10",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+      "url": "https://arxiv.org/abs/2608.12654",
+      "date": "2026-08-15",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
+      "url": "https://arxiv.org/abs/2608.12743",
+      "date": "2026-08-15",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
+      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
       "date": "2026-08-12",
-      "source": "OpenAI News"
+      "source": "Simon Willison"
     },
     {
-      "title": "State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "date": "2026-08-14",
-      "source": "Hugging Face Blog"
+      "title": "Introducing Muse Glimmer",
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
+      "date": "2026-08-10",
+      "source": "Simon Willison"
     },
     {
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
+      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports",
+      "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
       "date": "2026-08-13",
-      "source": "Hugging Face Blog"
+      "source": "Meta Newsroom"
     },
     {
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-      "date": "2026-08-10",
-      "source": "OpenAI News"
+      "title": "Meta&#8217;s Compliance with Australia&#8217;s Social Media Ban",
+      "url": "https://about.fb.com/news/2026/08/metas-compliance-with-australias-social-media-ban/",
+      "date": "2026-08-13",
+      "source": "Meta Newsroom"
     },
     {
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
-      "date": "2026-08-10",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance",
-      "url": "https://arxiv.org/abs/2608.12323",
-      "date": "2026-08-14",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
-      "url": "https://arxiv.org/abs/2608.12426",
-      "date": "2026-08-14",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution",
-      "url": "https://arxiv.org/abs/2608.12629",
-      "date": "2026-08-14",
-      "source": "arXiv cs.LG"
+      "title": "MCPでAIエージェントに「手」を与える — Model Context Protocol入門",
+      "url": "https://zenn.dev/yukihayama/articles/mcp-ai-agent-tools",
+      "date": "2026-08-15",
+      "source": "Zenn AI"
     }
   ]
 }
