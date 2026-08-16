@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/openai-on-oracle-cloud",
-    "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-    "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-features-for-businesses/",
-    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "https://research.google/blog/new-framework-for-auditing-machine-unlearning/",
-    "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-    "https://arxiv.org/abs/2606.11150",
-    "https://arxiv.org/abs/2606.09864",
-    "https://simonwillison.net/2026/Jun/9/claude-fable-5/#atom-everything",
     "https://openai.com/index/openai-to-acquire-ona",
     "https://openai.com/index/bbva",
     "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
@@ -499,69 +489,79 @@
     "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
     "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
     "https://about.fb.com/news/2026/08/metas-compliance-with-australias-social-media-ban/",
-    "https://zenn.dev/yukihayama/articles/mcp-ai-agent-tools"
+    "https://zenn.dev/yukihayama/articles/mcp-ai-agent-tools",
+    "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+    "https://simonwillison.net/2026/Aug/15/cors-chat/",
+    "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era/",
+    "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/",
+    "https://zenn.dev/shinsei99/articles/gemini-api-traps",
+    "https://qiita.com/lhjjjk4/items/99696bb40a230107192c",
+    "https://zenn.dev/hai08320/articles/def4326c4cf293",
+    "https://zenn.dev/shigerufukada/articles/cf2b046c2564d1",
+    "https://zenn.dev/ccie26302/articles/zenn-gcp-gemini-sandbox-agent",
+    "https://qiita.com/kodomo-news/items/d8b4a15349f762ed2c60"
   ],
-  "lastRun": "2026-08-15T23:04:40.755Z",
+  "lastRun": "2026-08-16T23:04:31.061Z",
   "lastPosted": [
     {
-      "title": "What building an AI-native finance function taught me",
-      "url": "https://openai.com/index/building-an-ai-native-finance-function",
-      "date": "2026-08-10",
-      "source": "OpenAI News"
+      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
+      "date": "2026-08-16",
+      "source": "Simon Willison"
     },
     {
-      "title": "Premium seats are coming to ChatGPT Business",
-      "url": "https://openai.com/index/premium-seats-chatgpt-business",
-      "date": "2026-08-10",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
-      "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
-      "date": "2026-08-10",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
-      "url": "https://arxiv.org/abs/2608.12654",
+      "title": "CORS Chat",
+      "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
       "date": "2026-08-15",
-      "source": "arXiv cs.AI"
+      "source": "Simon Willison"
     },
     {
-      "title": "Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence",
-      "url": "https://arxiv.org/abs/2608.12743",
-      "date": "2026-08-15",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
-      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
+      "title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
+      "url": "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era/",
       "date": "2026-08-12",
-      "source": "Simon Willison"
+      "source": "Meta Newsroom"
     },
     {
-      "title": "Introducing Muse Glimmer",
-      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
+      "title": "Meta Upholds Texas Governor Greg Abbott’s Data Center Standards",
+      "url": "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/",
       "date": "2026-08-10",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "The Future Is for Everyone: Free AI Glasses for Every Blind and Visually Impaired Adult Vision Ireland Supports",
-      "url": "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
-      "date": "2026-08-13",
       "source": "Meta Newsroom"
     },
     {
-      "title": "Meta&#8217;s Compliance with Australia&#8217;s Social Media Ban",
-      "url": "https://about.fb.com/news/2026/08/metas-compliance-with-australias-social-media-ban/",
-      "date": "2026-08-13",
-      "source": "Meta Newsroom"
+      "title": "Gemini API で踏んだ4つの罠（SDK提供終了・モデル404・空レスポンス・無限待ち）",
+      "url": "https://zenn.dev/shinsei99/articles/gemini-api-traps",
+      "date": "2026-08-16",
+      "source": "Zenn 生成AI"
     },
     {
-      "title": "MCPでAIエージェントに「手」を与える — Model Context Protocol入門",
-      "url": "https://zenn.dev/yukihayama/articles/mcp-ai-agent-tools",
-      "date": "2026-08-15",
+      "title": "AI Daily Digest 8/17：Gemini 3.7 Flash 強化、SpaceX×Cursor、Qwen 30 億DL",
+      "url": "https://qiita.com/lhjjjk4/items/99696bb40a230107192c",
+      "date": "2026-08-16",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "AIコーディングブームの反動——Notebook LM要約",
+      "url": "https://zenn.dev/hai08320/articles/def4326c4cf293",
+      "date": "2026-08-16",
       "source": "Zenn AI"
+    },
+    {
+      "title": "ワークスペースの構成をチームで共有する「バーチャルモノレポ」を実装してみた",
+      "url": "https://zenn.dev/shigerufukada/articles/cf2b046c2564d1",
+      "date": "2026-08-16",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "Gemini 3.7 Flash × Cloud Run sandboxで乗っ取られても安全なコード実行エージェントを作る",
+      "url": "https://zenn.dev/ccie26302/articles/zenn-gcp-gemini-sandbox-agent",
+      "date": "2026-08-16",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "robots.txt の Content Signals を静的サイトで設定する",
+      "url": "https://qiita.com/kodomo-news/items/d8b4a15349f762ed2c60",
+      "date": "2026-08-16",
+      "source": "Qiita AI"
     }
   ]
 }
