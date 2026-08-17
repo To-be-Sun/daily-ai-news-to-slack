@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/openai-to-acquire-ona",
-    "https://openai.com/index/bbva",
-    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "https://www.anthropic.com/news/dxc-anthropic-alliance",
-    "https://www.anthropic.com/news/claude-corps",
-    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virginia-community-investments/",
-    "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-    "https://arxiv.org/abs/2606.12320",
-    "https://arxiv.org/abs/2604.20348",
-    "https://arxiv.org/abs/2606.12334",
     "https://openai.com/index/academy-courses-applying-ai-at-work",
     "https://openai.com/index/preply",
     "https://www.anthropic.com/news/tcs-anthropic-partnership",
@@ -499,69 +489,79 @@
     "https://zenn.dev/hai08320/articles/def4326c4cf293",
     "https://zenn.dev/shigerufukada/articles/cf2b046c2564d1",
     "https://zenn.dev/ccie26302/articles/zenn-gcp-gemini-sandbox-agent",
-    "https://qiita.com/kodomo-news/items/d8b4a15349f762ed2c60"
+    "https://qiita.com/kodomo-news/items/d8b4a15349f762ed2c60",
+    "https://openai.com/index/the-defenders-window",
+    "https://openai.com/index/openai-joins-ports-pike-project",
+    "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+    "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+    "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+    "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+    "https://arxiv.org/abs/2608.13612",
+    "https://arxiv.org/abs/2608.03682",
+    "https://arxiv.org/abs/2608.14228"
   ],
-  "lastRun": "2026-08-16T23:04:31.061Z",
+  "lastRun": "2026-08-17T23:05:52.183Z",
   "lastPosted": [
     {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-      "date": "2026-08-16",
-      "source": "Simon Willison"
+      "title": "The Defender’s Window",
+      "url": "https://openai.com/index/the-defenders-window",
+      "date": "2026-08-17",
+      "source": "OpenAI News"
     },
     {
-      "title": "CORS Chat",
-      "url": "https://simonwillison.net/2026/Aug/15/cors-chat/",
-      "date": "2026-08-15",
-      "source": "Simon Willison"
+      "title": "OpenAI joins PORTS-Pike project",
+      "url": "https://openai.com/index/openai-joins-ports-pike-project",
+      "date": "2026-08-17",
+      "source": "OpenAI News"
     },
     {
-      "title": "NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era",
-      "url": "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era/",
-      "date": "2026-08-12",
-      "source": "Meta Newsroom"
+      "title": "Get closer to the game with Gemini and Pixel",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "date": "2026-08-17",
+      "source": "Google AI Blog"
     },
     {
-      "title": "Meta Upholds Texas Governor Greg Abbott’s Data Center Standards",
-      "url": "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/",
-      "date": "2026-08-10",
-      "source": "Meta Newsroom"
+      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
+      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
+      "date": "2026-08-17",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Gemini API で踏んだ4つの罠（SDK提供終了・モデル404・空レスポンス・無限待ち）",
-      "url": "https://zenn.dev/shinsei99/articles/gemini-api-traps",
-      "date": "2026-08-16",
-      "source": "Zenn 生成AI"
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "date": "2026-08-17",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "AI Daily Digest 8/17：Gemini 3.7 Flash 強化、SpaceX×Cursor、Qwen 30 億DL",
-      "url": "https://qiita.com/lhjjjk4/items/99696bb40a230107192c",
-      "date": "2026-08-16",
-      "source": "Qiita AI"
+      "title": "Q&A: Rethinking how innovation happens",
+      "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+      "date": "2026-08-17",
+      "source": "MIT News AI"
     },
     {
-      "title": "AIコーディングブームの反動——Notebook LM要約",
-      "url": "https://zenn.dev/hai08320/articles/def4326c4cf293",
-      "date": "2026-08-16",
-      "source": "Zenn AI"
+      "title": "New policy ideas for the Intelligence Age",
+      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "date": "2026-08-17",
+      "source": "OpenAI News"
     },
     {
-      "title": "ワークスペースの構成をチームで共有する「バーチャルモノレポ」を実装してみた",
-      "url": "https://zenn.dev/shigerufukada/articles/cf2b046c2564d1",
-      "date": "2026-08-16",
-      "source": "Zenn AI"
+      "title": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
+      "url": "https://arxiv.org/abs/2608.13612",
+      "date": "2026-08-17",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "Gemini 3.7 Flash × Cloud Run sandboxで乗っ取られても安全なコード実行エージェントを作る",
-      "url": "https://zenn.dev/ccie26302/articles/zenn-gcp-gemini-sandbox-agent",
-      "date": "2026-08-16",
-      "source": "Zenn 生成AI"
+      "title": "PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud",
+      "url": "https://arxiv.org/abs/2608.03682",
+      "date": "2026-08-17",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "robots.txt の Content Signals を静的サイトで設定する",
-      "url": "https://qiita.com/kodomo-news/items/d8b4a15349f762ed2c60",
-      "date": "2026-08-16",
-      "source": "Qiita AI"
+      "title": "AutoSchema: Live Schema Grounding for Agentic Text-to-Sparql over Heterogeneous Knowledge Graphs",
+      "url": "https://arxiv.org/abs/2608.14228",
+      "date": "2026-08-17",
+      "source": "arXiv cs.LG"
     }
   ]
 }
