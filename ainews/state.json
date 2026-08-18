@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/academy-courses-applying-ai-at-work",
-    "https://openai.com/index/preply",
-    "https://www.anthropic.com/news/tcs-anthropic-partnership",
-    "https://www.anthropic.com/news/anthropic-public-record",
-    "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions/",
-    "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/",
-    "https://huggingface.co/blog/allenai/olmo-eval",
-    "https://arxiv.org/abs/2606.12835",
-    "https://arxiv.org/abs/2606.12918",
-    "https://arxiv.org/abs/2511.19314",
     "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "https://www.anthropic.com/news/fable-mythos-access",
     "https://openai.com/index/lseg",
@@ -499,68 +489,78 @@
     "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
     "https://arxiv.org/abs/2608.13612",
     "https://arxiv.org/abs/2608.03682",
-    "https://arxiv.org/abs/2608.14228"
+    "https://arxiv.org/abs/2608.14228",
+    "https://openai.com/index/pacing-model-development-cyber-capabilities",
+    "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+    "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+    "https://huggingface.co/blog/multi-vector-encoder",
+    "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+    "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
+    "https://arxiv.org/abs/2608.14580",
+    "https://arxiv.org/abs/2608.15424",
+    "https://arxiv.org/abs/2608.14644"
   ],
-  "lastRun": "2026-08-17T23:05:52.183Z",
+  "lastRun": "2026-08-18T23:06:09.377Z",
   "lastPosted": [
     {
-      "title": "The Defender’s Window",
-      "url": "https://openai.com/index/the-defenders-window",
-      "date": "2026-08-17",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "date": "2026-08-18",
       "source": "OpenAI News"
     },
     {
-      "title": "OpenAI joins PORTS-Pike project",
-      "url": "https://openai.com/index/openai-joins-ports-pike-project",
-      "date": "2026-08-17",
+      "title": "Strengthening democratic oversight in national security",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "date": "2026-08-18",
       "source": "OpenAI News"
     },
     {
-      "title": "Get closer to the game with Gemini and Pixel",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "date": "2026-08-17",
-      "source": "Google AI Blog"
+      "title": "Keep your SAT prep on track with practice tests in Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
+      "date": "2026-08-18",
+      "source": "Gemini News"
     },
     {
-      "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-      "date": "2026-08-17",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "date": "2026-08-17",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "date": "2026-08-18",
       "source": "Hugging Face Blog"
     },
     {
+      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "date": "2026-08-18",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
+      "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
+      "date": "2026-08-18",
+      "source": "MIT News AI"
+    },
+    {
       "title": "Q&A: Rethinking how innovation happens",
-      "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+      "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
       "date": "2026-08-17",
       "source": "MIT News AI"
     },
     {
-      "title": "New policy ideas for the Intelligence Age",
-      "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-      "date": "2026-08-17",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "SemPlan: Benchmarking Structured Semantic Planning for LLM-Based Queries over Enterprise Data",
-      "url": "https://arxiv.org/abs/2608.13612",
-      "date": "2026-08-17",
+      "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
+      "url": "https://arxiv.org/abs/2608.14580",
+      "date": "2026-08-18",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud",
-      "url": "https://arxiv.org/abs/2608.03682",
-      "date": "2026-08-17",
+      "title": "ETHOS: Towards a Modular Ethics Framework for Clinical Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2608.15424",
+      "date": "2026-08-18",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "AutoSchema: Live Schema Grounding for Agentic Text-to-Sparql over Heterogeneous Knowledge Graphs",
-      "url": "https://arxiv.org/abs/2608.14228",
-      "date": "2026-08-17",
+      "title": "DUET: Dual-Teacher On-Policy Distillation via Same-Weight Disagreement for Prohibition Compliance",
+      "url": "https://arxiv.org/abs/2608.14644",
+      "date": "2026-08-18",
       "source": "arXiv cs.LG"
     }
   ]
