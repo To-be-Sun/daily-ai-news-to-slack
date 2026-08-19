@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "https://www.anthropic.com/news/fable-mythos-access",
-    "https://openai.com/index/lseg",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/10/ai-amplifies-creativity-by-removing-friction/",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/11/the-cmo-on-the-frontier-from-ai-experimentation-to-ai-at-work/",
-    "https://news.mit.edu/2026/when-predicting-preferences-it-pays-to-consider-power-of-three-0611",
-    "https://news.mit.edu/2026/nuclear-inspired-cooling-system-ferveret-could-make-data-centers-more-sustainable-0610",
-    "https://simonwillison.net/2026/Jun/13/us-government-directive-to-suspend-access/#atom-everything",
-    "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/#atom-everything",
-    "https://about.fb.com/news/2026/06/free-ai-glasses-for-every-blind-veteran/",
     "https://openai.com/index/using-codex-to-simulate-black-holes",
     "https://openai.com/index/notion",
     "https://news.mit.edu/2026/jinhua-zhao-named-head-department-urban-studies-planning-0611",
@@ -499,68 +489,78 @@
     "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
     "https://arxiv.org/abs/2608.14580",
     "https://arxiv.org/abs/2608.15424",
-    "https://arxiv.org/abs/2608.14644"
+    "https://arxiv.org/abs/2608.14644",
+    "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "https://openai.com/index/partnering-with-codeai",
+    "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/",
+    "https://huggingface.co/blog/LiquidAI/qad",
+    "https://openai.com/index/nvidia/chatgpt-work",
+    "https://arxiv.org/abs/2608.17071",
+    "https://arxiv.org/abs/2608.17588",
+    "https://arxiv.org/abs/2608.17744"
   ],
-  "lastRun": "2026-08-18T23:06:09.377Z",
+  "lastRun": "2026-08-19T23:06:43.341Z",
   "lastPosted": [
     {
-      "title": "Pacing model development in an era of cyber-critical capabilities",
-      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "title": "Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "date": "2026-08-19",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "url": "https://openai.com/index/partnering-with-codeai",
       "date": "2026-08-18",
       "source": "OpenAI News"
     },
     {
-      "title": "Strengthening democratic oversight in national security",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "date": "2026-08-18",
-      "source": "OpenAI News"
+      "title": "5 new ways to level up your learning with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "date": "2026-08-19",
+      "source": "Google AI Blog"
     },
     {
-      "title": "Keep your SAT prep on track with practice tests in Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
+      "title": "Start the semester with one year of Gemini, on us",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/",
+      "date": "2026-08-19",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Try 4 new interactive BTS experiences inside the Gemini app",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/four-new-interactive-bts-experiences/",
       "date": "2026-08-18",
       "source": "Gemini News"
     },
     {
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "date": "2026-08-18",
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "date": "2026-08-19",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
       "date": "2026-08-18",
-      "source": "Hugging Face Blog"
+      "source": "OpenAI News"
     },
     {
-      "title": "When AI art has no author: Study finds generated images often can’t be traced to training data",
-      "url": "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
-      "date": "2026-08-18",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Q&A: Rethinking how innovation happens",
-      "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
-      "date": "2026-08-17",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "OGX: An Open-Source, Vendor-Neutral Generative AI Application Server",
-      "url": "https://arxiv.org/abs/2608.14580",
-      "date": "2026-08-18",
+      "title": "KernelArc: A Multi-Agent Framework for GPU Kernel Optimization",
+      "url": "https://arxiv.org/abs/2608.17071",
+      "date": "2026-08-19",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "ETHOS: Towards a Modular Ethics Framework for Clinical Multi-Agent Systems",
-      "url": "https://arxiv.org/abs/2608.15424",
-      "date": "2026-08-18",
+      "title": "TRUSS: Towards Task-Reliable and User-Safe Automated Agent Skill Generation",
+      "url": "https://arxiv.org/abs/2608.17588",
+      "date": "2026-08-19",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "DUET: Dual-Teacher On-Policy Distillation via Same-Weight Disagreement for Prohibition Compliance",
-      "url": "https://arxiv.org/abs/2608.14644",
-      "date": "2026-08-18",
+      "title": "Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See",
+      "url": "https://arxiv.org/abs/2608.17744",
+      "date": "2026-08-19",
       "source": "arXiv cs.LG"
     }
   ]
