@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/deployment-simulation",
-    "https://openai.com/index/introducing-openai-partner-network",
-    "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/",
-    "https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/",
-    "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/",
-    "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
-    "https://arxiv.org/abs/2606.16605",
-    "https://arxiv.org/abs/2606.15862",
-    "https://arxiv.org/abs/2511.18960",
     "https://openai.com/index/ai-chemist-improves-reaction",
     "https://openai.com/index/introducing-life-sci-bench",
     "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
@@ -499,68 +489,78 @@
     "https://openai.com/index/replit",
     "https://arxiv.org/abs/2608.18136",
     "https://arxiv.org/abs/2608.18171",
-    "https://arxiv.org/abs/2608.18279"
+    "https://arxiv.org/abs/2608.18279",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
+    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "https://openai.com/index/chatgpt-for-teens",
+    "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+    "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+    "https://huggingface.co/blog/asr-benchmark-optimization",
+    "https://arxiv.org/abs/2608.19202",
+    "https://arxiv.org/abs/2608.19701",
+    "https://arxiv.org/abs/2605.23057"
   ],
-  "lastRun": "2026-08-20T23:07:50.353Z",
+  "lastRun": "2026-08-21T23:06:41.475Z",
   "lastPosted": [
     {
-      "title": "Introducing AI Futures",
-      "url": "https://openai.com/index/introducing-ai-futures",
-      "date": "2026-08-20",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "date": "2026-08-20",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Waymo is bringing Gemini into its custom Ojai vehicles.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
-      "date": "2026-08-19",
+      "title": "What does “full-stack” AI actually mean?",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
+      "date": "2026-08-21",
       "source": "Gemini News"
     },
     {
-      "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "date": "2026-08-20",
-      "source": "Hugging Face Blog"
+      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "date": "2026-08-21",
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "Paving the way for greener ammonia production",
-      "url": "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
-      "date": "2026-08-20",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "url": "https://openai.com/index/asana",
+      "title": "ChatGPT Ads expands across Europe",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
       "date": "2026-08-18",
       "source": "OpenAI News"
     },
     {
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "url": "https://openai.com/index/replit",
-      "date": "2026-08-19",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "date": "2026-08-18",
       "source": "OpenAI News"
     },
     {
-      "title": "FraudBench: Stress-Testing Policy-Grounded Banking Agents Against Adaptive Fraud",
-      "url": "https://arxiv.org/abs/2608.18136",
-      "date": "2026-08-20",
+      "title": "How mobility gives language models a deeper understanding of place",
+      "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+      "date": "2026-08-21",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
+      "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
+      "date": "2026-08-21",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Measuring benchmark optimization in speech recognition",
+      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+      "date": "2026-08-21",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Active Inference as Context Acquisition for AI Agents",
+      "url": "https://arxiv.org/abs/2608.19202",
+      "date": "2026-08-21",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Looped Language Models Improve Compositional Tool Calling",
-      "url": "https://arxiv.org/abs/2608.18171",
-      "date": "2026-08-20",
+      "title": "Beyond Memory Majority: Latent-Source Reasoning for Multi-Agent Memory Arbitration",
+      "url": "https://arxiv.org/abs/2608.19701",
+      "date": "2026-08-21",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "A Comprehensive Review of Large Language Models for Nanophotonics: From Surrogate Modeling to Autonomous Design",
-      "url": "https://arxiv.org/abs/2608.18279",
-      "date": "2026-08-20",
+      "title": "RequestRouter: Request-Boundary Routing for Efficient Single-GPU LLM Inference",
+      "url": "https://arxiv.org/abs/2605.23057",
+      "date": "2026-08-21",
       "source": "arXiv cs.LG"
     }
   ]
