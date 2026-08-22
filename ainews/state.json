@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/ai-chemist-improves-reaction",
-    "https://openai.com/index/introducing-life-sci-bench",
-    "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/15/scaling-ai-with-8-to-20x-energy-efficiency/",
-    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
-    "https://huggingface.co/blog/agentic-resource-discovery-launch",
-    "https://arxiv.org/abs/2606.17459",
-    "https://arxiv.org/abs/2501.00826",
-    "https://arxiv.org/abs/2606.18043",
     "https://openai.com/index/diagnose-rare-childhood-diseases",
     "https://openai.com/index/chatgpt-enterprise-spend-controls",
     "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/asr-benchmark-optimization",
     "https://arxiv.org/abs/2608.19202",
     "https://arxiv.org/abs/2608.19701",
-    "https://arxiv.org/abs/2605.23057"
+    "https://arxiv.org/abs/2605.23057",
+    "https://simonwillison.net/2026/Aug/22/llm/",
+    "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
+    "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
+    "https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/",
+    "https://zenn.dev/pdfractal/articles/55929755eb39c1",
+    "https://zenn.dev/kairosai/articles/9d0e994d2dd352",
+    "https://zenn.dev/yhay81/articles/202608-llm-api-landscape",
+    "https://zenn.dev/syoshida07/articles/82b3b9073afa08",
+    "https://qiita.com/aakan/items/19e3f15a072aff3bbea8",
+    "https://qiita.com/8alfalfa8/items/d86836cf050feae96b4b"
   ],
-  "lastRun": "2026-08-21T23:06:41.475Z",
+  "lastRun": "2026-08-22T23:05:05.212Z",
   "lastPosted": [
     {
-      "title": "What does “full-stack” AI actually mean?",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
-      "date": "2026-08-21",
-      "source": "Gemini News"
+      "title": "llm 0.33",
+      "url": "https://simonwillison.net/2026/Aug/22/llm/",
+      "date": "2026-08-22",
+      "source": "Simon Willison"
     },
     {
-      "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+      "title": "llm-openrouter 0.7",
+      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
       "date": "2026-08-21",
-      "source": "Google DeepMind Blog"
+      "source": "Simon Willison"
     },
     {
-      "title": "ChatGPT Ads expands across Europe",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "title": "Launching ‘Meta Startup School’ to Accelerate Growth For Early-Stage Startups",
+      "url": "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
+      "date": "2026-08-19",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "America&#8217;s Workforce Academy: No Cost. No Prior Experience Necessary. A Career on the Other Side.",
+      "url": "https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/",
       "date": "2026-08-18",
-      "source": "OpenAI News"
+      "source": "Meta Newsroom"
     },
     {
-      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "date": "2026-08-18",
-      "source": "OpenAI News"
+      "title": "なぜ、GPTのTerra以下、ClaudeのSonnet以下、Geminiの全部に価値が無いのか？",
+      "url": "https://zenn.dev/pdfractal/articles/55929755eb39c1",
+      "date": "2026-08-22",
+      "source": "Zenn AI"
     },
     {
-      "title": "How mobility gives language models a deeper understanding of place",
-      "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
+      "title": "Claude Sonnet 5とGPT-5.6が出揃った今、エージェント自動化を最小コードで組む",
+      "url": "https://zenn.dev/kairosai/articles/9d0e994d2dd352",
+      "date": "2026-08-22",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "LLM APIはどこから使うべきか？AWS・GCP・Azure・直API・AI Gatewayの選び方",
+      "url": "https://zenn.dev/yhay81/articles/202608-llm-api-landscape",
+      "date": "2026-08-22",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "M365 Copilot があれば Claude Opus を追加料金なしで使える、定額利用の戦略を読み解く",
+      "url": "https://zenn.dev/syoshida07/articles/82b3b9073afa08",
       "date": "2026-08-21",
-      "source": "Google Research Blog"
+      "source": "Zenn 生成AI"
     },
     {
-      "title": "An AI tool for prioritizing candidate biomarkers from wearable sensor data",
-      "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-      "date": "2026-08-21",
-      "source": "Google Research Blog"
+      "title": "〖AI News まとめ〗生成AI ニュースレポート — 2026-08-23",
+      "url": "https://qiita.com/aakan/items/19e3f15a072aff3bbea8",
+      "date": "2026-08-22",
+      "source": "Qiita AI"
     },
     {
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "date": "2026-08-21",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Active Inference as Context Acquisition for AI Agents",
-      "url": "https://arxiv.org/abs/2608.19202",
-      "date": "2026-08-21",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Beyond Memory Majority: Latent-Source Reasoning for Multi-Agent Memory Arbitration",
-      "url": "https://arxiv.org/abs/2608.19701",
-      "date": "2026-08-21",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "RequestRouter: Request-Boundary Routing for Efficient Single-GPU LLM Inference",
-      "url": "https://arxiv.org/abs/2605.23057",
-      "date": "2026-08-21",
-      "source": "arXiv cs.LG"
+      "title": "freeAiChat【第3回】：React × Next.js × shadcn/ui で構築されたチャットフロントエンドを詳細解説",
+      "url": "https://qiita.com/8alfalfa8/items/d86836cf050feae96b4b",
+      "date": "2026-08-22",
+      "source": "Qiita LLM"
     }
   ]
 }
