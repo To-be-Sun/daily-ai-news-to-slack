@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/diagnose-rare-childhood-diseases",
-    "https://openai.com/index/chatgpt-enterprise-spend-controls",
-    "https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/18/4-paths-to-frontier-transformation-from-ai-experimentation-to-real-business-value/",
-    "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
-    "https://blogs.microsoft.com/blog/2026/06/16/achieving-success-with-ai/",
-    "https://huggingface.co/blog/is-it-agentic-enough",
-    "https://arxiv.org/abs/2604.06367",
-    "https://arxiv.org/abs/2606.19245",
-    "https://arxiv.org/abs/2606.18967",
     "https://openai.com/index/improving-health-intelligence-in-chatgpt",
     "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
     "https://huggingface.co/blog/ServiceNow/mosaicleaks",
@@ -499,68 +489,78 @@
     "https://zenn.dev/yhay81/articles/202608-llm-api-landscape",
     "https://zenn.dev/syoshida07/articles/82b3b9073afa08",
     "https://qiita.com/aakan/items/19e3f15a072aff3bbea8",
-    "https://qiita.com/8alfalfa8/items/d86836cf050feae96b4b"
+    "https://qiita.com/8alfalfa8/items/d86836cf050feae96b4b",
+    "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+    "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+    "https://zenn.dev/naoyabone/articles/1809dc83253eea",
+    "https://zenn.dev/cicisee/articles/f3b4b9f4c28034",
+    "https://zenn.dev/koki_n22/articles/74c5f179d54d4a",
+    "https://zenn.dev/yhay81/articles/202608-llm-api-cost-guide",
+    "https://qiita.com/homhom44/items/1658be5de096b88e8b27",
+    "https://qiita.com/nogataka/items/272a9020c2d7da0d3373",
+    "https://qiita.com/quotidia/items/fe59dec8dd577cc60896",
+    "https://qiita.com/kazuharu2022/items/f393e3245ff03691e75a"
   ],
-  "lastRun": "2026-08-22T23:05:05.212Z",
+  "lastRun": "2026-08-23T23:05:09.655Z",
   "lastPosted": [
     {
-      "title": "llm 0.33",
-      "url": "https://simonwillison.net/2026/Aug/22/llm/",
-      "date": "2026-08-22",
+      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+      "date": "2026-08-23",
       "source": "Simon Willison"
     },
     {
-      "title": "llm-openrouter 0.7",
-      "url": "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-      "date": "2026-08-21",
+      "title": "Quoting Drew Breunig",
+      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+      "date": "2026-08-23",
       "source": "Simon Willison"
     },
     {
-      "title": "Launching ‘Meta Startup School’ to Accelerate Growth For Early-Stage Startups",
-      "url": "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
-      "date": "2026-08-19",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "America&#8217;s Workforce Academy: No Cost. No Prior Experience Necessary. A Career on the Other Side.",
-      "url": "https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/",
-      "date": "2026-08-18",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "なぜ、GPTのTerra以下、ClaudeのSonnet以下、Geminiの全部に価値が無いのか？",
-      "url": "https://zenn.dev/pdfractal/articles/55929755eb39c1",
-      "date": "2026-08-22",
+      "title": "記憶を持った世界モデルを実装してみた",
+      "url": "https://zenn.dev/naoyabone/articles/1809dc83253eea",
+      "date": "2026-08-23",
       "source": "Zenn AI"
     },
     {
-      "title": "Claude Sonnet 5とGPT-5.6が出揃った今、エージェント自動化を最小コードで組む",
-      "url": "https://zenn.dev/kairosai/articles/9d0e994d2dd352",
-      "date": "2026-08-22",
+      "title": "動画・音声データを「検索できる知識」に変える：文字起こし API で作るコンテンツ管理基盤",
+      "url": "https://zenn.dev/cicisee/articles/f3b4b9f4c28034",
+      "date": "2026-08-23",
       "source": "Zenn AI"
     },
     {
-      "title": "LLM APIはどこから使うべきか？AWS・GCP・Azure・直API・AI Gatewayの選び方",
-      "url": "https://zenn.dev/yhay81/articles/202608-llm-api-landscape",
-      "date": "2026-08-22",
+      "title": "ローカルLLMの生成速度測定、llmfitでよくない？ 自前ベンチマークと比べてみた",
+      "url": "https://zenn.dev/koki_n22/articles/74c5f179d54d4a",
+      "date": "2026-08-23",
       "source": "Zenn 生成AI"
     },
     {
-      "title": "M365 Copilot があれば Claude Opus を追加料金なしで使える、定額利用の戦略を読み解く",
-      "url": "https://zenn.dev/syoshida07/articles/82b3b9073afa08",
-      "date": "2026-08-21",
+      "title": "AIエージェントシステムの費用はどう決まる？API利用料から運用費まで",
+      "url": "https://zenn.dev/yhay81/articles/202608-llm-api-cost-guide",
+      "date": "2026-08-23",
       "source": "Zenn 生成AI"
     },
     {
-      "title": "〖AI News まとめ〗生成AI ニュースレポート — 2026-08-23",
-      "url": "https://qiita.com/aakan/items/19e3f15a072aff3bbea8",
-      "date": "2026-08-22",
+      "title": "Claude Code開発者が押さえておきたいAnthropicニュース（2026-08-24）",
+      "url": "https://qiita.com/homhom44/items/1658be5de096b88e8b27",
+      "date": "2026-08-23",
       "source": "Qiita AI"
     },
     {
-      "title": "freeAiChat【第3回】：React × Next.js × shadcn/ui で構築されたチャットフロントエンドを詳細解説",
-      "url": "https://qiita.com/8alfalfa8/items/d86836cf050feae96b4b",
-      "date": "2026-08-22",
+      "title": "AI時代だからこそ、ソフトウェア開発の体系的な理解が必要になる。「動くコード」と「正しいソフトウェア」を分ける7つの観点",
+      "url": "https://qiita.com/nogataka/items/272a9020c2d7da0d3373",
+      "date": "2026-08-23",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "OpenAIの開発ペース調整の中身。監視強化・ネットワーク隔離・30分以内の警報目標の3本柱",
+      "url": "https://qiita.com/quotidia/items/fe59dec8dd577cc60896",
+      "date": "2026-08-23",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "MLflow GUIで始めるプロンプト改善 #4-3：参考作品から本文技法を抽出して比較する(保留)",
+      "url": "https://qiita.com/kazuharu2022/items/f393e3245ff03691e75a",
+      "date": "2026-08-23",
       "source": "Qiita LLM"
     }
   ]
