@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-    "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
-    "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-    "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
-    "https://huggingface.co/blog/peft-beyond-lora",
-    "https://news.mit.edu/2026/mit-media-future-tech-massachusetts-can-absolutely-lead",
-    "https://huggingface.co/blog/allenai/molmomotion",
-    "https://arxiv.org/abs/2606.19464",
-    "https://arxiv.org/abs/2606.19595",
-    "https://arxiv.org/abs/2606.20537",
     "https://huggingface.co/blog/zai-org/glm-52-blog",
     "https://news.mit.edu/2026/game-theory-generalists-sometimes-win-out-over-specialists-0617",
     "https://arxiv.org/abs/2606.20520",
@@ -499,69 +489,79 @@
     "https://qiita.com/homhom44/items/1658be5de096b88e8b27",
     "https://qiita.com/nogataka/items/272a9020c2d7da0d3373",
     "https://qiita.com/quotidia/items/fe59dec8dd577cc60896",
-    "https://qiita.com/kazuharu2022/items/f393e3245ff03691e75a"
+    "https://qiita.com/kazuharu2022/items/f393e3245ff03691e75a",
+    "https://openai.com/index/gpt-5-6-in-kiro",
+    "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
+    "https://arxiv.org/abs/2608.20341",
+    "https://arxiv.org/abs/2608.20379",
+    "https://arxiv.org/abs/2608.21057",
+    "https://arxiv.org/abs/2608.17310",
+    "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+    "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+    "https://zenn.dev/lef237/articles/4c34790d3126f4",
+    "https://zenn.dev/anguoyang/articles/589250e3b61cc9"
   ],
-  "lastRun": "2026-08-23T23:05:09.655Z",
+  "lastRun": "2026-08-24T23:07:02.551Z",
   "lastPosted": [
     {
-      "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
-      "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-      "date": "2026-08-23",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "date": "2026-08-24",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Generating scenarios for extreme events, without extreme data",
+      "url": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
+      "date": "2026-08-24",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "SDAD: Spec-Driven Agentic Development for the AI-Native SDLC",
+      "url": "https://arxiv.org/abs/2608.20341",
+      "date": "2026-08-24",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "A Survey on Foundations and Frontiers of Multimodal Agentic Frameworks: Techniques and Applications",
+      "url": "https://arxiv.org/abs/2608.20379",
+      "date": "2026-08-24",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Designing a Robust LLM-Based Evaluation System for Agentic AI in Drug Discovery Through Human Alignment",
+      "url": "https://arxiv.org/abs/2608.21057",
+      "date": "2026-08-24",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
+      "url": "https://arxiv.org/abs/2608.17310",
+      "date": "2026-08-24",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "llm-anthropic 0.27",
+      "url": "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
+      "date": "2026-08-24",
       "source": "Simon Willison"
     },
     {
-      "title": "Quoting Drew Breunig",
-      "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
-      "date": "2026-08-23",
+      "title": "Stop Making TUIs",
+      "url": "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
+      "date": "2026-08-21",
       "source": "Simon Willison"
     },
     {
-      "title": "記憶を持った世界モデルを実装してみた",
-      "url": "https://zenn.dev/naoyabone/articles/1809dc83253eea",
-      "date": "2026-08-23",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "動画・音声データを「検索できる知識」に変える：文字起こし API で作るコンテンツ管理基盤",
-      "url": "https://zenn.dev/cicisee/articles/f3b4b9f4c28034",
-      "date": "2026-08-23",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "ローカルLLMの生成速度測定、llmfitでよくない？ 自前ベンチマークと比べてみた",
-      "url": "https://zenn.dev/koki_n22/articles/74c5f179d54d4a",
-      "date": "2026-08-23",
+      "title": "AIエージェントの作り方を学ぶための記事・書籍",
+      "url": "https://zenn.dev/lef237/articles/4c34790d3126f4",
+      "date": "2026-08-24",
       "source": "Zenn 生成AI"
     },
     {
-      "title": "AIエージェントシステムの費用はどう決まる？API利用料から運用費まで",
-      "url": "https://zenn.dev/yhay81/articles/202608-llm-api-cost-guide",
+      "title": "LLMを安いモデルに変えたとき、「品質は落ちていない」とどう確認するか",
+      "url": "https://zenn.dev/anguoyang/articles/589250e3b61cc9",
       "date": "2026-08-23",
       "source": "Zenn 生成AI"
-    },
-    {
-      "title": "Claude Code開発者が押さえておきたいAnthropicニュース（2026-08-24）",
-      "url": "https://qiita.com/homhom44/items/1658be5de096b88e8b27",
-      "date": "2026-08-23",
-      "source": "Qiita AI"
-    },
-    {
-      "title": "AI時代だからこそ、ソフトウェア開発の体系的な理解が必要になる。「動くコード」と「正しいソフトウェア」を分ける7つの観点",
-      "url": "https://qiita.com/nogataka/items/272a9020c2d7da0d3373",
-      "date": "2026-08-23",
-      "source": "Qiita AI"
-    },
-    {
-      "title": "OpenAIの開発ペース調整の中身。監視強化・ネットワーク隔離・30分以内の警報目標の3本柱",
-      "url": "https://qiita.com/quotidia/items/fe59dec8dd577cc60896",
-      "date": "2026-08-23",
-      "source": "Qiita LLM"
-    },
-    {
-      "title": "MLflow GUIで始めるプロンプト改善 #4-3：参考作品から本文技法を抽出して比較する(保留)",
-      "url": "https://qiita.com/kazuharu2022/items/f393e3245ff03691e75a",
-      "date": "2026-08-23",
-      "source": "Qiita LLM"
     }
   ]
 }
