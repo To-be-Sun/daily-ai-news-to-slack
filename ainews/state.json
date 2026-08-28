@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
-    "https://openai.com/index/omio",
-    "https://www.anthropic.com/news/introducing-claude-tag",
-    "https://news.mit.edu/2026/new-chip-could-help-tiny-robots-traverse-complex-environments-0623",
-    "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "https://huggingface.co/blog/cross-origin-storage",
-    "https://news.mit.edu/2026/exploring-societal-impacts-of-ai-0623",
-    "https://simonwillison.net/2026/Jun/22/porting-moebius/#atom-everything",
-    "https://about.fb.com/news/2026/06/meta-essilorluxottica-partner-launch-meta-glasses/",
-    "https://simonwillison.net/2026/Jun/22/prompt-injection-as-role-confusion/#atom-everything",
     "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "https://openai.com/index/gpt-5-immunology-mystery",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
@@ -499,69 +489,79 @@
     "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
     "https://arxiv.org/abs/2608.24937",
     "https://arxiv.org/abs/2607.26865",
-    "https://arxiv.org/abs/2608.24314"
+    "https://arxiv.org/abs/2608.24314",
+    "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "https://openai.com/index/learning-never-stops",
+    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement/",
+    "https://arxiv.org/abs/2608.26157",
+    "https://arxiv.org/abs/2608.27086",
+    "https://arxiv.org/abs/2608.26332"
   ],
-  "lastRun": "2026-08-28T01:42:38.992Z",
+  "lastRun": "2026-08-28T23:07:44.930Z",
   "lastPosted": [
     {
-      "title": "The Hugging Face incident and the road ahead",
-      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-      "date": "2026-08-26",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "date": "2026-08-28",
       "source": "OpenAI News"
     },
     {
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
-      "date": "2026-08-27",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "date": "2026-08-27",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "Expanding our support for scientists",
-      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "date": "2026-08-27",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "3 new ways to plan and book travel in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-      "date": "2026-08-27",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "7 ways to kick-start back to school using Gemini in Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "url": "https://openai.com/index/learning-never-stops",
       "date": "2026-08-26",
-      "source": "Gemini News"
+      "source": "OpenAI News"
     },
     {
       "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
       "date": "2026-08-27",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Piloting the world's first double-blind AI evaluations",
+      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+      "date": "2026-08-27",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Turn your voice into action with new productivity features in Gemini Live",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
+      "date": "2026-08-26",
       "source": "Gemini News"
     },
     {
-      "title": "Multi-Modal Anomaly Detection: A Survey",
-      "url": "https://arxiv.org/abs/2608.24937",
-      "date": "2026-08-27",
-      "source": "arXiv cs.LG"
+      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "date": "2026-08-26",
+      "source": "Gemini News"
     },
     {
-      "title": "Think Short, Defer Smart, Act, and Repeat: Calibrated Reasoning and Uncertainty-Aware Deferral for Edge LLM Agents",
-      "url": "https://arxiv.org/abs/2607.26865",
-      "date": "2026-08-27",
-      "source": "arXiv cs.LG"
+      "title": "Accelerating Frontier Transformation: Reinvent customer engagement",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement/",
+      "date": "2026-08-26",
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight",
-      "url": "https://arxiv.org/abs/2608.24314",
-      "date": "2026-08-27",
+      "title": "GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions",
+      "url": "https://arxiv.org/abs/2608.26157",
+      "date": "2026-08-28",
       "source": "arXiv cs.AI"
+    },
+    {
+      "title": "A Contract-Centered Architecture for Scalable and Manageable Agentic Runtimes",
+      "url": "https://arxiv.org/abs/2608.27086",
+      "date": "2026-08-28",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Beyond Capability Benchmarks: Learning Operational Fingerprints of LLM Cloud Services from Production Incident Metadata",
+      "url": "https://arxiv.org/abs/2608.26332",
+      "date": "2026-08-28",
+      "source": "arXiv cs.LG"
     }
   ]
 }
