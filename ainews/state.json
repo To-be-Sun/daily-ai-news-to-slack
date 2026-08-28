@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/daybreak-securing-the-world",
-    "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-    "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "https://openai.com/index/patch-the-planet",
-    "https://openai.com/index/codex-maxxing-long-running-work",
-    "https://simonwillison.net/2026/Jun/21/temporary-cloudflare-accounts/#atom-everything",
-    "https://about.fb.com/news/2026/06/instagram-for-tv-gets-bigger-with-new-ways-to-watch-together/",
-    "https://simonwillison.net/2026/Jun/21/sqlite-utils-40rc1/#atom-everything",
-    "https://about.fb.com/news/2026/06/meta-launching-new-features-500-million-monthly-threads-users/",
-    "https://zenn.dev/okssusucha/articles/20260622-grok-4-3-bedrock-mantle-openai-compatible",
     "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "https://openai.com/index/omio",
     "https://www.anthropic.com/news/introducing-claude-tag",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "https://arxiv.org/abs/2608.21393",
     "https://arxiv.org/abs/2608.21747",
-    "https://arxiv.org/abs/2608.20418"
+    "https://arxiv.org/abs/2608.20418",
+    "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+    "https://openai.com/index/expanding-our-presence-in-brazil",
+    "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+    "https://www.anthropic.com/news/expanding-support-for-scientists",
+    "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+    "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+    "https://arxiv.org/abs/2608.24937",
+    "https://arxiv.org/abs/2607.26865",
+    "https://arxiv.org/abs/2608.24314"
   ],
-  "lastRun": "2026-08-25T23:08:12.237Z",
+  "lastRun": "2026-08-28T01:42:38.992Z",
   "lastPosted": [
     {
-      "title": "The full stack behind abundant intelligence",
-      "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-      "date": "2026-08-25",
+      "title": "The Hugging Face incident and the road ahead",
+      "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "date": "2026-08-26",
       "source": "OpenAI News"
     },
     {
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "url": "https://openai.com/index/jalapeno-first-results",
-      "date": "2026-08-25",
+      "title": "Expanding OpenAI’s presence in Brazil",
+      "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "date": "2026-08-27",
       "source": "OpenAI News"
     },
     {
-      "title": "Funding better evaluations of AI’s impact on wellbeing",
-      "url": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "date": "2026-08-25",
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "date": "2026-08-27",
       "source": "Anthropic News"
     },
     {
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "date": "2026-08-25",
+      "title": "Expanding our support for scientists",
+      "url": "https://www.anthropic.com/news/expanding-support-for-scientists",
+      "date": "2026-08-27",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "3 new ways to plan and book travel in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
+      "date": "2026-08-27",
       "source": "Google AI Blog"
     },
     {
-      "title": "Here’s how to use intelligent dictation in Gemini for macOS.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/",
-      "date": "2026-08-25",
+      "title": "7 ways to kick-start back to school using Gemini in Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
+      "date": "2026-08-26",
       "source": "Gemini News"
     },
     {
-      "title": "AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR",
-      "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
-      "date": "2026-08-25",
-      "source": "Google Research Blog"
+      "title": "Gemini Omni 1.1 Flash lets you build with more control",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "date": "2026-08-27",
+      "source": "Gemini News"
     },
     {
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "date": "2026-08-25",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Spyre-Accelerated Retrieval-Augmented Generation on IBM LinuxONE: A Cloud-Native Architecture for Secure, High-Throughput Enterprise AI Inference",
-      "url": "https://arxiv.org/abs/2608.21393",
-      "date": "2026-08-25",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Architecture as Capability Equalizer for Coding Agents",
-      "url": "https://arxiv.org/abs/2608.21747",
-      "date": "2026-08-25",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Rigorous Evaluation of Large Language Models for Malaria Drug Discovery: Trade-offs in Performance, Scale, and Resource Utility",
-      "url": "https://arxiv.org/abs/2608.20418",
-      "date": "2026-08-25",
+      "title": "Multi-Modal Anomaly Detection: A Survey",
+      "url": "https://arxiv.org/abs/2608.24937",
+      "date": "2026-08-27",
       "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Think Short, Defer Smart, Act, and Repeat: Calibrated Reasoning and Uncertainty-Aware Deferral for Edge LLM Agents",
+      "url": "https://arxiv.org/abs/2607.26865",
+      "date": "2026-08-27",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight",
+      "url": "https://arxiv.org/abs/2608.24314",
+      "date": "2026-08-27",
+      "source": "arXiv cs.AI"
     }
   ]
 }
