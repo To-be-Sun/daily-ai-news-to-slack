@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "https://openai.com/index/gpt-5-immunology-mystery",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
-    "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
-    "https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/",
-    "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "https://huggingface.co/blog/ffasr-leaderboard",
-    "https://arxiv.org/abs/2606.23032",
-    "https://arxiv.org/abs/2606.23991",
-    "https://arxiv.org/abs/2606.23754",
     "https://openai.com/index/how-agents-are-transforming-work",
     "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
     "https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/",
@@ -499,69 +489,79 @@
     "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement/",
     "https://arxiv.org/abs/2608.26157",
     "https://arxiv.org/abs/2608.27086",
-    "https://arxiv.org/abs/2608.26332"
+    "https://arxiv.org/abs/2608.26332",
+    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "https://openai.com/index/loveholidays",
+    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/24/5-signals-of-trusted-ai-how-organizations-scale-ai-with-security-governance-and-observability/",
+    "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/25/accelerating-ai-adoption-with-intelligent-discovery-in-microsoft-marketplace/",
+    "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+    "https://arxiv.org/abs/2608.26432",
+    "https://arxiv.org/abs/2510.12979",
+    "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
   ],
-  "lastRun": "2026-08-28T23:07:44.930Z",
+  "lastRun": "2026-08-29T23:07:52.811Z",
   "lastPosted": [
     {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "date": "2026-08-28",
       "source": "OpenAI News"
     },
     {
-      "title": "Learning never stops: How AI makes learning continuous",
-      "url": "https://openai.com/index/learning-never-stops",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "url": "https://openai.com/index/loveholidays",
       "date": "2026-08-26",
       "source": "OpenAI News"
-    },
-    {
-      "title": "Gemini Omni 1.1 Flash lets you build with more control",
-      "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-      "date": "2026-08-27",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Piloting the world's first double-blind AI evaluations",
-      "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-      "date": "2026-08-27",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Turn your voice into action with new productivity features in Gemini Live",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
-      "date": "2026-08-26",
-      "source": "Gemini News"
     },
     {
       "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
+      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
       "date": "2026-08-26",
-      "source": "Gemini News"
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "Accelerating Frontier Transformation: Reinvent customer engagement",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement/",
-      "date": "2026-08-26",
+      "title": "5 signals of trusted AI: How organizations scale AI with security, governance, and observability",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/24/5-signals-of-trusted-ai-how-organizations-scale-ai-with-security-governance-and-observability/",
+      "date": "2026-08-24",
       "source": "Microsoft AI Blog"
     },
     {
-      "title": "GROUND: Reducing Hallucinations in LLM-Based Enterprise Analytics Through Governed Semantic Definitions",
-      "url": "https://arxiv.org/abs/2608.26157",
-      "date": "2026-08-28",
+      "title": "Planetary prediction engine: Automating global models via Earth AI",
+      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+      "date": "2026-08-27",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Accelerating AI adoption with intelligent discovery in Microsoft Marketplace",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/25/accelerating-ai-adoption-with-intelligent-discovery-in-microsoft-marketplace/",
+      "date": "2026-08-25",
+      "source": "Microsoft AI Blog"
+    },
+    {
+      "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+      "date": "2026-08-26",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.26432",
+      "date": "2026-08-29",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "A Contract-Centered Architecture for Scalable and Manageable Agentic Runtimes",
-      "url": "https://arxiv.org/abs/2608.27086",
-      "date": "2026-08-28",
+      "title": "DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping",
+      "url": "https://arxiv.org/abs/2510.12979",
+      "date": "2026-08-29",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Beyond Capability Benchmarks: Learning Operational Fingerprints of LLM Cloud Services from Production Incident Metadata",
-      "url": "https://arxiv.org/abs/2608.26332",
-      "date": "2026-08-28",
-      "source": "arXiv cs.LG"
+      "title": "Breaking Claude Code Opus 5 Auto Mode",
+      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+      "date": "2026-08-27",
+      "source": "Simon Willison"
     }
   ]
 }
