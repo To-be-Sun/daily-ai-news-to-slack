@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/how-agents-are-transforming-work",
-    "https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/",
-    "https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/",
-    "https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/",
-    "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/",
-    "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-    "https://news.mit.edu/2026/improving-ai-agent-speed-and-energy-efficiency-0625",
-    "https://arxiv.org/abs/2606.24834",
-    "https://arxiv.org/abs/2504.06138",
-    "https://arxiv.org/abs/2606.24958",
     "https://openai.com/index/previewing-gpt-5-6-sol",
     "https://blog.google/products-and-platforms/products/gemini/gemini-help-avoid-jetlag/",
     "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
@@ -499,68 +489,78 @@
     "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
     "https://arxiv.org/abs/2608.26432",
     "https://arxiv.org/abs/2510.12979",
-    "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/"
+    "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+    "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "https://huggingface.co/blog/train-multi-vector-encoder",
+    "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
+    "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
+    "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+    "https://simonwillison.net/2026/Aug/29/hy4/",
+    "https://about.fb.com/news/2026/08/wzmacniamy-w-polsce-ochrone-przed-oszustwami/",
+    "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"
   ],
-  "lastRun": "2026-08-29T23:07:52.811Z",
+  "lastRun": "2026-08-30T23:08:10.556Z",
   "lastPosted": [
     {
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "date": "2026-08-28",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "url": "https://openai.com/index/loveholidays",
-      "date": "2026-08-26",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Intelligent transcription with Gemini 3.5 Transcribe",
-      "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-      "date": "2026-08-26",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "5 signals of trusted AI: How organizations scale AI with security, governance, and observability",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/24/5-signals-of-trusted-ai-how-organizations-scale-ai-with-security-governance-and-observability/",
-      "date": "2026-08-24",
-      "source": "Microsoft AI Blog"
-    },
-    {
-      "title": "Planetary prediction engine: Automating global models via Earth AI",
-      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
       "date": "2026-08-27",
-      "source": "Google Research Blog"
+      "source": "OpenAI News"
     },
     {
-      "title": "Accelerating AI adoption with intelligent discovery in Microsoft Marketplace",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/25/accelerating-ai-adoption-with-intelligent-discovery-in-microsoft-marketplace/",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
       "date": "2026-08-25",
-      "source": "Microsoft AI Blog"
+      "source": "OpenAI News"
     },
     {
-      "title": "GlucoFM: Foundation model for continuous glucose monitoring",
-      "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+      "date": "2026-08-28",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
       "date": "2026-08-26",
-      "source": "Google Research Blog"
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "SpeechGym: An Audio-Native Gym for Training Voice Agents via Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.26432",
-      "date": "2026-08-29",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "DeepPlanner: Scaling Planning Capability for Deep Research Agents via Advantage Shaping",
-      "url": "https://arxiv.org/abs/2510.12979",
-      "date": "2026-08-29",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+      "title": "Looking beyond natural sequences",
+      "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
       "date": "2026-08-27",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "AI helps design new materials that work in the real world",
+      "url": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
+      "date": "2026-08-26",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "date": "2026-08-26",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Introducing Hy4 Preview",
+      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+      "date": "2026-08-29",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Wzmacniamy w Polsce ochronę przed oszustwami",
+      "url": "https://about.fb.com/news/2026/08/wzmacniamy-w-polsce-ochrone-przed-oszustwami/",
+      "date": "2026-08-28",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+      "date": "2026-08-28",
       "source": "Simon Willison"
     }
   ]
