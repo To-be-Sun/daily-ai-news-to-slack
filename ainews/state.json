@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/previewing-gpt-5-6-sol",
-    "https://blog.google/products-and-platforms/products/gemini/gemini-help-avoid-jetlag/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/",
-    "https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/",
-    "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
-    "https://huggingface.co/blog/vllm-jobs",
-    "https://news.mit.edu/2026/david-autor-named-head-department-economics-0626",
-    "https://arxiv.org/abs/2606.26346",
-    "https://arxiv.org/abs/2606.26686",
-    "https://arxiv.org/abs/2606.26204",
     "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
     "https://huggingface.co/blog/local-models-pr-triage",
     "https://huggingface.co/blog/huggingface-hub-release-ci",
@@ -499,69 +489,79 @@
     "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "https://simonwillison.net/2026/Aug/29/hy4/",
     "https://about.fb.com/news/2026/08/wzmacniamy-w-polsce-ochrone-przed-oszustwami/",
-    "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/"
+    "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "https://openai.com/index/introducing-admin-plugin",
+    "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+    "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
+    "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+    "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "https://huggingface.co/blog/gradio-workflow-guide",
+    "https://arxiv.org/abs/2603.19423",
+    "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "https://arxiv.org/abs/2603.12031"
   ],
-  "lastRun": "2026-08-30T23:08:10.556Z",
+  "lastRun": "2026-08-31T23:08:59.328Z",
   "lastPosted": [
     {
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-      "date": "2026-08-27",
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "date": "2026-08-31",
       "source": "OpenAI News"
     },
     {
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "url": "https://openai.com/index/introducing-admin-plugin",
       "date": "2026-08-25",
       "source": "OpenAI News"
     },
     {
-      "title": "The Open ASR Leaderboard Adds Its First Global South Language",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-      "date": "2026-08-28",
-      "source": "Hugging Face Blog"
+      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
+      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+      "date": "2026-08-31",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-      "date": "2026-08-26",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Looking beyond natural sequences",
-      "url": "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
-      "date": "2026-08-27",
+      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+      "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
+      "date": "2026-08-31",
       "source": "MIT News AI"
     },
     {
-      "title": "AI helps design new materials that work in the real world",
-      "url": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
-      "date": "2026-08-26",
+      "title": "How an MIT research project became a global programming language",
+      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "date": "2026-08-31",
       "source": "MIT News AI"
     },
     {
-      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
-      "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-      "date": "2026-08-26",
-      "source": "OpenAI News"
+      "title": "Granite 4.2 LLMs: How They&apos;re Built",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
+      "date": "2026-08-25",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Introducing Hy4 Preview",
-      "url": "https://simonwillison.net/2026/Aug/29/hy4/",
-      "date": "2026-08-29",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "url": "https://huggingface.co/blog/gradio-workflow-guide",
+      "date": "2026-08-25",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "The Autonomy Tax: Defense Training Breaks LLM Agents",
+      "url": "https://arxiv.org/abs/2603.19423",
+      "date": "2026-08-31",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "date": "2026-08-30",
       "source": "Simon Willison"
     },
     {
-      "title": "Wzmacniamy w Polsce ochronę przed oszustwami",
-      "url": "https://about.fb.com/news/2026/08/wzmacniamy-w-polsce-ochrone-przed-oszustwami/",
-      "date": "2026-08-28",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Just a rumour of a bug is enough to find a security exploit these days",
-      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
-      "date": "2026-08-28",
-      "source": "Simon Willison"
+      "title": "Agentic-Kube: A Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-Objective Kubernetes Scheduling",
+      "url": "https://arxiv.org/abs/2603.12031",
+      "date": "2026-08-31",
+      "source": "arXiv cs.LG"
     }
   ]
 }
