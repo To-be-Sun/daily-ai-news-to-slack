@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
-    "https://huggingface.co/blog/local-models-pr-triage",
-    "https://huggingface.co/blog/huggingface-hub-release-ci",
-    "https://arxiv.org/abs/2606.26443",
-    "https://arxiv.org/abs/2606.26552",
-    "https://simonwillison.net/2026/Jun/26/hack-my-ai-assistant/#atom-everything",
-    "https://simonwillison.net/2026/Jun/26/incident-report/#atom-everything",
-    "https://about.fb.com/news/2026/06/inside-meta-data-center/",
-    "https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/",
-    "https://zenn.dev/revo1290/articles/anthropic-fable5-export-control-suspension",
     "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
     "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
     "https://zenn.dev/okssusucha/articles/20260628-anthropic-agent-sdk-credit-pause-june-202",
@@ -499,68 +489,78 @@
     "https://huggingface.co/blog/gradio-workflow-guide",
     "https://arxiv.org/abs/2603.19423",
     "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "https://arxiv.org/abs/2603.12031"
+    "https://arxiv.org/abs/2603.12031",
+    "https://openai.com/index/path-to-astra",
+    "https://openai.com/index/ai-native-company-workflows",
+    "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+    "https://www.anthropic.com/news/improving-alignment-security-efforts",
+    "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+    "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+    "https://arxiv.org/abs/2608.29596",
+    "https://arxiv.org/abs/2608.30429",
+    "https://arxiv.org/abs/2608.22479"
   ],
-  "lastRun": "2026-08-31T23:08:59.328Z",
+  "lastRun": "2026-09-01T23:08:46.515Z",
   "lastPosted": [
     {
-      "title": "A milestone in expanding access to AI",
-      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-      "date": "2026-08-31",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "date": "2026-09-01",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "url": "https://openai.com/index/introducing-admin-plugin",
-      "date": "2026-08-25",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "date": "2026-09-01",
       "source": "OpenAI News"
     },
     {
-      "title": "TimesFM-3: A zero-shot foundation model for multivariate forecasting",
-      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "date": "2026-09-01",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "date": "2026-08-31",
-      "source": "Google Research Blog"
+      "source": "Anthropic News"
     },
     {
-      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
-      "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
-      "date": "2026-08-31",
-      "source": "MIT News AI"
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "date": "2026-09-01",
+      "source": "Google AI Blog"
     },
     {
-      "title": "How an MIT research project became a global programming language",
-      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-      "date": "2026-08-31",
-      "source": "MIT News AI"
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "date": "2026-09-01",
+      "source": "Gemini News"
     },
     {
-      "title": "Granite 4.2 LLMs: How They&apos;re Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "date": "2026-08-25",
-      "source": "Hugging Face Blog"
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "date": "2026-09-01",
+      "source": "Google AI Blog"
     },
     {
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "url": "https://huggingface.co/blog/gradio-workflow-guide",
-      "date": "2026-08-25",
-      "source": "Hugging Face Blog"
+      "title": "Towards a Systems Foundation for Agentic Skills: Architecture, Lifecycle, and Security",
+      "url": "https://arxiv.org/abs/2608.29596",
+      "date": "2026-09-01",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "The Autonomy Tax: Defense Training Breaks LLM Agents",
-      "url": "https://arxiv.org/abs/2603.19423",
-      "date": "2026-08-31",
-      "source": "arXiv cs.LG"
+      "title": "EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents",
+      "url": "https://arxiv.org/abs/2608.30429",
+      "date": "2026-09-01",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "date": "2026-08-30",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Agentic-Kube: A Graph-Enhanced Multi-Agent Reinforcement Learning Framework for Multi-Objective Kubernetes Scheduling",
-      "url": "https://arxiv.org/abs/2603.12031",
-      "date": "2026-08-31",
+      "title": "GTA-RAG: Graph-Trajectory-Augmented Reinforcement Learning for Multi-Turn Retrieval-Augmented Reasoning",
+      "url": "https://arxiv.org/abs/2608.22479",
+      "date": "2026-09-01",
       "source": "arXiv cs.LG"
     }
   ]
