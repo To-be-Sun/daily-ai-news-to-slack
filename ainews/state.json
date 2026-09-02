@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://simonwillison.net/2026/Jun/26/dean-w-ball/#atom-everything",
-    "https://simonwillison.net/2026/Jun/26/openai/#atom-everything",
-    "https://zenn.dev/okssusucha/articles/20260628-anthropic-agent-sdk-credit-pause-june-202",
-    "https://zenn.dev/yottayoshida/articles/rag-knowledge-ops-agent-search",
-    "https://zenn.dev/koro_st/articles/69cd43fdac918f",
-    "https://qiita.com/sakutto-panda/items/620152bb67fd47b3c1c3",
-    "https://qiita.com/kai_kou/items/f396eb7c8f0a90723ff5",
-    "https://qiita.com/masaki130/items/f50ffeb6d32b339d2592",
-    "https://zenn.dev/yuen/articles/7fbb50504ec5d2",
-    "https://qiita.com/c_u/items/f802308cccc7d7b2643f",
     "https://openai.com/index/hp-frontier-partnership",
     "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
@@ -499,69 +489,79 @@
     "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
     "https://arxiv.org/abs/2608.29596",
     "https://arxiv.org/abs/2608.30429",
-    "https://arxiv.org/abs/2608.22479"
+    "https://arxiv.org/abs/2608.22479",
+    "https://openai.com/index/gilbert-tobin",
+    "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+    "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+    "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/",
+    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+    "https://arxiv.org/abs/2609.00015",
+    "https://arxiv.org/abs/2609.00052",
+    "https://arxiv.org/abs/2609.00028"
   ],
-  "lastRun": "2026-09-01T23:08:46.515Z",
+  "lastRun": "2026-09-02T23:08:46.497Z",
   "lastPosted": [
     {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
       "date": "2026-09-01",
       "source": "OpenAI News"
     },
     {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "date": "2026-09-01",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "date": "2026-09-01",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "Improving our alignment and security efforts",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
       "date": "2026-08-31",
-      "source": "Anthropic News"
+      "source": "OpenAI News"
     },
     {
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-      "date": "2026-09-01",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Introducing agentic video understanding with Gemini",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
-      "date": "2026-09-01",
+      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "date": "2026-09-02",
       "source": "Gemini News"
     },
     {
-      "title": "The latest AI news we announced in August 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-      "date": "2026-09-01",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "date": "2026-09-02",
       "source": "Google AI Blog"
     },
     {
-      "title": "Towards a Systems Foundation for Agentic Skills: Architecture, Lifecycle, and Security",
-      "url": "https://arxiv.org/abs/2608.29596",
+      "title": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/",
+      "date": "2026-09-02",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "date": "2026-09-02",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Introducing agentic video understanding with Gemini",
+      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
       "date": "2026-09-01",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
+      "url": "https://arxiv.org/abs/2609.00015",
+      "date": "2026-09-02",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents",
-      "url": "https://arxiv.org/abs/2608.30429",
-      "date": "2026-09-01",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "GTA-RAG: Graph-Trajectory-Augmented Reinforcement Learning for Multi-Turn Retrieval-Augmented Reasoning",
-      "url": "https://arxiv.org/abs/2608.22479",
-      "date": "2026-09-01",
+      "title": "AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes",
+      "url": "https://arxiv.org/abs/2609.00052",
+      "date": "2026-09-02",
       "source": "arXiv cs.LG"
+    },
+    {
+      "title": "UI-Venus-2 Technical Report",
+      "url": "https://arxiv.org/abs/2609.00028",
+      "date": "2026-09-02",
+      "source": "arXiv cs.AI"
     }
   ]
 }
