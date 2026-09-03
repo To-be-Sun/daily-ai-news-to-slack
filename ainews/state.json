@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/hp-frontier-partnership",
-    "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/",
-    "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/",
-    "https://huggingface.co/blog/allenai/discoformer",
-    "https://news.mit.edu/2026/inaugural-mit-music-technology-research-showcase-celebrates-work-students-0629",
-    "https://arxiv.org/abs/2601.21233",
-    "https://arxiv.org/abs/2606.27806",
-    "https://arxiv.org/abs/2606.28011",
     "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "https://openai.com/index/introducing-genebench-pro",
     "https://www.anthropic.com/news/claude-science-ai-workbench",
@@ -499,68 +489,78 @@
     "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "https://arxiv.org/abs/2609.00015",
     "https://arxiv.org/abs/2609.00052",
-    "https://arxiv.org/abs/2609.00028"
+    "https://arxiv.org/abs/2609.00028",
+    "https://openai.com/index/safety-overview-gpt-6-astra",
+    "https://openai.com/index/daybreak-for-frontline-defenders",
+    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+    "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+    "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+    "https://arxiv.org/abs/2603.12275",
+    "https://arxiv.org/abs/2609.01852"
   ],
-  "lastRun": "2026-09-02T23:08:46.497Z",
+  "lastRun": "2026-09-03T23:08:30.609Z",
   "lastPosted": [
     {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "date": "2026-09-01",
+      "title": "Safety overview: GPT-6 Astra",
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "date": "2026-09-03",
       "source": "OpenAI News"
     },
     {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "date": "2026-08-31",
+      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "date": "2026-09-03",
       "source": "OpenAI News"
+    },
+    {
+      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+      "date": "2026-09-03",
+      "source": "Google DeepMind Blog"
     },
     {
       "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-      "date": "2026-09-02",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-      "date": "2026-09-02",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "MrBeast partners with Gemini to turn impossibly big ideas into reality",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/",
-      "date": "2026-09-02",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Proactive cyber defense for governments and enterprises",
-      "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
       "date": "2026-09-02",
       "source": "Google DeepMind Blog"
     },
     {
-      "title": "Introducing agentic video understanding with Gemini",
-      "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-      "date": "2026-09-01",
-      "source": "Google DeepMind Blog"
+      "title": "Transfer learning for genomic prediction in underrepresented populations",
+      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+      "date": "2026-09-03",
+      "source": "Google Research Blog"
     },
     {
-      "title": "OpenAgentFlow: Enabling System-Wide Safety Boundaries for Heterogeneous AI Agent Fleets",
-      "url": "https://arxiv.org/abs/2609.00015",
-      "date": "2026-09-02",
-      "source": "arXiv cs.AI"
+      "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+      "date": "2026-09-03",
+      "source": "Google Research Blog"
     },
     {
-      "title": "AgentProv: Auditing Agentic LLM API Providers via Tool-use Policy Probes",
-      "url": "https://arxiv.org/abs/2609.00052",
-      "date": "2026-09-02",
+      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
+      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "date": "2026-09-03",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "GPT‑6 Astra",
+      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "date": "2026-09-03",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping",
+      "url": "https://arxiv.org/abs/2603.12275",
+      "date": "2026-09-03",
       "source": "arXiv cs.LG"
     },
     {
-      "title": "UI-Venus-2 Technical Report",
-      "url": "https://arxiv.org/abs/2609.00028",
-      "date": "2026-09-02",
+      "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+      "url": "https://arxiv.org/abs/2609.01852",
+      "date": "2026-09-03",
       "source": "arXiv cs.AI"
     }
   ]
