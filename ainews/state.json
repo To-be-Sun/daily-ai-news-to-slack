@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-    "https://openai.com/index/introducing-genebench-pro",
-    "https://www.anthropic.com/news/claude-science-ai-workbench",
-    "https://www.anthropic.com/news/claude-sonnet-5",
-    "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
-    "https://arxiv.org/abs/2606.28363",
-    "https://arxiv.org/abs/2601.20334",
-    "https://arxiv.org/abs/2606.29200",
     "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "https://openai.com/index/genebench-pro/case-studies",
     "https://www.anthropic.com/news/redeploying-fable-5",
@@ -499,68 +489,78 @@
     "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
     "https://arxiv.org/abs/2603.12275",
-    "https://arxiv.org/abs/2609.01852"
+    "https://arxiv.org/abs/2609.01852",
+    "https://openai.com/index/playco-game-prototyping-with-astra",
+    "https://openai.com/index/polimill",
+    "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
+    "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead/",
+    "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+    "https://huggingface.co/blog/funes",
+    "https://huggingface.co/blog/train-to-paint-with-code",
+    "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+    "https://arxiv.org/abs/2609.03493",
+    "https://arxiv.org/abs/2609.02967"
   ],
-  "lastRun": "2026-09-03T23:08:30.609Z",
+  "lastRun": "2026-09-04T23:08:31.390Z",
   "lastPosted": [
     {
-      "title": "Safety overview: GPT-6 Astra",
-      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "url": "https://openai.com/index/playco-game-prototyping-with-astra",
       "date": "2026-09-03",
       "source": "OpenAI News"
     },
     {
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "url": "https://openai.com/index/daybreak-for-frontline-defenders",
-      "date": "2026-09-03",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "url": "https://openai.com/index/polimill",
+      "date": "2026-08-31",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-      "date": "2026-09-03",
-      "source": "Google DeepMind Blog"
+      "title": "Create your best tracks yet with Lyria 3.5 in Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
+      "date": "2026-09-04",
+      "source": "Gemini News"
     },
     {
-      "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-      "date": "2026-09-02",
-      "source": "Google DeepMind Blog"
+      "title": "Responsible AI in 2026: How we are adapting for what’s ahead",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead/",
+      "date": "2026-09-01",
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "Transfer learning for genomic prediction in underrepresented populations",
-      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-      "date": "2026-09-03",
+      "title": "Mapping global methane emissions from space with deep learning",
+      "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+      "date": "2026-09-01",
       "source": "Google Research Blog"
     },
     {
-      "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
-      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
-      "date": "2026-09-03",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "url": "https://huggingface.co/blog/funes",
       "date": "2026-09-03",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "GPT‑6 Astra",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
+      "url": "https://huggingface.co/blog/train-to-paint-with-code",
       "date": "2026-09-03",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
+      "date": "2026-09-04",
       "source": "Simon Willison"
     },
     {
-      "title": "GONE: Structural Knowledge Unlearning via Neighborhood-Expanded Distribution Shaping",
-      "url": "https://arxiv.org/abs/2603.12275",
-      "date": "2026-09-03",
-      "source": "arXiv cs.LG"
+      "title": "Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.03493",
+      "date": "2026-09-04",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
-      "url": "https://arxiv.org/abs/2609.01852",
-      "date": "2026-09-03",
+      "title": "Privacy-Preserving Topology-Guided Safety for LLM-Based Multi-Agent Systems via Federated Graph Learning",
+      "url": "https://arxiv.org/abs/2609.02967",
+      "date": "2026-09-04",
       "source": "arXiv cs.AI"
     }
   ]
