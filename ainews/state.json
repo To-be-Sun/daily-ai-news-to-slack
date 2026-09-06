@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities/",
-    "https://huggingface.co/blog/ibm-research/scarfbench",
-    "https://news.mit.edu/2026/agentic-ai-and-what-do-we-want-it-be-0630",
-    "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
-    "https://huggingface.co/blog/eee-community-evals",
-    "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-    "https://arxiv.org/abs/2607.00218",
-    "https://arxiv.org/abs/2607.00457",
-    "https://simonwillison.net/2026/Jul/2/llm-coding-agent/#atom-everything",
     "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
     "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
     "https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629",
@@ -499,68 +489,78 @@
     "https://huggingface.co/blog/allenai/benchmirt",
     "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
     "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-    "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/"
+    "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
+    "https://openai.com/index/research-acceleration-view-inside-openai",
+    "https://openai.com/index/an-alien-mind",
+    "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
+    "https://huggingface.co/blog/webgpu-kernels",
+    "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+    "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
+    "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
+    "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+    "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+    "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/"
   ],
-  "lastRun": "2026-09-05T23:07:52.216Z",
+  "lastRun": "2026-09-06T23:07:47.857Z",
   "lastPosted": [
     {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "date": "2026-09-03",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "date": "2026-09-06",
       "source": "OpenAI News"
     },
     {
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
-      "date": "2026-09-03",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind",
+      "date": "2026-09-06",
       "source": "OpenAI News"
     },
     {
-      "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
-      "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+      "title": "System helps humans predict when self-driving cars will make mistakes",
+      "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
       "date": "2026-09-02",
-      "source": "Hugging Face Blog"
+      "source": "MIT News AI"
     },
     {
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme",
-      "date": "2026-09-03",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "date": "2026-09-02",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "date": "2026-09-01",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
-      "url": "https://huggingface.co/blog/allenai/benchmirt",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "url": "https://huggingface.co/blog/webgpu-kernels",
       "date": "2026-09-01",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "The Pelican comparison grid for Astra is pretty interesting",
-      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-      "date": "2026-09-04",
-      "source": "Simon Willison"
+      "title": "Ila Kumar: Innovating with communities",
+      "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
+      "date": "2026-09-01",
+      "source": "MIT News AI"
     },
     {
-      "title": "Claude's new system prompt really doesn't want to reproduce song lyrics",
-      "url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
+      "title": "From MIT to IBM, expediting AI and quantum deployment",
+      "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
       "date": "2026-09-02",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Walter Torous named executive director of MIT Center for Real Estate",
+      "url": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
+      "date": "2026-09-01",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Introducing GPT-6 Astra for developers",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
+      "date": "2026-09-05",
       "source": "Simon Willison"
     },
     {
-      "title": "Launching Bill Payments in India, Enabling People to Pay Everyday Household Bills Directly on WhatsApp",
-      "url": "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
-      "date": "2026-09-03",
+      "title": "Using Blender with coding agents on macOS",
+      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
+      "date": "2026-09-05",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Inside Meta’s Infrastructure Lab",
+      "url": "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/",
+      "date": "2026-09-01",
       "source": "Meta Newsroom"
     }
   ]
