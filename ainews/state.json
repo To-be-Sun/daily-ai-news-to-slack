@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-    "https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629",
-    "https://arxiv.org/abs/2607.01595",
-    "https://arxiv.org/abs/2607.01813",
-    "https://arxiv.org/abs/2607.02391",
-    "https://arxiv.org/abs/2607.01539",
-    "https://simonwillison.net/2026/Jul/3/judgement/#atom-everything",
-    "https://simonwillison.net/2026/Jul/3/open-source-ai-gap-map/#atom-everything",
-    "https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/",
     "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/small-and-medium-businesses-arent-waiting-for-an-ai-invitation-theyre-already-leading/",
     "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/06/29/the-2026-agent-confidence-index-where-300-builders-see-real-momentum/",
     "https://simonwillison.net/2026/Jul/4/better-models-worse-tools/#atom-everything",
@@ -499,69 +489,79 @@
     "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
     "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
     "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-    "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/"
+    "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/",
+    "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "https://arxiv.org/abs/2609.04641",
+    "https://arxiv.org/abs/2609.04749",
+    "https://arxiv.org/abs/2609.04852",
+    "https://arxiv.org/abs/2609.04971",
+    "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+    "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
+    "https://zenn.dev/densan_techblog/articles/6d4903de2941c3",
+    "https://zenn.dev/kuwashima/articles/codex-opencode-go-backend-en",
+    "https://zenn.dev/mayim/articles/8747f6a182ce16"
   ],
-  "lastRun": "2026-09-06T23:07:47.857Z",
+  "lastRun": "2026-09-07T23:09:35.053Z",
   "lastPosted": [
     {
+      "title": "Supporting independent journalism in Ukraine",
+      "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+      "date": "2026-09-07",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "A Cost-Aware Agentic Architecture for NL-to-SQL over Nested Enterprise Schemas, with a New Benchmark",
+      "url": "https://arxiv.org/abs/2609.04641",
+      "date": "2026-09-07",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "DCFA: Dual-view Causal-inspired Attribution for Failure Reasoning in LLM-based Multi-agent Systems",
+      "url": "https://arxiv.org/abs/2609.04749",
+      "date": "2026-09-07",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU",
+      "url": "https://arxiv.org/abs/2609.04852",
+      "date": "2026-09-07",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference",
+      "url": "https://arxiv.org/abs/2609.04971",
+      "date": "2026-09-07",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Quoting Jakub Pachocki",
+      "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki/",
+      "date": "2026-09-07",
+      "source": "Simon Willison"
+    },
+    {
       "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/",
       "date": "2026-09-06",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "date": "2026-09-06",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "System helps humans predict when self-driving cars will make mistakes",
-      "url": "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
-      "date": "2026-09-02",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels",
-      "date": "2026-09-01",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Ila Kumar: Innovating with communities",
-      "url": "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
-      "date": "2026-09-01",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "From MIT to IBM, expediting AI and quantum deployment",
-      "url": "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
-      "date": "2026-09-02",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Walter Torous named executive director of MIT Center for Real Estate",
-      "url": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
-      "date": "2026-09-01",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Introducing GPT-6 Astra for developers",
-      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-      "date": "2026-09-05",
       "source": "Simon Willison"
     },
     {
-      "title": "Using Blender with coding agents on macOS",
-      "url": "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-      "date": "2026-09-05",
-      "source": "Simon Willison"
+      "title": "Gemini Enterpriseに「Projects（プロジェクト機能）」が追加されました",
+      "url": "https://zenn.dev/densan_techblog/articles/6d4903de2941c3",
+      "date": "2026-09-07",
+      "source": "Zenn 生成AI"
     },
     {
-      "title": "Inside Meta’s Infrastructure Lab",
-      "url": "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/",
-      "date": "2026-09-01",
-      "source": "Meta Newsroom"
+      "title": "Using OpenCode Go as a Backend for OpenAI Codex CLI",
+      "url": "https://zenn.dev/kuwashima/articles/codex-opencode-go-backend-en",
+      "date": "2026-09-07",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "【LN教】Agentが稼ぐための仕組みづくり",
+      "url": "https://zenn.dev/mayim/articles/8747f6a182ce16",
+      "date": "2026-09-07",
+      "source": "Zenn AI"
     }
   ]
 }
