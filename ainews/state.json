@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
-    "https://huggingface.co/blog/lerobot-release-v060",
-    "https://huggingface.co/blog/Photoroom/prx-part4-data",
-    "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
-    "https://huggingface.co/blog/revamped-kernels",
-    "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/#atom-everything",
-    "https://simonwillison.net/2026/Jul/6/sqlite-utils/#atom-everything",
-    "https://zenn.dev/takyone/articles/identificationops-2026-07",
-    "https://zenn.dev/okssusucha/articles/20260703-apple-foundation-models-languagemodel-pro",
-    "https://zenn.dev/lifona/articles/81f003b2e327c0",
     "https://openai.com/index/australian-payments-plus",
     "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
     "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion/",
@@ -499,69 +489,79 @@
     "https://openai.com/index/the-work-now-within-reach",
     "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
     "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
-    "https://simonwillison.net/2026/Sep/7/llm/"
+    "https://simonwillison.net/2026/Sep/7/llm/",
+    "https://openai.com/index/gpt-6-astra-next-generation-work",
+    "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+    "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+    "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+    "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/",
+    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+    "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
+    "https://simonwillison.net/2026/Sep/9/terence-tao/",
+    "https://zenn.dev/laiken/articles/20260909-tech-watch"
   ],
-  "lastRun": "2026-09-08T23:09:24.038Z",
+  "lastRun": "2026-09-09T23:08:26.416Z",
   "lastPosted": [
     {
-      "title": "Funding grants for new research into AI and teen development",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "date": "2026-09-08",
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "date": "2026-09-09",
       "source": "OpenAI News"
     },
     {
-      "title": "1Password increases engineering productivity 21% with Codex",
-      "url": "https://openai.com/index/1password",
-      "date": "2026-09-08",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "date": "2026-09-09",
       "source": "OpenAI News"
     },
     {
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "date": "2026-09-08",
-      "source": "Google DeepMind Blog"
+      "title": "Recreating a 70-year love story frame by frame",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/",
+      "date": "2026-09-09",
+      "source": "Google AI Blog"
     },
     {
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "date": "2026-09-08",
+      "title": "Get ready for the game with new football features in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/",
+      "date": "2026-09-09",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "4 ways Gemini makes administrative chores quick and easy",
+      "url": "https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/",
+      "date": "2026-09-09",
+      "source": "Gemini News"
+    },
+    {
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "date": "2026-09-09",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-      "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-      "date": "2026-09-08",
-      "source": "OpenAI News"
+      "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+      "url": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+      "date": "2026-09-09",
+      "source": "MIT News AI"
     },
     {
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "date": "2026-09-08",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "The Work Now Within Reach",
-      "url": "https://openai.com/index/the-work-now-within-reach",
-      "date": "2026-09-08",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25/",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes/",
       "date": "2026-09-08",
       "source": "Simon Willison"
     },
     {
-      "title": "Introducing Muse: The World’s First Personal AI Agent Built for Everyone",
-      "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/",
-      "date": "2026-09-08",
-      "source": "Meta Newsroom"
+      "title": "Quoting Terence Tao",
+      "url": "https://simonwillison.net/2026/Sep/9/terence-tao/",
+      "date": "2026-09-09",
+      "source": "Simon Willison"
     },
     {
-      "title": "llm 0.35",
-      "url": "https://simonwillison.net/2026/Sep/7/llm/",
-      "date": "2026-09-07",
-      "source": "Simon Willison"
+      "title": "Tech Watch 2026-09-09: Agent基盤",
+      "url": "https://zenn.dev/laiken/articles/20260909-tech-watch",
+      "date": "2026-09-09",
+      "source": "Zenn AI"
     }
   ]
 }
