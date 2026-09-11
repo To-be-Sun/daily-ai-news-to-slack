@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/government-national-security-partnerships",
-    "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-    "https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/",
-    "https://huggingface.co/blog/nvidia/open-data-for-agents",
-    "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "https://openai.com/index/k-12-educators-practical-skills",
-    "https://openai.com/index/introducing-gpt-live",
-    "https://arxiv.org/abs/2607.05775",
-    "https://arxiv.org/abs/2607.05462",
-    "https://simonwillison.net/2026/Jul/7/sqlite-utils-4/#atom-everything",
     "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "https://www.anthropic.com/news/ben-bernanke",
@@ -499,69 +489,79 @@
     "https://openai.com/index/introducing-chatgpt-financial-services",
     "https://arxiv.org/abs/2609.06046",
     "https://arxiv.org/abs/2609.05446",
-    "https://arxiv.org/abs/2609.05776"
+    "https://arxiv.org/abs/2609.05776",
+    "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+    "https://openai.com/index/expanding-ai-access-us-government",
+    "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+    "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+    "https://openai.com/index/ai-policy-window",
+    "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+    "https://openai.com/index/introducing-chatgpt-images-2-5",
+    "https://arxiv.org/abs/2609.09553",
+    "https://arxiv.org/abs/2609.09875",
+    "https://arxiv.org/abs/2609.11042"
   ],
-  "lastRun": "2026-09-10T23:07:56.594Z",
+  "lastRun": "2026-09-11T23:08:30.272Z",
   "lastPosted": [
     {
-      "title": "Introducing the Agents API",
-      "url": "https://openai.com/index/introducing-the-agents-api",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "date": "2026-09-11",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
       "date": "2026-09-10",
       "source": "OpenAI News"
     },
     {
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
+      "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
+      "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
+      "date": "2026-09-11",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
       "date": "2026-09-10",
       "source": "OpenAI News"
     },
     {
-      "title": "3 ways to prep for your next big race with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/",
-      "date": "2026-09-10",
-      "source": "Google AI Blog"
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "date": "2026-09-09",
+      "source": "OpenAI News"
     },
     {
-      "title": "The Gemini app is now available for Windows",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/",
-      "date": "2026-09-10",
-      "source": "Gemini News"
-    },
-    {
-      "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
-      "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
-      "date": "2026-09-10",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "date": "2026-09-10",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
       "date": "2026-09-10",
       "source": "OpenAI News"
     },
     {
-      "title": "FALCON-S: Fixed-wing ground-effect Aerodynamics Simulator and Flight Control Learning Suite",
-      "url": "https://arxiv.org/abs/2609.06046",
-      "date": "2026-09-10",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "date": "2026-09-08",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Arbitrary Cipher Attacks Against Large Language Models Do Not Require Fine-Tuning",
+      "url": "https://arxiv.org/abs/2609.09553",
+      "date": "2026-09-11",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents",
+      "url": "https://arxiv.org/abs/2609.09875",
+      "date": "2026-09-11",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
+      "url": "https://arxiv.org/abs/2609.11042",
+      "date": "2026-09-11",
       "source": "arXiv cs.LG"
-    },
-    {
-      "title": "AutoFyn Technical Report: Non-Parametric Expert Iteration for Long-Horizon Agents",
-      "url": "https://arxiv.org/abs/2609.05446",
-      "date": "2026-09-10",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "DI-Bench: Systematically Generating In-Domain Data Intelligence Benchmarks for Enterprise Agents",
-      "url": "https://arxiv.org/abs/2609.05776",
-      "date": "2026-09-10",
-      "source": "arXiv cs.AI"
     }
   ]
 }
