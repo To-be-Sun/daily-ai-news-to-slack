@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-    "https://www.anthropic.com/news/ben-bernanke",
-    "https://www.anthropic.com/news/reflect-with-claude",
-    "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data/",
-    "https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709",
-    "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "https://arxiv.org/abs/2607.06963",
-    "https://simonwillison.net/2026/Jul/9/gpt-5-6/#atom-everything",
-    "https://arxiv.org/abs/2607.07103",
     "https://openai.com/index/deutsche-telekom",
     "https://openai.com/index/bio-bug-bounty",
     "https://www.anthropic.com/news/ust-claude",
@@ -499,69 +489,79 @@
     "https://openai.com/index/introducing-chatgpt-images-2-5",
     "https://arxiv.org/abs/2609.09553",
     "https://arxiv.org/abs/2609.09875",
-    "https://arxiv.org/abs/2609.11042"
+    "https://arxiv.org/abs/2609.11042",
+    "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+    "https://openai.com/index/cognition-devin-testing-with-astra",
+    "https://openai.com/index/navier-stokes-solution",
+    "https://arxiv.org/abs/2603.16448",
+    "https://arxiv.org/abs/2609.11115",
+    "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+    "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
+    "https://zenn.dev/laiken/articles/20260911-tech-watch",
+    "https://zenn.dev/levelschema/articles/61e91e2c3a8355",
+    "https://zenn.dev/nnydtmg/articles/aws-quick-desktop-ga-202609"
   ],
-  "lastRun": "2026-09-11T23:08:30.272Z",
+  "lastRun": "2026-09-12T23:07:48.167Z",
   "lastPosted": [
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "date": "2026-09-14",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "date": "2026-09-11",
       "source": "OpenAI News"
     },
     {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "date": "2026-09-10",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Lifesaving Lincoln Laboratory device wins 2026 Excellence in Technology Transfer Award",
-      "url": "https://news.mit.edu/2026/lifesaving-lincoln-laboratory-technology-wins-tech-transfer-award-0911",
-      "date": "2026-09-11",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "date": "2026-09-10",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "date": "2026-09-09",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "date": "2026-09-10",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution",
       "date": "2026-09-08",
       "source": "OpenAI News"
     },
     {
-      "title": "Arbitrary Cipher Attacks Against Large Language Models Do Not Require Fine-Tuning",
-      "url": "https://arxiv.org/abs/2609.09553",
-      "date": "2026-09-11",
+      "title": "TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas",
+      "url": "https://arxiv.org/abs/2603.16448",
+      "date": "2026-09-12",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "AgentAudit: An Open, Extensible Framework for Full-Lifecycle Trust Evaluation of AI Agents",
-      "url": "https://arxiv.org/abs/2609.09875",
-      "date": "2026-09-11",
+      "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+      "url": "https://arxiv.org/abs/2609.11115",
+      "date": "2026-09-12",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
-      "url": "https://arxiv.org/abs/2609.11042",
+      "title": "OpenAI agents attacked RubyGems back in May",
+      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+      "date": "2026-09-12",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Quoting huggingface.co/security.txt",
+      "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
       "date": "2026-09-11",
-      "source": "arXiv cs.LG"
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Tech Watch 2026-09-11: エージェント基盤の製品化",
+      "url": "https://zenn.dev/laiken/articles/20260911-tech-watch",
+      "date": "2026-09-12",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "Winning the AI Race Is Not Winning the Future",
+      "url": "https://zenn.dev/levelschema/articles/61e91e2c3a8355",
+      "date": "2026-09-12",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "Amazon Quick のデスクトップアプリがGAしました！同時に来た2つのアップデートも合わせて紹介します",
+      "url": "https://zenn.dev/nnydtmg/articles/aws-quick-desktop-ga-202609",
+      "date": "2026-09-11",
+      "source": "Zenn 生成AI"
     }
   ]
 }
