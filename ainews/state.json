@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/deutsche-telekom",
-    "https://openai.com/index/bio-bug-bounty",
-    "https://www.anthropic.com/news/ust-claude",
-    "https://www.anthropic.com/news/hard-questions",
-    "https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/",
-    "https://huggingface.co/blog/torch-attention-profile",
-    "https://openai.com/index/gpt-5-6",
-    "https://arxiv.org/abs/2607.08423",
-    "https://arxiv.org/abs/2607.07721",
-    "https://arxiv.org/abs/2607.08137",
     "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
     "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
     "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
@@ -499,69 +489,79 @@
     "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
     "https://zenn.dev/laiken/articles/20260911-tech-watch",
     "https://zenn.dev/levelschema/articles/61e91e2c3a8355",
-    "https://zenn.dev/nnydtmg/articles/aws-quick-desktop-ga-202609"
+    "https://zenn.dev/nnydtmg/articles/aws-quick-desktop-ga-202609",
+    "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
+    "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+    "https://zenn.dev/hach/articles/chat-agent-llm-provider-failover-design",
+    "https://zenn.dev/sugawara_ai/articles/ai-news-20260912",
+    "https://qiita.com/lhjjjk4/items/b9a6857ba0dd0d236ecd",
+    "https://zenn.dev/nobu_13/articles/2746075494abf7",
+    "https://zenn.dev/aku_niconico/articles/edf67e92bd86db",
+    "https://qiita.com/yureki_lab/items/68c7c864e924626971de",
+    "https://qiita.com/YushiYamamoto/items/685a00aaff2a059c2a95",
+    "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5"
   ],
-  "lastRun": "2026-09-12T23:07:48.167Z",
+  "lastRun": "2026-09-13T23:08:20.491Z",
   "lastPosted": [
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "date": "2026-09-14",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "date": "2026-09-11",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "date": "2026-09-08",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas",
-      "url": "https://arxiv.org/abs/2603.16448",
-      "date": "2026-09-12",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
-      "url": "https://arxiv.org/abs/2609.11115",
-      "date": "2026-09-12",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "OpenAI agents attacked RubyGems back in May",
-      "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
       "date": "2026-09-12",
       "source": "Simon Willison"
     },
     {
-      "title": "Quoting huggingface.co/security.txt",
-      "url": "https://simonwillison.net/2026/Sep/11/hugging-face-security/",
+      "title": "So you want to use OpenRouter?",
+      "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
       "date": "2026-09-11",
       "source": "Simon Willison"
     },
     {
-      "title": "Tech Watch 2026-09-11: エージェント基盤の製品化",
-      "url": "https://zenn.dev/laiken/articles/20260911-tech-watch",
-      "date": "2026-09-12",
+      "title": "常駐型AIチャットエージェントのLLMプロバイダ障害対応・フェイルオーバー設計",
+      "url": "https://zenn.dev/hach/articles/chat-agent-llm-provider-failover-design",
+      "date": "2026-09-13",
       "source": "Zenn AI"
     },
     {
-      "title": "Winning the AI Race Is Not Winning the Future",
-      "url": "https://zenn.dev/levelschema/articles/61e91e2c3a8355",
-      "date": "2026-09-12",
+      "title": "AIが「誰でも作れる」時代と、静かに始まった線引き",
+      "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20260912",
+      "date": "2026-09-13",
       "source": "Zenn AI"
     },
     {
-      "title": "Amazon Quick のデスクトップアプリがGAしました！同時に来た2つのアップデートも合わせて紹介します",
-      "url": "https://zenn.dev/nnydtmg/articles/aws-quick-desktop-ga-202609",
-      "date": "2026-09-11",
+      "title": "AI Daily Digest 2026-09-14：アモデイがフロンティアに減速を求め、OpenAIはIPOを見送り、市場はチップ株で応えた",
+      "url": "https://qiita.com/lhjjjk4/items/b9a6857ba0dd0d236ecd",
+      "date": "2026-09-13",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "KiroでAWS Serverless開発をどこまで任せられるか？Pure KiroとGuardrailed Kiroを比較した",
+      "url": "https://zenn.dev/nobu_13/articles/2746075494abf7",
+      "date": "2026-09-13",
       "source": "Zenn 生成AI"
+    },
+    {
+      "title": "AIと50日でカメラアプリを作って、クローズドテストまで来た話",
+      "url": "https://zenn.dev/aku_niconico/articles/edf67e92bd86db",
+      "date": "2026-09-13",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "Claude API の count_tokens で送信前にトークン数を見積もる実装手順 — tools・system 込みで数える、実測とのズレ、レート制限が別枠の3つのハマりどころ【2026】",
+      "url": "https://qiita.com/yureki_lab/items/68c7c864e924626971de",
+      "date": "2026-09-13",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "なぜRAGが必要なのか — LLM単体の限界から「いつ足すか」まで初心者向けに整理",
+      "url": "https://qiita.com/YushiYamamoto/items/685a00aaff2a059c2a95",
+      "date": "2026-09-13",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "写真📷録音🎙PDF📄コード💻いいね👍｜私の情報はどこへ漏れていくのか？ AI製品36件の規約とプライバシーポリシーを形式別に調べてみた",
+      "url": "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5",
+      "date": "2026-09-13",
+      "source": "Qiita LLM"
     }
   ]
 }
