@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://simonwillison.net/2026/Jul/9/muse-spark-1-1/#atom-everything",
-    "https://simonwillison.net/2026/Jul/8/rewriting-bun-in-rust/#atom-everything",
-    "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
-    "https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/",
-    "https://zenn.dev/suwash/articles/agentic-enterprise-20-questions_20260709",
-    "https://zenn.dev/znet/articles/2026-openfugu-local-multiagent-part1",
-    "https://zenn.dev/ryok/articles/model-selection-pareto-frontier",
-    "https://zenn.dev/50s_zerotohero/articles/019bc93f9d0a36",
-    "https://qiita.com/aakan/items/ef0476f0af51be4f1c90",
-    "https://qiita.com/nakatada-lab/items/3bed1647ad458b5b5fe8",
     "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
     "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
     "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/",
@@ -499,69 +489,79 @@
     "https://zenn.dev/aku_niconico/articles/edf67e92bd86db",
     "https://qiita.com/yureki_lab/items/68c7c864e924626971de",
     "https://qiita.com/YushiYamamoto/items/685a00aaff2a059c2a95",
-    "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5"
+    "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5",
+    "https://openai.com/index/fyxer",
+    "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+    "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+    "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
+    "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "https://arxiv.org/abs/2609.12345",
+    "https://arxiv.org/abs/2609.12758",
+    "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+    "https://simonwillison.net/2026/Sep/11/boris-cherny/"
   ],
-  "lastRun": "2026-09-13T23:08:20.491Z",
+  "lastRun": "2026-09-14T23:08:41.905Z",
   "lastPosted": [
     {
-      "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-      "date": "2026-09-12",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "url": "https://openai.com/index/fyxer",
+      "date": "2026-09-14",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
+      "date": "2026-09-14",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
+      "date": "2026-09-14",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "New method enables AI for safety-critical situations",
+      "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
+      "date": "2026-09-14",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "MIT spinout turns plastic waste into resilient building materials",
+      "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
+      "date": "2026-09-14",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+      "date": "2026-09-10",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "ParaRecover: A Process-Level Benchmark for Error Localization and Recovery in Parallel Tool-Use Agents",
+      "url": "https://arxiv.org/abs/2609.12345",
+      "date": "2026-09-14",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Curriculum-Based Adversarial Heterogeneous Agent Reinforcement Learning for Autonomous Quad-Copter Landing in Maritime Settings",
+      "url": "https://arxiv.org/abs/2609.12758",
+      "date": "2026-09-14",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "commit-rewriter 0.1",
+      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
+      "date": "2026-09-14",
       "source": "Simon Willison"
     },
     {
-      "title": "So you want to use OpenRouter?",
-      "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+      "title": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
       "date": "2026-09-11",
       "source": "Simon Willison"
-    },
-    {
-      "title": "常駐型AIチャットエージェントのLLMプロバイダ障害対応・フェイルオーバー設計",
-      "url": "https://zenn.dev/hach/articles/chat-agent-llm-provider-failover-design",
-      "date": "2026-09-13",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "AIが「誰でも作れる」時代と、静かに始まった線引き",
-      "url": "https://zenn.dev/sugawara_ai/articles/ai-news-20260912",
-      "date": "2026-09-13",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "AI Daily Digest 2026-09-14：アモデイがフロンティアに減速を求め、OpenAIはIPOを見送り、市場はチップ株で応えた",
-      "url": "https://qiita.com/lhjjjk4/items/b9a6857ba0dd0d236ecd",
-      "date": "2026-09-13",
-      "source": "Qiita AI"
-    },
-    {
-      "title": "KiroでAWS Serverless開発をどこまで任せられるか？Pure KiroとGuardrailed Kiroを比較した",
-      "url": "https://zenn.dev/nobu_13/articles/2746075494abf7",
-      "date": "2026-09-13",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "AIと50日でカメラアプリを作って、クローズドテストまで来た話",
-      "url": "https://zenn.dev/aku_niconico/articles/edf67e92bd86db",
-      "date": "2026-09-13",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "Claude API の count_tokens で送信前にトークン数を見積もる実装手順 — tools・system 込みで数える、実測とのズレ、レート制限が別枠の3つのハマりどころ【2026】",
-      "url": "https://qiita.com/yureki_lab/items/68c7c864e924626971de",
-      "date": "2026-09-13",
-      "source": "Qiita LLM"
-    },
-    {
-      "title": "なぜRAGが必要なのか — LLM単体の限界から「いつ足すか」まで初心者向けに整理",
-      "url": "https://qiita.com/YushiYamamoto/items/685a00aaff2a059c2a95",
-      "date": "2026-09-13",
-      "source": "Qiita AI"
-    },
-    {
-      "title": "写真📷録音🎙PDF📄コード💻いいね👍｜私の情報はどこへ漏れていくのか？ AI製品36件の規約とプライバシーポリシーを形式別に調べてみた",
-      "url": "https://qiita.com/songchong/items/e630bf05f4adf0c16ce5",
-      "date": "2026-09-13",
-      "source": "Qiita LLM"
     }
   ]
 }
