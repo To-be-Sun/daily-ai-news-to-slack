@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://simonwillison.net/2026/Jul/12/bump/#atom-everything",
-    "https://simonwillison.net/2026/Jul/12/sqlite-utils/#atom-everything",
-    "https://about.fb.com/news/2026/07/breaking-ground-on-metas-first-data-center-in-canada/",
-    "https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/",
-    "https://zenn.dev/yy7613/articles/66e541a3e11095",
-    "https://zenn.dev/hironakamura_ai/articles/160877f457ef43",
-    "https://zenn.dev/yushiyamamoto/articles/llm-agent-beginner-2026-07",
-    "https://qiita.com/kai_kou/items/7eaa18a60aa2738f463a",
-    "https://zenn.dev/nayus/articles/9687e79cf298d7",
-    "https://qiita.com/sakutto-panda/items/47a2b51bf6c4f513ec49",
     "https://openai.com/academy/getting-started",
     "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
     "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
@@ -499,69 +489,79 @@
     "https://arxiv.org/abs/2609.12345",
     "https://arxiv.org/abs/2609.12758",
     "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-    "https://simonwillison.net/2026/Sep/11/boris-cherny/"
+    "https://simonwillison.net/2026/Sep/11/boris-cherny/",
+    "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+    "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
+    "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "https://arxiv.org/abs/2609.13731",
+    "https://arxiv.org/abs/2609.14762",
+    "https://arxiv.org/abs/2609.15915"
   ],
-  "lastRun": "2026-09-14T23:08:41.905Z",
+  "lastRun": "2026-09-15T23:09:03.816Z",
   "lastPosted": [
     {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "date": "2026-09-14",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/",
-      "date": "2026-09-14",
+      "title": "AI for everyone in every language",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "date": "2026-09-15",
       "source": "Google AI Blog"
     },
     {
-      "title": "DevFest is back",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/",
-      "date": "2026-09-14",
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "date": "2026-09-15",
       "source": "Google AI Blog"
     },
     {
-      "title": "New method enables AI for safety-critical situations",
-      "url": "https://news.mit.edu/2026/new-method-enables-ai-safety-critical-situations-0914",
-      "date": "2026-09-14",
-      "source": "MIT News AI"
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "date": "2026-09-15",
+      "source": "Gemini News"
     },
     {
-      "title": "MIT spinout turns plastic waste into resilient building materials",
-      "url": "https://news.mit.edu/2026/mit-spinout-turns-plastic-waste-into-resilient-building-materials-0914",
-      "date": "2026-09-14",
-      "source": "MIT News AI"
+      "title": "4 ways to tackle household chores with Gemini",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
+      "date": "2026-09-15",
+      "source": "Gemini News"
     },
     {
-      "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
-      "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-      "date": "2026-09-10",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "date": "2026-09-15",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+      "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+      "date": "2026-09-15",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "date": "2026-09-15",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "ParaRecover: A Process-Level Benchmark for Error Localization and Recovery in Parallel Tool-Use Agents",
-      "url": "https://arxiv.org/abs/2609.12345",
-      "date": "2026-09-14",
+      "title": "Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges",
+      "url": "https://arxiv.org/abs/2609.13731",
+      "date": "2026-09-15",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "TriCalRAG: A Three-Strategy, Retrieval-Augmented Benchmark for On-Premise LLM-Based Root Cause Analysis in AIOps",
+      "url": "https://arxiv.org/abs/2609.14762",
+      "date": "2026-09-15",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Safe Meta-Reinforcement Learning via Information Space Reachability",
+      "url": "https://arxiv.org/abs/2609.15915",
+      "date": "2026-09-15",
       "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Curriculum-Based Adversarial Heterogeneous Agent Reinforcement Learning for Autonomous Quad-Copter Landing in Maritime Settings",
-      "url": "https://arxiv.org/abs/2609.12758",
-      "date": "2026-09-14",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "commit-rewriter 0.1",
-      "url": "https://simonwillison.net/2026/Sep/14/commit-rewriter/",
-      "date": "2026-09-14",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Quoting Boris Cherny",
-      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny/",
-      "date": "2026-09-11",
-      "source": "Simon Willison"
     }
   ]
 }
