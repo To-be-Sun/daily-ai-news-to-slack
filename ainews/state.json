@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/academy/getting-started",
-    "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
-    "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
-    "https://news.mit.edu/2026/new-method-keeps-kids-safe-from-illegal-ai-generated-content-0713",
-    "https://arxiv.org/abs/2607.09076",
-    "https://arxiv.org/abs/2607.09330",
-    "https://arxiv.org/abs/2607.08877",
-    "https://arxiv.org/abs/2607.09375",
-    "https://simonwillison.net/2026/Jul/13/datasette-code-frequency/#atom-everything",
-    "https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/",
     "https://openai.com/index/managing-ai-investments-in-agentic-era",
     "https://www.anthropic.com/news/canadian-ai-research",
     "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
@@ -499,68 +489,78 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "https://arxiv.org/abs/2609.13731",
     "https://arxiv.org/abs/2609.14762",
-    "https://arxiv.org/abs/2609.15915"
+    "https://arxiv.org/abs/2609.15915",
+    "https://openai.com/index/reimagining-advertising-with-ai",
+    "https://openai.com/index/model-misalignment-reporting-framework",
+    "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
+    "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
+    "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+    "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+    "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+    "https://arxiv.org/abs/2609.16213",
+    "https://arxiv.org/abs/2609.16635",
+    "https://arxiv.org/abs/2609.16091"
   ],
-  "lastRun": "2026-09-15T23:09:03.816Z",
+  "lastRun": "2026-09-16T23:08:27.812Z",
   "lastPosted": [
     {
-      "title": "AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/",
+      "title": "Reimagining advertising with AI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "date": "2026-09-16",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "date": "2026-09-16",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "AI for Societal Impact",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
       "date": "2026-09-15",
       "source": "Google AI Blog"
     },
     {
-      "title": "New insights from Google’s AI & Economy ATLAS",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/",
+      "title": "Building AI to accelerate science and improve lives",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
       "date": "2026-09-15",
       "source": "Google AI Blog"
     },
     {
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-      "date": "2026-09-15",
-      "source": "Gemini News"
+      "title": "New AI technique could make minimally invasive surgeries safer and more precise",
+      "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
+      "date": "2026-09-16",
+      "source": "MIT News AI"
     },
     {
-      "title": "4 ways to tackle household chores with Gemini",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/",
-      "date": "2026-09-15",
-      "source": "Gemini News"
+      "title": "Measure by measure, studying society accurately",
+      "url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
+      "date": "2026-09-16",
+      "source": "MIT News AI"
     },
     {
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "date": "2026-09-15",
-      "source": "Google DeepMind Blog"
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "date": "2026-09-16",
+      "source": "OpenAI News"
     },
     {
-      "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
-      "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
-      "date": "2026-09-15",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "date": "2026-09-15",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey on Threat Landscapes, Defense Architectures, and Open Challenges",
-      "url": "https://arxiv.org/abs/2609.13731",
-      "date": "2026-09-15",
+      "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
+      "url": "https://arxiv.org/abs/2609.16213",
+      "date": "2026-09-16",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "TriCalRAG: A Three-Strategy, Retrieval-Augmented Benchmark for On-Premise LLM-Based Root Cause Analysis in AIOps",
-      "url": "https://arxiv.org/abs/2609.14762",
-      "date": "2026-09-15",
+      "title": "EchoPath: Execution-Level Replayable Memory for GUI Agents",
+      "url": "https://arxiv.org/abs/2609.16635",
+      "date": "2026-09-16",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Safe Meta-Reinforcement Learning via Information Space Reachability",
-      "url": "https://arxiv.org/abs/2609.15915",
-      "date": "2026-09-15",
+      "title": "Distilling Foundation Models for Agentic What-If Reasoning:Cost, Latency, and Governance in a Hybrid LLM+SLM Architecture",
+      "url": "https://arxiv.org/abs/2609.16091",
+      "date": "2026-09-16",
       "source": "arXiv cs.LG"
     }
   ]
