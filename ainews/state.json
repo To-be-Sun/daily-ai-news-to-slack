@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/managing-ai-investments-in-agentic-era",
-    "https://www.anthropic.com/news/canadian-ai-research",
-    "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "https://www.anthropic.com/news/claude-for-teachers",
-    "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
-    "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/",
-    "https://arxiv.org/abs/2507.04673",
-    "https://arxiv.org/abs/2603.04277",
-    "https://arxiv.org/abs/2607.10490",
     "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
     "https://openai.com/index/unlocking-self-improvement-gpt-red",
     "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
@@ -499,68 +489,78 @@
     "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
     "https://arxiv.org/abs/2609.16213",
     "https://arxiv.org/abs/2609.16635",
-    "https://arxiv.org/abs/2609.16091"
+    "https://arxiv.org/abs/2609.16091",
+    "https://openai.com/index/astra-for-law",
+    "https://openai.com/index/unlocking-new-ways-of-working",
+    "https://www.anthropic.com/news/life-sciences-verification-program",
+    "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+    "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+    "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+    "https://arxiv.org/abs/2609.18283",
+    "https://arxiv.org/abs/2606.03077",
+    "https://arxiv.org/abs/2609.18207",
+    "https://arxiv.org/abs/2609.18663"
   ],
-  "lastRun": "2026-09-16T23:08:27.812Z",
+  "lastRun": "2026-09-17T23:07:58.700Z",
   "lastPosted": [
     {
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "title": "Introducing Astra for Law",
+      "url": "https://openai.com/index/astra-for-law",
+      "date": "2026-09-17",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
       "date": "2026-09-16",
       "source": "OpenAI News"
     },
     {
-      "title": "Our framework for reporting model misalignment",
-      "url": "https://openai.com/index/model-misalignment-reporting-framework",
-      "date": "2026-09-16",
-      "source": "OpenAI News"
+      "title": "Introducing the Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "date": "2026-09-17",
+      "source": "Anthropic News"
     },
     {
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/",
-      "date": "2026-09-15",
+      "title": "Making global data easier to explore",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
+      "date": "2026-09-17",
       "source": "Google AI Blog"
     },
     {
-      "title": "Building AI to accelerate science and improve lives",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/",
-      "date": "2026-09-15",
-      "source": "Google AI Blog"
+      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
+      "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
+      "date": "2026-09-17",
+      "source": "Google Research Blog"
     },
     {
-      "title": "New AI technique could make minimally invasive surgeries safer and more precise",
-      "url": "https://news.mit.edu/2026/new-ai-technique-could-make-minimally-invasive-surgeries-safer-more-precise-0916",
-      "date": "2026-09-16",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Measure by measure, studying society accurately",
-      "url": "https://news.mit.edu/2026/studying-society-accurately-naoki-egami-0916",
-      "date": "2026-09-16",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "title": "How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "date": "2026-09-16",
       "source": "OpenAI News"
     },
     {
-      "title": "Artificial intelligence and biosecurity: capabilities, threat pathways, and defense-in-depth governance",
-      "url": "https://arxiv.org/abs/2609.16213",
-      "date": "2026-09-16",
+      "title": "Where Should Agents Live? Energy-Memory Characterization of Agentic AI for the Edge-Cloud Continuum",
+      "url": "https://arxiv.org/abs/2609.18283",
+      "date": "2026-09-17",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "EchoPath: Execution-Level Replayable Memory for GUI Agents",
-      "url": "https://arxiv.org/abs/2609.16635",
-      "date": "2026-09-16",
+      "title": "Libra: Efficient Resource Management for Agentic RL Post-Training",
+      "url": "https://arxiv.org/abs/2606.03077",
+      "date": "2026-09-17",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Distilling Foundation Models for Agentic What-If Reasoning:Cost, Latency, and Governance in a Hybrid LLM+SLM Architecture",
-      "url": "https://arxiv.org/abs/2609.16091",
-      "date": "2026-09-16",
+      "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
+      "url": "https://arxiv.org/abs/2609.18207",
+      "date": "2026-09-17",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "VLA-ULAP: Interleaving Cloud VLA Calls with Ultra-Lightweight Local Action Prediction at the Edge",
+      "url": "https://arxiv.org/abs/2609.18663",
+      "date": "2026-09-17",
       "source": "arXiv cs.LG"
     }
   ]
