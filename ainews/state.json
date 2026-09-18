@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models/",
-    "https://huggingface.co/blog/allenai/shippy-tech-blog",
-    "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-    "https://news.mit.edu/2026/helping-ai-models-meet-real-world-0714",
-    "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
-    "https://arxiv.org/abs/2607.12113",
-    "https://arxiv.org/abs/2509.21842",
-    "https://arxiv.org/abs/2607.12042",
     "https://openai.com/index/cars24",
     "https://openai.com/index/why-teens-deserve-access-safe-ai",
     "https://deepmind.google/blog/our-approach-to-bioresilience/",
@@ -499,68 +489,78 @@
     "https://arxiv.org/abs/2609.18283",
     "https://arxiv.org/abs/2606.03077",
     "https://arxiv.org/abs/2609.18207",
-    "https://arxiv.org/abs/2609.18663"
+    "https://arxiv.org/abs/2609.18663",
+    "https://www.anthropic.com/news/accenture-embedded-evaluation",
+    "https://openai.com/index/hex-gpt-6-astra",
+    "https://openai.com/index/cooley-gopublic",
+    "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+    "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+    "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+    "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+    "https://arxiv.org/abs/2609.20614",
+    "https://arxiv.org/abs/2608.17209",
+    "https://arxiv.org/abs/2609.19878"
   ],
-  "lastRun": "2026-09-17T23:07:58.700Z",
+  "lastRun": "2026-09-18T23:08:31.374Z",
   "lastPosted": [
     {
-      "title": "Introducing Astra for Law",
-      "url": "https://openai.com/index/astra-for-law",
-      "date": "2026-09-17",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "date": "2026-09-16",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Introducing the Life Sciences Verification Program",
-      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
-      "date": "2026-09-17",
+      "title": "Partnering with Accenture on embedded evaluation",
+      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "date": "2026-09-18",
       "source": "Anthropic News"
     },
     {
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "date": "2026-09-17",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "The future of practice: Enabling teachers to create learning interactives with generative UI",
-      "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/",
-      "date": "2026-09-17",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
       "date": "2026-09-16",
       "source": "OpenAI News"
     },
     {
-      "title": "Where Should Agents Live? Energy-Memory Characterization of Agentic AI for the Edge-Cloud Continuum",
-      "url": "https://arxiv.org/abs/2609.18283",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "url": "https://openai.com/index/cooley-gopublic",
       "date": "2026-09-17",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "date": "2026-09-18",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+      "date": "2026-09-18",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
+      "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
+      "date": "2026-09-18",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "A new chapter for MIT Reads",
+      "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
+      "date": "2026-09-18",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape",
+      "url": "https://arxiv.org/abs/2609.20614",
+      "date": "2026-09-18",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Libra: Efficient Resource Management for Agentic RL Post-Training",
-      "url": "https://arxiv.org/abs/2606.03077",
-      "date": "2026-09-17",
+      "title": "Teach and Grow: An Agent-Centered Architecture for General Robot Learning",
+      "url": "https://arxiv.org/abs/2608.17209",
+      "date": "2026-09-18",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Reinforcement Learning for Real-Time Vision-Language-Action Policies",
-      "url": "https://arxiv.org/abs/2609.18207",
-      "date": "2026-09-17",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "VLA-ULAP: Interleaving Cloud VLA Calls with Ultra-Lightweight Local Action Prediction at the Edge",
-      "url": "https://arxiv.org/abs/2609.18663",
-      "date": "2026-09-17",
+      "title": "Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning",
+      "url": "https://arxiv.org/abs/2609.19878",
+      "date": "2026-09-18",
       "source": "arXiv cs.LG"
     }
   ]
