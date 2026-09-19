@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/cars24",
-    "https://openai.com/index/why-teens-deserve-access-safe-ai",
-    "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-    "https://blog.google/products-and-platforms/products/search/connected-apps/",
-    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "https://news.mit.edu/2026/turning-2d-designs-into-3d-models-for-rapid-prototyping-0716",
-    "https://arxiv.org/abs/2607.13080",
-    "https://simonwillison.net/2026/Jul/16/kimi-k3/#atom-everything",
-    "https://arxiv.org/abs/2607.13088",
     "https://openai.com/index/a-scorecard-for-the-ai-age",
     "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
@@ -499,69 +489,79 @@
     "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
     "https://arxiv.org/abs/2609.20614",
     "https://arxiv.org/abs/2608.17209",
-    "https://arxiv.org/abs/2609.19878"
+    "https://arxiv.org/abs/2609.19878",
+    "https://openai.com/index/australian-youth-safety-blueprint",
+    "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+    "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
+    "https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce/",
+    "https://about.fb.com/news/2026/09/presentation-de-meta-one-un-service-dabonnement-offrant-davantage-de-fonctionnalites-et-dia-pour-creer-se-connecter-et-se-demarquer/",
+    "https://zenn.dev/tubesoling/articles/2f58a43ad276cb",
+    "https://zenn.dev/yuzu_krs/articles/71c18d2589d01e",
+    "https://zenn.dev/scalar_sol_blog/articles/scalar-sales-ai-07-qa-delivery",
+    "https://zenn.dev/ryodev/articles/9de2087d39faf9",
+    "https://qiita.com/homhom44/items/07c1c0e8356e639ef4f4"
   ],
-  "lastRun": "2026-09-18T23:08:31.374Z",
+  "lastRun": "2026-09-19T23:08:01.275Z",
   "lastPosted": [
     {
-      "title": "Partnering with Accenture on embedded evaluation",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "date": "2026-09-18",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
-      "url": "https://openai.com/index/hex-gpt-6-astra",
-      "date": "2026-09-16",
       "source": "OpenAI News"
     },
     {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
+      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
+      "date": "2026-09-18",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Self-generated prompt injections in compaction summaries",
+      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
       "date": "2026-09-17",
-      "source": "OpenAI News"
+      "source": "Simon Willison"
     },
     {
-      "title": "New experts join Google’s AI & Economy team",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
+      "title": "Prostujemy: fakty o walce z oszukańczymi reklamami w Polsce",
+      "url": "https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce/",
       "date": "2026-09-18",
-      "source": "Google AI Blog"
+      "source": "Meta Newsroom"
     },
     {
-      "title": "Co-creating the future of fashion with Google",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
-      "date": "2026-09-18",
-      "source": "Google AI Blog"
+      "title": "Présentation de Meta One : Un service d’abonnement offrant davantage de fonctionnalités et d’IA pour créer, se connecter et se démarquer",
+      "url": "https://about.fb.com/news/2026/09/presentation-de-meta-one-un-service-dabonnement-offrant-davantage-de-fonctionnalites-et-dia-pour-creer-se-connecter-et-se-demarquer/",
+      "date": "2026-09-15",
+      "source": "Meta Newsroom"
     },
     {
-      "title": "MilleMiglia: A realistic instance generator for middle-mile logistics",
-      "url": "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/",
-      "date": "2026-09-18",
-      "source": "Google Research Blog"
+      "title": "実際，ローカルLLMの性能ってどうなの？",
+      "url": "https://zenn.dev/tubesoling/articles/2f58a43ad276cb",
+      "date": "2026-09-19",
+      "source": "Zenn AI"
     },
     {
-      "title": "A new chapter for MIT Reads",
-      "url": "https://news.mit.edu/2026/new-chapter-mit-reads-0918",
-      "date": "2026-09-18",
-      "source": "MIT News AI"
+      "title": "Jev入門：Choice / Boolean / Scoreとprobability・confidence",
+      "url": "https://zenn.dev/yuzu_krs/articles/71c18d2589d01e",
+      "date": "2026-09-19",
+      "source": "Zenn AI"
     },
     {
-      "title": "Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape",
-      "url": "https://arxiv.org/abs/2609.20614",
-      "date": "2026-09-18",
-      "source": "arXiv cs.AI"
+      "title": "AIに営業プロセスを一周させた（7）API成功は視覚QAではない",
+      "url": "https://zenn.dev/scalar_sol_blog/articles/scalar-sales-ai-07-qa-delivery",
+      "date": "2026-09-19",
+      "source": "Zenn 生成AI"
     },
     {
-      "title": "Teach and Grow: An Agent-Centered Architecture for General Robot Learning",
-      "url": "https://arxiv.org/abs/2608.17209",
-      "date": "2026-09-18",
-      "source": "arXiv cs.AI"
+      "title": "文章を生成しないAI「Jev」とは？ 100ms級で判断する\"System One Model\"",
+      "url": "https://zenn.dev/ryodev/articles/9de2087d39faf9",
+      "date": "2026-09-19",
+      "source": "Zenn 生成AI"
     },
     {
-      "title": "Uni-LaDiR: Latent Diffusion Unifies Multimodal Reasoning",
-      "url": "https://arxiv.org/abs/2609.19878",
-      "date": "2026-09-18",
-      "source": "arXiv cs.LG"
+      "title": "外部審査でAIの安全性を担保する重みと設計の勘所！Claude Code開発者が押さえておきたいAnthropicニュース（2026-09-20）",
+      "url": "https://qiita.com/homhom44/items/07c1c0e8356e639ef4f4",
+      "date": "2026-09-19",
+      "source": "Qiita AI"
     }
   ]
 }
