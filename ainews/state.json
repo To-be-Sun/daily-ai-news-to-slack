@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/a-scorecard-for-the-ai-age",
-    "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-    "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
-    "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
-    "https://huggingface.co/blog/security-incident-july-2026",
-    "https://arxiv.org/abs/2607.14543",
-    "https://arxiv.org/abs/2605.05000",
-    "https://arxiv.org/abs/2607.14093",
     "https://huggingface.co/blog/thinkingmachines-inkling",
     "https://huggingface.co/blog/real-world-voiceeq",
     "https://arxiv.org/abs/2607.14256",
@@ -499,68 +489,78 @@
     "https://zenn.dev/yuzu_krs/articles/71c18d2589d01e",
     "https://zenn.dev/scalar_sol_blog/articles/scalar-sales-ai-07-qa-delivery",
     "https://zenn.dev/ryodev/articles/9de2087d39faf9",
-    "https://qiita.com/homhom44/items/07c1c0e8356e639ef4f4"
+    "https://qiita.com/homhom44/items/07c1c0e8356e639ef4f4",
+    "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+    "https://simonwillison.net/2026/Sep/15/gemini-live/",
+    "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics/",
+    "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners/",
+    "https://zenn.dev/fujota1230/articles/76b2809f500345",
+    "https://zenn.dev/kazu_aiengineer/articles/azure-openai-spend-limit-tpm",
+    "https://zenn.dev/quintetkit/articles/local-llm-delegation",
+    "https://zenn.dev/kahia1114/articles/cfde0ac8183dc6",
+    "https://qiita.com/syun136_616/items/bb23c4ff35b93c6381eb",
+    "https://qiita.com/lhjjjk4/items/1b74e9256ff3fd61fd07"
   ],
-  "lastRun": "2026-09-19T23:08:01.275Z",
+  "lastRun": "2026-09-20T23:08:55.153Z",
   "lastPosted": [
     {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "date": "2026-09-18",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies/",
-      "date": "2026-09-18",
+      "title": "llm-keys-ui 0.1",
+      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+      "date": "2026-09-20",
       "source": "Simon Willison"
     },
     {
-      "title": "Self-generated prompt injections in compaction summaries",
-      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries/",
-      "date": "2026-09-17",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Prostujemy: fakty o walce z oszukańczymi reklamami w Polsce",
-      "url": "https://about.fb.com/news/2026/09/prostujemy-fakty-o-walce-z-oszukanczymi-reklamami-w-polsce/",
-      "date": "2026-09-18",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Présentation de Meta One : Un service d’abonnement offrant davantage de fonctionnalités et d’IA pour créer, se connecter et se démarquer",
-      "url": "https://about.fb.com/news/2026/09/presentation-de-meta-one-un-service-dabonnement-offrant-davantage-de-fonctionnalites-et-dia-pour-creer-se-connecter-et-se-demarquer/",
+      "title": "Gemini Live audio",
+      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
       "date": "2026-09-15",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics",
+      "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics/",
+      "date": "2026-09-16",
       "source": "Meta Newsroom"
     },
     {
-      "title": "実際，ローカルLLMの性能ってどうなの？",
-      "url": "https://zenn.dev/tubesoling/articles/2f58a43ad276cb",
-      "date": "2026-09-19",
+      "title": "Threads Expands Podcast Toolkit for Creators and Listeners",
+      "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners/",
+      "date": "2026-09-16",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "【検証編】自分が書いたハンズオン記事のコードは本当に動くのか？Dockerの使い捨て環境で全部試した",
+      "url": "https://zenn.dev/fujota1230/articles/76b2809f500345",
+      "date": "2026-09-20",
       "source": "Zenn AI"
     },
     {
-      "title": "Jev入門：Choice / Boolean / Scoreとprobability・confidence",
-      "url": "https://zenn.dev/yuzu_krs/articles/71c18d2589d01e",
-      "date": "2026-09-19",
+      "title": "Azure OpenAIに支出のハードリミットは無い — pause APIなら推論は423で止まる",
+      "url": "https://zenn.dev/kazu_aiengineer/articles/azure-openai-spend-limit-tpm",
+      "date": "2026-09-20",
       "source": "Zenn AI"
     },
     {
-      "title": "AIに営業プロセスを一周させた（7）API成功は視覚QAではない",
-      "url": "https://zenn.dev/scalar_sol_blog/articles/scalar-sales-ai-07-qa-delivery",
-      "date": "2026-09-19",
+      "title": "ローカルLLMに何を任せて、何を任せないか（実測つき）",
+      "url": "https://zenn.dev/quintetkit/articles/local-llm-delegation",
+      "date": "2026-09-20",
       "source": "Zenn 生成AI"
     },
     {
-      "title": "文章を生成しないAI「Jev」とは？ 100ms級で判断する\"System One Model\"",
-      "url": "https://zenn.dev/ryodev/articles/9de2087d39faf9",
-      "date": "2026-09-19",
+      "title": "生成AIアプリの原価を35%下げた — モデルも品質も落とさずに",
+      "url": "https://zenn.dev/kahia1114/articles/cfde0ac8183dc6",
+      "date": "2026-09-20",
       "source": "Zenn 生成AI"
     },
     {
-      "title": "外部審査でAIの安全性を担保する重みと設計の勘所！Claude Code開発者が押さえておきたいAnthropicニュース（2026-09-20）",
-      "url": "https://qiita.com/homhom44/items/07c1c0e8356e639ef4f4",
-      "date": "2026-09-19",
+      "title": "WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした。この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、",
+      "url": "https://qiita.com/syun136_616/items/bb23c4ff35b93c6381eb",
+      "date": "2026-09-20",
+      "source": "Qiita AI"
+    },
+    {
+      "title": "AI Daily Digest 9.21：NscaleがNYSE上場を申請、FAAがAI空域管理を稼働、Step 5が600B MoEを公開",
+      "url": "https://qiita.com/lhjjjk4/items/1b74e9256ff3fd61fd07",
+      "date": "2026-09-20",
       "source": "Qiita AI"
     }
   ]
