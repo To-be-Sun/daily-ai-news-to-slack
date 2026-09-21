@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://huggingface.co/blog/thinkingmachines-inkling",
-    "https://huggingface.co/blog/real-world-voiceeq",
-    "https://arxiv.org/abs/2607.14256",
-    "https://arxiv.org/abs/2607.14309",
-    "https://arxiv.org/abs/2508.00923",
-    "https://arxiv.org/abs/2408.12548",
-    "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent/#atom-everything",
-    "https://simonwillison.net/2026/Jul/16/inkling/#atom-everything",
-    "https://about.fb.com/news/2026/07/the-2026-summer-of-football-a-record-breaking-moment-across-meta/",
-    "https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/",
     "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
     "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
     "https://zenn.dev/aoi777/articles/b2b5dbef87daa5",
@@ -499,69 +489,79 @@
     "https://zenn.dev/quintetkit/articles/local-llm-delegation",
     "https://zenn.dev/kahia1114/articles/cfde0ac8183dc6",
     "https://qiita.com/syun136_616/items/bb23c4ff35b93c6381eb",
-    "https://qiita.com/lhjjjk4/items/1b74e9256ff3fd61fd07"
+    "https://qiita.com/lhjjjk4/items/1b74e9256ff3fd61fd07",
+    "https://openai.com/index/building-standards-next-phase-ai",
+    "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+    "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
+    "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "https://huggingface.co/blog/tokenizers-v1",
+    "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+    "https://openai.com/index/v7",
+    "https://arxiv.org/abs/2609.20886",
+    "https://arxiv.org/abs/2609.19524",
+    "https://arxiv.org/abs/2609.21909"
   ],
-  "lastRun": "2026-09-20T23:08:55.153Z",
+  "lastRun": "2026-09-21T23:09:02.947Z",
   "lastPosted": [
     {
-      "title": "llm-keys-ui 0.1",
-      "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
-      "date": "2026-09-20",
-      "source": "Simon Willison"
+      "title": "Building standards for the next phase of AI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "date": "2026-09-21",
+      "source": "OpenAI News"
     },
     {
-      "title": "Gemini Live audio",
-      "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
-      "date": "2026-09-15",
-      "source": "Simon Willison"
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "date": "2026-09-21",
+      "source": "OpenAI News"
     },
     {
-      "title": "Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics",
-      "url": "https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics/",
+      "title": "Microsoft’s commitment for AI in education",
+      "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
       "date": "2026-09-16",
-      "source": "Meta Newsroom"
+      "source": "Microsoft AI Blog"
     },
     {
-      "title": "Threads Expands Podcast Toolkit for Creators and Listeners",
-      "url": "https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners/",
-      "date": "2026-09-16",
-      "source": "Meta Newsroom"
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "date": "2026-09-21",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "【検証編】自分が書いたハンズオン記事のコードは本当に動くのか？Dockerの使い捨て環境で全部試した",
-      "url": "https://zenn.dev/fujota1230/articles/76b2809f500345",
-      "date": "2026-09-20",
-      "source": "Zenn AI"
+      "title": "tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "date": "2026-09-21",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Azure OpenAIに支出のハードリミットは無い — pause APIなら推論は423で止まる",
-      "url": "https://zenn.dev/kazu_aiengineer/articles/azure-openai-spend-limit-tpm",
-      "date": "2026-09-20",
-      "source": "Zenn AI"
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "date": "2026-09-21",
+      "source": "OpenAI News"
     },
     {
-      "title": "ローカルLLMに何を任せて、何を任せないか（実測つき）",
-      "url": "https://zenn.dev/quintetkit/articles/local-llm-delegation",
-      "date": "2026-09-20",
-      "source": "Zenn 生成AI"
+      "title": "How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "date": "2026-09-21",
+      "source": "OpenAI News"
     },
     {
-      "title": "生成AIアプリの原価を35%下げた — モデルも品質も落とさずに",
-      "url": "https://zenn.dev/kahia1114/articles/cfde0ac8183dc6",
-      "date": "2026-09-20",
-      "source": "Zenn 生成AI"
+      "title": "BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence",
+      "url": "https://arxiv.org/abs/2609.20886",
+      "date": "2026-09-21",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "WebFetch の権限が許可されず、参考記事の内容を直接確認できませんでした。この状態で記事を書くと、設定名やAPI仕様などの固有情報を憶測で書くことになり、",
-      "url": "https://qiita.com/syun136_616/items/bb23c4ff35b93c6381eb",
-      "date": "2026-09-20",
-      "source": "Qiita AI"
+      "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
+      "url": "https://arxiv.org/abs/2609.19524",
+      "date": "2026-09-21",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "AI Daily Digest 9.21：NscaleがNYSE上場を申請、FAAがAI空域管理を稼働、Step 5が600B MoEを公開",
-      "url": "https://qiita.com/lhjjjk4/items/1b74e9256ff3fd61fd07",
-      "date": "2026-09-20",
-      "source": "Qiita AI"
+      "title": "Beyond Kinematics: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning",
+      "url": "https://arxiv.org/abs/2609.21909",
+      "date": "2026-09-21",
+      "source": "arXiv cs.LG"
     }
   ]
 }
