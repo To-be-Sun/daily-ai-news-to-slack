@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://simonwillison.net/2026/Jul/15/grok-build/#atom-everything",
-    "https://simonwillison.net/2026/Jul/15/claude-web-fetch-exfiltration/#atom-everything",
-    "https://zenn.dev/aoi777/articles/b2b5dbef87daa5",
-    "https://zenn.dev/error401/articles/linux-codex-agent-development-environment",
-    "https://zenn.dev/numarn/articles/mcp-fetch-server-robots-egress-handson",
-    "https://zenn.dev/ikm_king/articles/wan-video-vram4gb-diary",
-    "https://qiita.com/realbios/items/a27d4b43e683d6a7d723",
-    "https://qiita.com/hironakamura_ai/items/4d96e7141fbbbceb6ff3",
-    "https://qiita.com/hach_work/items/b732a4106af6c46a42dc",
-    "https://qiita.com/okssusucha/items/518453e6c843dc4ec99f",
     "https://openai.com/index/advancing-responsible-ai-across-europe",
     "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
@@ -499,69 +489,79 @@
     "https://openai.com/index/v7",
     "https://arxiv.org/abs/2609.20886",
     "https://arxiv.org/abs/2609.19524",
-    "https://arxiv.org/abs/2609.21909"
+    "https://arxiv.org/abs/2609.21909",
+    "https://openai.com/index/priorities-principles-third-party-assessments",
+    "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "https://huggingface.co/blog/evaleval-aisi",
+    "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
+    "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "https://arxiv.org/abs/2609.22222",
+    "https://arxiv.org/abs/2609.22510",
+    "https://arxiv.org/abs/2606.31672"
   ],
-  "lastRun": "2026-09-21T23:09:02.947Z",
+  "lastRun": "2026-09-22T23:08:49.168Z",
   "lastPosted": [
     {
-      "title": "Building standards for the next phase of AI",
-      "url": "https://openai.com/index/building-standards-next-phase-ai",
-      "date": "2026-09-21",
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "date": "2026-09-22",
       "source": "OpenAI News"
     },
     {
-      "title": "Advisory Group on Mathematics and Artificial Intelligence",
-      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
-      "date": "2026-09-21",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "date": "2026-09-22",
       "source": "OpenAI News"
     },
     {
-      "title": "Microsoft’s commitment for AI in education",
-      "url": "https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/",
-      "date": "2026-09-16",
-      "source": "Microsoft AI Blog"
-    },
-    {
-      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
-      "date": "2026-09-21",
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "date": "2026-09-22",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "tokenizers v1: encode, decode and scaling, measured",
-      "url": "https://huggingface.co/blog/tokenizers-v1",
-      "date": "2026-09-21",
+      "title": "Transformers now runs llama.cpp quants",
+      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+      "date": "2026-09-22",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Expanding OpenAI Academy with new learning paths",
-      "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
-      "date": "2026-09-21",
+      "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
+      "url": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
+      "date": "2026-09-22",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "date": "2026-09-22",
       "source": "OpenAI News"
     },
     {
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "date": "2026-09-21",
+      "title": "Better prompt caching for GPT-6",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "date": "2026-09-22",
       "source": "OpenAI News"
     },
     {
-      "title": "BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence",
-      "url": "https://arxiv.org/abs/2609.20886",
-      "date": "2026-09-21",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "A Unified Evaluation Framework for Trustworthy Large Language Models, Agentic AI, and Multimodal Systems",
-      "url": "https://arxiv.org/abs/2609.19524",
-      "date": "2026-09-21",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Beyond Kinematics: Benchmarking Simulation Fidelity for Muscle-Driven Imitation Learning",
-      "url": "https://arxiv.org/abs/2609.21909",
-      "date": "2026-09-21",
+      "title": "Can Coding Agents Reproduce Official Statistics? Metadata, Retry Budget and the Limits of Execution Feedback in a Controlled Eurostat Benchmark",
+      "url": "https://arxiv.org/abs/2609.22222",
+      "date": "2026-09-22",
       "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Defusing Explosive Prompts: Understanding and Preventing Trigger-Based Prompt Injections in LLM Agents",
+      "url": "https://arxiv.org/abs/2609.22510",
+      "date": "2026-09-22",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models",
+      "url": "https://arxiv.org/abs/2606.31672",
+      "date": "2026-09-22",
+      "source": "arXiv cs.AI"
     }
   ]
 }
