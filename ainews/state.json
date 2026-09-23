@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/advancing-responsible-ai-across-europe",
-    "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-    "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana/",
-    "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/",
-    "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
-    "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
-    "https://simonwillison.net/2026/Aug/2/open-letters/#atom-everything",
-    "https://arxiv.org/abs/2607.28629",
-    "https://arxiv.org/abs/2607.28801",
     "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
     "https://openai.com/index/apple-is-getting-this-wrong",
     "https://www.anthropic.com/news/tino-cuellar",
@@ -499,69 +489,79 @@
     "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "https://arxiv.org/abs/2609.22222",
     "https://arxiv.org/abs/2609.22510",
-    "https://arxiv.org/abs/2606.31672"
+    "https://arxiv.org/abs/2606.31672",
+    "https://openai.com/index/sam-altman-un-security-council-remarks",
+    "https://openai.com/index/ringg",
+    "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+    "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+    "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+    "https://arxiv.org/abs/2609.22951",
+    "https://arxiv.org/abs/2609.24662",
+    "https://arxiv.org/abs/2609.26094"
   ],
-  "lastRun": "2026-09-22T23:08:49.168Z",
+  "lastRun": "2026-09-23T23:07:52.565Z",
   "lastPosted": [
     {
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "date": "2026-09-22",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "date": "2026-09-23",
       "source": "OpenAI News"
     },
     {
-      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-      "date": "2026-09-22",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "date": "2026-09-23",
       "source": "OpenAI News"
     },
     {
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi",
-      "date": "2026-09-22",
-      "source": "Hugging Face Blog"
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "date": "2026-09-23",
+      "source": "Anthropic News"
     },
     {
-      "title": "Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "date": "2026-09-22",
-      "source": "Hugging Face Blog"
+      "title": "Google Beam expands with new regions, partners, and customers",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
+      "date": "2026-09-23",
+      "source": "Google AI Blog"
     },
     {
-      "title": "Poitras Center to fuel early careers of 50 young scientists dedicated to psychiatric disorders research",
-      "url": "https://news.mit.edu/2026/poitras-center-to-fuel-early-careers-50-young-scientists-psychiatric-disorders-research-0922",
-      "date": "2026-09-22",
-      "source": "MIT News AI"
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
+      "date": "2026-09-23",
+      "source": "Gemini News"
     },
     {
-      "title": "Introducing GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "date": "2026-09-22",
-      "source": "OpenAI News"
+      "title": "A new wave of Connected Apps is rolling out to Gemini.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
+      "date": "2026-09-23",
+      "source": "Gemini News"
     },
     {
-      "title": "Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "date": "2026-09-22",
-      "source": "OpenAI News"
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "date": "2026-09-23",
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "Can Coding Agents Reproduce Official Statistics? Metadata, Retry Budget and the Limits of Execution Feedback in a Controlled Eurostat Benchmark",
-      "url": "https://arxiv.org/abs/2609.22222",
-      "date": "2026-09-22",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Defusing Explosive Prompts: Understanding and Preventing Trigger-Based Prompt Injections in LLM Agents",
-      "url": "https://arxiv.org/abs/2609.22510",
-      "date": "2026-09-22",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "WorldRoamBench: An Open-World Benchmark for Long-Horizon Stability of Interactive World Models",
-      "url": "https://arxiv.org/abs/2606.31672",
-      "date": "2026-09-22",
+      "title": "AgentRouter: Heterogeneous Model Routing for Cost-Optimal Multi-Step Agentic Workflows",
+      "url": "https://arxiv.org/abs/2609.22951",
+      "date": "2026-09-23",
       "source": "arXiv cs.AI"
+    },
+    {
+      "title": "DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security",
+      "url": "https://arxiv.org/abs/2609.24662",
+      "date": "2026-09-23",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "CoEvo: Oracle-Grounded Self-Evolution of a Single Model for Multi-Step Causal Reasoning",
+      "url": "https://arxiv.org/abs/2609.26094",
+      "date": "2026-09-23",
+      "source": "arXiv cs.LG"
     }
   ]
 }
