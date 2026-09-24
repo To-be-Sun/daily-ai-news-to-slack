@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-    "https://openai.com/index/apple-is-getting-this-wrong",
-    "https://www.anthropic.com/news/tino-cuellar",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
-    "https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/",
-    "https://arxiv.org/abs/2608.02352",
-    "https://arxiv.org/abs/2512.03438",
-    "https://arxiv.org/abs/2605.07161",
     "https://openai.com/index/circles",
     "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
     "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/",
@@ -499,68 +489,78 @@
     "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
     "https://arxiv.org/abs/2609.22951",
     "https://arxiv.org/abs/2609.24662",
-    "https://arxiv.org/abs/2609.26094"
+    "https://arxiv.org/abs/2609.26094",
+    "https://openai.com/index/airbnb-gpt-6-astra",
+    "https://openai.com/index/two-years-of-openai-academy",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+    "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+    "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+    "https://research.google/blog/coherent-long-form-video-generation/",
+    "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "https://arxiv.org/abs/2609.11243",
+    "https://arxiv.org/abs/2609.24124",
+    "https://arxiv.org/abs/2609.28007"
   ],
-  "lastRun": "2026-09-23T23:07:52.565Z",
+  "lastRun": "2026-09-24T23:08:58.286Z",
   "lastPosted": [
     {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
       "date": "2026-09-23",
       "source": "OpenAI News"
     },
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
       "date": "2026-09-23",
       "source": "OpenAI News"
     },
     {
-      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "date": "2026-09-23",
-      "source": "Anthropic News"
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+      "date": "2026-09-24",
+      "source": "Gemini News"
     },
     {
-      "title": "Google Beam expands with new regions, partners, and customers",
-      "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-      "date": "2026-09-23",
-      "source": "Google AI Blog"
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "date": "2026-09-24",
+      "source": "Google DeepMind Blog"
     },
     {
       "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-      "date": "2026-09-23",
-      "source": "Gemini News"
-    },
-    {
-      "title": "A new wave of Connected Apps is rolling out to Gemini.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/",
-      "date": "2026-09-23",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
       "date": "2026-09-23",
       "source": "Google DeepMind Blog"
     },
     {
-      "title": "AgentRouter: Heterogeneous Model Routing for Cost-Optimal Multi-Step Agentic Workflows",
-      "url": "https://arxiv.org/abs/2609.22951",
+      "title": "Automating coherent long-form video generation",
+      "url": "https://research.google/blog/coherent-long-form-video-generation/",
+      "date": "2026-09-24",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "date": "2026-09-23",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Sci-MMR: Benchmarking Multi-Step Evidence-Grounded Scientific Reasoning in Multimodal Agents",
+      "url": "https://arxiv.org/abs/2609.11243",
+      "date": "2026-09-24",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security",
-      "url": "https://arxiv.org/abs/2609.24662",
-      "date": "2026-09-23",
+      "title": "ActiveArena: Benchmarking and Understanding Active Perception in Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2609.24124",
+      "date": "2026-09-24",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "CoEvo: Oracle-Grounded Self-Evolution of a Single Model for Multi-Step Causal Reasoning",
-      "url": "https://arxiv.org/abs/2609.26094",
-      "date": "2026-09-23",
+      "title": "Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints",
+      "url": "https://arxiv.org/abs/2609.28007",
+      "date": "2026-09-24",
       "source": "arXiv cs.LG"
     }
   ]
