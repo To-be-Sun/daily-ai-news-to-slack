@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/circles",
-    "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/07/30/whats-the-tea-lessons-from-leaders-navigating-ai-transformation/",
-    "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/",
-    "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "https://news.mit.edu/2026/solving-solvent-problem-sodium-metal-batteries-0804",
-    "https://news.mit.edu/2026/medical-ai-assistance-benefits-vary-based-on-user-expertise-0804",
-    "https://simonwillison.net/2026/Aug/4/new-release-of-llm/#atom-everything",
-    "https://arxiv.org/abs/2608.03071",
-    "https://arxiv.org/abs/2608.03311",
     "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
     "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
     "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
@@ -499,68 +489,78 @@
     "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
     "https://arxiv.org/abs/2609.11243",
     "https://arxiv.org/abs/2609.24124",
-    "https://arxiv.org/abs/2609.28007"
+    "https://arxiv.org/abs/2609.28007",
+    "https://openai.com/index/proaction",
+    "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+    "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+    "https://huggingface.co/blog/omlx",
+    "https://openai.com/index/introducing-mentalhealthbench",
+    "https://arxiv.org/abs/2603.04756",
+    "https://arxiv.org/abs/2609.28506",
+    "https://arxiv.org/abs/2609.29499"
   ],
-  "lastRun": "2026-09-24T23:08:58.286Z",
+  "lastRun": "2026-09-25T23:08:39.679Z",
   "lastPosted": [
     {
-      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
-      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "url": "https://openai.com/index/proaction",
+      "date": "2026-09-25",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
       "date": "2026-09-23",
       "source": "OpenAI News"
     },
     {
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "date": "2026-09-23",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "date": "2026-09-24",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "date": "2026-09-24",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "date": "2026-09-23",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Automating coherent long-form video generation",
-      "url": "https://research.google/blog/coherent-long-form-video-generation/",
-      "date": "2026-09-24",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-      "date": "2026-09-23",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Sci-MMR: Benchmarking Multi-Step Evidence-Grounded Scientific Reasoning in Multimodal Agents",
-      "url": "https://arxiv.org/abs/2609.11243",
+      "title": "MIT students gain a humanist lens on technical innovation in Tulsa, Oklahoma",
+      "url": "https://news.mit.edu/2026/mit-students-gain-humanist-lens-technical-innovation-tulsa-oklahoma-0925",
+      "date": "2026-09-25",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Estimating suicide risk from text",
+      "url": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
       "date": "2026-09-24",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "url": "https://huggingface.co/blog/omlx",
+      "date": "2026-09-22",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Introducing MentalHealthBench",
+      "url": "https://openai.com/index/introducing-mentalhealthbench",
+      "date": "2026-09-23",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "MOOSEnger: A Simulation-Aware AI Agent Framework for the MOOSE Ecosystem",
+      "url": "https://arxiv.org/abs/2603.04756",
+      "date": "2026-09-25",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "ActiveArena: Benchmarking and Understanding Active Perception in Robotic Manipulation",
-      "url": "https://arxiv.org/abs/2609.24124",
-      "date": "2026-09-24",
+      "title": "TW3Cast: A Frozen Router of Lightly Fine-Tuned Foundation Models for Time-Series Forecasting on GIFT-Eval, Selected Entirely on the Training Split",
+      "url": "https://arxiv.org/abs/2609.28506",
+      "date": "2026-09-25",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints",
-      "url": "https://arxiv.org/abs/2609.28007",
-      "date": "2026-09-24",
+      "title": "Task-Aware Spectral Pruning: A Mixture-of-Masks Framework for Efficient LLM Inference",
+      "url": "https://arxiv.org/abs/2609.29499",
+      "date": "2026-09-25",
       "source": "arXiv cs.LG"
     }
   ]
