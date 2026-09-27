@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-    "https://openai.com/index/hsp-gruppe",
-    "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-builders/",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/04/accelerating-frontier-transformation-enrich-employee-experience/",
-    "https://huggingface.co/blog/allenai/tutormoments",
-    "https://openai.com/index/learn-teach-chatgpt-work-codex",
-    "https://arxiv.org/abs/2608.06112",
-    "https://arxiv.org/abs/2608.05263",
-    "https://arxiv.org/abs/2608.05420",
     "https://simonwillison.net/2026/Aug/7/openai-timeline/#atom-everything",
     "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
     "https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers/",
@@ -499,69 +489,79 @@
     "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
     "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
     "https://simonwillison.net/2026/Sep/25/john-gruber/",
-    "https://about.fb.com/news/2026/09/meta-spf-scam-efforts/"
+    "https://about.fb.com/news/2026/09/meta-spf-scam-efforts/",
+    "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+    "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
+    "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/",
+    "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
+    "https://qiita.com/1123555/items/1f0f288fe7ebcfae2d88",
+    "https://zenn.dev/scirexs/articles/193c91cde0834f",
+    "https://zenn.dev/yuruconsa/articles/be7b5191cb71e7",
+    "https://zenn.dev/bambampurin/articles/2026-09-06-tech-daily",
+    "https://zenn.dev/syoshida07/articles/5db8a59fcc3ac1",
+    "https://qiita.com/sescore/items/677c914edf350cf34c98"
   ],
-  "lastRun": "2026-09-26T23:08:54.942Z",
+  "lastRun": "2026-09-27T23:08:56.824Z",
   "lastPosted": [
     {
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "date": "2026-09-23",
-      "source": "OpenAI News"
+      "title": "Kākāpō Party",
+      "url": "https://simonwillison.net/2026/Sep/26/kakapo-party/",
+      "date": "2026-09-26",
+      "source": "Simon Willison"
     },
     {
-      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "title": "Gemini 3.8 TTS Playground",
+      "url": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/",
       "date": "2026-09-23",
-      "source": "OpenAI News"
+      "source": "Simon Willison"
     },
     {
-      "title": "The promise and peril of using visual AI to study cities",
-      "url": "https://news.mit.edu/2026/studying-cities-using-visual-ai-fabio-duarte-martina-mazzarello-carlo-ratti-fan-zhang-book-0924",
+      "title": "The Biggest News From Connect 2026",
+      "url": "https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/",
       "date": "2026-09-24",
-      "source": "MIT News AI"
+      "source": "Meta Newsroom"
     },
     {
-      "title": "MIT welcomes David Siegel SM ’86, PhD ’91 as its next Innovation Fellow",
-      "url": "https://news.mit.edu/2026/mit-welcomes-david-siegel-innovation-fellow-0923",
-      "date": "2026-09-23",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "date": "2026-09-23",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-      "date": "2026-09-23",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "date": "2026-09-21",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-      "date": "2026-09-22",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Quoting John Gruber",
-      "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
-      "date": "2026-09-25",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Meta Takes Action on 3.7 Million Accounts, Pages and Content In Partnership With Singapore Police Force",
-      "url": "https://about.fb.com/news/2026/09/meta-spf-scam-efforts/",
+      "title": "New Features for Meta Ray-Ban Display",
+      "url": "https://about.fb.com/news/2026/09/new-features-for-meta-ray-ban-display-navigation-hologram/",
       "date": "2026-09-23",
       "source": "Meta Newsroom"
+    },
+    {
+      "title": "解剖 Claude Security Plugin",
+      "url": "https://qiita.com/1123555/items/1f0f288fe7ebcfae2d88",
+      "date": "2026-09-27",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "Codexの代わりにPi Coding AgentでOpenAIモデルを使用したメモ",
+      "url": "https://zenn.dev/scirexs/articles/193c91cde0834f",
+      "date": "2026-09-27",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "AI Agent・Workflow・API・RPA、結局どれを使う？─全部Agentにしたくなる病を少し治す",
+      "url": "https://zenn.dev/yuruconsa/articles/be7b5191cb71e7",
+      "date": "2026-09-27",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "今日の技術トレンド",
+      "url": "https://zenn.dev/bambampurin/articles/2026-09-06-tech-daily",
+      "date": "2026-09-27",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "CodeとAutopilotは何者なのか Copilot統合から見えてきたMicrosoftの次世代AI戦略",
+      "url": "https://zenn.dev/syoshida07/articles/5db8a59fcc3ac1",
+      "date": "2026-09-27",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "OpenClawで9体のAIエージェント経営OSを構築した実装ノート",
+      "url": "https://qiita.com/sescore/items/677c914edf350cf34c98",
+      "date": "2026-09-27",
+      "source": "Qiita AI"
     }
   ]
 }
