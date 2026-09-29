@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
-    "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything",
-    "https://zenn.dev/akari1106/articles/21ead1df717cb9",
-    "https://qiita.com/lhjjjk4/items/58639b652345f0fcade0",
-    "https://zenn.dev/yoshitetsu/articles/1c67da68af9668",
-    "https://zenn.dev/lingmu/articles/2026-08-06-openai-cyber-eval-robot-safety",
-    "https://zenn.dev/hach/articles/chat-agent-token-cost-budget-design",
-    "https://qiita.com/quotidia/items/9fafb06ccd9cae2742e2",
-    "https://qiita.com/toypoo/items/2061c9c8fa0468c7420b",
-    "https://qiita.com/shibacorgi/items/c32fa94841f6d132741b",
     "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
     "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
@@ -499,69 +489,79 @@
     "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
     "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
     "https://arxiv.org/abs/2609.30345",
-    "https://arxiv.org/abs/2609.31186"
+    "https://arxiv.org/abs/2609.31186",
+    "https://openai.com/index/devday-2026-recap",
+    "https://openai.com/index/introducing-gpt-6-1-sol",
+    "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+    "https://huggingface.co/blog/nvidia/kumo-tabular",
+    "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+    "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+    "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
+    "https://arxiv.org/abs/2609.31568",
+    "https://arxiv.org/abs/2608.00008",
+    "https://arxiv.org/abs/2609.30270"
   ],
-  "lastRun": "2026-09-28T23:09:50.666Z",
+  "lastRun": "2026-09-29T23:09:46.853Z",
   "lastPosted": [
     {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "date": "2026-09-28",
+      "title": "DevDay 2026 Recap",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "date": "2026-09-29",
       "source": "OpenAI News"
     },
     {
-      "title": "Are you a Codex Original?",
-      "url": "https://openai.com/form/codex-originals",
-      "date": "2026-09-28",
+      "title": "Introducing GPT-6.1 Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "date": "2026-09-29",
       "source": "OpenAI News"
     },
     {
-      "title": "See what 4 builders are making with Gemini 3.8 Flash",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/",
-      "date": "2026-09-28",
-      "source": "Gemini News"
+      "title": "How Diffusion Controller unifies and simplifies AI image generation",
+      "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+      "date": "2026-09-29",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "date": "2026-09-28",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "3 ways this grocer cooks for 200 guests with Gemini",
-      "url": "https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/",
-      "date": "2026-09-28",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "date": "2026-09-28",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "date": "2026-09-29",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "New formulation helps RNA vaccines withstand high temperatures",
-      "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
-      "date": "2026-09-28",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "date": "2026-09-29",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "The effects of an “algorithmic monoculture” depend on the details",
+      "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
+      "date": "2026-09-29",
       "source": "MIT News AI"
     },
     {
-      "title": "2026 in LLMs (so far)",
-      "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-      "date": "2026-09-27",
-      "source": "Simon Willison"
+      "title": "Who we become when we talk to machines",
+      "url": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
+      "date": "2026-09-29",
+      "source": "MIT News AI"
     },
     {
-      "title": "Coding Agents Aren't Enough! Evaluating an Enterprise Security Brain for Agentic Cloud Investigations",
-      "url": "https://arxiv.org/abs/2609.30345",
-      "date": "2026-09-28",
+      "title": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
+      "url": "https://arxiv.org/abs/2609.31568",
+      "date": "2026-09-29",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Evolutionary Safety of Recursive Self-Improving AI: Taxonomy, Risk Discovery, and Evaluation",
-      "url": "https://arxiv.org/abs/2609.31186",
-      "date": "2026-09-28",
+      "title": "Energy Efficiency of Locally Deployed LLMs: A Preliminary Quantitative GPU Power Benchmark on Consumer Hardware",
+      "url": "https://arxiv.org/abs/2608.00008",
+      "date": "2026-09-29",
       "source": "arXiv cs.AI"
+    },
+    {
+      "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
+      "url": "https://arxiv.org/abs/2609.30270",
+      "date": "2026-09-29",
+      "source": "arXiv cs.LG"
     }
   ]
 }
