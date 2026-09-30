@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-    "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/",
-    "https://blog.google/products-and-platforms/products/gemini/state-fair-tips/",
-    "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-    "https://huggingface.co/blog/muse-glimmer",
-    "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
-    "https://arxiv.org/abs/2608.07167",
-    "https://arxiv.org/abs/2608.06756",
-    "https://arxiv.org/abs/2608.06564",
     "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "https://openai.com/index/zapier",
     "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
@@ -499,68 +489,78 @@
     "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
     "https://arxiv.org/abs/2609.31568",
     "https://arxiv.org/abs/2608.00008",
-    "https://arxiv.org/abs/2609.30270"
+    "https://arxiv.org/abs/2609.30270",
+    "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+    "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+    "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+    "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+    "https://deepmind.google/blog/introducing-synthid-bio/",
+    "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+    "https://arxiv.org/abs/2605.01970",
+    "https://arxiv.org/abs/2609.35833",
+    "https://arxiv.org/abs/2508.14925"
   ],
-  "lastRun": "2026-09-29T23:09:46.853Z",
+  "lastRun": "2026-09-30T23:09:55.888Z",
   "lastPosted": [
     {
-      "title": "DevDay 2026 Recap",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "date": "2026-09-29",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "date": "2026-09-30",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "date": "2026-09-29",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "date": "2026-09-30",
       "source": "OpenAI News"
     },
     {
-      "title": "How Diffusion Controller unifies and simplifies AI image generation",
-      "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
-      "date": "2026-09-29",
-      "source": "Google Research Blog"
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "date": "2026-09-30",
+      "source": "Gemini News"
     },
     {
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "date": "2026-09-29",
-      "source": "Hugging Face Blog"
+      "title": "Let skills in Gemini tackle your most repetitive tasks",
+      "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
+      "date": "2026-09-30",
+      "source": "Gemini News"
     },
     {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "date": "2026-09-29",
-      "source": "Hugging Face Blog"
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "date": "2026-09-30",
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "The effects of an “algorithmic monoculture” depend on the details",
-      "url": "https://news.mit.edu/2026/algorithmic-monoculture-effects-depend-on-details-0929",
-      "date": "2026-09-29",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "date": "2026-09-30",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
+      "url": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+      "date": "2026-09-30",
       "source": "MIT News AI"
     },
     {
-      "title": "Who we become when we talk to machines",
-      "url": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
-      "date": "2026-09-29",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
-      "url": "https://arxiv.org/abs/2609.31568",
-      "date": "2026-09-29",
+      "title": "Trojan Hippo Bench: A Dynamic Benchmark for Persistent Memory Attacks and Defenses in LLM Agents",
+      "url": "https://arxiv.org/abs/2605.01970",
+      "date": "2026-09-30",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Energy Efficiency of Locally Deployed LLMs: A Preliminary Quantitative GPU Power Benchmark on Consumer Hardware",
-      "url": "https://arxiv.org/abs/2608.00008",
-      "date": "2026-09-29",
+      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
+      "url": "https://arxiv.org/abs/2609.35833",
+      "date": "2026-09-30",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "HybridInfer: Thermal-Aware Reinforcement-Learning Tier Routing for On-Device, Edge, and Cloud LLM Inference",
-      "url": "https://arxiv.org/abs/2609.30270",
-      "date": "2026-09-29",
+      "title": "MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers",
+      "url": "https://arxiv.org/abs/2508.14925",
+      "date": "2026-09-30",
       "source": "arXiv cs.LG"
     }
   ]
