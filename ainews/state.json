@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "https://openai.com/index/zapier",
-    "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/",
-    "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations/",
-    "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
-    "https://arxiv.org/abs/2608.07762",
-    "https://arxiv.org/abs/2608.09867",
-    "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/#atom-everything",
     "https://openai.com/index/how-enterprises-put-ai-to-work",
     "https://openai.com/index/testing-ads-in-chatgpt",
     "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
@@ -499,68 +489,78 @@
     "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
     "https://arxiv.org/abs/2605.01970",
     "https://arxiv.org/abs/2609.35833",
-    "https://arxiv.org/abs/2508.14925"
+    "https://arxiv.org/abs/2508.14925",
+    "https://openai.com/index/albertsons-reimagining-retail",
+    "https://openai.com/index/the-eternal-complement",
+    "https://www.anthropic.com/news/barclays-scales-claude",
+    "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+    "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+    "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
+    "https://huggingface.co/blog/allenai/olmocore3",
+    "https://arxiv.org/abs/2609.39001",
+    "https://arxiv.org/abs/2604.20348",
+    "https://arxiv.org/abs/2609.37304"
   ],
-  "lastRun": "2026-09-30T23:09:55.888Z",
+  "lastRun": "2026-10-01T23:08:58.782Z",
   "lastPosted": [
     {
-      "title": "Disrupting a coordinated model-distillation campaign",
-      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-      "date": "2026-09-30",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "date": "2026-10-01",
       "source": "OpenAI News"
     },
     {
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "date": "2026-09-30",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "date": "2026-10-01",
       "source": "OpenAI News"
     },
     {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "date": "2026-09-30",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "date": "2026-10-01",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Guided Vision in Gemini Live: built for accessibility",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
+      "date": "2026-10-01",
       "source": "Gemini News"
     },
     {
-      "title": "Let skills in Gemini tackle your most repetitive tasks",
-      "url": "https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/",
-      "date": "2026-09-30",
-      "source": "Gemini News"
+      "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
+      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
+      "date": "2026-10-01",
+      "source": "MIT News AI"
     },
     {
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "date": "2026-09-30",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "date": "2026-09-30",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "MIT Transit Lab to develop an AI platform for public transit agencies",
-      "url": "https://news.mit.edu/2026/mit-transit-lab-to-develop-ai-platform-public-transit-agencies-0930",
+      "title": "This game-playing AI is the new champ at Stratego",
+      "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
       "date": "2026-09-30",
       "source": "MIT News AI"
     },
     {
-      "title": "Trojan Hippo Bench: A Dynamic Benchmark for Persistent Memory Attacks and Defenses in LLM Agents",
-      "url": "https://arxiv.org/abs/2605.01970",
-      "date": "2026-09-30",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "date": "2026-10-01",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
+      "url": "https://arxiv.org/abs/2609.39001",
+      "date": "2026-10-01",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Neurosymbolic Routing for Reliable Reasoning on Resource-Constrained Edge Devices",
-      "url": "https://arxiv.org/abs/2609.35833",
-      "date": "2026-09-30",
+      "title": "Bimanual Robot Manipulation via Multi-Agent In-Context Learning",
+      "url": "https://arxiv.org/abs/2604.20348",
+      "date": "2026-10-01",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "MCPTox: A Benchmark for Tool Poisoning Attack on Real-World MCP Servers",
-      "url": "https://arxiv.org/abs/2508.14925",
-      "date": "2026-09-30",
+      "title": "MetaCtrl: Your Large Language Models Can Reason Better and More Concisely with a Metacognitive Controller",
+      "url": "https://arxiv.org/abs/2609.37304",
+      "date": "2026-10-01",
       "source": "arXiv cs.LG"
     }
   ]
