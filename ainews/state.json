@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "https://openai.com/index/testing-ads-in-chatgpt",
-    "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/",
-    "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/",
-    "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces/",
-    "https://arxiv.org/abs/2608.10538",
-    "https://arxiv.org/abs/2608.10669",
     "https://openai.com/index/builders-guide-to-gpt-5-6",
     "https://openai.com/index/previewing-ultrafast",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
@@ -499,68 +489,78 @@
     "https://huggingface.co/blog/allenai/olmocore3",
     "https://arxiv.org/abs/2609.39001",
     "https://arxiv.org/abs/2604.20348",
-    "https://arxiv.org/abs/2609.37304"
+    "https://arxiv.org/abs/2609.37304",
+    "https://openai.com/index/practical-guide-building-gpt-6",
+    "https://openai.com/index/chatham-financial",
+    "https://www.anthropic.com/news/claude-frontier-academy",
+    "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+    "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+    "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+    "https://huggingface.co/blog/allenai/astabrief",
+    "https://arxiv.org/abs/2604.19139",
+    "https://arxiv.org/abs/2610.02161",
+    "https://arxiv.org/abs/2609.39584"
   ],
-  "lastRun": "2026-10-01T23:08:58.782Z",
+  "lastRun": "2026-10-02T23:08:55.016Z",
   "lastPosted": [
     {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "date": "2026-10-01",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "date": "2026-10-02",
       "source": "OpenAI News"
     },
     {
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "date": "2026-10-01",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "date": "2026-10-02",
       "source": "OpenAI News"
     },
     {
-      "title": "Barclays scales Claude to upgrade operations and improve client experience",
-      "url": "https://www.anthropic.com/news/barclays-scales-claude",
-      "date": "2026-10-01",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "date": "2026-10-02",
       "source": "Anthropic News"
     },
     {
-      "title": "Guided Vision in Gemini Live: built for accessibility",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/",
-      "date": "2026-10-01",
-      "source": "Gemini News"
+      "title": "The latest AI news we announced in September 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
+      "date": "2026-10-02",
+      "source": "Google AI Blog"
     },
     {
-      "title": "New tool lets users repair AI-generated 3D models, then fabricate them just the way they want",
-      "url": "https://news.mit.edu/2026/instructmesh-tool-lets-users-repair-ai-3d-models-then-fabricate-them-1001",
-      "date": "2026-10-01",
-      "source": "MIT News AI"
+      "title": "Toward provably private learning from federated data",
+      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+      "date": "2026-10-02",
+      "source": "Google Research Blog"
     },
     {
-      "title": "This game-playing AI is the new champ at Stratego",
-      "url": "https://news.mit.edu/2026/game-playing-ai-stratego-new-champ-0930",
-      "date": "2026-09-30",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "date": "2026-10-01",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "date": "2026-10-02",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "The Invisible Language Tax: Token Premiums of French and Regional Languages in 2026 LLM Tokenizers, and a French-Optimized Prototype",
-      "url": "https://arxiv.org/abs/2609.39001",
-      "date": "2026-10-01",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "date": "2026-10-02",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Verbal tics in frontier language models: A critical review of current releases, research evidence, and public discussion",
+      "url": "https://arxiv.org/abs/2604.19139",
+      "date": "2026-10-02",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Bimanual Robot Manipulation via Multi-Agent In-Context Learning",
-      "url": "https://arxiv.org/abs/2604.20348",
-      "date": "2026-10-01",
+      "title": "DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication",
+      "url": "https://arxiv.org/abs/2610.02161",
+      "date": "2026-10-02",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "MetaCtrl: Your Large Language Models Can Reason Better and More Concisely with a Metacognitive Controller",
-      "url": "https://arxiv.org/abs/2609.37304",
-      "date": "2026-10-01",
+      "title": "Cybersecurity in Edge Computing: A Trust-Aware Federated Hybrid Intrusion Detection Framework",
+      "url": "https://arxiv.org/abs/2609.39584",
+      "date": "2026-10-02",
       "source": "arXiv cs.LG"
     }
   ]
