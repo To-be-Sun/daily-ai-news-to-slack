@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/builders-guide-to-gpt-5-6",
-    "https://openai.com/index/previewing-ultrafast",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/",
-    "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/",
-    "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "https://arxiv.org/abs/2608.11891",
-    "https://arxiv.org/abs/2608.12282",
-    "https://arxiv.org/abs/2608.11770",
     "https://openai.com/index/dali-rajic-chief-revenue-officer",
     "https://www.anthropic.com/news/claude-text-watermark",
     "https://openai.com/index/ringcentral",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/allenai/astabrief",
     "https://arxiv.org/abs/2604.19139",
     "https://arxiv.org/abs/2610.02161",
-    "https://arxiv.org/abs/2609.39584"
+    "https://arxiv.org/abs/2609.39584",
+    "https://openai.com/index/the-den-family-social",
+    "https://openai.com/index/introducing-dots",
+    "https://huggingface.co/blog/microsoft/thinkingbox",
+    "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
+    "https://news.mit.edu/2026/documenting-tech-worker-movement-0918",
+    "https://huggingface.co/blog/open-tts-leaderboard",
+    "https://openai.com/index/how-we-will-do-better-for-australia",
+    "https://arxiv.org/abs/2610.01110",
+    "https://arxiv.org/abs/2610.01497",
+    "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/"
   ],
-  "lastRun": "2026-10-02T23:08:55.016Z",
+  "lastRun": "2026-10-03T23:51:38.909Z",
   "lastPosted": [
     {
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "date": "2026-10-02",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "date": "2026-10-01",
       "source": "OpenAI News"
     },
     {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "date": "2026-10-02",
+      "title": "Introducing dots",
+      "url": "https://openai.com/index/introducing-dots",
+      "date": "2026-09-29",
       "source": "OpenAI News"
     },
     {
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "date": "2026-10-02",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-      "date": "2026-10-02",
-      "source": "Google AI Blog"
-    },
-    {
-      "title": "Toward provably private learning from federated data",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
-      "date": "2026-10-02",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "date": "2026-10-02",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "date": "2026-10-03",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "title": "Computational tools for society’s most complex challenges",
+      "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
       "date": "2026-10-02",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Documenting the tech worker movement",
+      "url": "https://news.mit.edu/2026/documenting-tech-worker-movement-0918",
+      "date": "2026-10-02",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "date": "2026-09-30",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Verbal tics in frontier language models: A critical review of current releases, research evidence, and public discussion",
-      "url": "https://arxiv.org/abs/2604.19139",
-      "date": "2026-10-02",
-      "source": "arXiv cs.AI"
+      "title": "How we will do better for Australia",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "date": "2026-09-28",
+      "source": "OpenAI News"
     },
     {
-      "title": "DuoMind: Enabling Distributed Multi-Robot Coordination with Semantic Communication",
-      "url": "https://arxiv.org/abs/2610.02161",
-      "date": "2026-10-02",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Cybersecurity in Edge Computing: A Trust-Aware Federated Hybrid Intrusion Detection Framework",
-      "url": "https://arxiv.org/abs/2609.39584",
-      "date": "2026-10-02",
+      "title": "How Much Can Language Models Gain from Test-Time Computation?",
+      "url": "https://arxiv.org/abs/2610.01110",
+      "date": "2026-10-03",
       "source": "arXiv cs.LG"
+    },
+    {
+      "title": "OpenMTB-Audit: Exposing Over-Refusal and Clinical Expert Perspectives in LLM-Based Molecular Tumor Board Safety Evaluation",
+      "url": "https://arxiv.org/abs/2610.01497",
+      "date": "2026-10-03",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "We're going to need default hard budget caps on pretty much everything",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "date": "2026-10-03",
+      "source": "Simon Willison"
     }
   ]
 }
