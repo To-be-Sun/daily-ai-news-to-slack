@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/building-an-ai-native-finance-function",
-    "https://openai.com/index/premium-seats-chatgpt-business",
-    "https://openai.com/index/virgin-atlantic/chatgpt-work",
-    "https://arxiv.org/abs/2608.12654",
-    "https://arxiv.org/abs/2608.12743",
-    "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813/",
-    "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/",
-    "https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/",
-    "https://about.fb.com/news/2026/08/metas-compliance-with-australias-social-media-ban/",
-    "https://zenn.dev/yukihayama/articles/mcp-ai-agent-tools",
     "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
     "https://simonwillison.net/2026/Aug/15/cors-chat/",
     "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era/",
@@ -499,69 +489,79 @@
     "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/",
     "https://zenn.dev/kazu_aiengineer/articles/azure-ai-search-kb-no-llm",
     "https://zenn.dev/marycache/articles/20261004-weekly-tech-catchup",
-    "https://zenn.dev/yunany90/articles/4d74d9921d03b3"
+    "https://zenn.dev/yunany90/articles/4d74d9921d03b3",
+    "https://openai.com/index/eu-text-provenance",
+    "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+    "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+    "https://arxiv.org/abs/2610.03056",
+    "https://arxiv.org/abs/2610.03099",
+    "https://arxiv.org/abs/2610.02413",
+    "https://arxiv.org/abs/2610.02232",
+    "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+    "https://simonwillison.net/2026/Oct/3/newsletter/",
+    "https://about.fb.com/news/2026/09/introducing-muse-small-business/"
   ],
-  "lastRun": "2026-10-04T23:08:51.255Z",
+  "lastRun": "2026-10-05T23:09:29.240Z",
   "lastPosted": [
     {
-      "title": "Towards safety cases for frontier AI training",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "date": "2026-09-28",
+      "title": "Our approach to EU text provenance rules",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "date": "2026-10-05",
       "source": "OpenAI News"
     },
     {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "date": "2026-09-28",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "date": "2026-10-05",
       "source": "OpenAI News"
     },
     {
-      "title": "3 Questions: A new resource to empower young entrepreneurs",
-      "url": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
-      "date": "2026-10-02",
-      "source": "MIT News AI"
+      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+      "date": "2026-10-05",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Quoting Anthropic Frontier Red Team",
-      "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
-      "date": "2026-09-29",
+      "title": "MOF-VERIFY: A Failure-Aware Agentic Harness for MOF Hypothesis Verification",
+      "url": "https://arxiv.org/abs/2610.03056",
+      "date": "2026-10-05",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Beyond Single Videos: Benchmarking and Active Evidence Seeking for E-Commerce Cross-Video Reasoning",
+      "url": "https://arxiv.org/abs/2610.03099",
+      "date": "2026-10-05",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild",
+      "url": "https://arxiv.org/abs/2610.02413",
+      "date": "2026-10-05",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Generalizable single-cell perturbation response prediction using energy-guided flow matching",
+      "url": "https://arxiv.org/abs/2610.02232",
+      "date": "2026-10-05",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Qwen3.8 27B addition in words",
+      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
+      "date": "2026-10-04",
       "source": "Simon Willison"
     },
     {
-      "title": "Photo Scrubber — local face blur & metadata removal",
-      "url": "https://simonwillison.net/2026/Sep/29/photo-scrubber/",
-      "date": "2026-09-29",
+      "title": "September sponsors-only newsletter",
+      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
+      "date": "2026-10-03",
       "source": "Simon Willison"
     },
     {
-      "title": "Meta Partners With Government Agencies, Law Enforcement, and Safety Organizations to Launch Regional Anti-Scam Education Campaign",
-      "url": "https://about.fb.com/news/2026/09/meta-one-step-ahead-campaign/",
+      "title": "The Future Is for Everyone: Muse for Small Business",
+      "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
       "date": "2026-09-29",
       "source": "Meta Newsroom"
-    },
-    {
-      "title": "Announcing Ranveer Singh as Brand Ambassador for Ray-Ban and Ray-Ban Meta in India along with Exciting New Updates to our AI Glasses",
-      "url": "https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/",
-      "date": "2026-10-01",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "Azure AI SearchをLLMなしで動かすと400 — effortをminimalにすれば通る",
-      "url": "https://zenn.dev/kazu_aiengineer/articles/azure-ai-search-kb-no-llm",
-      "date": "2026-10-04",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "2026-10-04〜2026-10-10 技術キャッチアップ",
-      "url": "https://zenn.dev/marycache/articles/20261004-weekly-tech-catchup",
-      "date": "2026-10-04",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "AIモデルのコスパを1枚のグラフに：性能スコア×API料金で見る23モデル（2026年10月）",
-      "url": "https://zenn.dev/yunany90/articles/4d74d9921d03b3",
-      "date": "2026-10-04",
-      "source": "Zenn 生成AI"
     }
   ]
 }
