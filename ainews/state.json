@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
-    "https://simonwillison.net/2026/Aug/15/cors-chat/",
-    "https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era/",
-    "https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/",
-    "https://zenn.dev/shinsei99/articles/gemini-api-traps",
-    "https://qiita.com/lhjjjk4/items/99696bb40a230107192c",
-    "https://zenn.dev/hai08320/articles/def4326c4cf293",
-    "https://zenn.dev/shigerufukada/articles/cf2b046c2564d1",
-    "https://zenn.dev/ccie26302/articles/zenn-gcp-gemini-sandbox-agent",
-    "https://qiita.com/kodomo-news/items/d8b4a15349f762ed2c60",
     "https://openai.com/index/the-defenders-window",
     "https://openai.com/index/openai-joins-ports-pike-project",
     "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
@@ -499,68 +489,78 @@
     "https://arxiv.org/abs/2610.02232",
     "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
     "https://simonwillison.net/2026/Oct/3/newsletter/",
-    "https://about.fb.com/news/2026/09/introducing-muse-small-business/"
+    "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
+    "https://openai.com/index/atlassian-partnership",
+    "https://openai.com/index/sharing-ai-progress-in-mathematics",
+    "https://www.anthropic.com/news/cyber-verification-program",
+    "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+    "https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/05/sovereign-ai-accelerate-innovation-with-control-and-choice/",
+    "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+    "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "https://simonwillison.net/2026/Oct/6/le-chonk/",
+    "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+    "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/"
   ],
-  "lastRun": "2026-10-05T23:09:29.240Z",
+  "lastRun": "2026-10-06T23:09:56.746Z",
   "lastPosted": [
     {
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "date": "2026-10-05",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "date": "2026-10-06",
       "source": "OpenAI News"
     },
     {
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "date": "2026-10-05",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "date": "2026-10-06",
       "source": "OpenAI News"
     },
     {
-      "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
-      "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+      "title": "Expanding the Cyber Verification Program",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "date": "2026-10-06",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "date": "2026-10-06",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Sovereign AI: Accelerate innovation with control and choice",
+      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/05/sovereign-ai-accelerate-innovation-with-control-and-choice/",
       "date": "2026-10-05",
+      "source": "Microsoft AI Blog"
+    },
+    {
+      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+      "date": "2026-10-06",
       "source": "Google Research Blog"
     },
     {
-      "title": "MOF-VERIFY: A Failure-Aware Agentic Harness for MOF Hypothesis Verification",
-      "url": "https://arxiv.org/abs/2610.03056",
-      "date": "2026-10-05",
-      "source": "arXiv cs.AI"
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "date": "2026-10-06",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Beyond Single Videos: Benchmarking and Active Evidence Seeking for E-Commerce Cross-Video Reasoning",
-      "url": "https://arxiv.org/abs/2610.03099",
-      "date": "2026-10-05",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Prompted to Discriminate: Generalizing Malicious-Input Probes in the Wild",
-      "url": "https://arxiv.org/abs/2610.02413",
-      "date": "2026-10-05",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Generalizable single-cell perturbation response prediction using energy-guided flow matching",
-      "url": "https://arxiv.org/abs/2610.02232",
-      "date": "2026-10-05",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Qwen3.8 27B addition in words",
-      "url": "https://simonwillison.net/2026/Oct/4/qwen38-addition-in-words/",
-      "date": "2026-10-04",
+      "title": "Introducing Mistral Large 4: Le chonk",
+      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
+      "date": "2026-10-06",
       "source": "Simon Willison"
     },
     {
-      "title": "September sponsors-only newsletter",
-      "url": "https://simonwillison.net/2026/Oct/3/newsletter/",
-      "date": "2026-10-03",
+      "title": "Quoting Felix Rieseberg",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+      "date": "2026-10-05",
       "source": "Simon Willison"
     },
     {
-      "title": "The Future Is for Everyone: Muse for Small Business",
-      "url": "https://about.fb.com/news/2026/09/introducing-muse-small-business/",
-      "date": "2026-09-29",
+      "title": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
+      "url": "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
+      "date": "2026-09-30",
       "source": "Meta Newsroom"
     }
   ]
