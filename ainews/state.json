@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/the-defenders-window",
-    "https://openai.com/index/openai-joins-ports-pike-project",
-    "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-    "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-    "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-    "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
-    "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
-    "https://arxiv.org/abs/2608.13612",
-    "https://arxiv.org/abs/2608.03682",
-    "https://arxiv.org/abs/2608.14228",
     "https://openai.com/index/pacing-model-development-cyber-capabilities",
     "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/tiiuae/falcon-emirati",
     "https://simonwillison.net/2026/Oct/6/le-chonk/",
     "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-    "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/"
+    "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
+    "https://openai.com/index/advancing-computer-use-with-ironclad",
+    "https://openai.com/index/radisson",
+    "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+    "https://research.google/blog/does-better-work-always-mean-better-workers/",
+    "https://huggingface.co/blog/LiquidAI/open-d1",
+    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+    "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007",
+    "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+    "https://arxiv.org/abs/2610.07935",
+    "https://arxiv.org/abs/2610.08106"
   ],
-  "lastRun": "2026-10-06T23:09:56.746Z",
+  "lastRun": "2026-10-07T23:09:03.645Z",
   "lastPosted": [
     {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
       "date": "2026-10-06",
       "source": "OpenAI News"
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "date": "2026-10-06",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "date": "2026-10-07",
       "source": "OpenAI News"
     },
     {
-      "title": "Expanding the Cyber Verification Program",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "date": "2026-10-06",
-      "source": "Anthropic News"
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "date": "2026-10-07",
+      "source": "Google AI Blog"
     },
     {
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "date": "2026-10-06",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Sovereign AI: Accelerate innovation with control and choice",
-      "url": "https://www.microsoft.com/en-us/microsoft-cloud/blog/general/2026/10/05/sovereign-ai-accelerate-innovation-with-control-and-choice/",
-      "date": "2026-10-05",
-      "source": "Microsoft AI Blog"
-    },
-    {
-      "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
-      "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
-      "date": "2026-10-06",
+      "title": "Does better work always mean better workers?",
+      "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
+      "date": "2026-10-07",
       "source": "Google Research Blog"
     },
     {
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "date": "2026-10-06",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "date": "2026-10-07",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Introducing Mistral Large 4: Le chonk",
-      "url": "https://simonwillison.net/2026/Oct/6/le-chonk/",
-      "date": "2026-10-06",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "date": "2026-10-07",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Discovering the value of humanistic inquiry",
+      "url": "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007",
+      "date": "2026-10-07",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
+      "date": "2026-10-07",
       "source": "Simon Willison"
     },
     {
-      "title": "Quoting Felix Rieseberg",
-      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
-      "date": "2026-10-05",
-      "source": "Simon Willison"
+      "title": "SIGMA: Self-Improving Alignment Generalization from a Model Spec",
+      "url": "https://arxiv.org/abs/2610.07935",
+      "date": "2026-10-07",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "Meta Names Dhruv Vohra to Lead Southeast Asia Business",
-      "url": "https://about.fb.com/news/2026/09/meta-names-dhruv-vohra-to-lead-southeast-asia-business/",
-      "date": "2026-09-30",
-      "source": "Meta Newsroom"
+      "title": "ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications",
+      "url": "https://arxiv.org/abs/2610.08106",
+      "date": "2026-10-07",
+      "source": "arXiv cs.AI"
     }
   ]
 }
