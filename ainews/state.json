@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/pacing-model-development-cyber-capabilities",
-    "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-    "https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/",
-    "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-    "https://huggingface.co/blog/multi-vector-encoder",
-    "https://news.mit.edu/2026/when-ai-art-has-no-author-generated-images-often-cant-be-traced-to-training-data-0818",
-    "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
-    "https://arxiv.org/abs/2608.14580",
-    "https://arxiv.org/abs/2608.15424",
-    "https://arxiv.org/abs/2608.14644",
     "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "https://openai.com/index/partnering-with-codeai",
     "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
@@ -499,69 +489,79 @@
     "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007",
     "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
     "https://arxiv.org/abs/2610.07935",
-    "https://arxiv.org/abs/2610.08106"
+    "https://arxiv.org/abs/2610.08106",
+    "https://openai.com/index/pollo-ai",
+    "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+    "https://www.anthropic.com/news/anthropic-cyber-mission",
+    "https://www.anthropic.com/news/genesis-mission-commitment",
+    "https://huggingface.co/blog/building-with-ml-intern",
+    "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+    "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+    "https://arxiv.org/abs/2610.07191",
+    "https://arxiv.org/abs/2508.16821",
+    "https://arxiv.org/abs/2610.09778"
   ],
-  "lastRun": "2026-10-07T23:09:03.645Z",
+  "lastRun": "2026-10-08T23:09:34.976Z",
   "lastPosted": [
     {
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "date": "2026-10-06",
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "date": "2026-10-08",
       "source": "OpenAI News"
     },
     {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "date": "2026-10-07",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "date": "2026-10-08",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "date": "2026-10-07",
-      "source": "Google AI Blog"
+      "title": "Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "date": "2026-10-08",
+      "source": "Anthropic News"
     },
     {
-      "title": "Does better work always mean better workers?",
-      "url": "https://research.google/blog/does-better-work-always-mean-better-workers/",
-      "date": "2026-10-07",
-      "source": "Google Research Blog"
+      "title": "Building on our commitment to American scientific discovery",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment",
+      "date": "2026-10-08",
+      "source": "Anthropic News"
     },
     {
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
-      "date": "2026-10-07",
+      "title": "The model that didn&apos;t exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "date": "2026-10-08",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
-      "date": "2026-10-07",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Discovering the value of humanistic inquiry",
-      "url": "https://news.mit.edu/2026/discovering-value-humanistic-inquiry-1007",
-      "date": "2026-10-07",
+      "title": "Using AI to mitigate the growing environmental threat of data centers",
+      "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+      "date": "2026-10-08",
       "source": "MIT News AI"
     },
     {
-      "title": "Claude Haiku 5.5",
-      "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/",
-      "date": "2026-10-07",
-      "source": "Simon Willison"
+      "title": "3 Questions: What is the best path forward for AI in academia?",
+      "url": "https://news.mit.edu/2026/3-questions-what-best-path-forward-ai-academia-0925",
+      "date": "2026-10-08",
+      "source": "MIT News AI"
     },
     {
-      "title": "SIGMA: Self-Improving Alignment Generalization from a Model Spec",
-      "url": "https://arxiv.org/abs/2610.07935",
-      "date": "2026-10-07",
+      "title": "Agentic Design Space Exploration for Joint Hardware Configuration Selection and Mapping of AI Inference Workloads on Heterogeneous Edge SoCs",
+      "url": "https://arxiv.org/abs/2610.07191",
+      "date": "2026-10-08",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications",
-      "url": "https://arxiv.org/abs/2610.08106",
-      "date": "2026-10-07",
+      "title": "PuzzleJAX: A Benchmark for Reasoning and Learning",
+      "url": "https://arxiv.org/abs/2508.16821",
+      "date": "2026-10-08",
       "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Reproducible LLM Inference Benchmarking: A Sequential Isolation Protocol for Regression Testing",
+      "url": "https://arxiv.org/abs/2610.09778",
+      "date": "2026-10-08",
+      "source": "arXiv cs.LG"
     }
   ]
 }
