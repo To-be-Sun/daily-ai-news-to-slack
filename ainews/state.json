@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/introducing-ai-futures",
-    "https://openai.com/index/stampli",
-    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/",
-    "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-    "https://news.mit.edu/2026/paving-way-for-greener-ammonia-production-0820",
-    "https://openai.com/index/asana",
-    "https://openai.com/index/replit",
-    "https://arxiv.org/abs/2608.18136",
-    "https://arxiv.org/abs/2608.18171",
-    "https://arxiv.org/abs/2608.18279",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
     "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
     "https://openai.com/index/chatgpt-ads-expands-across-europe",
@@ -499,69 +489,79 @@
     "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
     "https://arxiv.org/abs/2608.15108",
     "https://arxiv.org/abs/2610.10608",
-    "https://arxiv.org/abs/2610.11152"
+    "https://arxiv.org/abs/2610.11152",
+    "https://openai.com/index/oracle",
+    "https://openai.com/index/legalon-halves-codex-costs",
+    "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
+    "https://openai.com/index/jump-trading",
+    "https://openai.com/index/teens-learn-and-plan",
+    "https://openai.com/index/gpt-6-for-everyone",
+    "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+    "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+    "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/",
+    "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/"
   ],
-  "lastRun": "2026-10-09T23:09:16.355Z",
+  "lastRun": "2026-10-10T23:09:20.972Z",
   "lastPosted": [
     {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "date": "2026-10-09",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "date": "2026-10-09",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "2026 Usage Policy update",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "url": "https://openai.com/index/oracle",
       "date": "2026-10-08",
-      "source": "Anthropic News"
+      "source": "OpenAI News"
     },
     {
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "date": "2026-10-09",
-      "source": "Hugging Face Blog"
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "date": "2026-10-08",
+      "source": "OpenAI News"
     },
     {
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
+      "url": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
+      "date": "2026-10-06",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "date": "2026-10-06",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
       "date": "2026-10-07",
-      "source": "Hugging Face Blog"
+      "source": "OpenAI News"
     },
     {
-      "title": "Supercomputing researchers document evolution of AI hardware",
-      "url": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
-      "date": "2026-10-06",
-      "source": "MIT News AI"
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "date": "2026-10-07",
+      "source": "OpenAI News"
     },
     {
-      "title": "Chris Bourg named vice provost and Barbara K. Ostrom (1978) Director of the MIT Libraries",
-      "url": "https://news.mit.edu/2026/chris-bourg-named-vice-provost-and-barbara-ostrom-director-mit-libraries-1006",
-      "date": "2026-10-06",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Beyond Direct Access: Resource Hijacking in LLM Agents",
-      "url": "https://arxiv.org/abs/2608.15108",
+      "title": "Deno is joining Cloudflare",
+      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
       "date": "2026-10-09",
-      "source": "arXiv cs.AI"
+      "source": "Simon Willison"
     },
     {
-      "title": "From Investigation Failures to Reliable SOC Agents: Understanding and Improving LLM-Based Alert Triage",
-      "url": "https://arxiv.org/abs/2610.10608",
+      "title": "A new feature for my blog, built using my voice",
+      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
       "date": "2026-10-09",
-      "source": "arXiv cs.AI"
+      "source": "Simon Willison"
     },
     {
-      "title": "Do LLMs Learn from Rewards in Context? : Rethinking the role of reward in In-Context Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2610.11152",
-      "date": "2026-10-09",
-      "source": "arXiv cs.LG"
+      "title": "Debunking the Biggest Data Center Myths",
+      "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/",
+      "date": "2026-10-08",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "Meta Donates 1,000 AI Glasses to Singapore&#8217;s Disability Community",
+      "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
+      "date": "2026-10-08",
+      "source": "Meta Newsroom"
     }
   ]
 }
