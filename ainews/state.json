@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/",
-    "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
-    "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "https://openai.com/index/chatgpt-for-teens",
-    "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place/",
-    "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data/",
-    "https://huggingface.co/blog/asr-benchmark-optimization",
-    "https://arxiv.org/abs/2608.19202",
-    "https://arxiv.org/abs/2608.19701",
-    "https://arxiv.org/abs/2605.23057",
     "https://simonwillison.net/2026/Aug/22/llm/",
     "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
     "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
@@ -499,69 +489,79 @@
     "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
     "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
     "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/",
-    "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/"
+    "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
+    "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+    "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+    "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach/",
+    "https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/",
+    "https://zenn.dev/taichiendoh/articles/medical-device-continuity-network-outage",
+    "https://zenn.dev/every_ai_recipe/articles/chat-export-3-service-compare",
+    "https://zenn.dev/after6labo/articles/b5150abde91b05",
+    "https://qiita.com/quotidia/items/5bbdaa80aeb480978970",
+    "https://zenn.dev/aiai_tool/articles/68face9e98bc45",
+    "https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8"
   ],
-  "lastRun": "2026-10-10T23:09:20.972Z",
+  "lastRun": "2026-10-11T23:09:41.122Z",
   "lastPosted": [
     {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
-      "date": "2026-10-08",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "date": "2026-10-08",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
-      "url": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
-      "date": "2026-10-06",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "url": "https://openai.com/index/jump-trading",
-      "date": "2026-10-06",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "date": "2026-10-07",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "date": "2026-10-07",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Deno is joining Cloudflare",
-      "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
-      "date": "2026-10-09",
+      "title": "Quoting The New York Times",
+      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
+      "date": "2026-10-10",
       "source": "Simon Willison"
     },
     {
-      "title": "A new feature for my blog, built using my voice",
-      "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
-      "date": "2026-10-09",
+      "title": "llm-openai-decisions 0.1a0",
+      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "date": "2026-10-06",
       "source": "Simon Willison"
     },
     {
-      "title": "Debunking the Biggest Data Center Myths",
-      "url": "https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/",
-      "date": "2026-10-08",
+      "title": "Why Data Centers Are Such a Big Part of Meta&#8217;s AI Approach",
+      "url": "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach/",
+      "date": "2026-10-07",
       "source": "Meta Newsroom"
     },
     {
-      "title": "Meta Donates 1,000 AI Glasses to Singapore&#8217;s Disability Community",
-      "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
-      "date": "2026-10-08",
+      "title": "Measures We&#8217;ve Put in Place to Fight Child Exploitation",
+      "url": "https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/",
+      "date": "2026-10-07",
       "source": "Meta Newsroom"
+    },
+    {
+      "title": "「システムが止まった」とき、医療機器はどう動き続けるべきか ― ネットワーク障害時の現場継続性という視点",
+      "url": "https://zenn.dev/taichiendoh/articles/medical-device-continuity-network-outage",
+      "date": "2026-10-11",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "会話のPDF保存だけ3社とも無い、資料化レイヤーの実装差を読む",
+      "url": "https://zenn.dev/every_ai_recipe/articles/chat-export-3-service-compare",
+      "date": "2026-10-11",
+      "source": "Zenn AI"
+    },
+    {
+      "title": "AIに毎日コラムと反省会を任せたら、「審査が身内すぎる」運用になった",
+      "url": "https://zenn.dev/after6labo/articles/b5150abde91b05",
+      "date": "2026-10-11",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "国内の生成AI利用者数 (2026年5月推計)：ChatGPT 2,670万人、Agent i 623万人など6サービス",
+      "url": "https://qiita.com/quotidia/items/5bbdaa80aeb480978970",
+      "date": "2026-10-11",
+      "source": "Qiita LLM"
+    },
+    {
+      "title": "AIツールの利用コストを見える化するための「実行単価ログ」設計",
+      "url": "https://zenn.dev/aiai_tool/articles/68face9e98bc45",
+      "date": "2026-10-10",
+      "source": "Zenn 生成AI"
+    },
+    {
+      "title": "Codex・Claude Code・Gemini、それぞれ何に強いのか ― 得意分野を分けて整理した",
+      "url": "https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8",
+      "date": "2026-10-11",
+      "source": "Qiita AI"
     }
   ]
 }
