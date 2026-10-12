@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://simonwillison.net/2026/Aug/22/llm/",
-    "https://simonwillison.net/2026/Aug/21/llm-openrouter/",
-    "https://about.fb.com/news/2026/08/launching-meta-startup-school-to-accelerate-growth-for-early-stage-startups/",
-    "https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/",
-    "https://zenn.dev/pdfractal/articles/55929755eb39c1",
-    "https://zenn.dev/kairosai/articles/9d0e994d2dd352",
-    "https://zenn.dev/yhay81/articles/202608-llm-api-landscape",
-    "https://zenn.dev/syoshida07/articles/82b3b9073afa08",
-    "https://qiita.com/aakan/items/19e3f15a072aff3bbea8",
-    "https://qiita.com/8alfalfa8/items/d86836cf050feae96b4b",
     "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
     "https://simonwillison.net/2026/Aug/23/drew-breunig/",
     "https://zenn.dev/naoyabone/articles/1809dc83253eea",
@@ -499,69 +489,79 @@
     "https://zenn.dev/after6labo/articles/b5150abde91b05",
     "https://qiita.com/quotidia/items/5bbdaa80aeb480978970",
     "https://zenn.dev/aiai_tool/articles/68face9e98bc45",
-    "https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8"
+    "https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8",
+    "https://arxiv.org/abs/2610.13479",
+    "https://arxiv.org/abs/2610.13534",
+    "https://arxiv.org/abs/2610.12651",
+    "https://arxiv.org/abs/2610.13064",
+    "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+    "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+    "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+    "https://zenn.dev/aigocode/articles/18d9c9087e529f",
+    "https://zenn.dev/kashiwabaray/articles/0a1719bec85fa7",
+    "https://zenn.dev/takuh/articles/6c02d8705609ea"
   ],
-  "lastRun": "2026-10-11T23:09:41.122Z",
+  "lastRun": "2026-10-12T23:09:54.274Z",
   "lastPosted": [
     {
-      "title": "Quoting The New York Times",
-      "url": "https://simonwillison.net/2026/Oct/10/the-new-york-times/",
-      "date": "2026-10-10",
-      "source": "Simon Willison"
+      "title": "A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance",
+      "url": "https://arxiv.org/abs/2610.13479",
+      "date": "2026-10-12",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "llm-openai-decisions 0.1a0",
-      "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+      "title": "MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures",
+      "url": "https://arxiv.org/abs/2610.13534",
+      "date": "2026-10-12",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "SynAct: Synergistic Active Feedback Learning for LLM Agents",
+      "url": "https://arxiv.org/abs/2610.12651",
+      "date": "2026-10-12",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "CB-Orchestrator: Adaptive Workflow Optimization for LLM Agents via Contextual Bandits",
+      "url": "https://arxiv.org/abs/2610.13064",
+      "date": "2026-10-12",
+      "source": "arXiv cs.LG"
+    },
+    {
+      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
+      "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
+      "date": "2026-10-12",
+      "source": "Meta Newsroom"
+    },
+    {
+      "title": "EmbeddingGemma 2",
+      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
       "date": "2026-10-06",
       "source": "Simon Willison"
     },
     {
-      "title": "Why Data Centers Are Such a Big Part of Meta&#8217;s AI Approach",
-      "url": "https://about.fb.com/news/2026/10/meta-data-centers-ai-approach/",
-      "date": "2026-10-07",
-      "source": "Meta Newsroom"
+      "title": "Mistral Large 4",
+      "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
+      "date": "2026-10-06",
+      "source": "Simon Willison"
     },
     {
-      "title": "Measures We&#8217;ve Put in Place to Fight Child Exploitation",
-      "url": "https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/",
-      "date": "2026-10-07",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "「システムが止まった」とき、医療機器はどう動き続けるべきか ― ネットワーク障害時の現場継続性という視点",
-      "url": "https://zenn.dev/taichiendoh/articles/medical-device-continuity-network-outage",
-      "date": "2026-10-11",
+      "title": "AIGoCodeで複数のAIモデルを1つのAPIキーで扱う",
+      "url": "https://zenn.dev/aigocode/articles/18d9c9087e529f",
+      "date": "2026-10-12",
       "source": "Zenn AI"
     },
     {
-      "title": "会話のPDF保存だけ3社とも無い、資料化レイヤーの実装差を読む",
-      "url": "https://zenn.dev/every_ai_recipe/articles/chat-export-3-service-compare",
-      "date": "2026-10-11",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "AIに毎日コラムと反省会を任せたら、「審査が身内すぎる」運用になった",
-      "url": "https://zenn.dev/after6labo/articles/b5150abde91b05",
+      "title": "BedrockのOpenAIモデルでreasoning.summaryを実測 — トークン計上・応答速度・Guardrailsを検証",
+      "url": "https://zenn.dev/kashiwabaray/articles/0a1719bec85fa7",
       "date": "2026-10-11",
       "source": "Zenn 生成AI"
     },
     {
-      "title": "国内の生成AI利用者数 (2026年5月推計)：ChatGPT 2,670万人、Agent i 623万人など6サービス",
-      "url": "https://qiita.com/quotidia/items/5bbdaa80aeb480978970",
-      "date": "2026-10-11",
-      "source": "Qiita LLM"
-    },
-    {
-      "title": "AIツールの利用コストを見える化するための「実行単価ログ」設計",
-      "url": "https://zenn.dev/aiai_tool/articles/68face9e98bc45",
-      "date": "2026-10-10",
+      "title": "AI エージェントに見せるツールは何個まで？ Postman が 170 個から 15 個に絞った本番設計",
+      "url": "https://zenn.dev/takuh/articles/6c02d8705609ea",
+      "date": "2026-10-12",
       "source": "Zenn 生成AI"
-    },
-    {
-      "title": "Codex・Claude Code・Gemini、それぞれ何に強いのか ― 得意分野を分けて整理した",
-      "url": "https://qiita.com/Next-Survive/items/e5753afa06abe370dbe8",
-      "date": "2026-10-11",
-      "source": "Qiita AI"
     }
   ]
 }
