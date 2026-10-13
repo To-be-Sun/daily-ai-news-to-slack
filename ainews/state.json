@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
-    "https://simonwillison.net/2026/Aug/23/drew-breunig/",
-    "https://zenn.dev/naoyabone/articles/1809dc83253eea",
-    "https://zenn.dev/cicisee/articles/f3b4b9f4c28034",
-    "https://zenn.dev/koki_n22/articles/74c5f179d54d4a",
-    "https://zenn.dev/yhay81/articles/202608-llm-api-cost-guide",
-    "https://qiita.com/homhom44/items/1658be5de096b88e8b27",
-    "https://qiita.com/nogataka/items/272a9020c2d7da0d3373",
-    "https://qiita.com/quotidia/items/fe59dec8dd577cc60896",
-    "https://qiita.com/kazuharu2022/items/f393e3245ff03691e75a",
     "https://openai.com/index/gpt-5-6-in-kiro",
     "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
     "https://arxiv.org/abs/2608.20341",
@@ -499,69 +489,79 @@
     "https://simonwillison.net/2026/Oct/6/hn-49982139/",
     "https://zenn.dev/aigocode/articles/18d9c9087e529f",
     "https://zenn.dev/kashiwabaray/articles/0a1719bec85fa7",
-    "https://zenn.dev/takuh/articles/6c02d8705609ea"
+    "https://zenn.dev/takuh/articles/6c02d8705609ea",
+    "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+    "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+    "https://openai.com/index/higgsfield-longer-videos-voice",
+    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+    "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+    "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "https://arxiv.org/abs/2610.02626",
+    "https://arxiv.org/abs/2603.07427",
+    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
   ],
-  "lastRun": "2026-10-12T23:09:54.274Z",
+  "lastRun": "2026-10-13T23:07:48.919Z",
   "lastPosted": [
     {
-      "title": "A Local Agentic AI Framework to Generate Edge Case Scenarios for Safety Assurance",
-      "url": "https://arxiv.org/abs/2610.13479",
-      "date": "2026-10-12",
+      "title": "Gemini 4 Argon comes to the Gemini app.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
+      "date": "2026-10-13",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Gemini 4 Argon is now available for developers.",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
+      "date": "2026-10-13",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "date": "2026-10-13",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "date": "2026-10-13",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "date": "2026-10-13",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "date": "2026-10-13",
+      "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "date": "2026-10-13",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination",
+      "url": "https://arxiv.org/abs/2610.02626",
+      "date": "2026-10-13",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "MAGMA-Bench: Evaluating Long-Horizon Embodied Agents under Dynamic Tasks and Execution Failures",
-      "url": "https://arxiv.org/abs/2610.13534",
-      "date": "2026-10-12",
+      "title": "AutoControl Arena: Synthesizing Executable Test Environments for Frontier AI Risk Evaluation",
+      "url": "https://arxiv.org/abs/2603.07427",
+      "date": "2026-10-13",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "SynAct: Synergistic Active Feedback Learning for LLM Agents",
-      "url": "https://arxiv.org/abs/2610.12651",
-      "date": "2026-10-12",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "CB-Orchestrator: Adaptive Workflow Optimization for LLM Agents via Contextual Bandits",
-      "url": "https://arxiv.org/abs/2610.13064",
-      "date": "2026-10-12",
-      "source": "arXiv cs.LG"
-    },
-    {
-      "title": "Introducing Muse Wonder and Muse Wonder Full: Frontier Models for Agents",
-      "url": "https://about.fb.com/news/2026/10/introducing-muse-wonder-models/",
-      "date": "2026-10-12",
-      "source": "Meta Newsroom"
-    },
-    {
-      "title": "EmbeddingGemma 2",
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
-      "date": "2026-10-06",
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "date": "2026-10-13",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Mistral Large 4",
-      "url": "https://simonwillison.net/2026/Oct/6/hn-49982139/",
-      "date": "2026-10-06",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "AIGoCodeで複数のAIモデルを1つのAPIキーで扱う",
-      "url": "https://zenn.dev/aigocode/articles/18d9c9087e529f",
-      "date": "2026-10-12",
-      "source": "Zenn AI"
-    },
-    {
-      "title": "BedrockのOpenAIモデルでreasoning.summaryを実測 — トークン計上・応答速度・Guardrailsを検証",
-      "url": "https://zenn.dev/kashiwabaray/articles/0a1719bec85fa7",
-      "date": "2026-10-11",
-      "source": "Zenn 生成AI"
-    },
-    {
-      "title": "AI エージェントに見せるツールは何個まで？ Postman が 170 個から 15 個に絞った本番設計",
-      "url": "https://zenn.dev/takuh/articles/6c02d8705609ea",
-      "date": "2026-10-12",
-      "source": "Zenn 生成AI"
     }
   ]
 }
