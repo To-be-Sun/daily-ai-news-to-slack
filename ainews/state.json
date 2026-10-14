@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/gpt-5-6-in-kiro",
-    "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
-    "https://arxiv.org/abs/2608.20341",
-    "https://arxiv.org/abs/2608.20379",
-    "https://arxiv.org/abs/2608.21057",
-    "https://arxiv.org/abs/2608.17310",
-    "https://simonwillison.net/2026/Aug/24/llm-anthropic/",
-    "https://simonwillison.net/2026/Aug/21/stop-making-tuis/",
-    "https://zenn.dev/lef237/articles/4c34790d3126f4",
-    "https://zenn.dev/anguoyang/articles/589250e3b61cc9",
     "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
     "https://openai.com/index/jalapeno-first-results",
     "https://www.anthropic.com/news/wellbeing-research-grants",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
     "https://arxiv.org/abs/2610.02626",
     "https://arxiv.org/abs/2603.07427",
-    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/"
+    "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+    "https://openai.com/index/amp-beyond-coding",
+    "https://openai.com/index/third-moment-research",
+    "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+    "https://www.anthropic.com/news/singapore-office-opening",
+    "https://www.anthropic.com/news/2026-us-midterms",
+    "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+    "https://deepmind.google/blog/introducing-gemini-4-argon/",
+    "https://simonwillison.net/2026/Oct/13/llm-gemini/",
+    "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+    "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/"
   ],
-  "lastRun": "2026-10-13T23:07:48.919Z",
+  "lastRun": "2026-10-14T23:08:28.564Z",
   "lastPosted": [
     {
-      "title": "Gemini 4 Argon comes to the Gemini app.",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/",
-      "date": "2026-10-13",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Gemini 4 Argon is now available for developers.",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/",
-      "date": "2026-10-13",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "date": "2026-10-13",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "date": "2026-10-14",
       "source": "OpenAI News"
     },
     {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "date": "2026-10-13",
-      "source": "Google AI Blog"
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "date": "2026-10-14",
+      "source": "OpenAI News"
     },
     {
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "date": "2026-10-13",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "date": "2026-10-14",
       "source": "Google DeepMind Blog"
+    },
+    {
+      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "url": "https://www.anthropic.com/news/singapore-office-opening",
+      "date": "2026-10-14",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Preparing for the 2026 US midterms",
+      "url": "https://www.anthropic.com/news/2026-us-midterms",
+      "date": "2026-10-14",
+      "source": "Anthropic News"
     },
     {
       "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
+      "date": "2026-10-13",
+      "source": "Gemini News"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
       "date": "2026-10-13",
       "source": "Google DeepMind Blog"
     },
     {
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "date": "2026-10-13",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Imagine the Future, Internalize the Gist: Efficient VLA Reasoning via Internalized Spatiotemporal Imagination",
-      "url": "https://arxiv.org/abs/2610.02626",
-      "date": "2026-10-13",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "AutoControl Arena: Synthesizing Executable Test Environments for Frontier AI Risk Evaluation",
-      "url": "https://arxiv.org/abs/2603.07427",
-      "date": "2026-10-13",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/",
+      "title": "llm-gemini 0.35",
+      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
       "date": "2026-10-13",
       "source": "Simon Willison"
+    },
+    {
+      "title": "llm-meta-ai 0.2",
+      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
+      "date": "2026-10-12",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Now You Can Invite Anyone to a WhatsApp Call",
+      "url": "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/",
+      "date": "2026-10-14",
+      "source": "Meta Newsroom"
     }
   ]
 }
