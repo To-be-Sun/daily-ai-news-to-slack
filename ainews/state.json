@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
-    "https://openai.com/index/jalapeno-first-results",
-    "https://www.anthropic.com/news/wellbeing-research-grants",
-    "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/",
-    "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr/",
-    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "https://arxiv.org/abs/2608.21393",
-    "https://arxiv.org/abs/2608.21747",
-    "https://arxiv.org/abs/2608.20418",
     "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "https://openai.com/index/expanding-our-presence-in-brazil",
     "https://www.anthropic.com/news/model-hardware-standard-research-preview",
@@ -499,69 +489,79 @@
     "https://deepmind.google/blog/introducing-gemini-4-argon/",
     "https://simonwillison.net/2026/Oct/13/llm-gemini/",
     "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-    "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/"
+    "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/",
+    "https://openai.com/index/block-ai-powered-security",
+    "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+    "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+    "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+    "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+    "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+    "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+    "https://arxiv.org/abs/2605.22883",
+    "https://arxiv.org/abs/2610.14818",
+    "https://arxiv.org/abs/2606.15251"
   ],
-  "lastRun": "2026-10-14T23:08:28.564Z",
+  "lastRun": "2026-10-15T23:07:41.306Z",
   "lastPosted": [
     {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
       "date": "2026-10-14",
       "source": "OpenAI News"
     },
     {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
       "date": "2026-10-14",
       "source": "OpenAI News"
     },
     {
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "date": "2026-10-14",
+      "title": "An update on independent evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+      "date": "2026-10-15",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "date": "2026-10-15",
       "source": "Google DeepMind Blog"
     },
     {
-      "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-      "url": "https://www.anthropic.com/news/singapore-office-opening",
-      "date": "2026-10-14",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "Preparing for the 2026 US midterms",
-      "url": "https://www.anthropic.com/news/2026-us-midterms",
-      "date": "2026-10-14",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/",
-      "date": "2026-10-13",
+      "title": "An intelligent new shopping cart",
+      "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
+      "date": "2026-10-15",
       "source": "Gemini News"
     },
     {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "date": "2026-10-13",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "llm-gemini 0.35",
-      "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/",
-      "date": "2026-10-13",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "llm-meta-ai 0.2",
-      "url": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/",
-      "date": "2026-10-12",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Now You Can Invite Anyone to a WhatsApp Call",
-      "url": "https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/",
+      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
       "date": "2026-10-14",
-      "source": "Meta Newsroom"
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Analyzing technical documents with Deep Review",
+      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+      "date": "2026-10-14",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2605.22883",
+      "date": "2026-10-15",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "A Reference Architecture for Integrating Agentic AI into Enterprise Software: Responsibilities, Interactions, and Variability",
+      "url": "https://arxiv.org/abs/2610.14818",
+      "date": "2026-10-15",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility",
+      "url": "https://arxiv.org/abs/2606.15251",
+      "date": "2026-10-15",
+      "source": "arXiv cs.LG"
     }
   ]
 }
