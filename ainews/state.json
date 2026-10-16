@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
-    "https://openai.com/index/expanding-our-presence-in-brazil",
-    "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-    "https://www.anthropic.com/news/expanding-support-for-scientists",
-    "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/",
-    "https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/",
-    "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
-    "https://arxiv.org/abs/2608.24937",
-    "https://arxiv.org/abs/2607.26865",
-    "https://arxiv.org/abs/2608.24314",
     "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "https://openai.com/index/learning-never-stops",
     "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
@@ -499,68 +489,78 @@
     "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
     "https://arxiv.org/abs/2605.22883",
     "https://arxiv.org/abs/2610.14818",
-    "https://arxiv.org/abs/2606.15251"
+    "https://arxiv.org/abs/2606.15251",
+    "https://openai.com/index/stack-overflow-chatgpt-plugin",
+    "https://openai.com/index/sullivan-cromwell",
+    "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+    "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+    "https://huggingface.co/blog/meta-muse-spark-open",
+    "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+    "https://huggingface.co/blog/reflection-beam",
+    "https://arxiv.org/abs/2610.21244",
+    "https://arxiv.org/abs/2610.22244",
+    "https://arxiv.org/abs/2610.22230"
   ],
-  "lastRun": "2026-10-15T23:07:41.306Z",
+  "lastRun": "2026-10-16T23:08:23.817Z",
   "lastPosted": [
     {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "date": "2026-10-14",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "date": "2026-10-16",
       "source": "OpenAI News"
     },
     {
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "date": "2026-10-14",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "date": "2026-10-15",
       "source": "OpenAI News"
     },
     {
-      "title": "An update on independent evaluators",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "date": "2026-10-15",
-      "source": "Anthropic News"
+      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "date": "2026-10-16",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "date": "2026-10-15",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "An intelligent new shopping cart",
-      "url": "https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/",
-      "date": "2026-10-15",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
-      "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+      "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
       "date": "2026-10-14",
       "source": "Google Research Blog"
     },
     {
-      "title": "Analyzing technical documents with Deep Review",
-      "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
-      "date": "2026-10-14",
-      "source": "Google Research Blog"
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "date": "2026-10-15",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Energy per Successful Goal: Goal-Level Energy Accounting for Agentic AI Systems",
-      "url": "https://arxiv.org/abs/2605.22883",
+      "title": "AI model decodes the language cells use to communicate",
+      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
       "date": "2026-10-15",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "date": "2026-10-16",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "System1-Arena: Which Decisions Can Be Left to System 1?",
+      "url": "https://arxiv.org/abs/2610.21244",
+      "date": "2026-10-16",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "A Reference Architecture for Integrating Agentic AI into Enterprise Software: Responsibilities, Interactions, and Variability",
-      "url": "https://arxiv.org/abs/2610.14818",
-      "date": "2026-10-15",
+      "title": "Language Is a Security Surface for Agent Guards",
+      "url": "https://arxiv.org/abs/2610.22244",
+      "date": "2026-10-16",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Driving, Fast or Slow? Neuro-Symbolic Guidance for Motion Prediction in Multi-Modal Ground Mobility",
-      "url": "https://arxiv.org/abs/2606.15251",
-      "date": "2026-10-15",
+      "title": "Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs",
+      "url": "https://arxiv.org/abs/2610.22230",
+      "date": "2026-10-16",
       "source": "arXiv cs.LG"
     }
   ]
