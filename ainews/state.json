@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-    "https://openai.com/index/learning-never-stops",
-    "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
-    "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
-    "https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/26/accelerating-frontier-transformation-reinvent-customer-engagement/",
-    "https://arxiv.org/abs/2608.26157",
-    "https://arxiv.org/abs/2608.27086",
-    "https://arxiv.org/abs/2608.26332",
     "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "https://openai.com/index/loveholidays",
     "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/reflection-beam",
     "https://arxiv.org/abs/2610.21244",
     "https://arxiv.org/abs/2610.22244",
-    "https://arxiv.org/abs/2610.22230"
+    "https://arxiv.org/abs/2610.22230",
+    "https://openai.com/index/itau-generative-ai",
+    "https://openai.com/index/benefit-street-partners",
+    "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+    "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+    "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
+    "https://openai.com/index/sentinelone",
+    "https://simonwillison.net/2026/Oct/16/code-review/",
+    "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+    "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/"
   ],
-  "lastRun": "2026-10-16T23:08:23.817Z",
+  "lastRun": "2026-10-17T23:07:09.342Z",
   "lastPosted": [
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
       "date": "2026-10-16",
       "source": "OpenAI News"
     },
     {
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "date": "2026-10-15",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
+      "date": "2026-10-16",
       "source": "OpenAI News"
     },
     {
-      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
       "date": "2026-10-16",
-      "source": "Google Research Blog"
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
-      "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
-      "date": "2026-10-14",
-      "source": "Google Research Blog"
+      "title": "Fostering community amid Kendall Square’s innovation",
+      "url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+      "date": "2026-10-16",
+      "source": "MIT News AI"
     },
     {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
       "date": "2026-10-15",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "AI model decodes the language cells use to communicate",
-      "url": "https://news.mit.edu/2026/ai-model-decodes-language-cells-use-communicate-1015",
+      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
+      "url": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
       "date": "2026-10-15",
       "source": "MIT News AI"
     },
     {
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "date": "2026-10-16",
-      "source": "Hugging Face Blog"
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "date": "2026-10-14",
+      "source": "OpenAI News"
     },
     {
-      "title": "System1-Arena: Which Decisions Can Be Left to System 1?",
-      "url": "https://arxiv.org/abs/2610.21244",
+      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
+      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
       "date": "2026-10-16",
-      "source": "arXiv cs.AI"
+      "source": "Simon Willison"
     },
     {
-      "title": "Language Is a Security Surface for Agent Guards",
-      "url": "https://arxiv.org/abs/2610.22244",
-      "date": "2026-10-16",
-      "source": "arXiv cs.AI"
+      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
+      "date": "2026-10-15",
+      "source": "Simon Willison"
     },
     {
-      "title": "Architecting for Hardware Diversity: Meta's End-to-End Co-Design for High-Performance AI Training on AMD GPUs",
-      "url": "https://arxiv.org/abs/2610.22230",
-      "date": "2026-10-16",
-      "source": "arXiv cs.LG"
+      "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
+      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+      "date": "2026-10-15",
+      "source": "Meta Newsroom"
     }
   ]
 }
