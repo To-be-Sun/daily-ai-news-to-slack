@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-    "https://openai.com/index/loveholidays",
-    "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/24/5-signals-of-trusted-ai-how-organizations-scale-ai-with-security-governance-and-observability/",
-    "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
-    "https://www.microsoft.com/en-us/microsoft-cloud/blog/2026/08/25/accelerating-ai-adoption-with-intelligent-discovery-in-microsoft-marketplace/",
-    "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
-    "https://arxiv.org/abs/2608.26432",
-    "https://arxiv.org/abs/2510.12979",
-    "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
     "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
     "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
     "https://huggingface.co/blog/open-asr-leaderboard-global-south",
@@ -499,68 +489,78 @@
     "https://openai.com/index/sentinelone",
     "https://simonwillison.net/2026/Oct/16/code-review/",
     "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-    "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/"
+    "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
+    "https://www.anthropic.com/news/public-benefit-fund",
+    "https://openai.com/index/introducing-the-rosalind-academic-plan",
+    "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+    "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+    "https://huggingface.co/blog/flux-3",
+    "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
+    "https://huggingface.co/blog/allenai/hiro-acev2",
+    "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+    "https://simonwillison.net/2026/Oct/17/web-edit/",
+    "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/"
   ],
-  "lastRun": "2026-10-17T23:07:09.342Z",
+  "lastRun": "2026-10-18T23:07:34.950Z",
   "lastPosted": [
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "date": "2026-10-16",
+      "title": "Investing in the public benefit",
+      "url": "https://www.anthropic.com/news/public-benefit-fund",
+      "date": "2026-10-18",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "date": "2026-10-15",
       "source": "OpenAI News"
     },
     {
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "date": "2026-10-16",
+      "title": "Teaching students to think and learn through questions",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "date": "2026-10-15",
       "source": "OpenAI News"
     },
     {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "date": "2026-10-16",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Fostering community amid Kendall Square’s innovation",
-      "url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
-      "date": "2026-10-16",
+      "title": "Giving AI a “crystal clear” view of the materials world",
+      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "date": "2026-10-18",
       "source": "MIT News AI"
     },
     {
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "url": "https://huggingface.co/blog/flux-3",
       "date": "2026-10-15",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "State of Supply Chain Sustainability Report finds corporate commitment at record high, but governance lags behind",
-      "url": "https://news.mit.edu/2026/state-of-supply-chain-sustainability-report-1015",
+      "title": "Q&A: The “collision” between AI, your brain, and society",
+      "url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
       "date": "2026-10-15",
       "source": "MIT News AI"
     },
     {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "url": "https://openai.com/index/sentinelone",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
       "date": "2026-10-14",
-      "source": "OpenAI News"
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Quoting Addy Osmani, Morgan Westlee Lunt, and Qing Wang",
-      "url": "https://simonwillison.net/2026/Oct/16/code-review/",
-      "date": "2026-10-16",
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
+      "date": "2026-10-17",
       "source": "Simon Willison"
     },
     {
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
-      "date": "2026-10-15",
+      "title": "web-edit 0.1a2",
+      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
+      "date": "2026-10-17",
       "source": "Simon Willison"
     },
     {
-      "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
-      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
-      "date": "2026-10-15",
+      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
+      "date": "2026-10-14",
       "source": "Meta Newsroom"
     }
   ]
