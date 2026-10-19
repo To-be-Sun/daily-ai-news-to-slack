@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
-    "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
-    "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "https://huggingface.co/blog/train-multi-vector-encoder",
-    "https://news.mit.edu/2026/looking-beyond-natural-sequences-0827",
-    "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
-    "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
-    "https://simonwillison.net/2026/Aug/29/hy4/",
-    "https://about.fb.com/news/2026/08/wzmacniamy-w-polsce-ochrone-przed-oszustwami/",
-    "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
     "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
     "https://openai.com/index/introducing-admin-plugin",
     "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/allenai/hiro-acev2",
     "https://simonwillison.net/2026/Oct/17/document-currentscript/",
     "https://simonwillison.net/2026/Oct/17/web-edit/",
-    "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/"
+    "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
+    "https://openai.com/index/low-resource-programming-languages",
+    "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
+    "https://huggingface.co/blog/hf-torchneuron",
+    "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
+    "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+    "https://arxiv.org/abs/2603.03378",
+    "https://arxiv.org/abs/2610.23670",
+    "https://arxiv.org/abs/2610.23650"
   ],
-  "lastRun": "2026-10-18T23:07:34.950Z",
+  "lastRun": "2026-10-19T23:08:33.511Z",
   "lastPosted": [
     {
-      "title": "Investing in the public benefit",
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "date": "2026-10-18",
-      "source": "Anthropic News"
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "date": "2026-10-15",
+      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "date": "2026-10-19",
       "source": "OpenAI News"
     },
     {
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "date": "2026-10-15",
-      "source": "OpenAI News"
+      "title": "4 tips for styling outfits with Gemini",
+      "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
+      "date": "2026-10-19",
+      "source": "Gemini News"
     },
     {
-      "title": "Giving AI a “crystal clear” view of the materials world",
-      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-      "date": "2026-10-18",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "date": "2026-10-19",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "date": "2026-10-19",
       "source": "MIT News AI"
     },
     {
-      "title": "Welcome FLUX.3 Image Klein in Diffusers",
-      "url": "https://huggingface.co/blog/flux-3",
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
       "date": "2026-10-15",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Q&A: The “collision” between AI, your brain, and society",
-      "url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
-      "date": "2026-10-15",
+      "title": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
+      "url": "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
+      "date": "2026-10-13",
       "source": "MIT News AI"
     },
     {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "title": "Researchers improve weather forecasts looking two to six weeks out",
+      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
       "date": "2026-10-14",
-      "source": "Hugging Face Blog"
+      "source": "MIT News AI"
     },
     {
-      "title": "Inline rendering with document​.currentScript",
-      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript/",
-      "date": "2026-10-17",
-      "source": "Simon Willison"
+      "title": "AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis",
+      "url": "https://arxiv.org/abs/2603.03378",
+      "date": "2026-10-19",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "web-edit 0.1a2",
-      "url": "https://simonwillison.net/2026/Oct/17/web-edit/",
-      "date": "2026-10-17",
-      "source": "Simon Willison"
+      "title": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
+      "url": "https://arxiv.org/abs/2610.23670",
+      "date": "2026-10-19",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
-      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
-      "date": "2026-10-14",
-      "source": "Meta Newsroom"
+      "title": "JAXtari: High-Throughput and Easy-to-Modify Arcade Learning Environment",
+      "url": "https://arxiv.org/abs/2610.23650",
+      "date": "2026-10-19",
+      "source": "arXiv cs.LG"
     }
   ]
 }
