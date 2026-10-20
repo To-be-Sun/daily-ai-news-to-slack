@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "https://openai.com/index/introducing-admin-plugin",
-    "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/",
-    "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
-    "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
-    "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "https://huggingface.co/blog/gradio-workflow-guide",
-    "https://arxiv.org/abs/2603.19423",
-    "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "https://arxiv.org/abs/2603.12031",
     "https://openai.com/index/path-to-astra",
     "https://openai.com/index/ai-native-company-workflows",
     "https://www.anthropic.com/news/enterprise-frontier-safeguards",
@@ -499,69 +489,79 @@
     "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
     "https://arxiv.org/abs/2603.03378",
     "https://arxiv.org/abs/2610.23670",
-    "https://arxiv.org/abs/2610.23650"
+    "https://arxiv.org/abs/2610.23650",
+    "https://openai.com/index/openai-to-acquire-orchestra-bio",
+    "https://openai.com/index/ted-taylor-restaurant",
+    "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+    "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+    "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "https://huggingface.co/blog/allenai/fairstress",
+    "https://simonwillison.net/2026/Oct/20/battledrones/",
+    "https://simonwillison.net/2026/Oct/18/llm-echo/",
+    "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/"
   ],
-  "lastRun": "2026-10-19T23:08:33.511Z",
+  "lastRun": "2026-10-20T23:08:19.824Z",
   "lastPosted": [
     {
-      "title": "Advancing Coding in Low-Resource Programming Languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "date": "2026-10-19",
+      "title": "OpenAI acquires Orchestra Bio",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "date": "2026-10-20",
       "source": "OpenAI News"
     },
     {
-      "title": "4 tips for styling outfits with Gemini",
-      "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/",
-      "date": "2026-10-19",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "date": "2026-10-20",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "New Gemini tools for small business owners",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+      "date": "2026-10-20",
       "source": "Gemini News"
     },
     {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "date": "2026-10-19",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "date": "2026-10-20",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-      "date": "2026-10-19",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "date": "2026-10-15",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "date": "2026-10-20",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
-      "url": "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
-      "date": "2026-10-13",
-      "source": "MIT News AI"
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "date": "2026-10-20",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Researchers improve weather forecasts looking two to six weeks out",
-      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress",
+      "date": "2026-10-20",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
+      "date": "2026-10-20",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "llm-echo 0.5",
+      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
+      "date": "2026-10-18",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Farah Khan at Edits Film Festival: &#8220;Content breakthroughs come from spontaneity, relatability and realness&#8221;",
+      "url": "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/",
       "date": "2026-10-14",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "AOI: Turning Failed Trajectories into Training Signals for Autonomous Cloud Diagnosis",
-      "url": "https://arxiv.org/abs/2603.03378",
-      "date": "2026-10-19",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "OwlSight: A Panoramic Monitor for Chain-of-Thought Reasoning",
-      "url": "https://arxiv.org/abs/2610.23670",
-      "date": "2026-10-19",
-      "source": "arXiv cs.AI"
-    },
-    {
-      "title": "JAXtari: High-Throughput and Easy-to-Modify Arcade Learning Environment",
-      "url": "https://arxiv.org/abs/2610.23650",
-      "date": "2026-10-19",
-      "source": "arXiv cs.LG"
+      "source": "Meta Newsroom"
     }
   ]
 }
