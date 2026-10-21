@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/path-to-astra",
-    "https://openai.com/index/ai-native-company-workflows",
-    "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-    "https://www.anthropic.com/news/improving-alignment-security-efforts",
-    "https://blog.google/products-and-platforms/products/workspace/google-pics/",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
-    "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
-    "https://arxiv.org/abs/2608.29596",
-    "https://arxiv.org/abs/2608.30429",
-    "https://arxiv.org/abs/2608.22479",
     "https://openai.com/index/gilbert-tobin",
     "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
     "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/allenai/fairstress",
     "https://simonwillison.net/2026/Oct/20/battledrones/",
     "https://simonwillison.net/2026/Oct/18/llm-echo/",
-    "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/"
+    "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/",
+    "https://openai.com/index/openai-models-google-cloud",
+    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+    "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+    "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+    "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+    "https://huggingface.co/blog/nvidia/kumo-relational",
+    "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "https://arxiv.org/abs/2610.27045",
+    "https://arxiv.org/abs/2610.24628",
+    "https://arxiv.org/abs/2610.27100"
   ],
-  "lastRun": "2026-10-20T23:08:19.824Z",
+  "lastRun": "2026-10-21T23:08:27.245Z",
   "lastPosted": [
     {
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "date": "2026-10-20",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "date": "2026-10-21",
       "source": "OpenAI News"
     },
     {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "date": "2026-10-20",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "date": "2026-10-21",
       "source": "OpenAI News"
     },
     {
-      "title": "New Gemini tools for small business owners",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
-      "date": "2026-10-20",
-      "source": "Gemini News"
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+      "date": "2026-10-21",
+      "source": "Anthropic News"
     },
     {
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-      "date": "2026-10-20",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "date": "2026-10-21",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+      "date": "2026-10-21",
+      "source": "Google Research Blog"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "date": "2026-10-21",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "date": "2026-10-20",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "date": "2026-10-21",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "date": "2026-10-20",
-      "source": "Hugging Face Blog"
+      "title": "Physical AI: Concepts, Techniques, and Challenges",
+      "url": "https://arxiv.org/abs/2610.27045",
+      "date": "2026-10-21",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "date": "2026-10-20",
-      "source": "Hugging Face Blog"
+      "title": "Muse Glimmer 30B: An On-Device Agentic Model",
+      "url": "https://arxiv.org/abs/2610.24628",
+      "date": "2026-10-21",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-      "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-      "date": "2026-10-20",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "llm-echo 0.5",
-      "url": "https://simonwillison.net/2026/Oct/18/llm-echo/",
-      "date": "2026-10-18",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Farah Khan at Edits Film Festival: &#8220;Content breakthroughs come from spontaneity, relatability and realness&#8221;",
-      "url": "https://about.fb.com/news/2026/10/farah-khan-at-edits-film-festival-content-breakthroughs-come-from-spontaneity-relatability-and-realness/",
-      "date": "2026-10-14",
-      "source": "Meta Newsroom"
+      "title": "LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models",
+      "url": "https://arxiv.org/abs/2610.27100",
+      "date": "2026-10-21",
+      "source": "arXiv cs.LG"
     }
   ]
 }
