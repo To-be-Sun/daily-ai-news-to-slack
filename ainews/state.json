@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/gilbert-tobin",
-    "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-    "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
-    "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
-    "https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/",
-    "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
-    "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
-    "https://arxiv.org/abs/2609.00015",
-    "https://arxiv.org/abs/2609.00052",
-    "https://arxiv.org/abs/2609.00028",
     "https://openai.com/index/safety-overview-gpt-6-astra",
     "https://openai.com/index/daybreak-for-frontline-defenders",
     "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
@@ -499,68 +489,78 @@
     "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "https://arxiv.org/abs/2610.27045",
     "https://arxiv.org/abs/2610.24628",
-    "https://arxiv.org/abs/2610.27100"
+    "https://arxiv.org/abs/2610.27100",
+    "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+    "https://openai.com/index/cloudflare-cyber",
+    "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+    "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+    "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+    "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "https://arxiv.org/abs/2610.26913",
+    "https://arxiv.org/abs/2610.27234",
+    "https://arxiv.org/abs/2610.28947"
   ],
-  "lastRun": "2026-10-21T23:08:27.245Z",
+  "lastRun": "2026-10-22T23:08:33.425Z",
   "lastPosted": [
     {
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
       "date": "2026-10-21",
       "source": "OpenAI News"
     },
     {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
       "date": "2026-10-21",
       "source": "OpenAI News"
     },
     {
-      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-      "date": "2026-10-21",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "date": "2026-10-22",
       "source": "Anthropic News"
     },
     {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "date": "2026-10-21",
-      "source": "Google AI Blog"
+      "title": "Open call for guest investigators in the life sciences",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "date": "2026-10-22",
+      "source": "Anthropic News"
     },
     {
-      "title": "Empowering frontline maternal care with AI-assisted ultrasound",
-      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
-      "date": "2026-10-21",
-      "source": "Google Research Blog"
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "date": "2026-10-22",
+      "source": "Google DeepMind Blog"
     },
     {
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "date": "2026-10-21",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "date": "2026-10-22",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "date": "2026-10-21",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "date": "2026-10-22",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Physical AI: Concepts, Techniques, and Challenges",
-      "url": "https://arxiv.org/abs/2610.27045",
-      "date": "2026-10-21",
+      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
+      "url": "https://arxiv.org/abs/2610.26913",
+      "date": "2026-10-22",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Muse Glimmer 30B: An On-Device Agentic Model",
-      "url": "https://arxiv.org/abs/2610.24628",
-      "date": "2026-10-21",
+      "title": "EGI-BENCH: An Enterprise General Intelligence Benchmark Suite",
+      "url": "https://arxiv.org/abs/2610.27234",
+      "date": "2026-10-22",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models",
-      "url": "https://arxiv.org/abs/2610.27100",
-      "date": "2026-10-21",
+      "title": "Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference",
+      "url": "https://arxiv.org/abs/2610.28947",
+      "date": "2026-10-22",
       "source": "arXiv cs.LG"
     }
   ]
