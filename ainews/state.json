@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/safety-overview-gpt-6-astra",
-    "https://openai.com/index/daybreak-for-frontline-defenders",
-    "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
-    "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
-    "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
-    "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
-    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
-    "https://arxiv.org/abs/2603.12275",
-    "https://arxiv.org/abs/2609.01852",
     "https://openai.com/index/playco-game-prototyping-with-astra",
     "https://openai.com/index/polimill",
     "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
@@ -499,68 +489,78 @@
     "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "https://arxiv.org/abs/2610.26913",
     "https://arxiv.org/abs/2610.27234",
-    "https://arxiv.org/abs/2610.28947"
+    "https://arxiv.org/abs/2610.28947",
+    "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+    "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+    "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+    "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+    "https://huggingface.co/blog/torch-neuronx-model-support",
+    "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+    "https://huggingface.co/blog/allenai/litpivot",
+    "https://arxiv.org/abs/2610.30026",
+    "https://arxiv.org/abs/2606.08168",
+    "https://arxiv.org/abs/2610.30450"
   ],
-  "lastRun": "2026-10-22T23:08:33.425Z",
+  "lastRun": "2026-10-23T23:08:35.525Z",
   "lastPosted": [
     {
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "date": "2026-10-21",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "date": "2026-10-23",
       "source": "OpenAI News"
     },
     {
-      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-      "url": "https://openai.com/index/cloudflare-cyber",
-      "date": "2026-10-21",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "date": "2026-10-23",
       "source": "OpenAI News"
     },
     {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "date": "2026-10-22",
-      "source": "Anthropic News"
+      "title": "See what 5 builders are making with Gemini 4 Argon",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+      "date": "2026-10-23",
+      "source": "Gemini News"
     },
     {
-      "title": "Open call for guest investigators in the life sciences",
-      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-      "date": "2026-10-22",
-      "source": "Anthropic News"
+      "title": "Bringing foundational models to the front lines of TB screening",
+      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+      "date": "2026-10-23",
+      "source": "Google Research Blog"
     },
     {
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "date": "2026-10-22",
-      "source": "Google DeepMind Blog"
-    },
-    {
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "date": "2026-10-22",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "date": "2026-10-23",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "date": "2026-10-22",
+      "title": "Q&A: How AI came to model the “messy” human mind",
+      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "date": "2026-10-23",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "date": "2026-10-23",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "MedPAO-Assist: Edge-Deployable, Modality-Aware Agentic AI for Radiology Report Structuring",
-      "url": "https://arxiv.org/abs/2610.26913",
-      "date": "2026-10-22",
+      "title": "What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion",
+      "url": "https://arxiv.org/abs/2610.30026",
+      "date": "2026-10-23",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "EGI-BENCH: An Enterprise General Intelligence Benchmark Suite",
-      "url": "https://arxiv.org/abs/2610.27234",
-      "date": "2026-10-22",
+      "title": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
+      "url": "https://arxiv.org/abs/2606.08168",
+      "date": "2026-10-23",
       "source": "arXiv cs.AI"
     },
     {
-      "title": "Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference",
-      "url": "https://arxiv.org/abs/2610.28947",
-      "date": "2026-10-22",
+      "title": "Same Beliefs, Different Policies: Learning Reusable Representations for Early Stopping in LLM Reasoning",
+      "url": "https://arxiv.org/abs/2610.30450",
+      "date": "2026-10-23",
       "source": "arXiv cs.LG"
     }
   ]
