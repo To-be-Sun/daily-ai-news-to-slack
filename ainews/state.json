@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/playco-game-prototyping-with-astra",
-    "https://openai.com/index/polimill",
-    "https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/",
-    "https://blogs.microsoft.com/on-the-issues/2026/09/01/responsible-ai-in-2026-how-we-are-adapting-for-whats-ahead/",
-    "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
-    "https://huggingface.co/blog/funes",
-    "https://huggingface.co/blog/train-to-paint-with-code",
-    "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis/",
-    "https://arxiv.org/abs/2609.03493",
-    "https://arxiv.org/abs/2609.02967",
     "https://openai.com/index/gpt-6-astra",
     "https://openai.com/index/legora-financial-statement-review-with-astra",
     "https://huggingface.co/blog/ibm-research/real-time-intelligence",
@@ -499,69 +489,79 @@
     "https://huggingface.co/blog/allenai/litpivot",
     "https://arxiv.org/abs/2610.30026",
     "https://arxiv.org/abs/2606.08168",
-    "https://arxiv.org/abs/2610.30450"
+    "https://arxiv.org/abs/2610.30450",
+    "https://openai.com/index/securing-our-frontier-model-training-environment",
+    "https://openai.com/index/empowering-cyber-defenders",
+    "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
+    "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
+    "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "https://openai.com/index/decisions-api",
+    "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+    "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+    "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/"
   ],
-  "lastRun": "2026-10-23T23:08:35.525Z",
+  "lastRun": "2026-10-24T23:07:28.484Z",
   "lastPosted": [
     {
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "date": "2026-10-23",
       "source": "OpenAI News"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "date": "2026-10-23",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "date": "2026-10-21",
       "source": "OpenAI News"
     },
     {
-      "title": "See what 5 builders are making with Gemini 4 Argon",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
-      "date": "2026-10-23",
-      "source": "Gemini News"
-    },
-    {
-      "title": "Bringing foundational models to the front lines of TB screening",
-      "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
-      "date": "2026-10-23",
-      "source": "Google Research Blog"
-    },
-    {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "date": "2026-10-23",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Q&A: How AI came to model the “messy” human mind",
-      "url": "https://news.mit.edu/2026/qa-how-ai-came-to-model-messy-human-mind-1023",
+      "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
+      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
       "date": "2026-10-23",
       "source": "MIT News AI"
     },
     {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "title": "Reinforcing the value of human understanding at MIT",
+      "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
       "date": "2026-10-23",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "date": "2026-10-21",
       "source": "Hugging Face Blog"
     },
     {
-      "title": "What the Author Wrote, What the Agent Reads: Silent Cue Loss in Enterprise Document Ingestion",
-      "url": "https://arxiv.org/abs/2610.30026",
-      "date": "2026-10-23",
-      "source": "arXiv cs.AI"
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "date": "2026-10-21",
+      "source": "Hugging Face Blog"
     },
     {
-      "title": "Closing the Sim-to-Real Gap: An Evaluation Framework for Autonomous Cyber Defense Configuration of Commercial EDR",
-      "url": "https://arxiv.org/abs/2606.08168",
-      "date": "2026-10-23",
-      "source": "arXiv cs.AI"
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "date": "2026-10-22",
+      "source": "OpenAI News"
     },
     {
-      "title": "Same Beliefs, Different Policies: Learning Reusable Representations for Early Stopping in LLM Reasoning",
-      "url": "https://arxiv.org/abs/2610.30450",
+      "title": "Introducing Kimi K3.1 Pro",
+      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
       "date": "2026-10-23",
-      "source": "arXiv cs.LG"
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "date": "2026-10-22",
+      "source": "Simon Willison"
+    },
+    {
+      "title": "New Tools for the Admins Who Build Communities on Forum",
+      "url": "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/",
+      "date": "2026-10-23",
+      "source": "Meta Newsroom"
     }
   ]
 }
