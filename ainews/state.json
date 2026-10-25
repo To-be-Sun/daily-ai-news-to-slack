@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/gpt-6-astra",
-    "https://openai.com/index/legora-financial-statement-review-with-astra",
-    "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "https://huggingface.co/blog/Hcompany/neomme",
-    "https://openai.com/index/atv-big-air-tour",
-    "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-    "https://huggingface.co/blog/allenai/benchmirt",
-    "https://simonwillison.net/2026/Sep/4/astra-pelicans/",
-    "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt/",
-    "https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/",
     "https://openai.com/index/research-acceleration-view-inside-openai",
     "https://openai.com/index/an-alien-mind",
     "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
@@ -499,69 +489,79 @@
     "https://openai.com/index/decisions-api",
     "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
     "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
-    "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/"
+    "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/",
+    "https://openai.com/index/forward-deployed-engineering-means",
+    "https://openai.com/index/uber-chatgpt-work-rollout",
+    "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+    "https://huggingface.co/blog/hf-torchtpu",
+    "https://huggingface.co/blog/mps-pytorch-2-15",
+    "https://openai.com/index/att-legal",
+    "https://openai.com/index/broad-access-through-consistent-standards",
+    "https://simonwillison.net/2026/Oct/24/battledrones/",
+    "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+    "https://zenn.dev/suna/articles/e0e3af015d7bed"
   ],
-  "lastRun": "2026-10-24T23:07:28.484Z",
+  "lastRun": "2026-10-25T23:08:02.796Z",
   "lastPosted": [
     {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "date": "2026-10-23",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "date": "2026-10-21",
-      "source": "OpenAI News"
-    },
-    {
-      "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
-      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
-      "date": "2026-10-23",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Reinforcing the value of human understanding at MIT",
-      "url": "https://news.mit.edu/2026/reinforcing-value-of-human-understanding-at-mit-1023",
-      "date": "2026-10-23",
-      "source": "MIT News AI"
-    },
-    {
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "date": "2026-10-21",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "date": "2026-10-21",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
       "date": "2026-10-22",
       "source": "OpenAI News"
     },
     {
-      "title": "Introducing Kimi K3.1 Pro",
-      "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
-      "date": "2026-10-23",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
       "date": "2026-10-22",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "This design software reimagines everyday objects as self-aware devices",
+      "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+      "date": "2026-10-22",
+      "source": "MIT News AI"
+    },
+    {
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu",
+      "date": "2026-10-20",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "date": "2026-10-20",
+      "source": "Hugging Face Blog"
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "date": "2026-10-21",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "date": "2026-10-21",
+      "source": "OpenAI News"
+    },
+    {
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "date": "2026-10-24",
       "source": "Simon Willison"
     },
     {
-      "title": "New Tools for the Admins Who Build Communities on Forum",
-      "url": "https://about.fb.com/news/2026/10/new-tools-for-the-admins-who-build-communities-on-forum/",
+      "title": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
       "date": "2026-10-23",
-      "source": "Meta Newsroom"
+      "source": "Simon Willison"
+    },
+    {
+      "title": "Cloudflare の security-audit-skill を、個人開発アプリで試してみた",
+      "url": "https://zenn.dev/suna/articles/e0e3af015d7bed",
+      "date": "2026-10-25",
+      "source": "Zenn AI"
     }
   ]
 }
