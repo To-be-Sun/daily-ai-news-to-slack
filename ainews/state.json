@@ -1,15 +1,5 @@
 {
   "postedUrls": [
-    "https://openai.com/index/research-acceleration-view-inside-openai",
-    "https://openai.com/index/an-alien-mind",
-    "https://news.mit.edu/2026/system-helps-humans-predict-when-self-driving-cars-will-make-mistakes-0902",
-    "https://huggingface.co/blog/webgpu-kernels",
-    "https://news.mit.edu/2026/ila-kumar-innovates-with-communities-0901",
-    "https://news.mit.edu/2026/from-mit-to-ibm-expediting-ai-and-quantum-deployment-0902",
-    "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
-    "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers/",
-    "https://simonwillison.net/2026/Sep/5/blender-coding-agents-macos/",
-    "https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/",
     "https://openai.com/index/supporting-independent-journalism-in-ukraine",
     "https://arxiv.org/abs/2609.04641",
     "https://arxiv.org/abs/2609.04749",
@@ -499,69 +489,79 @@
     "https://openai.com/index/broad-access-through-consistent-standards",
     "https://simonwillison.net/2026/Oct/24/battledrones/",
     "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-    "https://zenn.dev/suna/articles/e0e3af015d7bed"
+    "https://zenn.dev/suna/articles/e0e3af015d7bed",
+    "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "https://www.anthropic.com/news/s1-sec",
+    "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+    "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+    "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
+    "https://openai.com/index/openai-cut-incident-investigation",
+    "https://arxiv.org/abs/2610.32022",
+    "https://arxiv.org/abs/2610.32627",
+    "https://simonwillison.net/2026/Oct/26/jason-koebler/"
   ],
-  "lastRun": "2026-10-25T23:08:02.796Z",
+  "lastRun": "2026-10-26T23:08:20.673Z",
   "lastPosted": [
     {
-      "title": "What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "date": "2026-10-22",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "date": "2026-10-26",
       "source": "OpenAI News"
     },
     {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "date": "2026-10-22",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "date": "2026-10-26",
       "source": "OpenAI News"
     },
     {
-      "title": "This design software reimagines everyday objects as self-aware devices",
-      "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
-      "date": "2026-10-22",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "date": "2026-10-26",
+      "source": "Anthropic News"
+    },
+    {
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
+      "date": "2026-10-26",
+      "source": "Google AI Blog"
+    },
+    {
+      "title": "15 college students share their favorite Gemini features",
+      "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+      "date": "2026-10-26",
+      "source": "Gemini News"
+    },
+    {
+      "title": "At New York Climate Week 2026, MIT connects with a global network",
+      "url": "https://news.mit.edu/2026/at-new-york-climate-week-mit-connects-global-network-1026",
+      "date": "2026-10-26",
       "source": "MIT News AI"
     },
     {
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "date": "2026-10-20",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "date": "2026-10-20",
-      "source": "Hugging Face Blog"
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "date": "2026-10-21",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "date": "2026-10-26",
       "source": "OpenAI News"
     },
     {
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "date": "2026-10-21",
-      "source": "OpenAI News"
+      "title": "CEMIR vs. FISER: a comparative study of reasoning-based and enrichment-based approaches to pragmatic intent recognition",
+      "url": "https://arxiv.org/abs/2610.32022",
+      "date": "2026-10-26",
+      "source": "arXiv cs.AI"
     },
     {
-      "title": "battledrones v14: Compass Rose, a four player map",
-      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
-      "date": "2026-10-24",
+      "title": "LGMT: A Tool for Testing the Logical Reasoning Reliability of LLMs",
+      "url": "https://arxiv.org/abs/2610.32627",
+      "date": "2026-10-26",
+      "source": "arXiv cs.AI"
+    },
+    {
+      "title": "Quoting Jason Koebler",
+      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler/",
+      "date": "2026-10-26",
       "source": "Simon Willison"
-    },
-    {
-      "title": "Quick Study",
-      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
-      "date": "2026-10-23",
-      "source": "Simon Willison"
-    },
-    {
-      "title": "Cloudflare の security-audit-skill を、個人開発アプリで試してみた",
-      "url": "https://zenn.dev/suna/articles/e0e3af015d7bed",
-      "date": "2026-10-25",
-      "source": "Zenn AI"
     }
   ]
 }
